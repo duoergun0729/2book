@@ -6,8 +6,16 @@ from sklearn import metrics
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import svm
+from sklearn.feature_extraction.text import TfidfTransformer
+import tensorflow as tf
+import tflearn
+from tflearn.layers.core import input_data, dropout, fully_connected
+from tflearn.layers.conv import conv_1d, global_max_pool
+from tflearn.layers.merge_ops import merge
+from tflearn.layers.estimator import regression
+from tflearn.data_utils import to_categorical, pad_sequences
 
-max_features=13000
+max_features=5000
 
 
 def load_one_file(filename):
@@ -79,24 +87,88 @@ def show_diffrent_max_features():
     plt.legend()
     plt.show()
 
-if __name__ == "__main__":
-    print "Hello spam-mail"
-    x,y=get_features_by_wordbag()
-    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
-    #NB
+def do_nb_wordbag(x_train, x_test, y_train, y_test):
+    print "NB and wordbag"
     gnb = GaussianNB()
     gnb.fit(x_train,y_train)
     y_pred=gnb.predict(x_test)
     print metrics.accuracy_score(y_test, y_pred)
     print metrics.confusion_matrix(y_test, y_pred)
-    #show_diffrent_max_features()
 
-    #SVM
+def do_svm_wordbag(x_train, x_test, y_train, y_test):
+    print "SVM and wordbag"
     clf = svm.SVC()
     clf.fit(x_train, y_train)
     y_pred = clf.predict(x_test)
     print metrics.accuracy_score(y_test, y_pred)
     print metrics.confusion_matrix(y_test, y_pred)
 
+def get_features_by_wordbag_tfidf():
+    ham, spam=load_all_files()
+    x=ham+spam
+    y=[0]*len(ham)+[1]*len(spam)
+    vectorizer = CountVectorizer(binary=True,
+                                 decode_error='ignore',
+                                 strip_accents='ascii',
+                                 max_features=max_features,
+                                 stop_words='english',
+                                 max_df=1.0,
+                                 min_df=1 )
+    print vectorizer
+    x=vectorizer.fit_transform(x)
+    x=x.toarray()
+    transformer = TfidfTransformer(smooth_idf=False)
+    print transformer
+    tfidf = transformer.fit_transform(x)
+    x = tfidf.toarray()
+    return  x,y
 
+def do_cnn_wordbag(trainX, testX, trainY, testY):
+    print "CNN and wordbag"
+    maxlen=100
+    print "maxlen=%d" % maxlen
+    # Data preprocessing
+    # Sequence padding
+    trainX = pad_sequences(trainX, maxlen=maxlen, value=0.)
+    testX = pad_sequences(testX, maxlen=maxlen, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Building convolutional network
+    network = input_data(shape=[None, maxlen], name='input')
+    network = tflearn.embedding(network, input_dim=max_features, output_dim=128)
+    branch1 = conv_1d(network, 128, 3, padding='valid', activation='relu', regularizer="L2")
+    branch2 = conv_1d(network, 128, 4, padding='valid', activation='relu', regularizer="L2")
+    branch3 = conv_1d(network, 128, 5, padding='valid', activation='relu', regularizer="L2")
+    network = merge([branch1, branch2, branch3], mode='concat', axis=1)
+    network = tf.expand_dims(network, 2)
+    network = global_max_pool(network)
+    network = dropout(network, 0.5)
+    network = fully_connected(network, 2, activation='softmax')
+    network = regression(network, optimizer='adam', learning_rate=0.001,
+                         loss='categorical_crossentropy', name='target')
+    # Training
+    model = tflearn.DNN(network, tensorboard_verbose=0)
+    model.fit(trainX, trainY, n_epoch=5, shuffle=True, validation_set=(testX, testY), show_metric=True, batch_size=32)
+
+if __name__ == "__main__":
+    print "Hello spam-mail"
+    #print "get_features_by_wordbag"
+    #x,y=get_features_by_wordbag()
+    #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
+
+    print "get_features_by_wordbag_tfidf"
+    x,y=get_features_by_wordbag_tfidf()
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
+    #NB
+    #do_nb_wordbag(x_train, x_test, y_train, y_test)
+    #show_diffrent_max_features()
+
+    #SVM
+    #do_svm_wordbag(x_train, x_test, y_train, y_test)
+
+
+    #CNN
+    do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
