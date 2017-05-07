@@ -11,12 +11,15 @@ import tensorflow as tf
 import tflearn
 from tflearn.layers.core import input_data, dropout, fully_connected
 from tflearn.layers.conv import conv_1d, global_max_pool
+from tflearn.layers.conv import conv_2d, max_pool_2d
 from tflearn.layers.merge_ops import merge
 from tflearn.layers.estimator import regression
 from tflearn.data_utils import to_categorical, pad_sequences
 from sklearn.neural_network import MLPClassifier
+from tflearn.layers.normalization import local_response_normalization
 
-max_features=5000
+
+max_features=100
 
 
 def load_one_file(filename):
@@ -124,21 +127,18 @@ def get_features_by_wordbag_tfidf():
     x = tfidf.toarray()
     return  x,y
 
+
 def do_cnn_wordbag(trainX, testX, trainY, testY):
     print "CNN and wordbag"
-    maxlen=1000
-    print "maxlen=%d" % maxlen
-    # Data preprocessing
-    # Sequence padding
-    trainX = pad_sequences(trainX, maxlen=maxlen, value=0.)
-    testX = pad_sequences(testX, maxlen=maxlen, value=0.)
+
+
     # Converting labels to binary vectors
     trainY = to_categorical(trainY, nb_classes=2)
     testY = to_categorical(testY, nb_classes=2)
 
     # Building convolutional network
-    network = input_data(shape=[None, maxlen], name='input')
-    network = tflearn.embedding(network, input_dim=max_features, output_dim=128)
+    network = input_data(shape=[None,max_features], name='input')
+    network = tflearn.embedding(network, input_dim=1024, output_dim=128)
     branch1 = conv_1d(network, 128, 3, padding='valid', activation='relu', regularizer="L2")
     branch2 = conv_1d(network, 128, 4, padding='valid', activation='relu', regularizer="L2")
     branch3 = conv_1d(network, 128, 5, padding='valid', activation='relu', regularizer="L2")
@@ -151,23 +151,19 @@ def do_cnn_wordbag(trainX, testX, trainY, testY):
                          loss='categorical_crossentropy', name='target')
     # Training
     model = tflearn.DNN(network, tensorboard_verbose=0)
-    model.fit(trainX, trainY, n_epoch=5, shuffle=True, validation_set=(testX, testY), show_metric=True, batch_size=32)
+    model.fit(trainX, trainY, n_epoch=5, shuffle=True, validation_set=(testX, testY), show_metric=True, batch_size=1024)
 
 def do_rnn_wordbag(trainX, testX, trainY, testY):
+    global max_features
     print "RNN and wordbag"
-    maxlen=300
-    print "maxlen=%d" % maxlen
-    # Data preprocessing
-    # Sequence padding
-    trainX = pad_sequences(trainX, maxlen=maxlen, value=0.)
-    testX = pad_sequences(testX, maxlen=maxlen, value=0.)
+
     # Converting labels to binary vectors
     trainY = to_categorical(trainY, nb_classes=2)
     testY = to_categorical(testY, nb_classes=2)
 
     # Network building
-    net = tflearn.input_data([None, maxlen])
-    net = tflearn.embedding(net, input_dim=max_features, output_dim=128)
+    net = tflearn.input_data([None, max_features])
+    net = tflearn.embedding(net, input_dim=1024, output_dim=128)
     net = tflearn.lstm(net, 128, dropout=0.8)
     net = tflearn.fully_connected(net, 2, activation='softmax')
     net = tflearn.regression(net, optimizer='adam', learning_rate=0.001,
@@ -181,9 +177,7 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
 
 def do_dnn_wordbag(x_train, x_test, y_train, y_testY):
     print "DNN and wordbag"
-    global max_features
-    maxlen=max_features
-    print "maxlen=%d" % maxlen
+
     # Building deep neural network
     clf = MLPClassifier(solver='lbfgs',
                         alpha=1e-5,
@@ -219,8 +213,8 @@ if __name__ == "__main__":
     #do_dnn_wordbag(x_train, x_test, y_train, y_test)
 
     #CNN
-    do_cnn_wordbag(x_train, x_test, y_train, y_test)
+    #do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
 
     #RNN
-    #do_rnn_wordbag(x_train, x_test, y_train, y_test)
+    do_rnn_wordbag(x_train, x_test, y_train, y_test)
