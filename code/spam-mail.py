@@ -14,6 +14,7 @@ from tflearn.layers.conv import conv_1d, global_max_pool
 from tflearn.layers.merge_ops import merge
 from tflearn.layers.estimator import regression
 from tflearn.data_utils import to_categorical, pad_sequences
+from sklearn.neural_network import MLPClassifier
 
 max_features=5000
 
@@ -177,6 +178,24 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
               batch_size=32)
 
+
+def do_dnn_wordbag(x_train, x_test, y_train, y_testY):
+    print "DNN and wordbag"
+    global max_features
+    maxlen=max_features
+    print "maxlen=%d" % maxlen
+    # Building deep neural network
+    clf = MLPClassifier(solver='lbfgs',
+                        alpha=1e-5,
+                        hidden_layer_sizes = (5, 2),
+                        random_state = 1)
+    print  clf
+    clf.fit(x_train, y_train)
+    y_pred = clf.predict(x_test)
+    print metrics.accuracy_score(y_test, y_pred)
+    print metrics.confusion_matrix(y_test, y_pred)
+
+
 if __name__ == "__main__":
     print "Hello spam-mail"
     print "get_features_by_wordbag"
@@ -193,10 +212,12 @@ if __name__ == "__main__":
     #SVM
     #do_svm_wordbag(x_train, x_test, y_train, y_test)
 
+    #DNN
+    do_dnn_wordbag(x_train, x_test, y_train, y_test)
 
     #CNN
     #do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
 
     #RNN
-    do_rnn_wordbag(x_train, x_test, y_train, y_test)
+    #do_rnn_wordbag(x_train, x_test, y_train, y_test)
