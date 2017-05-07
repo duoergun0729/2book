@@ -152,15 +152,40 @@ def do_cnn_wordbag(trainX, testX, trainY, testY):
     model = tflearn.DNN(network, tensorboard_verbose=0)
     model.fit(trainX, trainY, n_epoch=5, shuffle=True, validation_set=(testX, testY), show_metric=True, batch_size=32)
 
+def do_rnn_wordbag(trainX, testX, trainY, testY):
+    print "RNN and wordbag"
+    maxlen=300
+    print "maxlen=%d" % maxlen
+    # Data preprocessing
+    # Sequence padding
+    trainX = pad_sequences(trainX, maxlen=maxlen, value=0.)
+    testX = pad_sequences(testX, maxlen=maxlen, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Network building
+    net = tflearn.input_data([None, maxlen])
+    net = tflearn.embedding(net, input_dim=max_features, output_dim=128)
+    net = tflearn.lstm(net, 128, dropout=0.8)
+    net = tflearn.fully_connected(net, 2, activation='softmax')
+    net = tflearn.regression(net, optimizer='adam', learning_rate=0.001,
+                             loss='categorical_crossentropy')
+
+    # Training
+    model = tflearn.DNN(net, tensorboard_verbose=0)
+    model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
+              batch_size=32)
+
 if __name__ == "__main__":
     print "Hello spam-mail"
-    #print "get_features_by_wordbag"
-    #x,y=get_features_by_wordbag()
-    #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
-
-    print "get_features_by_wordbag_tfidf"
-    x,y=get_features_by_wordbag_tfidf()
+    print "get_features_by_wordbag"
+    x,y=get_features_by_wordbag()
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
+
+    #print "get_features_by_wordbag_tfidf"
+    #x,y=get_features_by_wordbag_tfidf()
+    #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
     #NB
     #do_nb_wordbag(x_train, x_test, y_train, y_test)
     #show_diffrent_max_features()
@@ -170,5 +195,8 @@ if __name__ == "__main__":
 
 
     #CNN
-    do_cnn_wordbag(x_train, x_test, y_train, y_test)
+    #do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
+
+    #RNN
+    do_rnn_wordbag(x_train, x_test, y_train, y_test)
