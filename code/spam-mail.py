@@ -126,7 +126,7 @@ def get_features_by_wordbag_tfidf():
 
 def do_cnn_wordbag(trainX, testX, trainY, testY):
     print "CNN and wordbag"
-    maxlen=100
+    maxlen=1000
     print "maxlen=%d" % maxlen
     # Data preprocessing
     # Sequence padding
@@ -196,6 +196,9 @@ def do_dnn_wordbag(x_train, x_test, y_train, y_testY):
     print metrics.confusion_matrix(y_test, y_pred)
 
 
+
+
+
 if __name__ == "__main__":
     print "Hello spam-mail"
     print "get_features_by_wordbag"
@@ -213,10 +216,10 @@ if __name__ == "__main__":
     #do_svm_wordbag(x_train, x_test, y_train, y_test)
 
     #DNN
-    do_dnn_wordbag(x_train, x_test, y_train, y_test)
+    #do_dnn_wordbag(x_train, x_test, y_train, y_test)
 
     #CNN
-    #do_cnn_wordbag(x_train, x_test, y_train, y_test)
+    do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
 
     #RNN
