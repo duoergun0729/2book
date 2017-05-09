@@ -12,6 +12,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from sklearn import svm
+from sklearn import neighbors
 
 # Data loading and preprocessing
 import tflearn.datasets.mnist as mnist
@@ -72,14 +73,23 @@ def do_svm_1d(x_train, y_train,x_test, y_test):
     print metrics.accuracy_score(y_test, y_pred)
     #print metrics.confusion_matrix(y_test, y_pred)
 
+def do_knn_1d(x_train, y_train,x_test, y_test):
+    print "KNN and 1d"
+    clf = neighbors.KNeighborsClassifier(n_neighbors=15)
+    print clf
+    clf.fit(x_train, y_train)
+    y_pred = clf.predict(x_test)
+    print metrics.accuracy_score(y_test, y_pred)
+    #print metrics.confusion_matrix(y_test, y_pred)
 
 if __name__ == "__main__":
     print "Hello MNIST"
     X, Y, testX, testY = mnist.load_data(one_hot=False)
     #1d
-    print  testX
+    #print  testX
     #do_dnn_1d(X, Y, testX, testY)
-    do_svm_1d(X, Y, testX, testY)
+    #do_svm_1d(X, Y, testX, testY)
+    do_knn_1d(X, Y, testX, testY)
 
 
 
