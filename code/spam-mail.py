@@ -19,7 +19,7 @@ from sklearn.neural_network import MLPClassifier
 from tflearn.layers.normalization import local_response_normalization
 
 
-max_features=100
+max_features=500
 
 
 def load_one_file(filename):
@@ -44,7 +44,7 @@ def load_files_from_dir(rootdir):
 def load_all_files():
     ham=[]
     spam=[]
-    for i in range(1,7):
+    for i in range(1,5):
         path="../data/mail/enron%d/ham/" % i
         print "Load %s" % path
         ham+=load_files_from_dir(path)
@@ -172,7 +172,7 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     # Training
     model = tflearn.DNN(net, tensorboard_verbose=0)
     model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
-              batch_size=32)
+              batch_size=10,run_id="spm-run",n_epoch=20)
 
 
 def do_dnn_wordbag(x_train, x_test, y_train, y_testY):
