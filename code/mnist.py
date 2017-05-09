@@ -36,7 +36,7 @@ def do_cnn_2d(X, Y, testX, testY ):
 
     # Training
     model = tflearn.DNN(network, tensorboard_verbose=0)
-    model.fit({'input': X}, {'target': Y}, n_epoch=10,
+    model.fit({'input': X}, {'target': Y}, n_epoch=5,
                validation_set=({'input': testX}, {'target': testY}),
                snapshot_step=100, show_metric=True, run_id='mnist')
 
@@ -84,12 +84,12 @@ def do_knn_1d(x_train, y_train,x_test, y_test):
 
 if __name__ == "__main__":
     print "Hello MNIST"
-    X, Y, testX, testY = mnist.load_data(one_hot=False)
+    #X, Y, testX, testY = mnist.load_data(one_hot=False)
     #1d
     #print  testX
     #do_dnn_1d(X, Y, testX, testY)
     #do_svm_1d(X, Y, testX, testY)
-    do_knn_1d(X, Y, testX, testY)
+    #do_knn_1d(X, Y, testX, testY)
 
 
 
@@ -99,4 +99,4 @@ if __name__ == "__main__":
     testX = testX.reshape([-1, 28, 28, 1])
 
     #cnn
-    #do_cnn_2d(X, Y, testX, testY)
+    do_cnn_2d(X, Y, testX, testY)

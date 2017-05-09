@@ -17,9 +17,12 @@ from tflearn.layers.estimator import regression
 from tflearn.data_utils import to_categorical, pad_sequences
 from sklearn.neural_network import MLPClassifier
 from tflearn.layers.normalization import local_response_normalization
+from tensorflow.contrib import learn
 
 
 max_features=500
+max_document_length=1024
+
 
 
 def load_one_file(filename):
@@ -129,29 +132,33 @@ def get_features_by_wordbag_tfidf():
 
 
 def do_cnn_wordbag(trainX, testX, trainY, testY):
-    print "CNN and wordbag"
+    global max_document_length
+    print "CNN and tf"
 
-
+    trainX = pad_sequences(trainX, maxlen=max_document_length, value=0.)
+    testX = pad_sequences(testX, maxlen=max_document_length, value=0.)
     # Converting labels to binary vectors
     trainY = to_categorical(trainY, nb_classes=2)
     testY = to_categorical(testY, nb_classes=2)
 
     # Building convolutional network
-    network = input_data(shape=[None,max_features], name='input')
-    network = tflearn.embedding(network, input_dim=1024, output_dim=128)
+    network = input_data(shape=[None,max_document_length], name='input')
+    network = tflearn.embedding(network, input_dim=1000000, output_dim=128)
     branch1 = conv_1d(network, 128, 3, padding='valid', activation='relu', regularizer="L2")
     branch2 = conv_1d(network, 128, 4, padding='valid', activation='relu', regularizer="L2")
     branch3 = conv_1d(network, 128, 5, padding='valid', activation='relu', regularizer="L2")
     network = merge([branch1, branch2, branch3], mode='concat', axis=1)
     network = tf.expand_dims(network, 2)
     network = global_max_pool(network)
-    network = dropout(network, 0.5)
+    network = dropout(network, 0.8)
     network = fully_connected(network, 2, activation='softmax')
     network = regression(network, optimizer='adam', learning_rate=0.001,
                          loss='categorical_crossentropy', name='target')
     # Training
     model = tflearn.DNN(network, tensorboard_verbose=0)
-    model.fit(trainX, trainY, n_epoch=5, shuffle=True, validation_set=(testX, testY), show_metric=True, batch_size=1024)
+    model.fit(trainX, trainY,
+              n_epoch=5, shuffle=True, validation_set=(testX, testY),
+              show_metric=True, batch_size=100,run_id="spam")
 
 def do_rnn_wordbag(trainX, testX, trainY, testY):
     global max_features
@@ -172,7 +179,7 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     # Training
     model = tflearn.DNN(net, tensorboard_verbose=0)
     model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
-              batch_size=10,run_id="spm-run",n_epoch=20)
+              batch_size=10,run_id="spm-run",n_epoch=5)
 
 
 def do_dnn_wordbag(x_train, x_test, y_train, y_testY):
@@ -191,13 +198,28 @@ def do_dnn_wordbag(x_train, x_test, y_train, y_testY):
 
 
 
+def  get_features_by_tf():
+    global  max_document_length
+    x=[]
+    y=[]
+    ham, spam=load_all_files()
+    x=ham+spam
+    y=[0]*len(ham)+[1]*len(spam)
+    vp=tflearn.data_utils.VocabularyProcessor(max_document_length=max_document_length,
+                                              min_frequency=0,
+                                              vocabulary=None,
+                                              tokenizer_fn=None)
+    x=vp.fit_transform(x, unused_y=None)
+    x=np.array(list(x))
+    return x,y
+
 
 
 if __name__ == "__main__":
     print "Hello spam-mail"
-    print "get_features_by_wordbag"
-    x,y=get_features_by_wordbag()
-    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
+    #print "get_features_by_wordbag"
+    #x,y=get_features_by_wordbag()
+    #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
 
     #print "get_features_by_wordbag_tfidf"
     #x,y=get_features_by_wordbag_tfidf()
@@ -212,9 +234,12 @@ if __name__ == "__main__":
     #DNN
     #do_dnn_wordbag(x_train, x_test, y_train, y_test)
 
+    print "get_features_by_tf"
+    x,y=get_features_by_tf()
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
     #CNN
-    #do_cnn_wordbag(x_train, x_test, y_train, y_test)
+    do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
 
     #RNN
-    do_rnn_wordbag(x_train, x_test, y_train, y_test)
+    #do_rnn_wordbag(x_train, x_test, y_train, y_test)
