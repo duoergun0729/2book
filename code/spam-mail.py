@@ -21,7 +21,7 @@ from tensorflow.contrib import learn
 
 
 max_features=500
-max_document_length=1024
+max_document_length=100
 
 
 
@@ -47,7 +47,7 @@ def load_files_from_dir(rootdir):
 def load_all_files():
     ham=[]
     spam=[]
-    for i in range(1,5):
+    for i in range(1,2):
         path="../data/mail/enron%d/ham/" % i
         print "Load %s" % path
         ham+=load_files_from_dir(path)
