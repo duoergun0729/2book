@@ -56,17 +56,19 @@ def load_all_files():
     y_train=[0]*len(x_train)
     path="../data/review/aclImdb/train/neg/"
     print "Load %s" % path
-    x_train+=load_files_from_dir(path)
-    y_train+=[1]*len(x_train)
+    tmp=load_files_from_dir(path)
+    y_train+=[1]*len(tmp)
+    x_train+=tmp
 
     path="../data/review/aclImdb/test/pos/"
     print "Load %s" % path
     x_test=load_files_from_dir(path)
-    y_test=[0]*len(x_train)
+    y_test=[0]*len(x_test)
     path="../data/review/aclImdb/test/neg/"
     print "Load %s" % path
-    x_test+=load_files_from_dir(path)
-    y_test+=[1]*len(x_test)
+    tmp=load_files_from_dir(path)
+    y_test+=[1]*len(tmp)
+    x_test+=tmp
 
     return x_train, x_test, y_train, y_test
 
@@ -250,8 +252,9 @@ if __name__ == "__main__":
     print "get_features_by_wordbag"
     x_train, x_test, y_train, y_test=get_features_by_wordbag()
     #NB
-    do_nb_wordbag(x_train, x_test, y_train, y_test)
-
+    #do_nb_wordbag(x_train, x_test, y_train, y_test)
+    #SVM
+    do_svm_wordbag(x_train, x_test, y_train, y_test)
 
     #print "get_features_by_wordbag_tfidf"
     #x,y=get_features_by_wordbag_tfidf()
@@ -259,8 +262,7 @@ if __name__ == "__main__":
 
     #show_diffrent_max_features()
 
-    #SVM
-    #do_svm_wordbag(x_train, x_test, y_train, y_test)
+
 
     #DNN
     #do_dnn_wordbag(x_train, x_test, y_train, y_test)
