@@ -141,25 +141,40 @@ def do_svm_wordbag(x_train, x_test, y_train, y_test):
     print metrics.confusion_matrix(y_test, y_pred)
 
 def get_features_by_wordbag_tfidf():
-    ham, spam=load_all_files()
-    x=ham+spam
-    y=[0]*len(ham)+[1]*len(spam)
-    vectorizer = CountVectorizer(binary=True,
+    global max_features
+    x_train, x_test, y_train, y_test=load_all_files()
+
+    vectorizer = CountVectorizer(
                                  decode_error='ignore',
                                  strip_accents='ascii',
                                  max_features=max_features,
                                  stop_words='english',
                                  max_df=1.0,
+                                 min_df=1,
+                                 binary=True)
+    print vectorizer
+    x_train=vectorizer.fit_transform(x_train)
+    x_train=x_train.toarray()
+    vocabulary=vectorizer.vocabulary_
+
+    vectorizer = CountVectorizer(
+                                 decode_error='ignore',
+                                 strip_accents='ascii',
+                                 vocabulary=vocabulary,
+                                 stop_words='english',
+                                 max_df=1.0,binary=True,
                                  min_df=1 )
     print vectorizer
-    x=vectorizer.fit_transform(x)
-    x=x.toarray()
-    transformer = TfidfTransformer(smooth_idf=False)
-    print transformer
-    tfidf = transformer.fit_transform(x)
-    x = tfidf.toarray()
-    return  x,y
+    x_test=vectorizer.fit_transform(x_test)
+    x_test=x_test.toarray()
 
+    transformer = TfidfTransformer(smooth_idf=False)
+    x_train=transformer.fit_transform(x_train)
+    x_train=x_train.toarray()
+    x_test=transformer.transform(x_test)
+    x_test=x_test.toarray()
+
+    return x_train, x_test, y_train, y_test
 
 def do_cnn_wordbag(trainX, testX, trainY, testY):
     global max_document_length
@@ -232,29 +247,29 @@ def do_dnn_wordbag(x_train, x_test, y_train, y_test):
 
 def  get_features_by_tf():
     global  max_document_length
-    x=[]
-    y=[]
-    ham, spam=load_all_files()
-    x=ham+spam
-    y=[0]*len(ham)+[1]*len(spam)
+    x_train, x_test, y_train, y_test=load_all_files()
+
     vp=tflearn.data_utils.VocabularyProcessor(max_document_length=max_document_length,
                                               min_frequency=0,
                                               vocabulary=None,
                                               tokenizer_fn=None)
-    x=vp.fit_transform(x, unused_y=None)
-    x=np.array(list(x))
-    return x,y
+    x_train=vp.fit_transform(x_train, unused_y=None)
+    x_train=np.array(list(x_train))
+
+    x_test=vp.transform(x_test, unused_y=None)
+    x_test=np.array(list(x_test))
+    return x_train, x_test, y_train, y_test
 
 
 
 if __name__ == "__main__":
     print "Hello review"
-    print "get_features_by_wordbag"
-    x_train, x_test, y_train, y_test=get_features_by_wordbag()
+    print "get_features_by_wordbag_tfidf"
+    x_train, x_test, y_train, y_test=get_features_by_wordbag_tfidf()
     #NB
-    #do_nb_wordbag(x_train, x_test, y_train, y_test)
+    do_nb_wordbag(x_train, x_test, y_train, y_test)
     #SVM
-    do_svm_wordbag(x_train, x_test, y_train, y_test)
+    #do_svm_wordbag(x_train, x_test, y_train, y_test)
 
     #print "get_features_by_wordbag_tfidf"
     #x,y=get_features_by_wordbag_tfidf()
