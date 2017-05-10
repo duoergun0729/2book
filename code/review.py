@@ -33,6 +33,7 @@ def load_one_file(filename):
             line=line.strip('\n')
             line = line.strip('\r')
             x+=line
+    f.close()
     return x
 
 def load_files_from_dir(rootdir):
@@ -203,7 +204,7 @@ def do_cnn_wordbag(trainX, testX, trainY, testY):
     model = tflearn.DNN(network, tensorboard_verbose=0)
     model.fit(trainX, trainY,
               n_epoch=5, shuffle=True, validation_set=(testX, testY),
-              show_metric=True, batch_size=100,run_id="spam")
+              show_metric=True, batch_size=100,run_id="review")
 
 def do_rnn_wordbag(trainX, testX, trainY, testY):
     global max_document_length
@@ -226,11 +227,11 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     # Training
     model = tflearn.DNN(net, tensorboard_verbose=0)
     model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
-              batch_size=10,run_id="spm-run",n_epoch=5)
+              batch_size=10,run_id="review",n_epoch=5)
 
 
 def do_dnn_wordbag(x_train, x_test, y_train, y_test):
-    print "DNN and wordbag"
+    print "MLP and wordbag"
 
     # Building deep neural network
     clf = MLPClassifier(solver='lbfgs',
@@ -256,7 +257,7 @@ def  get_features_by_tf():
     x_train=vp.fit_transform(x_train, unused_y=None)
     x_train=np.array(list(x_train))
 
-    x_test=vp.transform(x_test, unused_y=None)
+    x_test=vp.transform(x_test)
     x_test=np.array(list(x_test))
     return x_train, x_test, y_train, y_test
 
@@ -264,10 +265,12 @@ def  get_features_by_tf():
 
 if __name__ == "__main__":
     print "Hello review"
-    print "get_features_by_wordbag_tfidf"
-    x_train, x_test, y_train, y_test=get_features_by_wordbag_tfidf()
+    #print "get_features_by_wordbag_tfidf"
+    #x_train, x_test, y_train, y_test=get_features_by_wordbag_tfidf()
+    print "get_features_by_tf"
+    x_train, x_test, y_train, y_test=get_features_by_tf()
     #NB
-    do_nb_wordbag(x_train, x_test, y_train, y_test)
+    #do_nb_wordbag(x_train, x_test, y_train, y_test)
     #SVM
     #do_svm_wordbag(x_train, x_test, y_train, y_test)
 
@@ -286,7 +289,7 @@ if __name__ == "__main__":
     #x,y=get_features_by_tf()
     #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
     #CNN
-    #do_cnn_wordbag(x_train, x_test, y_train, y_test)
+    do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
 
     #RNN
