@@ -161,16 +161,18 @@ def do_cnn_wordbag(trainX, testX, trainY, testY):
               show_metric=True, batch_size=100,run_id="spam")
 
 def do_rnn_wordbag(trainX, testX, trainY, testY):
-    global max_features
+    global max_document_length
     print "RNN and wordbag"
 
+    trainX = pad_sequences(trainX, maxlen=max_document_length, value=0.)
+    testX = pad_sequences(testX, maxlen=max_document_length, value=0.)
     # Converting labels to binary vectors
     trainY = to_categorical(trainY, nb_classes=2)
     testY = to_categorical(testY, nb_classes=2)
 
     # Network building
-    net = tflearn.input_data([None, max_features])
-    net = tflearn.embedding(net, input_dim=1024, output_dim=128)
+    net = tflearn.input_data([None, max_document_length])
+    net = tflearn.embedding(net, input_dim=10240000, output_dim=128)
     net = tflearn.lstm(net, 128, dropout=0.8)
     net = tflearn.fully_connected(net, 2, activation='softmax')
     net = tflearn.regression(net, optimizer='adam', learning_rate=0.001,
@@ -238,8 +240,8 @@ if __name__ == "__main__":
     x,y=get_features_by_tf()
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
     #CNN
-    do_cnn_wordbag(x_train, x_test, y_train, y_test)
+    #do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
 
     #RNN
-    #do_rnn_wordbag(x_train, x_test, y_train, y_test)
+    do_rnn_wordbag(x_train, x_test, y_train, y_test)
