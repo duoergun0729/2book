@@ -1,0 +1,1 @@
+{"entityId": 2569, "entityType": "content", "event": "malware", "eventTime": "2016-12-15T09:07:46.848+0000", "properties": {"pe_sec_entropy": "917c9224 f7ddd489", "pe_sec_name": "916e7571 94fe2c55", "sig_antimalware_metascan": "", "label": "Zeus", "pe_sec_character": "0f24c321 f64ccb6c", "str": "916e7571 94fe2c55 78e73102"}}
