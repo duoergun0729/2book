@@ -4,6 +4,10 @@ import sys
 import numpy as np
 from sklearn import cross_validation
 from sklearn.naive_bayes import GaussianNB
+from sklearn.cross_validation import train_test_split
+from sklearn import metrics
+from sklearn.feature_extraction.text import TfidfTransformer
+from sklearn.neural_network import MLPClassifier
 
 def load_files_re(dir):
     files_list = []
@@ -62,9 +66,25 @@ if __name__ == '__main__':
     x=np.concatenate((x1,x2))
     y=np.concatenate((y1, y2))
 
-    clf = GaussianNB()
+    transformer = TfidfTransformer(smooth_idf=False)
+    tfidf = transformer.fit_transform(x)
+    x = tfidf.toarray()
+
+    #clf = GaussianNB()
+    clf = MLPClassifier(solver='lbfgs',
+                        alpha=1e-5,
+                        hidden_layer_sizes=(5, 2),
+                        random_state=1)
 
     print  cross_validation.cross_val_score(clf, x, y, n_jobs=-1,cv=10)
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
+
+    clf.fit(x_train, y_train)
+    y_pred = clf.predict(x_test)
+    print metrics.accuracy_score(y_test, y_pred)
+    print metrics.confusion_matrix(y_test, y_pred)
+
+
 
 
 
