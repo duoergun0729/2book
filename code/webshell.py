@@ -18,7 +18,7 @@ def load_files_re(dir):
         #print d;
         for filename in filelist:
             #print os.path.join(path, filename)
-            if filename.endswith('.php'):
+            if filename.endswith('.php') or filename.endswith('.txt'):
                 fulepath = os.path.join(path, filename)
                 print "Load %s" % fulepath
                 t = load_file(fulepath)
@@ -73,41 +73,36 @@ def get_feature_by_bag_tfidf():
 
 def check_webshell(clf,dir):
     all=0
+    all_php=0
     webshell=0
-    webshell_bigram_vectorizer = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",
-                                        token_pattern = r'\b\w+\b',min_df=1)
+
     webshell_files_list = load_files_re("../data/webshell/webshell/PHP/")
-    x1 = webshell_bigram_vectorizer.fit_transform(webshell_files_list).toarray()
-
-    vocabulary=webshell_bigram_vectorizer.vocabulary_
-
-    check_bigram_vectorizer = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",
-                                        token_pattern = r'\b\w+\b',min_df=1,vocabulary=vocabulary)
-
+    CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore", max_features=max_features,
+                         token_pattern=r'\b\w+\b', min_df=1, max_df=1.0)
+    x = CV.fit_transform(webshell_files_list).toarray()
 
     transformer = TfidfTransformer(smooth_idf=False)
-    transformer.fit(x1)
-    #x2 = tfidf.toarray()
-    #y_pred = clf.predict(x2)
+    transformer.fit_transform(x)
+
 
     g = os.walk(dir)
     for path, d, filelist in g:
         for filename in filelist:
             fulepath=os.path.join(path, filename)
-            #print "Check %s" % fulepath
             t = load_file(fulepath)
             t_list=[]
             t_list.append(t)
-            x2 = check_bigram_vectorizer.fit_transform(t_list).toarray()
+            x2 = CV.transform(t_list).toarray()
             x2 = transformer.transform(x2).toarray()
             y_pred = clf.predict(x2)
-            #print y_pred
             all+=1
+            if filename.endswith('.php'):
+                all_php+=1
             if y_pred[0] == 1:
                 print "%s is webshell" % fulepath
                 webshell+=1
 
-    print "Scan %d files,%d files is webshell" %(all,webshell)
+    print "Scan %d files(%d php files),%d files is webshell" %(all,all_php,webshell)
 
 
 def do_check(x,y,clf):
@@ -115,7 +110,7 @@ def do_check(x,y,clf):
     print "check_webshell"
     #check_webshell(clf,"../data/webshell/normal/php/")
     #/Users/maidou/Downloads/webshell-master/php
-    check_webshell(clf,"/Users/maidou/Downloads/webshell-master/php/")
+    check_webshell(clf,"../../../../../Downloads/php-exploit-scripts-master/")
 
 
 
@@ -140,13 +135,13 @@ if __name__ == '__main__':
                         hidden_layer_sizes=(5, 2),
                         random_state=1)
 
-    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
-    clf.fit(x_train, y_train)
-    y_pred = clf.predict(x_test)
-    do_metrics(y_test,y_pred)
+    #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
+    #clf.fit(x_train, y_train)
+    #y_pred = clf.predict(x_test)
+    #do_metrics(y_test,y_pred)
 
 
-    #do_check(x,y,clf)
+    do_check(x,y,clf)
 
 
 
