@@ -46,28 +46,25 @@ def load_files(path):
 def get_feature_by_bag_tfidf():
     x=[]
     y=[]
-    #bigram_vectorizer = CountVectorizer(ngram_range=(2, 2),token_pattern = r'\b\w+\b', min_df = 1)
-    webshell_bigram_vectorizer = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",
-                                        token_pattern = r'\b\w+\b',min_df=1)
-    #webshell_files_list=load_files("../data/PHP-WEBSHELL/xiaoma/")
-    webshell_files_list = load_files_re("../data/webshell/webshell/PHP/")
-    x1=webshell_bigram_vectorizer.fit_transform(webshell_files_list).toarray()
-    y1=[1]*len(x1)
-    vocabulary=webshell_bigram_vectorizer.vocabulary_
 
-    wp_bigram_vectorizer = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",
-                                        token_pattern = r'\b\w+\b',min_df=1,vocabulary=vocabulary)
-    #wp_files_list=load_files("../data/wordpress/")
+    webshell_files_list = load_files_re("../data/webshell/webshell/PHP/tanjiti/")
+    y1=[1]*len(webshell_files_list)
+
     wp_files_list =load_files_re("../data/webshell/normal/php/")
-    x2=wp_bigram_vectorizer.fit_transform(wp_files_list).toarray()
-    y2=[0]*len(x2)
+    y2=[0]*len(wp_files_list)
 
-    x=np.concatenate((x1,x2))
-    y=np.concatenate((y1, y2))
+
+    x=webshell_files_list+wp_files_list
+    y=y1+y2
+
+    CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",
+                                       token_pattern = r'\b\w+\b',min_df=1)
+    x=CV.fit_transform(x).toarray()
 
     transformer = TfidfTransformer(smooth_idf=False)
-    tfidf = transformer.fit_transform(x)
-    x = tfidf.toarray()
+    x_tfidf = transformer.fit_transform(x)
+    x = x_tfidf.toarray()
+
     return x,y
 
 def check_webshell(clf,dir):
@@ -144,13 +141,13 @@ if __name__ == '__main__':
                         hidden_layer_sizes=(5, 2),
                         random_state=1)
 
-    #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
-    #clf.fit(x_train, y_train)
-    #y_pred = clf.predict(x_test)
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
+    clf.fit(x_train, y_train)
+    y_pred = clf.predict(x_test)
+    do_metrics(y_test,y_pred)
 
 
-
-    do_check(x,y,clf)
+    #do_check(x,y,clf)
 
 
 
