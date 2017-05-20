@@ -9,6 +9,8 @@ from sklearn import metrics
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.neural_network import MLPClassifier
 
+max_features=15000
+
 def load_files_re(dir):
     files_list = []
     g = os.walk(dir)
@@ -16,10 +18,12 @@ def load_files_re(dir):
         #print d;
         for filename in filelist:
             #print os.path.join(path, filename)
-            fulepath=os.path.join(path, filename)
-            print "Load %s" % fulepath
-            t = load_file(fulepath)
-            files_list.append(t)
+            if filename.endswith('.php'):
+                fulepath = os.path.join(path, filename)
+                print "Load %s" % fulepath
+                t = load_file(fulepath)
+                files_list.append(t)
+
     return files_list
 
 
@@ -47,7 +51,7 @@ def get_feature_by_bag_tfidf():
     x=[]
     y=[]
 
-    webshell_files_list = load_files_re("../data/webshell/webshell/PHP/tanjiti/")
+    webshell_files_list = load_files_re("../data/webshell/webshell/PHP/")
     y1=[1]*len(webshell_files_list)
 
     wp_files_list =load_files_re("../data/webshell/normal/php/")
@@ -57,8 +61,8 @@ def get_feature_by_bag_tfidf():
     x=webshell_files_list+wp_files_list
     y=y1+y2
 
-    CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",
-                                       token_pattern = r'\b\w+\b',min_df=1)
+    CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",max_features=max_features,
+                                       token_pattern = r'\b\w+\b',min_df=1, max_df=1.0)
     x=CV.fit_transform(x).toarray()
 
     transformer = TfidfTransformer(smooth_idf=False)
@@ -80,11 +84,6 @@ def check_webshell(clf,dir):
     check_bigram_vectorizer = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",
                                         token_pattern = r'\b\w+\b',min_df=1,vocabulary=vocabulary)
 
-    #check_files_list =load_files_re(dir)
-    #x2=check_bigram_vectorizer.fit_transform(check_files_list).toarray()
-
-
-    #x=np.concatenate((x1,x2))
 
     transformer = TfidfTransformer(smooth_idf=False)
     transformer.fit(x1)
