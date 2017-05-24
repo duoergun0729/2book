@@ -147,15 +147,11 @@ if __name__ == '__main__':
                         hidden_layer_sizes=(5, 2),
                         random_state=1)
 
-    print clf
+    #print clf
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
     clf.fit(x_train, y_train)
     y_pred = clf.predict(x_test)
     do_metrics(y_test,y_pred)
-
-
-
-
 
 
     #do_check(x,y,clf)
