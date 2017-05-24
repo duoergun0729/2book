@@ -11,6 +11,12 @@ from sklearn.neural_network import MLPClassifier
 
 max_features=15000
 
+webshell_dir="../data/webshell/webshell/PHP/"
+whitefile_dir="../data/webshell/normal/php/"
+check_dir="../../../../../Downloads/php-exploit-scripts-master/"
+white_count=0
+black_count=0
+
 def load_files_re(dir):
     files_list = []
     g = os.walk(dir)
@@ -48,14 +54,19 @@ def load_files(path):
     return  files_list
 
 def get_feature_by_bag_tfidf():
+    global white_count
+    global black_count
     x=[]
     y=[]
 
-    webshell_files_list = load_files_re("../data/webshell/webshell/PHP/")
+    webshell_files_list = load_files_re(webshell_dir)
     y1=[1]*len(webshell_files_list)
+    black_count=len(webshell_files_list)
 
-    wp_files_list =load_files_re("../data/webshell/normal/php/")
+    wp_files_list =load_files_re(whitefile_dir)
     y2=[0]*len(wp_files_list)
+
+    white_count=len(wp_files_list)
 
 
     x=webshell_files_list+wp_files_list
@@ -76,7 +87,7 @@ def check_webshell(clf,dir):
     all_php=0
     webshell=0
 
-    webshell_files_list = load_files_re("../data/webshell/webshell/PHP/")
+    webshell_files_list = load_files_re(webshell_dir)
     CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore", max_features=max_features,
                          token_pattern=r'\b\w+\b', min_df=1, max_df=1.0)
     x = CV.fit_transform(webshell_files_list).toarray()
@@ -110,7 +121,7 @@ def do_check(x,y,clf):
     print "check_webshell"
     #check_webshell(clf,"../data/webshell/normal/php/")
     #/Users/maidou/Downloads/webshell-master/php
-    check_webshell(clf,"../../../../../Downloads/php-exploit-scripts-master/")
+    check_webshell(clf,check_dir)
 
 
 
@@ -129,16 +140,22 @@ def do_metrics(y_test,y_pred):
 if __name__ == '__main__':
 
     x,y=get_feature_by_bag_tfidf()
+    print "load %d white %d black" % ( white_count,black_count )
 
     clf = MLPClassifier(solver='lbfgs',
                         alpha=1e-5,
                         hidden_layer_sizes=(5, 2),
                         random_state=1)
 
+    print clf
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
     clf.fit(x_train, y_train)
     y_pred = clf.predict(x_test)
     do_metrics(y_test,y_pred)
+
+
+
+
 
 
     #do_check(x,y,clf)
