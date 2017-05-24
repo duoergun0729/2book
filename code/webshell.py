@@ -8,6 +8,7 @@ from sklearn.cross_validation import train_test_split
 from sklearn import metrics
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.neural_network import MLPClassifier
+from sklearn import svm
 
 max_features=15000
 
@@ -88,7 +89,7 @@ def check_webshell(clf,dir):
     webshell=0
 
     webshell_files_list = load_files_re(webshell_dir)
-    CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore", max_features=max_features,
+    CV = CountVectorizer(ngram_range=(3, 3), decode_error="ignore", max_features=max_features,
                          token_pattern=r'\b\w+\b', min_df=1, max_df=1.0)
     x = CV.fit_transform(webshell_files_list).toarray()
 
@@ -137,11 +138,8 @@ def do_metrics(y_test,y_pred):
     print "metrics.f1_score:"
     print metrics.f1_score(y_test,y_pred)
 
-if __name__ == '__main__':
-
-    x,y=get_feature_by_bag_tfidf()
-    print "load %d white %d black" % ( white_count,black_count )
-
+def do_mlp(x,y):
+    #mlp
     clf = MLPClassifier(solver='lbfgs',
                         alpha=1e-5,
                         hidden_layer_sizes=(5, 2),
@@ -153,7 +151,32 @@ if __name__ == '__main__':
     y_pred = clf.predict(x_test)
     do_metrics(y_test,y_pred)
 
+def do_nb(x,y):
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
+    gnb = GaussianNB()
+    gnb.fit(x_train, y_train)
+    y_pred = gnb.predict(x_test)
+    do_metrics(y_test,y_pred)
 
+def do_svm(x,y):
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
+    clf = svm.SVC()
+    clf.fit(x_train, y_train)
+    y_pred = clf.predict(x_test)
+
+    do_metrics(y_test,y_pred)
+
+if __name__ == '__main__':
+
+    x,y=get_feature_by_bag_tfidf()
+    print "load %d white %d black" % ( white_count,black_count )
+
+    #mlp
+    #do_mlp(x,y)
+    #nb
+    #do_nb(x,y)
+    #svm
+    do_svm(x,y)
     #do_check(x,y,clf)
 
 
