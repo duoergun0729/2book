@@ -1,1 +1,4 @@
+*.doc
+*.docx
 *.txt
+data/
