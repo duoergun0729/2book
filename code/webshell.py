@@ -10,7 +10,20 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.neural_network import MLPClassifier
 from sklearn import svm
 
+import tensorflow as tf
+import tflearn
+from tflearn.layers.core import input_data, dropout, fully_connected
+from tflearn.layers.conv import conv_1d, global_max_pool
+from tflearn.layers.conv import conv_2d, max_pool_2d
+from tflearn.layers.merge_ops import merge
+from tflearn.layers.estimator import regression
+from tflearn.data_utils import to_categorical, pad_sequences
+from sklearn.neural_network import MLPClassifier
+from tflearn.layers.normalization import local_response_normalization
+from tensorflow.contrib import learn
+
 max_features=15000
+max_document_length=2000
 
 webshell_dir="../data/webshell/webshell/PHP/"
 whitefile_dir="../data/webshell/normal/php/"
@@ -81,6 +94,35 @@ def get_feature_by_bag_tfidf():
     x_tfidf = transformer.fit_transform(x)
     x = x_tfidf.toarray()
 
+    return x,y
+
+
+def  get_features_by_tf():
+    global  max_document_length
+    global white_count
+    global black_count
+    x=[]
+    y=[]
+
+    webshell_files_list = load_files_re(webshell_dir)
+    y1=[1]*len(webshell_files_list)
+    black_count=len(webshell_files_list)
+
+    wp_files_list =load_files_re(whitefile_dir)
+    y2=[0]*len(wp_files_list)
+
+    white_count=len(wp_files_list)
+
+
+    x=webshell_files_list+wp_files_list
+    y=y1+y2
+
+    vp=tflearn.data_utils.VocabularyProcessor(max_document_length=max_document_length,
+                                              min_frequency=0,
+                                              vocabulary=None,
+                                              tokenizer_fn=None)
+    x=vp.fit_transform(x, unused_y=None)
+    x=np.array(list(x))
     return x,y
 
 def check_webshell(clf,dir):
@@ -166,19 +208,53 @@ def do_svm(x,y):
 
     do_metrics(y_test,y_pred)
 
+def do_cnn(x,y):
+    global max_document_length
+    print "CNN and tf"
+    trainX, testX, trainY, testY = train_test_split(x, y, test_size=0.4, random_state=0)
+
+
+    trainX = pad_sequences(trainX, maxlen=max_document_length, value=0.)
+    testX = pad_sequences(testX, maxlen=max_document_length, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Building convolutional network
+    network = input_data(shape=[None,max_document_length], name='input')
+    network = tflearn.embedding(network, input_dim=1000000, output_dim=128)
+    branch1 = conv_1d(network, 128, 3, padding='valid', activation='relu', regularizer="L2")
+    branch2 = conv_1d(network, 128, 4, padding='valid', activation='relu', regularizer="L2")
+    branch3 = conv_1d(network, 128, 5, padding='valid', activation='relu', regularizer="L2")
+    network = merge([branch1, branch2, branch3], mode='concat', axis=1)
+    network = tf.expand_dims(network, 2)
+    network = global_max_pool(network)
+    network = dropout(network, 0.8)
+    network = fully_connected(network, 2, activation='softmax')
+    network = regression(network, optimizer='adam', learning_rate=0.001,
+                         loss='categorical_crossentropy', name='target')
+    # Training
+    model = tflearn.DNN(network, tensorboard_verbose=0)
+    model.fit(trainX, trainY,
+              n_epoch=5, shuffle=True, validation_set=(testX, testY),
+              show_metric=True, batch_size=100,run_id="spam")
+
 if __name__ == '__main__':
 
-    x,y=get_feature_by_bag_tfidf()
-    print "load %d white %d black" % ( white_count,black_count )
+    #x,y=get_feature_by_bag_tfidf()
+    #print "load %d white %d black" % ( white_count,black_count )
 
     #mlp
     #do_mlp(x,y)
     #nb
     #do_nb(x,y)
     #svm
-    do_svm(x,y)
+    #do_svm(x,y)
     #do_check(x,y,clf)
 
+    x,y=get_features_by_tf()
+
+    do_cnn(x,y)
 
 
 
