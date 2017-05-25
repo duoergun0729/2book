@@ -21,6 +21,7 @@ from tflearn.data_utils import to_categorical, pad_sequences
 from sklearn.neural_network import MLPClassifier
 from tflearn.layers.normalization import local_response_normalization
 from tensorflow.contrib import learn
+import commands
 
 max_features=15000
 max_document_length=2000
@@ -30,6 +31,7 @@ whitefile_dir="../data/webshell/normal/php/"
 check_dir="../../../../../Downloads/php-exploit-scripts-master/"
 white_count=0
 black_count=0
+php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
 
 def load_files_re(dir):
     files_list = []
@@ -46,6 +48,21 @@ def load_files_re(dir):
 
     return files_list
 
+def load_files_opcode_re(dir):
+    files_list = []
+    g = os.walk(dir)
+    for path, d, filelist in g:
+        #print d;
+        for filename in filelist:
+            #print os.path.join(path, filename)
+            if filename.endswith('.php') :
+                fulepath = os.path.join(path, filename)
+                print "Load %s opcode" % fulepath
+                t = load_file_opcode(fulepath)
+                files_list.append(t)
+
+    return files_list
+
 
 def load_file(file_path):
     t=""
@@ -54,6 +71,17 @@ def load_file(file_path):
             line=line.strip('\n')
             t+=line
     return t
+
+def load_file_opcode(file_path):
+    global php_bin
+    t=""
+    cmd=php_bin+" -dvld.active=1 -dvld.execute=0 "+file_path
+    #print "exec "+cmd
+    output=commands.getoutput(cmd)
+    t=output
+    #print t
+    return t
+
 
 
 def load_files(path):
@@ -87,6 +115,35 @@ def get_feature_by_bag_tfidf():
     y=y1+y2
 
     CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",max_features=max_features,
+                                       token_pattern = r'\b\w+\b',min_df=1, max_df=1.0)
+    x=CV.fit_transform(x).toarray()
+
+    transformer = TfidfTransformer(smooth_idf=False)
+    x_tfidf = transformer.fit_transform(x)
+    x = x_tfidf.toarray()
+
+    return x,y
+
+def get_feature_by_opcode():
+    global white_count
+    global black_count
+    x=[]
+    y=[]
+
+    webshell_files_list = load_files_opcode_re(webshell_dir)
+    y1=[1]*len(webshell_files_list)
+    black_count=len(webshell_files_list)
+
+    wp_files_list =load_files_opcode_re(whitefile_dir)
+    y2=[0]*len(wp_files_list)
+
+    white_count=len(wp_files_list)
+
+
+    x=webshell_files_list+wp_files_list
+    y=y1+y2
+
+    CV = CountVectorizer(ngram_range=(4, 4), decode_error="ignore",max_features=max_features,
                                        token_pattern = r'\b\w+\b',min_df=1, max_df=1.0)
     x=CV.fit_transform(x).toarray()
 
@@ -240,21 +297,23 @@ def do_cnn(x,y):
               show_metric=True, batch_size=100,run_id="spam")
 
 if __name__ == '__main__':
-
+    x, y = get_feature_by_opcode()
     #x,y=get_feature_by_bag_tfidf()
-    #print "load %d white %d black" % ( white_count,black_count )
+    print "load %d white %d black" % ( white_count,black_count )
+
 
     #mlp
     #do_mlp(x,y)
     #nb
-    #do_nb(x,y)
+    do_nb(x,y)
     #svm
     #do_svm(x,y)
     #do_check(x,y,clf)
 
-    x,y=get_features_by_tf()
+    #x,y=get_features_by_tf()
 
-    do_cnn(x,y)
+    #do_cnn(x,y)
+
 
 
 
