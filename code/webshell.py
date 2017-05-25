@@ -1,4 +1,5 @@
 import os
+import re
 from sklearn.feature_extraction.text import CountVectorizer
 import sys
 import numpy as np
@@ -79,6 +80,9 @@ def load_file_opcode(file_path):
     #print "exec "+cmd
     output=commands.getoutput(cmd)
     t=output
+    #print t
+    tokens=re.findall(r'\b[A-Z_]+\b',output)
+    t=" ".join(tokens)
     #print t
     return t
 
