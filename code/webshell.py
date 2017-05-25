@@ -150,7 +150,7 @@ def get_feature_by_opcode():
     print x
     y=y1+y2
 
-    CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",max_features=max_features,
+    CV = CountVectorizer(ngram_range=(3, 3), decode_error="ignore",max_features=max_features,
                                        token_pattern = r'\b\w+\b',min_df=1, max_df=1.0)
     x=CV.fit_transform(x).toarray()
     print x
