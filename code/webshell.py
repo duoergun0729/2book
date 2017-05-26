@@ -32,8 +32,8 @@ whitefile_dir="../data/webshell/normal/php/"
 check_dir="../../../../../Downloads/php-exploit-scripts-master/"
 white_count=0
 black_count=0
-#php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
-php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
+php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
+#php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
 
 def load_files_re(dir):
     files_list = []
@@ -150,8 +150,10 @@ def get_feature_by_opcode():
     print x
     y=y1+y2
 
+
     CV = CountVectorizer(ngram_range=(3, 3), decode_error="ignore",max_features=max_features,
                                        token_pattern = r'\b\w+\b',min_df=1, max_df=1.0)
+
     x=CV.fit_transform(x).toarray()
     print x
 
