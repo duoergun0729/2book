@@ -24,8 +24,9 @@ from tflearn.layers.normalization import local_response_normalization
 from tensorflow.contrib import learn
 import commands
 
-max_features=15000
-max_document_length=2000
+max_features=20000
+max_document_length=10000
+min_opcode_count=2
 
 webshell_dir="../data/webshell/webshell/PHP/"
 whitefile_dir="../data/webshell/normal/php/"
@@ -51,6 +52,7 @@ def load_files_re(dir):
     return files_list
 
 def load_files_opcode_re(dir):
+    global min_opcode_count
     files_list = []
     g = os.walk(dir)
     for path, d, filelist in g:
@@ -61,7 +63,10 @@ def load_files_opcode_re(dir):
                 fulepath = os.path.join(path, filename)
                 print "Load %s opcode" % fulepath
                 t = load_file_opcode(fulepath)
-                files_list.append(t)
+                if len(t) > min_opcode_count:
+                    files_list.append(t)
+                else:
+                    print "Load %s opcode failed" % fulepath
                 #print "Add opcode %s" % t
 
     return files_list
@@ -80,12 +85,14 @@ def load_file_opcode(file_path):
     t=""
     cmd=php_bin+" -dvld.active=1 -dvld.execute=0 "+file_path
     #print "exec "+cmd
-    output=commands.getoutput(cmd)
+    status,output=commands.getstatusoutput(cmd)
+
     t=output
-    #print t
+        #print t
     tokens=re.findall(r'\s(\b[A-Z_]+\b)\s',output)
     t=" ".join(tokens)
-    #print t
+
+    print "opcode count %d" % len(t)
     return t
 
 
@@ -147,21 +154,53 @@ def get_feature_by_opcode():
 
 
     x=webshell_files_list+wp_files_list
-    print x
+    #print x
     y=y1+y2
 
-
-    CV = CountVectorizer(ngram_range=(3, 3), decode_error="ignore",max_features=max_features,
+    CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",max_features=max_features,
                                        token_pattern = r'\b\w+\b',min_df=1, max_df=1.0)
 
     x=CV.fit_transform(x).toarray()
-    print x
+    #print x
 
     transformer = TfidfTransformer(smooth_idf=False)
     x_tfidf = transformer.fit_transform(x)
     x = x_tfidf.toarray()
 
     return x,y
+
+
+def get_feature_by_opcode_tf():
+    global white_count
+    global black_count
+    global max_document_length
+    x=[]
+    y=[]
+
+    webshell_files_list = load_files_opcode_re(webshell_dir)
+    y1=[1]*len(webshell_files_list)
+    black_count=len(webshell_files_list)
+
+    wp_files_list =load_files_opcode_re(whitefile_dir)
+    y2=[0]*len(wp_files_list)
+
+    white_count=len(wp_files_list)
+
+
+    x=webshell_files_list+wp_files_list
+    #print x
+    y=y1+y2
+
+    vp=tflearn.data_utils.VocabularyProcessor(max_document_length=max_document_length,
+                                              min_frequency=0,
+                                              vocabulary=None,
+                                              tokenizer_fn=None)
+    x=vp.fit_transform(x, unused_y=None)
+    x=np.array(list(x))
+    print x
+
+    return x,y
+
 
 
 def  get_features_by_tf():
@@ -304,18 +343,17 @@ def do_cnn(x,y):
     model = tflearn.DNN(network, tensorboard_verbose=0)
     model.fit(trainX, trainY,
               n_epoch=5, shuffle=True, validation_set=(testX, testY),
-              show_metric=True, batch_size=100,run_id="spam")
+              show_metric=True, batch_size=100,run_id="webshell")
 
 if __name__ == '__main__':
-    x, y = get_feature_by_opcode()
+    x, y = get_feature_by_opcode_tf()
     #x,y=get_feature_by_bag_tfidf()
     print "load %d white %d black" % ( white_count,black_count )
 
-
     #mlp
-    #do_mlp(x,y)
+    do_mlp(x,y)
     #nb
-    do_nb(x,y)
+    #do_nb(x,y)
     #svm
     #do_svm(x,y)
     #do_check(x,y,clf)
