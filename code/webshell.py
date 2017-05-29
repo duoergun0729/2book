@@ -28,13 +28,26 @@ max_features=20000
 max_document_length=10000
 min_opcode_count=2
 
+
+#pro
+#webshell_dir="../data/webshell/b/"
+#whitefile_dir="../data/webshell/w/"
 webshell_dir="../data/webshell/webshell/PHP/"
 whitefile_dir="../data/webshell/normal/php/"
+#webshell_dir="../data/webshell/dev-b/"
+#whitefile_dir="../data/webshell/dev-w/"
 check_dir="../../../../../Downloads/php-exploit-scripts-master/"
 white_count=0
 black_count=0
-php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
-#php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
+#php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
+php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
+
+
+pkl_file="webshell-opcode-cnn.model"
+
+
+#pro
+#php_bin="/home/fuxi/dev/opt/php/bin/php"
 
 def load_files_re(dir):
     files_list = []
@@ -318,7 +331,7 @@ def do_cnn(x,y):
     global max_document_length
     print "CNN and tf"
     trainX, testX, trainY, testY = train_test_split(x, y, test_size=0.4, random_state=0)
-
+    y_test=testY
 
     trainX = pad_sequences(trainX, maxlen=max_document_length, value=0.)
     testX = pad_sequences(testX, maxlen=max_document_length, value=0.)
@@ -339,11 +352,30 @@ def do_cnn(x,y):
     network = fully_connected(network, 2, activation='softmax')
     network = regression(network, optimizer='adam', learning_rate=0.001,
                          loss='categorical_crossentropy', name='target')
-    # Training
+
     model = tflearn.DNN(network, tensorboard_verbose=0)
-    model.fit(trainX, trainY,
-              n_epoch=5, shuffle=True, validation_set=(testX, testY),
-              show_metric=True, batch_size=100,run_id="webshell")
+    if not os.path.exists(pkl_file):
+        # Training
+        model.fit(trainX, trainY,
+                  n_epoch=5, shuffle=True, validation_set=0.1,
+                  show_metric=True, batch_size=100,run_id="webshell")
+        model.save(pkl_file)
+    else:
+        model.load(pkl_file)
+
+    y_predict_list=model.predict(testX)
+    #print y_predict_list
+    y_predict=[]
+    for i in y_predict_list:
+        if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+    #print  y_predict
+    #print  y_test
+
+    do_metrics(y_test, y_predict)
+
 
 if __name__ == '__main__':
     x, y = get_feature_by_opcode_tf()
@@ -351,7 +383,7 @@ if __name__ == '__main__':
     print "load %d white %d black" % ( white_count,black_count )
 
     #mlp
-    do_mlp(x,y)
+    #do_mlp(x,y)
     #nb
     #do_nb(x,y)
     #svm
@@ -360,7 +392,7 @@ if __name__ == '__main__':
 
     #x,y=get_features_by_tf()
 
-    #do_cnn(x,y)
+    do_cnn(x,y)
 
 
 
