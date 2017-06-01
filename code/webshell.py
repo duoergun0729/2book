@@ -24,7 +24,7 @@ from tflearn.layers.normalization import local_response_normalization
 from tensorflow.contrib import learn
 import commands
 
-max_features=1000
+max_features=2000
 max_document_length=3000
 min_opcode_count=2
 
@@ -41,6 +41,7 @@ white_count=0
 black_count=0
 php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
 #php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
+#php_bin=" /home/fuxi/dev/opt/php/bin/php"
 
 
 pkl_file="webshell-opcode-cnn.model"
@@ -428,9 +429,9 @@ if __name__ == '__main__':
     print "load %d white %d black" % ( white_count,black_count )
 
     #mlp
-    do_mlp(x,y)
+    #do_mlp(x,y)
     #nb
-    #do_nb(x,y)
+    do_nb(x,y)
     #svm
     #do_svm(x,y)
     #do_check(x,y,clf)
