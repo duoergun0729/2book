@@ -24,8 +24,8 @@ from tflearn.layers.normalization import local_response_normalization
 from tensorflow.contrib import learn
 import commands
 
-max_features=20000
-max_document_length=10000
+max_features=1000
+max_document_length=3000
 min_opcode_count=2
 
 
@@ -39,8 +39,8 @@ whitefile_dir="../data/webshell/normal/php/"
 check_dir="../../../../../Downloads/php-exploit-scripts-master/"
 white_count=0
 black_count=0
-#php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
-php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
+php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
+#php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
 
 
 pkl_file="webshell-opcode-cnn.model"
@@ -124,6 +124,8 @@ def load_files(path):
 def get_feature_by_bag_tfidf():
     global white_count
     global black_count
+    global max_features
+    print "max_features=%d" % max_features
     x=[]
     y=[]
 
@@ -153,6 +155,10 @@ def get_feature_by_bag_tfidf():
 def get_feature_by_opcode():
     global white_count
     global black_count
+    global max_features
+    global webshell_dir
+    global whitefile_dir
+    print "max_features=%d webshell_dir=%s whitefile_dir=%s" % (max_features,webshell_dir,whitefile_dir)
     x=[]
     y=[]
 
@@ -167,10 +173,10 @@ def get_feature_by_opcode():
 
 
     x=webshell_files_list+wp_files_list
-    #print x
+    print x
     y=y1+y2
 
-    CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",max_features=max_features,
+    CV = CountVectorizer(ngram_range=(4, 4), decode_error="ignore",max_features=max_features,
                                        token_pattern = r'\b\w+\b',min_df=1, max_df=1.0)
 
     x=CV.fit_transform(x).toarray()
@@ -310,6 +316,9 @@ def do_mlp(x,y):
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
     clf.fit(x_train, y_train)
     y_pred = clf.predict(x_test)
+    print y_train
+    print y_pred
+    print y_test
     do_metrics(y_test,y_pred)
 
 def do_nb(x,y):
@@ -377,13 +386,49 @@ def do_cnn(x,y):
     do_metrics(y_test, y_predict)
 
 
+def do_rnn(x,y):
+    global max_document_length
+    print "RNN"
+    trainX, testX, trainY, testY = train_test_split(x, y, test_size=0.4, random_state=0)
+    y_test=testY
+
+    trainX = pad_sequences(trainX, maxlen=max_document_length, value=0.)
+    testX = pad_sequences(testX, maxlen=max_document_length, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Network building
+    net = tflearn.input_data([None, max_document_length])
+    net = tflearn.embedding(net, input_dim=10240000, output_dim=128)
+    net = tflearn.lstm(net, 128, dropout=0.8)
+    net = tflearn.fully_connected(net, 2, activation='softmax')
+    net = tflearn.regression(net, optimizer='adam', learning_rate=0.001,
+                             loss='categorical_crossentropy')
+
+    # Training
+    model = tflearn.DNN(net, tensorboard_verbose=0)
+    model.fit(trainX, trainY, validation_set=0.1, show_metric=True,
+              batch_size=10,run_id="webshell",n_epoch=5)
+
+    y_predict_list=model.predict(testX)
+    y_predict=[]
+    for i in y_predict_list:
+        if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+
+    do_metrics(y_test, y_predict)
+
 if __name__ == '__main__':
-    x, y = get_feature_by_opcode_tf()
+    #x, y = get_feature_by_opcode_tf()
     #x,y=get_feature_by_bag_tfidf()
+    x, y = get_feature_by_opcode()
     print "load %d white %d black" % ( white_count,black_count )
 
     #mlp
-    #do_mlp(x,y)
+    do_mlp(x,y)
     #nb
     #do_nb(x,y)
     #svm
@@ -392,7 +437,8 @@ if __name__ == '__main__':
 
     #x,y=get_features_by_tf()
 
-    do_cnn(x,y)
+    #do_cnn(x,y)
+    #do_rnn(x,y)
 
 
 
