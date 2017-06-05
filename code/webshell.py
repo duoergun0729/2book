@@ -23,9 +23,10 @@ from sklearn.neural_network import MLPClassifier
 from tflearn.layers.normalization import local_response_normalization
 from tensorflow.contrib import learn
 import commands
+from sklearn.ensemble import RandomForestClassifier
 
-max_features=2000
-max_document_length=3000
+max_features=500
+max_document_length=1000
 min_opcode_count=2
 
 
@@ -422,6 +423,13 @@ def do_rnn(x,y):
 
     do_metrics(y_test, y_predict)
 
+def do_rf(x,y):
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
+    rf = RandomForestClassifier(n_estimators=50)
+    rf.fit(x_train, y_train)
+    y_pred = rf.predict(x_test)
+    do_metrics(y_test,y_pred)
+
 if __name__ == '__main__':
     #x, y = get_feature_by_opcode_tf()
     #x,y=get_feature_by_bag_tfidf()
@@ -431,14 +439,15 @@ if __name__ == '__main__':
     #mlp
     #do_mlp(x,y)
     #nb
-    do_nb(x,y)
+    #do_nb(x,y)
+    #do_rf(x,y)
     #svm
     #do_svm(x,y)
     #do_check(x,y,clf)
 
     #x,y=get_features_by_tf()
 
-    #do_cnn(x,y)
+    do_cnn(x,y)
     #do_rnn(x,y)
 
 
