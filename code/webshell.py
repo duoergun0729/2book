@@ -26,7 +26,7 @@ import commands
 from sklearn.ensemble import RandomForestClassifier
 
 max_features=500
-max_document_length=1000
+max_document_length=500
 min_opcode_count=2
 
 
@@ -175,7 +175,7 @@ def get_feature_by_opcode():
 
 
     x=webshell_files_list+wp_files_list
-    print x
+    #print x
     y=y1+y2
 
     CV = CountVectorizer(ngram_range=(4, 4), decode_error="ignore",max_features=max_features,
@@ -184,9 +184,9 @@ def get_feature_by_opcode():
     x=CV.fit_transform(x).toarray()
     #print x
 
-    transformer = TfidfTransformer(smooth_idf=False)
-    x_tfidf = transformer.fit_transform(x)
-    x = x_tfidf.toarray()
+    #transformer = TfidfTransformer(smooth_idf=False)
+    #x_tfidf = transformer.fit_transform(x)
+    #x = x_tfidf.toarray()
 
     return x,y
 
@@ -365,24 +365,29 @@ def do_cnn(x,y):
                          loss='categorical_crossentropy', name='target')
 
     model = tflearn.DNN(network, tensorboard_verbose=0)
-    if not os.path.exists(pkl_file):
+    #if not os.path.exists(pkl_file):
         # Training
-        model.fit(trainX, trainY,
+    model.fit(trainX, trainY,
                   n_epoch=5, shuffle=True, validation_set=0.1,
                   show_metric=True, batch_size=100,run_id="webshell")
-        model.save(pkl_file)
-    else:
-        model.load(pkl_file)
+    #    model.save(pkl_file)
+    #else:
+    #    model.load(pkl_file)
 
     y_predict_list=model.predict(testX)
-    #print y_predict_list
+    #y_predict = list(model.predict(testX,as_iterable=True))
+
     y_predict=[]
     for i in y_predict_list:
+        print  i[0]
         if i[0] > 0.5:
             y_predict.append(0)
         else:
             y_predict.append(1)
-    #print  y_predict
+    print 'y_predict_list:'
+    print y_predict_list
+    print 'y_predict:'
+    print  y_predict
     #print  y_test
 
     do_metrics(y_test, y_predict)
