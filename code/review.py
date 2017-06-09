@@ -18,7 +18,8 @@ from tflearn.data_utils import to_categorical, pad_sequences
 from sklearn.neural_network import MLPClassifier
 from tflearn.layers.normalization import local_response_normalization
 from tensorflow.contrib import learn
-
+import gensim
+import re
 
 max_features=5000
 max_document_length=1000
@@ -131,6 +132,8 @@ def do_nb_wordbag(x_train, x_test, y_train, y_test):
     y_pred=gnb.predict(x_test)
     print metrics.accuracy_score(y_test, y_pred)
     print metrics.confusion_matrix(y_test, y_pred)
+
+
 
 
 def do_svm_wordbag(x_train, x_test, y_train, y_test):
@@ -261,14 +264,45 @@ def  get_features_by_tf():
     x_test=np.array(list(x_test))
     return x_train, x_test, y_train, y_test
 
+def sentense2word(x):
+    y=[]
+    for i in x:
+        #t=re.search(r'\b\w+\b',i)
+        #print t.group()
+        y.append(i.split())
+    return y
 
+def sentense2ver(model,x):
+    y=[]
+    for i in x:
+        t=[]
+        for j in i:
+            t.append(model[j])
+            print len(t)
+        y.append(t)
+    return y
+
+def  get_features_by_word2vec():
+    x_train, x_test, y_train, y_test=load_all_files()
+    x_train=sentense2word(x_train)
+    x_test=sentense2word(x_test)
+
+    x=x_test+x_train
+    model = gensim.models.Word2Vec(x, min_count=1,size=200)
+
+    x_train=sentense2ver(model,x_train)
+    x_test=sentense2ver(model,x_test)
+
+    #print x_train
+
+    return x_train, x_test, y_train, y_test
 
 if __name__ == "__main__":
     print "Hello review"
     #print "get_features_by_wordbag_tfidf"
     #x_train, x_test, y_train, y_test=get_features_by_wordbag_tfidf()
-    print "get_features_by_tf"
-    x_train, x_test, y_train, y_test=get_features_by_tf()
+    #print "get_features_by_tf"
+    #x_train, x_test, y_train, y_test=get_features_by_tf()
     #NB
     #do_nb_wordbag(x_train, x_test, y_train, y_test)
     #SVM
@@ -289,8 +323,13 @@ if __name__ == "__main__":
     #x,y=get_features_by_tf()
     #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
     #CNN
-    do_cnn_wordbag(x_train, x_test, y_train, y_test)
+    #do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
 
     #RNN
     #do_rnn_wordbag(x_train, x_test, y_train, y_test)
+    print "get_features_by_word2vec"
+    x_train, x_test, y_train, y_test=get_features_by_word2vec()
+
+    #NB
+    do_nb_wordbag(x_train, x_test, y_train, y_test)

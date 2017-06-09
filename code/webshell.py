@@ -24,9 +24,10 @@ from tflearn.layers.normalization import local_response_normalization
 from tensorflow.contrib import learn
 import commands
 from sklearn.ensemble import RandomForestClassifier
+import pickle
 
 max_features=500
-max_document_length=500
+max_document_length=100
 min_opcode_count=2
 
 
@@ -45,7 +46,10 @@ php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
 #php_bin=" /home/fuxi/dev/opt/php/bin/php"
 
 
-pkl_file="webshell-opcode-cnn.model"
+pkl_file="webshell-opcode-cnn.pkl"
+
+data_pkl_file="data-webshell-opcode-tf.pkl"
+label_pkl_file="label-webshell-opcode-tf.pkl"
 
 
 #pro
@@ -198,28 +202,43 @@ def get_feature_by_opcode_tf():
     x=[]
     y=[]
 
-    webshell_files_list = load_files_opcode_re(webshell_dir)
-    y1=[1]*len(webshell_files_list)
-    black_count=len(webshell_files_list)
+    if os.path.exists(data_pkl_file) and os.path.exists(label_pkl_file):
+        f = open(data_pkl_file, 'rb')
+        x = pickle.load(f)
+        f.close()
+        f = open(label_pkl_file, 'rb')
+        y = pickle.load(f)
+        f.close()
+    else:
+        webshell_files_list = load_files_opcode_re(webshell_dir)
+        y1=[1]*len(webshell_files_list)
+        black_count=len(webshell_files_list)
 
-    wp_files_list =load_files_opcode_re(whitefile_dir)
-    y2=[0]*len(wp_files_list)
+        wp_files_list =load_files_opcode_re(whitefile_dir)
+        y2=[0]*len(wp_files_list)
 
-    white_count=len(wp_files_list)
+        white_count=len(wp_files_list)
 
 
-    x=webshell_files_list+wp_files_list
-    #print x
-    y=y1+y2
+        x=webshell_files_list+wp_files_list
+        #print x
+        y=y1+y2
 
-    vp=tflearn.data_utils.VocabularyProcessor(max_document_length=max_document_length,
-                                              min_frequency=0,
-                                              vocabulary=None,
-                                              tokenizer_fn=None)
-    x=vp.fit_transform(x, unused_y=None)
-    x=np.array(list(x))
+        vp=tflearn.data_utils.VocabularyProcessor(max_document_length=max_document_length,
+                                                  min_frequency=0,
+                                                  vocabulary=None,
+                                                  tokenizer_fn=None)
+        x=vp.fit_transform(x, unused_y=None)
+        x=np.array(list(x))
+
+        f = open(data_pkl_file, 'wb')
+        pickle.dump(x, f)
+        f.close()
+        f = open(label_pkl_file, 'wb')
+        pickle.dump(y, f)
+        f.close()
     print x
-
+    print y
     return x,y
 
 
@@ -436,9 +455,9 @@ def do_rf(x,y):
     do_metrics(y_test,y_pred)
 
 if __name__ == '__main__':
-    #x, y = get_feature_by_opcode_tf()
+    x, y = get_feature_by_opcode_tf()
     #x,y=get_feature_by_bag_tfidf()
-    x, y = get_feature_by_opcode()
+    #x, y = get_feature_by_opcode()
     print "load %d white %d black" % ( white_count,black_count )
 
     #mlp
@@ -452,8 +471,8 @@ if __name__ == '__main__':
 
     #x,y=get_features_by_tf()
 
-    do_cnn(x,y)
-    #do_rnn(x,y)
+    #do_cnn(x,y)
+    do_rnn(x,y)
 
 
 
