@@ -20,10 +20,16 @@ from tflearn.layers.normalization import local_response_normalization
 from tensorflow.contrib import learn
 import gensim
 import re
+from collections import namedtuple
+from gensim.models import Doc2Vec
+from gensim.models.doc2vec import Doc2Vec,LabeledSentence
 
 max_features=5000
 max_document_length=1000
 vocabulary=None
+#LabeledSentence = gensim.models.doc2vec.LabeledSentence
+SentimentDocument = namedtuple('SentimentDocument', 'words tags')
+
 
 
 
@@ -264,36 +270,53 @@ def  get_features_by_tf():
     x_test=np.array(list(x_test))
     return x_train, x_test, y_train, y_test
 
-def sentense2word(x):
-    y=[]
-    for i in x:
-        #t=re.search(r'\b\w+\b',i)
-        #print t.group()
-        y.append(i.split())
-    return y
 
-def sentense2ver(model,x):
-    y=[]
-    for i in x:
-        t=[]
-        for j in i:
-            t.append(model[j])
-            print len(t)
-        y.append(t)
-    return y
+def cleanText(corpus):
+    punctuation = """.,?!:;(){}[]"""
+    corpus = [z.lower().replace('\n', '') for z in corpus]
+    corpus = [z.replace('<br />', ' ') for z in corpus]
 
-def  get_features_by_word2vec():
+    # treat punctuation as individual words
+    for c in punctuation:
+        corpus = [z.replace(c, ' %s ' % c) for z in corpus]
+    corpus = [z.split() for z in corpus]
+    return corpus
+
+def labelizeReviews(reviews, label_type):
+    labelized = []
+    for i, v in enumerate(reviews):
+        label = '%s_%s' % (label_type, i)
+        #labelized.append(LabeledSentence(v, [label]))
+        #labelized.append(LabeledSentence(words=v,tags=label))
+        labelized.append(SentimentDocument(v, [label]))
+    return labelized
+
+def  get_features_by_doc2vec():
     x_train, x_test, y_train, y_test=load_all_files()
-    x_train=sentense2word(x_train)
-    x_test=sentense2word(x_test)
 
-    x=x_test+x_train
-    model = gensim.models.Word2Vec(x, min_count=1,size=200)
+    x_train=cleanText(x_train)
+    x_test=cleanText(x_test)
+    epoch_num=2
 
-    x_train=sentense2ver(model,x_train)
-    x_test=sentense2ver(model,x_test)
 
-    #print x_train
+
+    x_train = labelizeReviews(x_train, 'TRAIN')
+    x_test = labelizeReviews(x_test, 'TEST')
+
+    #x_train=np.array(x_train)
+    #x_test = np.array(x_test)
+    all_train_reviews=np.concatenate((x_train, x_test))
+
+    model_dm = gensim.models.Doc2Vec(min_count=1, window=10, size=200, sample=1e-3, negative=5, workers=3)
+    model_dbow = gensim.models.Doc2Vec(min_count=1, window=10, size=200, sample=1e-3, negative=5, dm=0, workers=3)
+
+    model_dm.build_vocab(all_train_reviews)
+    model_dbow.build_vocab(all_train_reviews)
+
+    for epoch in range(epoch_num):
+        perm = np.random.permutation(all_train_reviews.shape[0])
+        model_dm.train(all_train_reviews[perm])
+        model_dbow.train(all_train_reviews[perm])
 
     return x_train, x_test, y_train, y_test
 
@@ -328,8 +351,8 @@ if __name__ == "__main__":
 
     #RNN
     #do_rnn_wordbag(x_train, x_test, y_train, y_test)
-    print "get_features_by_word2vec"
-    x_train, x_test, y_train, y_test=get_features_by_word2vec()
+    print "get_features_by_doc2vec"
+    x_train, x_test, y_train, y_test=get_features_by_doc2vec()
 
     #NB
-    do_nb_wordbag(x_train, x_test, y_train, y_test)
+    #do_nb_wordbag(x_train, x_test, y_train, y_test)
