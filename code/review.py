@@ -236,12 +236,12 @@ def do_cnn_wordbag(trainX, testX, trainY, testY):
 def do_cnn_doc2vec_2d(trainX, testX, trainY, testY):
     print "CNN and doc2vec 2d"
 
-    trainX = trainX.reshape([-1, 20, 10, 1])
-    testX = testX.reshape([-1, 20, 10, 1])
+    trainX = trainX.reshape([-1, max_features, max_document_length, 1])
+    testX = testX.reshape([-1, max_features, max_document_length, 1])
 
 
     # Building convolutional network
-    network = input_data(shape=[None, 20, 10, 1], name='input')
+    network = input_data(shape=[None, max_features, max_document_length, 1], name='input')
     network = conv_2d(network, 16, 3, activation='relu', regularizer="L2")
     network = max_pool_2d(network, 2)
     network = local_response_normalization(network)
@@ -405,12 +405,13 @@ def getVecsByWord2Vec(model, corpus, size):
         #v = pad_sequences(v, maxlen=max_document_length, value=0.)
         xx=[]
         for i, vv in enumerate(v):
-            print vv
-            xx.append(model[vv])
+            if vv in model:
+                xx.append(model[vv])
+
+        xx = pad_sequences(xx, maxlen=size, value=0.)
         x.append(xx)
 
-
-
+    x=pad_sequences(x, maxlen=max_document_length, value=0.)
     return x
 
 
@@ -447,6 +448,7 @@ def  get_features_by_doc2vec():
         #for model in models:
         #    model.train(x, total_examples=model.corpus_count, epochs=model.iter)
         #models[0].train(x, total_examples=model.corpus_count, epochs=model.iter)
+        model.iter=20
         model.train(x, total_examples=model.corpus_count, epochs=model.iter)
         model.save(doc2ver_bin)
 
@@ -515,18 +517,18 @@ if __name__ == "__main__":
     #RNN
     #do_rnn_wordbag(x_train, x_test, y_train, y_test)
     print "get_features_by_doc2vec"
-    x_train, x_test, y_train, y_test=get_features_by_doc2vec()
+    #x_train, x_test, y_train, y_test=get_features_by_doc2vec()
     #print "get_features_by_word2vec"
     #x_train, x_test, y_train, y_test=get_features_by_word2vec()
     #print x_train
     #print x_test
 
     #NB
-    #do_nb_doc2vec(x_train, x_test, y_train, y_test)
+    do_nb_doc2vec(x_train, x_test, y_train, y_test)
     #CNN
 
-    #do_cnn_doc2vec(x_train, x_test, y_train, y_test)
+    #do_cnn_doc2vec_2d(x_train, x_test, y_train, y_test)
     #DNN
     #do_dnn_doc2vec(x_train, x_test, y_train, y_test)
     #SVM
-    do_svm_doc2vec(x_train, x_test, y_train, y_test)
+    #do_svm_doc2vec(x_train, x_test, y_train, y_test)
