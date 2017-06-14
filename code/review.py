@@ -3,7 +3,6 @@ import os
 from sklearn.naive_bayes import GaussianNB
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
-import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import svm
 from sklearn.feature_extraction.text import TfidfTransformer
@@ -23,10 +22,14 @@ import re
 from collections import namedtuple
 from gensim.models import Doc2Vec
 from gensim.models.doc2vec import Doc2Vec,LabeledSentence
+from random import shuffle
+import multiprocessing
 
-max_features=5000
+max_features=200
 max_document_length=1000
 vocabulary=None
+doc2ver_bin="doc2ver.bin"
+word2ver_bin="word2ver.bin"
 #LabeledSentence = gensim.models.doc2vec.LabeledSentence
 SentimentDocument = namedtuple('SentimentDocument', 'words tags')
 
@@ -139,11 +142,26 @@ def do_nb_wordbag(x_train, x_test, y_train, y_test):
     print metrics.accuracy_score(y_test, y_pred)
     print metrics.confusion_matrix(y_test, y_pred)
 
-
+def do_nb_doc2vec(x_train, x_test, y_train, y_test):
+    print "NB and doc2vec"
+    gnb = GaussianNB()
+    gnb.fit(x_train,y_train)
+    y_pred=gnb.predict(x_test)
+    print metrics.accuracy_score(y_test, y_pred)
+    print metrics.confusion_matrix(y_test, y_pred)
 
 
 def do_svm_wordbag(x_train, x_test, y_train, y_test):
     print "SVM and wordbag"
+    clf = svm.SVC()
+    clf.fit(x_train, y_train)
+    y_pred = clf.predict(x_test)
+    print metrics.accuracy_score(y_test, y_pred)
+    print metrics.confusion_matrix(y_test, y_pred)
+
+
+def do_svm_doc2vec(x_train, x_test, y_train, y_test):
+    print "SVM and doc2vec"
     clf = svm.SVC()
     clf.fit(x_train, y_train)
     y_pred = clf.predict(x_test)
@@ -215,6 +233,65 @@ def do_cnn_wordbag(trainX, testX, trainY, testY):
               n_epoch=5, shuffle=True, validation_set=(testX, testY),
               show_metric=True, batch_size=100,run_id="review")
 
+def do_cnn_doc2vec_2d(trainX, testX, trainY, testY):
+    print "CNN and doc2vec 2d"
+
+    trainX = trainX.reshape([-1, 20, 10, 1])
+    testX = testX.reshape([-1, 20, 10, 1])
+
+
+    # Building convolutional network
+    network = input_data(shape=[None, 20, 10, 1], name='input')
+    network = conv_2d(network, 16, 3, activation='relu', regularizer="L2")
+    network = max_pool_2d(network, 2)
+    network = local_response_normalization(network)
+    network = conv_2d(network, 32, 3, activation='relu', regularizer="L2")
+    network = max_pool_2d(network, 2)
+    network = local_response_normalization(network)
+    network = fully_connected(network, 128, activation='tanh')
+    network = dropout(network, 0.8)
+    network = fully_connected(network, 256, activation='tanh')
+    network = dropout(network, 0.8)
+    network = fully_connected(network, 10, activation='softmax')
+    network = regression(network, optimizer='adam', learning_rate=0.01,
+                         loss='categorical_crossentropy', name='target')
+
+    # Training
+    model = tflearn.DNN(network, tensorboard_verbose=0)
+    model.fit({'input': trainX}, {'target': trainY}, n_epoch=20,
+               validation_set=({'input': testX}, {'target': testY}),
+               snapshot_step=100, show_metric=True, run_id='review')
+
+
+def do_cnn_doc2vec(trainX, testX, trainY, testY):
+    global max_features
+    print "CNN and doc2vec"
+
+    #trainX = pad_sequences(trainX, maxlen=max_features, value=0.)
+    #testX = pad_sequences(testX, maxlen=max_features, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Building convolutional network
+    network = input_data(shape=[None,max_features], name='input')
+    network = tflearn.embedding(network, input_dim=1000000, output_dim=128,validate_indices=False)
+    branch1 = conv_1d(network, 128, 3, padding='valid', activation='relu', regularizer="L2")
+    branch2 = conv_1d(network, 128, 4, padding='valid', activation='relu', regularizer="L2")
+    branch3 = conv_1d(network, 128, 5, padding='valid', activation='relu', regularizer="L2")
+    network = merge([branch1, branch2, branch3], mode='concat', axis=1)
+    network = tf.expand_dims(network, 2)
+    network = global_max_pool(network)
+    network = dropout(network, 0.8)
+    network = fully_connected(network, 2, activation='softmax')
+    network = regression(network, optimizer='adam', learning_rate=0.001,
+                         loss='categorical_crossentropy', name='target')
+    # Training
+    model = tflearn.DNN(network, tensorboard_verbose=0)
+    model.fit(trainX, trainY,
+              n_epoch=5, shuffle=True, validation_set=(testX, testY),
+              show_metric=True, batch_size=100,run_id="review")
+
 def do_rnn_wordbag(trainX, testX, trainY, testY):
     global max_document_length
     print "RNN and wordbag"
@@ -253,7 +330,19 @@ def do_dnn_wordbag(x_train, x_test, y_train, y_test):
     print metrics.accuracy_score(y_test, y_pred)
     print metrics.confusion_matrix(y_test, y_pred)
 
+def do_dnn_doc2vec(x_train, x_test, y_train, y_test):
+    print "MLP and doc2vec"
 
+    # Building deep neural network
+    clf = MLPClassifier(solver='lbfgs',
+                        alpha=1e-5,
+                        hidden_layer_sizes = (200, 2),
+                        random_state = 1)
+    print  clf
+    clf.fit(x_train, y_train)
+    y_pred = clf.predict(x_test)
+    print metrics.accuracy_score(y_test, y_pred)
+    print metrics.confusion_matrix(y_test, y_pred)
 
 def  get_features_by_tf():
     global  max_document_length
@@ -282,6 +371,19 @@ def cleanText(corpus):
     corpus = [z.split() for z in corpus]
     return corpus
 
+# Convert text to lower-case and strip punctuation/symbols from words
+def normalize_text(text):
+    norm_text = text.lower()
+
+    # Replace breaks with spaces
+    norm_text = norm_text.replace('<br />', ' ')
+
+    # Pad punctuation with spaces on both sides
+    for char in ['.', '"', ',', '(', ')', '!', '?', ';', ':']:
+        norm_text = norm_text.replace(char, ' ' + char + ' ')
+
+    return norm_text
+
 def labelizeReviews(reviews, label_type):
     labelized = []
     for i, v in enumerate(reviews):
@@ -291,32 +393,93 @@ def labelizeReviews(reviews, label_type):
         labelized.append(SentimentDocument(v, [label]))
     return labelized
 
+def getVecs(model, corpus, size):
+    vecs = [np.array(model.docvecs[z.tags[0]]).reshape((1, size)) for z in corpus]
+    return np.array(np.concatenate(vecs),dtype='float')
+
+
+def getVecsByWord2Vec(model, corpus, size):
+    global max_document_length
+    x=[]
+    for v in corpus:
+        #v = pad_sequences(v, maxlen=max_document_length, value=0.)
+        xx=[]
+        for i, vv in enumerate(v):
+            print vv
+            xx.append(model[vv])
+        x.append(xx)
+
+
+
+    return x
+
+
 def  get_features_by_doc2vec():
     x_train, x_test, y_train, y_test=load_all_files()
 
     x_train=cleanText(x_train)
     x_test=cleanText(x_test)
-    epoch_num=2
-
-
 
     x_train = labelizeReviews(x_train, 'TRAIN')
     x_test = labelizeReviews(x_test, 'TEST')
 
-    #x_train=np.array(x_train)
-    #x_test = np.array(x_test)
-    all_train_reviews=np.concatenate((x_train, x_test))
+    x=x_train+x_test
+    cores=multiprocessing.cpu_count()
+    #models = [
+        # PV-DBOW
+    #    Doc2Vec(dm=0, dbow_words=1, size=200, window=8, min_count=19, iter=10, workers=cores),
+        # PV-DM w/average
+    #    Doc2Vec(dm=1, dm_mean=1, size=200, window=8, min_count=19, iter=10, workers=cores),
+    #]
+    if os.path.exists(doc2ver_bin):
+        print "Find cache file %s" % doc2ver_bin
+        model=Doc2Vec.load(doc2ver_bin)
+    else:
+        model=Doc2Vec(dm=0, dbow_words=1, size=200, window=8, min_count=19, iter=10, workers=cores)
 
-    model_dm = gensim.models.Doc2Vec(min_count=1, window=10, size=200, sample=1e-3, negative=5, workers=3)
-    model_dbow = gensim.models.Doc2Vec(min_count=1, window=10, size=200, sample=1e-3, negative=5, dm=0, workers=3)
 
-    model_dm.build_vocab(all_train_reviews)
-    model_dbow.build_vocab(all_train_reviews)
+        #for model in models:
+        #    model.build_vocab(x)
+        model.build_vocab(x)
 
-    for epoch in range(epoch_num):
-        perm = np.random.permutation(all_train_reviews.shape[0])
-        model_dm.train(all_train_reviews[perm])
-        model_dbow.train(all_train_reviews[perm])
+        #models[1].reset_from(models[0])
+
+        #for model in models:
+        #    model.train(x, total_examples=model.corpus_count, epochs=model.iter)
+        #models[0].train(x, total_examples=model.corpus_count, epochs=model.iter)
+        model.train(x, total_examples=model.corpus_count, epochs=model.iter)
+        model.save(doc2ver_bin)
+
+    #x_test=getVecs(models[0],x_test,max_features)
+    #x_train=getVecs(models[0],x_train,max_features)
+    x_test=getVecs(model,x_test,max_features)
+    x_train=getVecs(model,x_train,max_features)
+
+    return x_train, x_test, y_train, y_test
+
+def  get_features_by_word2vec():
+    x_train, x_test, y_train, y_test=load_all_files()
+
+    x_train=cleanText(x_train)
+    x_test=cleanText(x_test)
+
+    x=x_train+x_test
+    cores=multiprocessing.cpu_count()
+
+    if os.path.exists(word2ver_bin):
+        print "Find cache file %s" % word2ver_bin
+        model=gensim.models.Word2Vec.load(word2ver_bin)
+    else:
+        model=gensim.models.Word2Vec(size=200, window=8, min_count=19, iter=10, workers=cores)
+
+        model.build_vocab(x)
+
+        model.train(x, total_examples=model.corpus_count, epochs=model.iter)
+        model.save(word2ver_bin)
+
+
+    x_train=getVecsByWord2Vec(model,x_train,max_features)
+    x_test = getVecsByWord2Vec(model, x_test, max_features)
 
     return x_train, x_test, y_train, y_test
 
@@ -353,6 +516,17 @@ if __name__ == "__main__":
     #do_rnn_wordbag(x_train, x_test, y_train, y_test)
     print "get_features_by_doc2vec"
     x_train, x_test, y_train, y_test=get_features_by_doc2vec()
+    #print "get_features_by_word2vec"
+    #x_train, x_test, y_train, y_test=get_features_by_word2vec()
+    #print x_train
+    #print x_test
 
     #NB
-    #do_nb_wordbag(x_train, x_test, y_train, y_test)
+    #do_nb_doc2vec(x_train, x_test, y_train, y_test)
+    #CNN
+
+    #do_cnn_doc2vec(x_train, x_test, y_train, y_test)
+    #DNN
+    #do_dnn_doc2vec(x_train, x_test, y_train, y_test)
+    #SVM
+    do_svm_doc2vec(x_train, x_test, y_train, y_test)
