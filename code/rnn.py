@@ -55,3 +55,4 @@ def bi_lstm(trainX, trainY,testX, testY):
 
 #lstm(trainX, trainY,testX, testY)
 bi_lstm(trainX, trainY,testX, testY)
+
