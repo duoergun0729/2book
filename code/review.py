@@ -24,8 +24,9 @@ from gensim.models import Doc2Vec
 from gensim.models.doc2vec import Doc2Vec,LabeledSentence
 from random import shuffle
 import multiprocessing
+from sklearn.ensemble import RandomForestClassifier
 
-max_features=200
+max_features=400
 max_document_length=1000
 vocabulary=None
 doc2ver_bin="doc2ver.bin"
@@ -167,6 +168,16 @@ def do_svm_doc2vec(x_train, x_test, y_train, y_test):
     y_pred = clf.predict(x_test)
     print metrics.accuracy_score(y_test, y_pred)
     print metrics.confusion_matrix(y_test, y_pred)
+
+
+def do_rf_doc2vec(x_train, x_test, y_train, y_test):
+    print "rf and doc2vec"
+    clf = RandomForestClassifier(n_estimators=10)
+    clf.fit(x_train, y_train)
+    y_pred = clf.predict(x_test)
+    print metrics.accuracy_score(y_test, y_pred)
+    print metrics.confusion_matrix(y_test, y_pred)
+
 
 def get_features_by_wordbag_tfidf():
     global max_features
@@ -332,11 +343,11 @@ def do_dnn_wordbag(x_train, x_test, y_train, y_test):
 
 def do_dnn_doc2vec(x_train, x_test, y_train, y_test):
     print "MLP and doc2vec"
-
+    global max_features
     # Building deep neural network
     clf = MLPClassifier(solver='lbfgs',
                         alpha=1e-5,
-                        hidden_layer_sizes = (200, 2),
+                        hidden_layer_sizes = (5, 2),
                         random_state = 1)
     print  clf
     clf.fit(x_train, y_train)
@@ -400,22 +411,25 @@ def getVecs(model, corpus, size):
 
 def getVecsByWord2Vec(model, corpus, size):
     global max_document_length
+    #x=np.zeros((max_document_length,size),dtype=float, order='C')
     x=[]
-    for v in corpus:
-        #v = pad_sequences(v, maxlen=max_document_length, value=0.)
-        xx=[]
-        for i, vv in enumerate(v):
-            if vv in model:
-                xx.append(model[vv])
 
-        xx = pad_sequences(xx, maxlen=size, value=0.)
-        x.append(xx)
+    for text in corpus:
+        xx = []
+        for i, vv in enumerate(text):
+            try:
+                xx.append(model[vv].reshape((1,size)))
+            except KeyError:
+                continue
 
-    x=pad_sequences(x, maxlen=max_document_length, value=0.)
+        x = np.concatenate(xx)
+
+    x=np.array(x, dtype='float')
     return x
 
 
 def  get_features_by_doc2vec():
+    global  max_features
     x_train, x_test, y_train, y_test=load_all_files()
 
     x_train=cleanText(x_train)
@@ -436,7 +450,7 @@ def  get_features_by_doc2vec():
         print "Find cache file %s" % doc2ver_bin
         model=Doc2Vec.load(doc2ver_bin)
     else:
-        model=Doc2Vec(dm=0, dbow_words=1, size=200, window=8, min_count=19, iter=10, workers=cores)
+        model=Doc2Vec(dm=0, size=max_features, negative=5, hs=0, min_count=2, workers=cores,iter=60)
 
 
         #for model in models:
@@ -448,7 +462,6 @@ def  get_features_by_doc2vec():
         #for model in models:
         #    model.train(x, total_examples=model.corpus_count, epochs=model.iter)
         #models[0].train(x, total_examples=model.corpus_count, epochs=model.iter)
-        model.iter=20
         model.train(x, total_examples=model.corpus_count, epochs=model.iter)
         model.save(doc2ver_bin)
 
@@ -460,6 +473,7 @@ def  get_features_by_doc2vec():
     return x_train, x_test, y_train, y_test
 
 def  get_features_by_word2vec():
+    global  max_features
     x_train, x_test, y_train, y_test=load_all_files()
 
     x_train=cleanText(x_train)
@@ -472,7 +486,7 @@ def  get_features_by_word2vec():
         print "Find cache file %s" % word2ver_bin
         model=gensim.models.Word2Vec.load(word2ver_bin)
     else:
-        model=gensim.models.Word2Vec(size=200, window=8, min_count=19, iter=10, workers=cores)
+        model=gensim.models.Word2Vec(size=max_features, window=5, min_count=10, iter=10, workers=cores)
 
         model.build_vocab(x)
 
@@ -516,8 +530,8 @@ if __name__ == "__main__":
 
     #RNN
     #do_rnn_wordbag(x_train, x_test, y_train, y_test)
-    print "get_features_by_doc2vec"
-    #x_train, x_test, y_train, y_test=get_features_by_doc2vec()
+    #print "get_features_by_doc2vec"
+    x_train, x_test, y_train, y_test=get_features_by_doc2vec()
     #print "get_features_by_word2vec"
     #x_train, x_test, y_train, y_test=get_features_by_word2vec()
     #print x_train
@@ -532,3 +546,4 @@ if __name__ == "__main__":
     #do_dnn_doc2vec(x_train, x_test, y_train, y_test)
     #SVM
     #do_svm_doc2vec(x_train, x_test, y_train, y_test)
+    do_rf_doc2vec(x_train, x_test, y_train, y_test)
