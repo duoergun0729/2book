@@ -9,7 +9,9 @@ J McHugh. Testing Intrusion Detection Systems: A Critique of the 1998 and 1999 D
 Schonlau M, Couper M. Semi-automated categorization of open-ended questions. Survey Research Methods. August 2016.
 
 图书
+
 Peter Harrington, 机器学习实战[M], 李锐，李鹏，曲亚东，等译. 北京：人民邮电出版社，2013.
 
 杂志
+
 张有新，曾华燊，贾磊 .入侵检测数据集KDD CUP99研究[J] .计算机工程与设计，2010，22.
