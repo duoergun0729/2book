@@ -31,7 +31,7 @@ import xgboost as xgb
 from sklearn import preprocessing
 
 max_features=400
-max_document_length=1000
+max_document_length=160
 vocabulary=None
 doc2ver_bin="smsdoc2ver.bin"
 word2ver_bin="smsword2ver.bin"
@@ -612,13 +612,82 @@ def  get_features_by_word2vec_cnn_1d():
 
     return x_train, x_test, y_train, y_test
 
+def  get_features_by_word2vec_cnn_2d():
+    global max_features
+    global max_document_length
+    global word2ver_bin
+
+    x_train, x_test, y_train, y_test=load_all_files()
+
+    x_train_vecs=[]
+    x_test_vecs=[]
+
+    x_train=cleanText(x_train)
+    x_test=cleanText(x_test)
+
+    x=x_train+x_test
+    cores=multiprocessing.cpu_count()
+
+    if os.path.exists(word2ver_bin):
+        print "Find cache file %s" % word2ver_bin
+        model=gensim.models.Word2Vec.load(word2ver_bin)
+    else:
+        model=gensim.models.Word2Vec(size=max_features, window=10, min_count=1, iter=60, workers=cores)
+
+        model.build_vocab(x)
+
+        model.train(x, total_examples=model.corpus_count, epochs=model.iter)
+        model.save(word2ver_bin)
+
+
+    #x_train_vec=np.zeros((max_document_length,max_features))
+    #x_test_vec=np.zeros((max_document_length, max_features))
+    """
+    x_train= np.concatenate([buildWordVector(model,z, max_features) for z in x_train])
+    x_train = min_max_scaler.fit_transform(x_train)
+    x_test= np.concatenate([buildWordVector(model,z, max_features) for z in x_test])
+    x_test = min_max_scaler.transform(x_test)
+    vec += imdb_w2v[word].reshape((1, size))
+    """
+    #x_train = np.concatenate([buildWordVector_2d(model, z, max_features) for z in x_train])
+    x_all=np.zeros((1,max_features))
+    for sms in x_train:
+        sms=sms[:max_document_length]
+        #print sms
+        x_train_vec = np.zeros((max_document_length, max_features))
+        for i,w in enumerate(sms):
+            vec=model[w].reshape((1, max_features))
+            x_train_vec[i-1]=vec.copy()
+            x_all=np.concatenate(x_all,vec)
+        x_train_vecs.append(x_train_vec)
+        #print x_train_vec.shape
+    for sms in x_test:
+        sms=sms[:max_document_length]
+        #print sms
+        x_test_vec = np.zeros((max_document_length, max_features))
+        for i,w in enumerate(sms):
+            vec=model[w].reshape((1, max_features))
+            x_test_vec[i-1]=vec.copy()
+            #x_all.append(vec)
+        x_test_vecs.append(x_test_vec)
+
+    #print x_train
+    #print x_all
+    min_max_scaler = preprocessing.MinMaxScaler()
+    x_all = min_max_scaler.fit(x_all)
+    x_train=x_train_vecs
+    x_test=x_test_vecs
+
+    return x_train, x_test, y_train, y_test
 
 if __name__ == "__main__":
     print "Hello sms"
 
     print "get_features_by_word2vec"
     #x_train, x_test, y_train, y_test=get_features_by_word2vec()
-    x_train, x_test, y_train, y_test =get_features_by_word2vec_cnn_1d()
+    #x_train, x_test, y_train, y_test =get_features_by_word2vec_cnn_1d()
+    x_train, x_test, y_train, y_test = get_features_by_word2vec_cnn_2d()
+    print x_train
     #print "get_features_by_wordbag"
     #x_train, x_test, y_train, y_test=get_features_by_wordbag_tfidf()
     #NB
