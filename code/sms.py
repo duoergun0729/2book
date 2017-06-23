@@ -248,6 +248,53 @@ def do_cnn_doc2vec_2d(trainX, testX, trainY, testY):
                validation_set=({'input': testX}, {'target': testY}),
                snapshot_step=100, show_metric=True, run_id='review')
 
+def do_cnn_word2vec_2d(trainX, testX, trainY, testY):
+    global max_features
+    global max_document_length
+    print "CNN and word2vec2d"
+    y_test = testY
+    #trainX = pad_sequences(trainX, maxlen=max_features, value=0.)
+    #testX = pad_sequences(testX, maxlen=max_features, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Building convolutional network
+    network = input_data(shape=[None,max_document_length,max_features,1], name='input')
+
+    network = conv_2d(network, 32, 3, activation='relu', regularizer="L2")
+    network = max_pool_2d(network, 2)
+    network = local_response_normalization(network)
+    network = conv_2d(network, 64, 3, activation='relu', regularizer="L2")
+    network = max_pool_2d(network, 2)
+    network = local_response_normalization(network)
+    network = fully_connected(network, 128, activation='tanh')
+    network = dropout(network, 0.8)
+    network = fully_connected(network, 256, activation='tanh')
+    network = dropout(network, 0.8)
+    network = fully_connected(network, 2, activation='softmax')
+    network = regression(network, optimizer='adam', learning_rate=0.01,
+                         loss='categorical_crossentropy', name='target')
+
+    model = tflearn.DNN(network, tensorboard_verbose=0)
+    model.fit(trainX, trainY,
+              n_epoch=5, shuffle=True, validation_set=(testX, testY),
+              show_metric=True,run_id="sms")
+
+    y_predict_list = model.predict(testX)
+    print y_predict_list
+
+    y_predict = []
+    for i in y_predict_list:
+        print  i[0]
+        if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+
+    print(classification_report(y_test, y_predict))
+    print metrics.confusion_matrix(y_test, y_predict)
+
 def do_cnn_word2vec(trainX, testX, trainY, testY):
     global max_features
     print "CNN and word2vec"
@@ -658,7 +705,7 @@ def  get_features_by_word2vec_cnn_2d():
         for i,w in enumerate(sms):
             vec=model[w].reshape((1, max_features))
             x_train_vec[i-1]=vec.copy()
-            x_all=np.concatenate(x_all,vec)
+            #x_all=np.concatenate((x_all,vec))
         x_train_vecs.append(x_train_vec)
         #print x_train_vec.shape
     for sms in x_test:
@@ -674,9 +721,15 @@ def  get_features_by_word2vec_cnn_2d():
     #print x_train
     #print x_all
     min_max_scaler = preprocessing.MinMaxScaler()
-    x_all = min_max_scaler.fit(x_all)
-    x_train=x_train_vecs
-    x_test=x_test_vecs
+    print "fix min_max_scaler"
+    x_train_2d=np.concatenate([z for z in x_train_vecs])
+    min_max_scaler.fit(x_train_2d)
+
+    x_train=np.concatenate([min_max_scaler.transform(i) for i in x_train_vecs])
+    x_test=np.concatenate([min_max_scaler.transform(i) for i in x_test_vecs])
+
+    x_train=x_train.reshape([-1, max_document_length, max_features, 1])
+    x_test = x_test.reshape([-1, max_document_length, max_features, 1])
 
     return x_train, x_test, y_train, y_test
 
@@ -687,7 +740,7 @@ if __name__ == "__main__":
     #x_train, x_test, y_train, y_test=get_features_by_word2vec()
     #x_train, x_test, y_train, y_test =get_features_by_word2vec_cnn_1d()
     x_train, x_test, y_train, y_test = get_features_by_word2vec_cnn_2d()
-    print x_train
+    #print x_train
     #print "get_features_by_wordbag"
     #x_train, x_test, y_train, y_test=get_features_by_wordbag_tfidf()
     #NB
@@ -697,6 +750,7 @@ if __name__ == "__main__":
     #CNN
     #do_cnn_word2vec(x_train, x_test, y_train, y_test)
     #do_cnn_doc2vec_2d(x_train, x_test, y_train, y_test)
+    do_cnn_word2vec_2d(x_train, x_test, y_train, y_test)
     #DNN
     #do_dnn_doc2vec(x_train, x_test, y_train, y_test)
     #do_dnn_word2vec(x_train, x_test, y_train, y_test)
