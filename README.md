@@ -1,6 +1,13 @@
 参考文献格式举例：
 
-论文&会议类
+会议
+
+Krizhevsky A, Sutskever I, Hinton G E. Imagenet classification with deep convolutional neural networks[C]. International Conference on Neural Information Processing Systems, 2012.
+
+Sun Y, Wang X, Tang X. Deep learning face representation from predicting 10,000 classes[C]. IEEE Conference on Computer Vision & Pattern Recognition, 2014.
+
+
+论文
 
 R Lippmann, J W Haines, D J Fried, J Korba, K Das. Analysis and Results of the The 1999 DARPA Off-Line Intrusion Detection Evaluation. International Symposium on Recent Advances in Intrusion Detection, 2000, 34 (4):162-182.
 
