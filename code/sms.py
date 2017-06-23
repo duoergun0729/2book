@@ -295,6 +295,49 @@ def do_cnn_word2vec_2d(trainX, testX, trainY, testY):
     print(classification_report(y_test, y_predict))
     print metrics.confusion_matrix(y_test, y_predict)
 
+
+def do_cnn_word2vec_2d_345(trainX, testX, trainY, testY):
+    global max_features
+    global max_document_length
+    print "CNN and word2vec_2d_345"
+    y_test = testY
+
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Building convolutional network
+    network = input_data(shape=[None,max_document_length,max_features,1], name='input')
+    network = tflearn.embedding(network, input_dim=1, output_dim=128,validate_indices=False)
+    branch1 = conv_2d(network, 128, 3, padding='valid', activation='relu', regularizer="L2")
+    branch2 = conv_2d(network, 128, 4, padding='valid', activation='relu', regularizer="L2")
+    branch3 = conv_2d(network, 128, 5, padding='valid', activation='relu', regularizer="L2")
+    network = merge([branch1, branch2, branch3], mode='concat', axis=1)
+    network = tf.expand_dims(network, 2)
+    network = global_max_pool_2d(network)
+    network = dropout(network, 0.8)
+    network = fully_connected(network, 2, activation='softmax')
+    network = regression(network, optimizer='adam', learning_rate=0.001,
+                         loss='categorical_crossentropy', name='target')
+    # Training
+    model = tflearn.DNN(network, tensorboard_verbose=0)
+    model.fit(trainX, trainY,
+              n_epoch=5, shuffle=True, validation_set=(testX, testY),
+              show_metric=True, batch_size=100,run_id="sms")
+
+    y_predict_list = model.predict(testX)
+    print y_predict_list
+
+    y_predict = []
+    for i in y_predict_list:
+        print  i[0]
+        if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+
+    print(classification_report(y_test, y_predict))
+    print metrics.confusion_matrix(y_test, y_predict)
+
 def do_cnn_word2vec(trainX, testX, trainY, testY):
     global max_features
     print "CNN and word2vec"
@@ -750,7 +793,8 @@ if __name__ == "__main__":
     #CNN
     #do_cnn_word2vec(x_train, x_test, y_train, y_test)
     #do_cnn_doc2vec_2d(x_train, x_test, y_train, y_test)
-    do_cnn_word2vec_2d(x_train, x_test, y_train, y_test)
+    #do_cnn_word2vec_2d(x_train, x_test, y_train, y_test)
+    do_cnn_word2vec_2d_345(x_train, x_test, y_train, y_test)
     #DNN
     #do_dnn_doc2vec(x_train, x_test, y_train, y_test)
     #do_dnn_word2vec(x_train, x_test, y_train, y_test)
