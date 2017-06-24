@@ -122,7 +122,7 @@ def  get_features_by_wordseq():
         v=" ".join(v)
         x.append(v)
 
-    vp=tflearn.data_utils.VocabularyProcessor(max_document_length=100,
+    vp=tflearn.data_utils.VocabularyProcessor(max_document_length=max_features,
                                               min_frequency=0,
                                               vocabulary=None,
                                               tokenizer_fn=None)
@@ -135,6 +135,19 @@ def  get_features_by_wordseq():
     y_test = y[index:, ]
 
     return x_train, x_test, y_train, y_test
+
+def do_mlp(x_train, x_test, y_train, y_test):
+
+    global max_features
+    # Building deep neural network
+    clf = MLPClassifier(solver='lbfgs',
+                        alpha=1e-5,
+                        hidden_layer_sizes = (5, 2),
+                        random_state = 1)
+    clf.fit(x_train, y_train)
+    y_pred = clf.predict(x_test)
+    print(classification_report(y_test, y_pred))
+    print metrics.confusion_matrix(y_test, y_pred)
 
 def do_xgboost(x_train, x_test, y_train, y_test):
     xgb_model = xgb.XGBClassifier().fit(x_train, y_train)
@@ -199,8 +212,8 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
 
     # Network building
     net = tflearn.input_data([None, 100])
-    net = tflearn.embedding(net, input_dim=1000, output_dim=128)
-    net = tflearn.lstm(net, 64, dropout=0.1)
+    net = tflearn.embedding(net, input_dim=1000, output_dim=100)
+    net = tflearn.lstm(net, 1, dropout=0.1)
     net = tflearn.fully_connected(net, 2, activation='softmax')
     net = tflearn.regression(net, optimizer='adam', learning_rate=0.001,
                              loss='categorical_crossentropy')
@@ -246,6 +259,11 @@ if __name__ == "__main__":
     x_train, x_test, y_train, y_test=get_features_by_ngram()
     do_xgboost(x_train, x_test, y_train, y_test)
 
+    print "mlp and wordbag"
+    max_features=100
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test=get_features_by_wordbag()
+    do_mlp(x_train, x_test, y_train, y_test)
 
     print "rnn and wordseq"
     max_features=100
