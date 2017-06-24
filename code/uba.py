@@ -55,7 +55,6 @@ def get_features_by_wordbag():
 
     for i,v in enumerate(x_arr):
         v=" ".join(v)
-        print v
         x.append(v)
 
     vectorizer = CountVectorizer(
@@ -71,8 +70,75 @@ def get_features_by_wordbag():
     x_test=x[index:,]
     y_train=y[0:index,]
     y_test=y[index:,]
-    print y_train
-    print y_test
+
+    transformer = TfidfTransformer(smooth_idf=False)
+    transformer.fit(x)
+    x_test = transformer.transform(x_test)
+    x_train = transformer.transform(x_train)
+
+    return x_train, x_test, y_train, y_test
+
+
+def get_features_by_ngram():
+    global max_features
+    global  index
+    x_arr,y=get_cmdlines()
+    x=[]
+
+    for i,v in enumerate(x_arr):
+        v=" ".join(v)
+        x.append(v)
+
+    vectorizer = CountVectorizer(
+                                 ngram_range=(2, 4),
+                                 token_pattern=r'\b\w+\b',
+                                 decode_error='ignore',
+                                 strip_accents='ascii',
+                                 max_features=max_features,
+                                 stop_words='english',
+                                 max_df=1.0,
+                                 min_df=1 )
+    x=vectorizer.fit_transform(x)
+
+    x_train=x[0:index,]
+    x_test=x[index:,]
+    y_train=y[0:index,]
+    y_test=y[index:,]
+
+    transformer = TfidfTransformer(smooth_idf=False)
+    transformer.fit(x)
+    x_test = transformer.transform(x_test)
+    x_train = transformer.transform(x_train)
+
+    return x_train, x_test, y_train, y_test
+
+def  get_features_by_wordseq():
+    global max_features
+    global  index
+    x_arr,y=get_cmdlines()
+    x=[]
+
+    for i,v in enumerate(x_arr):
+        v=" ".join(v)
+        x.append(v)
+
+    vp=tflearn.data_utils.VocabularyProcessor(max_document_length=100,
+                                              min_frequency=0,
+                                              vocabulary=None,
+                                              tokenizer_fn=None)
+    x=vp.fit_transform(x, unused_y=None)
+    x = np.array(list(x))
+
+    x_train = x[0:index, ]
+    x_test = x[index:, ]
+    y_train = y[0:index, ]
+    y_test = y[index:, ]
+
+    #x_train = vp.transform(x_train)
+    #x_train = np.array(list(x_train))
+    #x_test = vp.transform(x_test)
+    #x_test = np.array(list(x_test))
+
 
     return x_train, x_test, y_train, y_test
 
@@ -83,11 +149,66 @@ def do_xgboost(x_train, x_test, y_train, y_test):
     print(classification_report(y_test, y_pred))
     print metrics.confusion_matrix(y_test, y_pred)
 
+
+def do_rnn_wordbag(trainX, testX, trainY, testY):
+    y_test=testY
+    trainX = pad_sequences(trainX, maxlen=100, value=0.)
+    testX = pad_sequences(testX, maxlen=100, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Network building
+    net = tflearn.input_data([None, 100])
+    net = tflearn.embedding(net, input_dim=100, output_dim=128)
+    net = tflearn.lstm(net, 128, dropout=0.8)
+    net = tflearn.fully_connected(net, 2, activation='softmax')
+    net = tflearn.regression(net, optimizer='adam', learning_rate=0.001,
+                             loss='categorical_crossentropy')
+
+    # Training
+    model = tflearn.DNN(net, tensorboard_verbose=0)
+    model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
+              batch_size=10,run_id="sms",n_epoch=5)
+
+    y_predict_list = model.predict(testX)
+    print y_predict_list
+
+    y_predict = []
+    for i in y_predict_list:
+        print  i[0]
+        if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+
+    print(classification_report(y_test, y_predict))
+    print metrics.confusion_matrix(y_test, y_predict)
+
 if __name__ == "__main__":
     print "Hello uba"
 
     print "xgboost and wordbag"
+    max_features=100
+    print "max_features=%d" % max_features
     x_train, x_test, y_train, y_test=get_features_by_wordbag()
     do_xgboost(x_train, x_test, y_train, y_test)
 
 
+    print "xgboost and ngram"
+    max_features=1000
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test=get_features_by_ngram()
+    do_xgboost(x_train, x_test, y_train, y_test)
+
+    print "xgboost and wordseq"
+    max_features=1000
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test=get_features_by_wordseq()
+    do_xgboost(x_train, x_test, y_train, y_test)
+
+    print "rnn and wordseq"
+    max_features=100
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test=get_features_by_wordseq()
+    do_rnn_wordbag(x_train, x_test, y_train, y_test)
