@@ -33,7 +33,8 @@ from sklearn import preprocessing
 
 cmdlines_file="../data/uba/MasqueradeDat/User7"
 labels_file="../data/uba/MasqueradeDat/label.txt"
-max_features=500
+max_features=100
+index = 80
 
 def get_cmdlines():
     x=np.loadtxt(cmdlines_file,dtype=str)
@@ -42,12 +43,13 @@ def get_cmdlines():
     y=y.reshape((100, 1))
     y_train=np.zeros([50,1],int)
     y=np.concatenate([y_train,y])
-    y=y.reshape((150, 1))
+    y=y.reshape((150, ))
 
     return x,y
 
 def get_features_by_wordbag():
     global max_features
+    global  index
     x_arr,y=get_cmdlines()
     x=[]
 
@@ -63,10 +65,14 @@ def get_features_by_wordbag():
                                  stop_words='english',
                                  max_df=1.0,
                                  min_df=1 )
-    #print vectorizer
     x=vectorizer.fit_transform(x)
-    #print x
-    x_train, x_test, y_train, y_test=train_test_split(x, y, test_size=0.4)
+
+    x_train=x[0:index,]
+    x_test=x[index:,]
+    y_train=y[0:index,]
+    y_test=y[index:,]
+    print y_train
+    print y_test
 
     return x_train, x_test, y_train, y_test
 
