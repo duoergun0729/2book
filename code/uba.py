@@ -134,34 +134,73 @@ def  get_features_by_wordseq():
     y_train = y[0:index, ]
     y_test = y[index:, ]
 
-    #x_train = vp.transform(x_train)
-    #x_train = np.array(list(x_train))
-    #x_test = vp.transform(x_test)
-    #x_test = np.array(list(x_test))
-
-
     return x_train, x_test, y_train, y_test
 
 def do_xgboost(x_train, x_test, y_train, y_test):
-    print "xgboost"
     xgb_model = xgb.XGBClassifier().fit(x_train, y_train)
     y_pred = xgb_model.predict(x_test)
     print(classification_report(y_test, y_pred))
     print metrics.confusion_matrix(y_test, y_pred)
 
+def do_nb(x_train, x_test, y_train, y_test):
+    gnb = GaussianNB()
+    gnb.fit(x_train,y_train)
+    y_pred=gnb.predict(x_test)
+    print(classification_report(y_test, y_pred))
+    print metrics.confusion_matrix(y_test, y_pred)
+
+def do_cnn(trainX, testX, trainY, testY):
+    global max_features
+    y_test = testY
+    #trainX = pad_sequences(trainX, maxlen=max_features, value=0.)
+    #testX = pad_sequences(testX, maxlen=max_features, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Building convolutional network
+    network = input_data(shape=[None,max_features], name='input')
+    network = tflearn.embedding(network, input_dim=1000, output_dim=128,validate_indices=False)
+    branch1 = conv_1d(network, 32, 3, padding='valid', activation='relu', regularizer="L2")
+    branch2 = conv_1d(network, 32, 4, padding='valid', activation='relu', regularizer="L2")
+    branch3 = conv_1d(network, 32, 5, padding='valid', activation='relu', regularizer="L2")
+    network = merge([branch1, branch2, branch3], mode='concat', axis=1)
+    network = tf.expand_dims(network, 2)
+    network = global_max_pool(network)
+    network = dropout(network, 0.1)
+    network = fully_connected(network, 2, activation='softmax')
+    network = regression(network, optimizer='adam', learning_rate=0.001,
+                         loss='categorical_crossentropy', name='target')
+    # Training
+    model = tflearn.DNN(network, tensorboard_verbose=0)
+    model.fit(trainX, trainY,
+              n_epoch=10, shuffle=True, validation_set=(testX, testY),
+              show_metric=True, batch_size=10,run_id="uba")
+
+    y_predict_list = model.predict(testX)
+
+    y_predict = []
+    for i in y_predict_list:
+        if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+
+    print(classification_report(y_test, y_predict))
+    print metrics.confusion_matrix(y_test, y_predict)
 
 def do_rnn_wordbag(trainX, testX, trainY, testY):
     y_test=testY
-    trainX = pad_sequences(trainX, maxlen=100, value=0.)
-    testX = pad_sequences(testX, maxlen=100, value=0.)
+    #trainX = pad_sequences(trainX, maxlen=100, value=0.)
+    #testX = pad_sequences(testX, maxlen=100, value=0.)
     # Converting labels to binary vectors
     trainY = to_categorical(trainY, nb_classes=2)
     testY = to_categorical(testY, nb_classes=2)
 
     # Network building
     net = tflearn.input_data([None, 100])
-    net = tflearn.embedding(net, input_dim=100, output_dim=128)
-    net = tflearn.lstm(net, 128, dropout=0.8)
+    net = tflearn.embedding(net, input_dim=1000, output_dim=128)
+    net = tflearn.lstm(net, 64, dropout=0.1)
     net = tflearn.fully_connected(net, 2, activation='softmax')
     net = tflearn.regression(net, optimizer='adam', learning_rate=0.001,
                              loss='categorical_crossentropy')
@@ -169,14 +208,14 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     # Training
     model = tflearn.DNN(net, tensorboard_verbose=0)
     model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
-              batch_size=10,run_id="sms",n_epoch=5)
+              batch_size=10,run_id="uba",n_epoch=10)
 
     y_predict_list = model.predict(testX)
-    print y_predict_list
+    #print y_predict_list
 
     y_predict = []
     for i in y_predict_list:
-        print  i[0]
+        #print  i[0]
         if i[0] > 0.5:
             y_predict.append(0)
         else:
@@ -187,6 +226,12 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
 
 if __name__ == "__main__":
     print "Hello uba"
+
+    print "nb and wordbag"
+    max_features=100
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test=get_features_by_wordbag()
+    do_nb(x_train.toarray(), x_test.toarray(), y_train, y_test)
 
     print "xgboost and wordbag"
     max_features=100
@@ -201,11 +246,6 @@ if __name__ == "__main__":
     x_train, x_test, y_train, y_test=get_features_by_ngram()
     do_xgboost(x_train, x_test, y_train, y_test)
 
-    print "xgboost and wordseq"
-    max_features=1000
-    print "max_features=%d" % max_features
-    x_train, x_test, y_train, y_test=get_features_by_wordseq()
-    do_xgboost(x_train, x_test, y_train, y_test)
 
     print "rnn and wordseq"
     max_features=100
