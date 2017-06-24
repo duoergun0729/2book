@@ -25,8 +25,11 @@ from tensorflow.contrib import learn
 import commands
 from sklearn.ensemble import RandomForestClassifier
 import pickle
+from sklearn.metrics import classification_report
+import xgboost as xgb
+from sklearn import preprocessing
 
-max_features=500
+max_features=10000
 max_document_length=100
 min_opcode_count=2
 
@@ -41,8 +44,8 @@ whitefile_dir="../data/webshell/normal/php/"
 check_dir="../../../../../Downloads/php-exploit-scripts-master/"
 white_count=0
 black_count=0
-php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
-#php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
+#php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
+php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
 #php_bin=" /home/fuxi/dev/opt/php/bin/php"
 
 
@@ -54,6 +57,15 @@ label_pkl_file="label-webshell-opcode-tf.pkl"
 
 #pro
 #php_bin="/home/fuxi/dev/opt/php/bin/php"
+
+
+def do_xgboost(x,y):
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=0)
+    print "xgboost"
+    xgb_model = xgb.XGBClassifier().fit(x_train, y_train)
+    y_pred = xgb_model.predict(x_test)
+    print(classification_report(y_test, y_pred))
+    print metrics.confusion_matrix(y_test, y_pred)
 
 def load_files_re(dir):
     files_list = []
@@ -148,7 +160,7 @@ def get_feature_by_bag_tfidf():
     x=webshell_files_list+wp_files_list
     y=y1+y2
 
-    CV = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",max_features=max_features,
+    CV = CountVectorizer(ngram_range=(2, 4), decode_error="ignore",max_features=max_features,
                                        token_pattern = r'\b\w+\b',min_df=1, max_df=1.0)
     x=CV.fit_transform(x).toarray()
 
@@ -182,15 +194,10 @@ def get_feature_by_opcode():
     #print x
     y=y1+y2
 
-    CV = CountVectorizer(ngram_range=(4, 4), decode_error="ignore",max_features=max_features,
+    CV = CountVectorizer(ngram_range=(2, 4), decode_error="ignore",max_features=max_features,
                                        token_pattern = r'\b\w+\b',min_df=1, max_df=1.0)
 
     x=CV.fit_transform(x).toarray()
-    #print x
-
-    #transformer = TfidfTransformer(smooth_idf=False)
-    #x_tfidf = transformer.fit_transform(x)
-    #x = x_tfidf.toarray()
 
     return x,y
 
@@ -237,8 +244,8 @@ def get_feature_by_opcode_tf():
         f = open(label_pkl_file, 'wb')
         pickle.dump(y, f)
         f.close()
-    print x
-    print y
+    #print x
+    #print y
     return x,y
 
 
@@ -455,10 +462,10 @@ def do_rf(x,y):
     do_metrics(y_test,y_pred)
 
 if __name__ == '__main__':
-    x, y = get_feature_by_opcode_tf()
+    #x, y = get_feature_by_opcode_tf()
     #x,y=get_feature_by_bag_tfidf()
     #x, y = get_feature_by_opcode()
-    print "load %d white %d black" % ( white_count,black_count )
+    #print "load %d white %d black" % ( white_count,black_count )
 
     #mlp
     #do_mlp(x,y)
@@ -472,12 +479,31 @@ if __name__ == '__main__':
     #x,y=get_features_by_tf()
 
     #do_cnn(x,y)
-    do_rnn(x,y)
+    #do_rnn(x,y)
 
 
 
+    print "xgboost and bag and 2-gram"
+    max_features=5000
+    print "max_features=%d" % max_features
+    x, y = get_feature_by_bag_tfidf()
+    print "load %d white %d black" % (white_count, black_count)
+    do_xgboost(x, y)
+
+    print "xgboost and opcode and 4-gram"
+    max_features=10000
+    max_document_length=4000
+    print "max_features=%d max_document_length=%d" % (max_features,max_document_length)
+    x, y = get_feature_by_opcode()
+    print "load %d white %d black" % (white_count, black_count)
+    do_xgboost(x, y)
 
 
-
-
+    print "xgboost and wordbag and 2-gram"
+    max_features=10000
+    max_document_length=4000
+    print "max_features=%d max_document_length=%d" % (max_features,max_document_length)
+    x, y = get_feature_by_bag_tfidf()
+    print "load %d white %d black" % (white_count, black_count)
+    do_xgboost(x, y)
 

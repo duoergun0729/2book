@@ -30,7 +30,7 @@ from sklearn.metrics import classification_report
 import xgboost as xgb
 from sklearn import preprocessing
 
-max_features=400
+max_features=1000
 max_document_length=160
 vocabulary=None
 doc2ver_bin="smsdoc2ver.bin"
@@ -55,6 +55,7 @@ def load_all_files():
                 y.append(1)
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.4)
     return x_train, x_test, y_train, y_test
+
 
 def get_features_by_wordbag():
     global max_features
@@ -177,6 +178,47 @@ def get_features_by_wordbag_tfidf():
                                  vocabulary=vocabulary,
                                  stop_words='english',
                                  max_df=1.0,binary=True,
+                                 min_df=1 )
+    print vectorizer
+    x_test=vectorizer.fit_transform(x_test)
+    x_test=x_test.toarray()
+
+    transformer = TfidfTransformer(smooth_idf=False)
+    x_train=transformer.fit_transform(x_train)
+    x_train=x_train.toarray()
+    x_test=transformer.transform(x_test)
+    x_test=x_test.toarray()
+
+    return x_train, x_test, y_train, y_test
+
+
+def get_features_by_ngram():
+    global max_features
+    x_train, x_test, y_train, y_test=load_all_files()
+
+    vectorizer = CountVectorizer(
+                                 decode_error='ignore',
+                                ngram_range=(3, 3),
+                                strip_accents='ascii',
+                                 max_features=max_features,
+                                 stop_words='english',
+                                 max_df=1.0,
+                                 min_df=1,
+                                 token_pattern=r'\b\w+\b',
+                                 binary=True)
+    print vectorizer
+    x_train=vectorizer.fit_transform(x_train)
+    x_train=x_train.toarray()
+    vocabulary=vectorizer.vocabulary_
+
+    vectorizer = CountVectorizer(
+                                 decode_error='ignore',
+                                ngram_range=(3, 3),
+                                strip_accents='ascii',
+                                 vocabulary=vocabulary,
+                                 stop_words='english',
+                                 max_df=1.0,binary=True,
+                                 token_pattern=r'\b\w+\b',
                                  min_df=1 )
     print vectorizer
     x_test=vectorizer.fit_transform(x_test)
@@ -415,7 +457,7 @@ def do_cnn_doc2vec(trainX, testX, trainY, testY):
 def do_rnn_wordbag(trainX, testX, trainY, testY):
     global max_document_length
     print "RNN and wordbag"
-
+    y_test=testY
     trainX = pad_sequences(trainX, maxlen=max_document_length, value=0.)
     testX = pad_sequences(testX, maxlen=max_document_length, value=0.)
     # Converting labels to binary vectors
@@ -433,7 +475,21 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     # Training
     model = tflearn.DNN(net, tensorboard_verbose=0)
     model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
-              batch_size=10,run_id="review",n_epoch=5)
+              batch_size=10,run_id="sms",n_epoch=5)
+
+    y_predict_list = model.predict(testX)
+    print y_predict_list
+
+    y_predict = []
+    for i in y_predict_list:
+        print  i[0]
+        if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+
+    print(classification_report(y_test, y_predict))
+    print metrics.confusion_matrix(y_test, y_predict)
 
 def do_rnn_word2vec(trainX, testX, trainY, testY):
     global max_features
@@ -702,6 +758,8 @@ def  get_features_by_word2vec_cnn_1d():
 
     return x_train, x_test, y_train, y_test
 
+
+
 def  get_features_by_word2vec_cnn_2d():
     global max_features
     global max_document_length
@@ -778,13 +836,17 @@ def  get_features_by_word2vec_cnn_2d():
 
 if __name__ == "__main__":
     print "Hello sms"
-
-    print "get_features_by_word2vec"
+    x_train, x_test, y_train, y_test =get_features_by_tf()
+    #print "get_features_by_ngram"
+    #x_train, x_test, y_train, y_test=get_features_by_ngram()
+    #print "get_features_by_word2vec"
     #x_train, x_test, y_train, y_test=get_features_by_word2vec()
     #x_train, x_test, y_train, y_test =get_features_by_word2vec_cnn_1d()
-    x_train, x_test, y_train, y_test = get_features_by_word2vec_cnn_2d()
+    #x_train, x_test, y_train, y_test = get_features_by_word2vec_cnn_2d()
+    #x_train, x_test, y_train, y_test = get_features_by_word2vec_cnn_1d_log()
     #print x_train
     #print "get_features_by_wordbag"
+
     #x_train, x_test, y_train, y_test=get_features_by_wordbag_tfidf()
     #NB
     #do_nb_doc2vec(x_train, x_test, y_train, y_test)
@@ -794,7 +856,7 @@ if __name__ == "__main__":
     #do_cnn_word2vec(x_train, x_test, y_train, y_test)
     #do_cnn_doc2vec_2d(x_train, x_test, y_train, y_test)
     #do_cnn_word2vec_2d(x_train, x_test, y_train, y_test)
-    do_cnn_word2vec_2d_345(x_train, x_test, y_train, y_test)
+    #do_cnn_word2vec_2d_345(x_train, x_test, y_train, y_test)
     #DNN
     #do_dnn_doc2vec(x_train, x_test, y_train, y_test)
     #do_dnn_word2vec(x_train, x_test, y_train, y_test)
@@ -809,3 +871,4 @@ if __name__ == "__main__":
     #do_xgboost_wordbag(x_train, x_test, y_train, y_test)
     #RNN
     #do_rnn_word2vec(x_train, x_test, y_train, y_test)
+    do_rnn_wordbag(x_train, x_test, y_train, y_test)
