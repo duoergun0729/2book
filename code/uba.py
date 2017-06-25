@@ -33,7 +33,8 @@ from sklearn import preprocessing
 
 cmdlines_file="../data/uba/MasqueradeDat/User7"
 labels_file="../data/uba/MasqueradeDat/label.txt"
-max_features=100
+word2ver_bin="uba_word2vec.bin"
+max_features=300
 index = 80
 
 def get_cmdlines():
@@ -135,6 +136,65 @@ def  get_features_by_wordseq():
     y_test = y[index:, ]
 
     return x_train, x_test, y_train, y_test
+
+def buildWordVector(imdb_w2v,text, size):
+    vec = np.zeros(size).reshape((1, size))
+    count = 0.
+    for word in text:
+        try:
+            vec += imdb_w2v[word].reshape((1, size))
+            count += 1.
+        except KeyError:
+            continue
+    if count != 0:
+        vec /= count
+    return vec
+
+
+def  get_features_by_word2vec():
+    global word2ver_bin
+    global index
+    global max_features
+
+    x_all=[]
+
+    x_arr,y=get_cmdlines()
+
+    x=[]
+
+    for i,v in enumerate(x_arr):
+        v=" ".join(v)
+        x.append(v)
+
+    for i in range(1,30):
+        filename="../data/uba/MasqueradeDat/User%d" % i
+        with open(filename) as f:
+            x_all.append([w.strip('\n') for w in f.readlines()])
+
+
+    cores=multiprocessing.cpu_count()
+
+    if os.path.exists(word2ver_bin):
+        print "Find cache file %s" % word2ver_bin
+        model=gensim.models.Word2Vec.load(word2ver_bin)
+    else:
+        model=gensim.models.Word2Vec(size=max_features, window=5, min_count=1, iter=60, workers=cores)
+        model.build_vocab(x_all)
+        model.train(x_all, total_examples=model.corpus_count, epochs=model.iter)
+        #model.save(word2ver_bin)
+
+    x = np.concatenate([buildWordVector(model, z, max_features) for z in x])
+    x = scale(x)
+
+
+    x_train = x[0:index,]
+    x_test = x[index:,]
+
+    y_train = y[0:index,]
+    y_test = y[index:,]
+
+    return x_train, x_test, y_train, y_test
+
 
 def do_mlp(x_train, x_test, y_train, y_test):
 
@@ -240,6 +300,12 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
 if __name__ == "__main__":
     print "Hello uba"
 
+    print "xgboost and word2vec"
+    max_features = 50
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test = get_features_by_word2vec()
+    do_xgboost(x_train, x_test, y_train, y_test)
+    """
     print "nb and wordbag"
     max_features=100
     print "max_features=%d" % max_features
@@ -270,3 +336,4 @@ if __name__ == "__main__":
     print "max_features=%d" % max_features
     x_train, x_test, y_train, y_test=get_features_by_wordseq()
     do_rnn_wordbag(x_train, x_test, y_train, y_test)
+"""
