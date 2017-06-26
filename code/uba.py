@@ -30,6 +30,8 @@ from sklearn.preprocessing import scale
 from sklearn.metrics import classification_report
 import xgboost as xgb
 from sklearn import preprocessing
+from hmmlearn import hmm
+
 
 cmdlines_file="../data/uba/MasqueradeDat/User7"
 labels_file="../data/uba/MasqueradeDat/label.txt"
@@ -234,20 +236,20 @@ def do_cnn(trainX, testX, trainY, testY):
     # Building convolutional network
     network = input_data(shape=[None,max_features], name='input')
     network = tflearn.embedding(network, input_dim=1000, output_dim=128,validate_indices=False)
-    branch1 = conv_1d(network, 32, 3, padding='valid', activation='relu', regularizer="L2")
-    branch2 = conv_1d(network, 32, 4, padding='valid', activation='relu', regularizer="L2")
-    branch3 = conv_1d(network, 32, 5, padding='valid', activation='relu', regularizer="L2")
+    branch1 = conv_1d(network, 128, 2, padding='valid', activation='relu', regularizer="L2")
+    branch2 = conv_1d(network, 128, 3, padding='valid', activation='relu', regularizer="L2")
+    branch3 = conv_1d(network, 128, 4, padding='valid', activation='relu', regularizer="L2")
     network = merge([branch1, branch2, branch3], mode='concat', axis=1)
     network = tf.expand_dims(network, 2)
     network = global_max_pool(network)
-    network = dropout(network, 0.1)
+    network = dropout(network, 1)
     network = fully_connected(network, 2, activation='softmax')
     network = regression(network, optimizer='adam', learning_rate=0.001,
                          loss='categorical_crossentropy', name='target')
     # Training
     model = tflearn.DNN(network, tensorboard_verbose=0)
     model.fit(trainX, trainY,
-              n_epoch=10, shuffle=True, validation_set=(testX, testY),
+              n_epoch=10, shuffle=True, validation_set=0,
               show_metric=True, batch_size=10,run_id="uba")
 
     y_predict_list = model.predict(testX)
@@ -297,14 +299,23 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     print(classification_report(y_test, y_predict))
     print metrics.confusion_matrix(y_test, y_predict)
 
+def do_hmm(trainX, testX, trainY, testY):
+    global max_features
+    global index
+    N=5
+    lengths=[]
+    for i in range(0,index):
+        lens.append(100)
+
+    remodel = hmm.GaussianHMM(n_components=N, covariance_type="full", n_iter=100)
+    remodel.fit(trainX,lens )
+    y_predict = model.predict(testX)
+    print(classification_report(y_test, y_predict))
+    print metrics.confusion_matrix(y_test, y_predict)
+
 if __name__ == "__main__":
     print "Hello uba"
 
-    print "xgboost and word2vec"
-    max_features = 50
-    print "max_features=%d" % max_features
-    x_train, x_test, y_train, y_test = get_features_by_word2vec()
-    do_xgboost(x_train, x_test, y_train, y_test)
     """
     print "nb and wordbag"
     max_features=100
@@ -320,7 +331,7 @@ if __name__ == "__main__":
 
 
     print "xgboost and ngram"
-    max_features=1000
+    max_features=100
     print "max_features=%d" % max_features
     x_train, x_test, y_train, y_test=get_features_by_ngram()
     do_xgboost(x_train, x_test, y_train, y_test)
@@ -331,9 +342,37 @@ if __name__ == "__main__":
     x_train, x_test, y_train, y_test=get_features_by_wordbag()
     do_mlp(x_train, x_test, y_train, y_test)
 
+    print "mlp and ngram"
+    max_features=100
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test=get_features_by_ngram()
+    do_mlp(x_train, x_test, y_train, y_test)
+
+    print "xgboost and word2vec"
+    max_features = 100
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test = get_features_by_word2vec()
+    do_xgboost(x_train, x_test, y_train, y_test)
+
+
+
+    print "cnn and wordseq"
+    max_features=100
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test=get_features_by_wordseq()
+    print x_train
+    do_cnn(x_train, x_test, y_train, y_test)
+
     print "rnn and wordseq"
     max_features=100
     print "max_features=%d" % max_features
     x_train, x_test, y_train, y_test=get_features_by_wordseq()
+    print y_train
     do_rnn_wordbag(x_train, x_test, y_train, y_test)
-"""
+    """
+    print "hmm and wordseq"
+    max_features=100
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test=get_features_by_wordseq()
+    #print y_train
+    do_hmm(x_train, x_test, y_train, y_test)
