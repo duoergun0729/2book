@@ -299,19 +299,6 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     print(classification_report(y_test, y_predict))
     print metrics.confusion_matrix(y_test, y_predict)
 
-def do_hmm(trainX, testX, trainY, testY):
-    global max_features
-    global index
-    N=5
-    lengths=[]
-    for i in range(0,index):
-        lens.append(100)
-
-    remodel = hmm.GaussianHMM(n_components=N, covariance_type="full", n_iter=100)
-    remodel.fit(trainX,lens )
-    y_predict = model.predict(testX)
-    print(classification_report(y_test, y_predict))
-    print metrics.confusion_matrix(y_test, y_predict)
 
 if __name__ == "__main__":
     print "Hello uba"
@@ -370,9 +357,4 @@ if __name__ == "__main__":
     print y_train
     do_rnn_wordbag(x_train, x_test, y_train, y_test)
     """
-    print "hmm and wordseq"
-    max_features=100
-    print "max_features=%d" % max_features
-    x_train, x_test, y_train, y_test=get_features_by_wordseq()
-    #print y_train
-    do_hmm(x_train, x_test, y_train, y_test)
+
