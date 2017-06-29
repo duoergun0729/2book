@@ -35,6 +35,7 @@ from hmmlearn import hmm
 from sklearn.metrics import precision_score
 from sklearn.metrics import recall_score
 import matplotlib.pyplot as plt
+from tflearn.layers.recurrent import bidirectional_rnn, BasicLSTMCell
 
 cmdlines_file="../data/uba/MasqueradeDat/User7"
 labels_file="../data/uba/MasqueradeDat/label.txt"
@@ -302,7 +303,7 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     # Network building
     net = tflearn.input_data([None, 100])
     net = tflearn.embedding(net, input_dim=1000, output_dim=100)
-    net = tflearn.lstm(net, 1, dropout=0.1)
+    net = tflearn.lstm(net, 100, dropout=0.1)
     net = tflearn.fully_connected(net, 2, activation='softmax')
     net = tflearn.regression(net, optimizer='adam', learning_rate=0.001,
                              loss='categorical_crossentropy')
@@ -319,6 +320,49 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     for i in y_predict_list:
         #print  i[0]
         if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+
+    print(classification_report(y_test, y_predict))
+    print metrics.confusion_matrix(y_test, y_predict)
+
+    print y_train
+
+    print "ture"
+    print y_test
+    print "pre"
+    print y_predict
+
+def do_birnn_wordbag(trainX, testX, trainY, testY):
+    y_test=testY
+    #trainX = pad_sequences(trainX, maxlen=100, value=0.)
+    #testX = pad_sequences(testX, maxlen=100, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Network building
+    # Network building
+    net = input_data(shape=[None, 100])
+    net = tflearn.embedding(net, input_dim=10000, output_dim=128)
+    net = tflearn.bidirectional_rnn(net, BasicLSTMCell(128), BasicLSTMCell(128))
+    net = dropout(net, 0.5)
+    net = fully_connected(net, 2, activation='softmax')
+    net = regression(net, optimizer='adam', loss='categorical_crossentropy')
+
+    # Training
+    model = tflearn.DNN(net, tensorboard_verbose=0)
+    model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
+              batch_size=1,run_id="uba",n_epoch=10)
+
+    y_predict_list = model.predict(testX)
+    #print y_predict_list
+
+    y_predict = []
+    for i in y_predict_list:
+        #print  i[0]
+        if i[0] >= 0.5:
             y_predict.append(0)
         else:
             y_predict.append(1)
@@ -480,7 +524,7 @@ if __name__ == "__main__":
 
     x_train, x_test, y_train, y_test=get_features_by_wordseq_hmm()
     do_hmm(x_train, x_test, y_train, y_test)
-    """
+
 
 
     print "rnn and wordseq"
@@ -491,4 +535,12 @@ if __name__ == "__main__":
     #print y_test
     #do_rnn_wordbag(x_train, x_test, y_train, y_test)
     show_hmm(x_train, x_test, y_train, y_test)
-    #do_hmm(x_train, x_test, y_train, y_test)
+    do_hmm(x_train, x_test, y_train, y_test)
+    """
+    print "rnn and wordseq"
+    max_features=100
+    print "max_features=%d" % max_features
+
+    x_train, x_test, y_train, y_test=get_features_by_wordseq()
+    print x_train
+    do_rnn_wordbag(x_train, x_test, y_train, y_test)
