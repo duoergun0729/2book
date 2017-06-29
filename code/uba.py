@@ -422,11 +422,20 @@ if __name__ == "__main__":
     x_train, x_test, y_train, y_test=get_features_by_wordseq()
     print y_train
     do_rnn_wordbag(x_train, x_test, y_train, y_test)
-    """
+
     print "hmm and wordseq"
     max_features=100
     print "max_features=%d" % max_features
 
     x_train, x_test, y_train, y_test=get_features_by_wordseq_hmm()
     do_hmm(x_train, x_test, y_train, y_test)
+    """
 
+
+    print "rnn and wordseq"
+    max_features=100
+    print "max_features=%d" % max_features
+    x_train, x_test, y_train, y_test=get_features_by_wordseq()
+    print y_train
+    print y_test
+    do_rnn_wordbag(x_train, x_test, y_train, y_test)
