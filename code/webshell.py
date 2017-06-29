@@ -44,8 +44,8 @@ whitefile_dir="../data/webshell/normal/php/"
 check_dir="../../../../../Downloads/php-exploit-scripts-master/"
 white_count=0
 black_count=0
-#php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
-php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
+php_bin="/Users/liu.yan/Desktop/code/2book/opt/php/bin/php"
+#php_bin="/Users/maidou/Desktop/book/2book/2book/opt/php/bin/php"
 #php_bin=" /home/fuxi/dev/opt/php/bin/php"
 
 

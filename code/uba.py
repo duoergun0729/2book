@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 
 from sklearn.feature_extraction.text import CountVectorizer
 import os
@@ -138,6 +139,30 @@ def  get_features_by_wordseq():
     y_test = y[index:, ]
 
     return x_train, x_test, y_train, y_test
+
+def  get_features_by_wordseq_hmm():
+    global max_features
+    x_arr,y=get_cmdlines()
+    x=[]
+
+    for i,v in enumerate(x_arr):
+        v=" ".join(v)
+        x.append(v)
+
+    vp=tflearn.data_utils.VocabularyProcessor(max_document_length=max_features,
+                                              min_frequency=0,
+                                              vocabulary=None,
+                                              tokenizer_fn=None)
+    x=vp.fit_transform(x, unused_y=None)
+    x = np.array(list(x))
+
+    x_train = x[0:50, ]
+    x_test = x[50:, ]
+    y_train = y[0:50, ]
+    y_test = y[50:, ]
+
+    return x_train, x_test, y_train, y_test
+
 
 def buildWordVector(imdb_w2v,text, size):
     vec = np.zeros(size).reshape((1, size))
@@ -299,6 +324,47 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     print(classification_report(y_test, y_predict))
     print metrics.confusion_matrix(y_test, y_predict)
 
+def do_hmm(trainX, testX, trainY, testY):
+    T=-500
+    N=2
+    lengths=[1]
+    X=[[0]]
+    print len(trainX)
+    for i in trainX:
+        z=[]
+        for j in i:
+            z.append([j])
+        #print z
+        #X.append(z)
+        X=np.concatenate([X,np.array(z)])
+        lengths.append(len(i))
+
+    #print lengths
+    #print X.shape
+
+
+
+    remodel = hmm.GaussianHMM(n_components=N, covariance_type="full", n_iter=100)
+    remodel.fit(X, lengths)
+
+    y_predict=[]
+    for i in testX:
+        z=[]
+        for j in i:
+            z.append([j])
+        y_pred=remodel.score(z)
+        print y_pred
+        if y_pred < T:
+            y_predict.append(1)
+        else:
+            y_predict.append(0)
+    y_predict=np.array(y_predict)
+
+    print(classification_report(testY, y_predict))
+    print metrics.confusion_matrix(testY, y_predict)
+
+    print testY
+    print y_predict
 
 if __name__ == "__main__":
     print "Hello uba"
@@ -357,4 +423,10 @@ if __name__ == "__main__":
     print y_train
     do_rnn_wordbag(x_train, x_test, y_train, y_test)
     """
+    print "hmm and wordseq"
+    max_features=100
+    print "max_features=%d" % max_features
+
+    x_train, x_test, y_train, y_test=get_features_by_wordseq_hmm()
+    do_hmm(x_train, x_test, y_train, y_test)
 
