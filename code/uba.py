@@ -32,7 +32,9 @@ from sklearn.metrics import classification_report
 import xgboost as xgb
 from sklearn import preprocessing
 from hmmlearn import hmm
-
+from sklearn.metrics import precision_score
+from sklearn.metrics import recall_score
+import matplotlib.pyplot as plt
 
 cmdlines_file="../data/uba/MasqueradeDat/User7"
 labels_file="../data/uba/MasqueradeDat/label.txt"
@@ -325,7 +327,7 @@ def do_rnn_wordbag(trainX, testX, trainY, testY):
     print metrics.confusion_matrix(y_test, y_predict)
 
 def do_hmm(trainX, testX, trainY, testY):
-    T=-500
+    T=-580
     N=2
     lengths=[1]
     X=[[0]]
@@ -365,6 +367,55 @@ def do_hmm(trainX, testX, trainY, testY):
 
     print testY
     print y_predict
+
+def show_hmm(trainX, testX, trainY, testY):
+    a=[]
+    b=[]
+    c=[]
+
+    N=2
+    lengths=[1]
+    X=[[0]]
+    print len(trainX)
+    for i in trainX:
+        z=[]
+        for j in i:
+            z.append([j])
+        X=np.concatenate([X,np.array(z)])
+        lengths.append(len(i))
+
+    remodel = hmm.GaussianHMM(n_components=N, covariance_type="full", n_iter=100)
+    remodel.fit(X, lengths)
+
+    for T in range(-600,-400,10):
+        y_predict = []
+        for i in testX:
+            z = []
+            for j in i:
+                z.append([j])
+            y_pred = remodel.score(z)
+            #print y_pred
+            if y_pred < T:
+                y_predict.append(1)
+            else:
+                y_predict.append(0)
+        y_predict = np.array(y_predict)
+        precision=precision_score(y_test,y_predict)
+        recall=recall_score(y_test,y_predict)
+        a.append(T)
+        b.append(precision)
+        c.append(recall)
+        plt.plot(a, b,'-rD',a,c, ':g^')
+        #plt.plot(a, b, 'r')
+        #plt.plot(a, c, 'r')
+    plt.xlabel("log probability")
+    plt.ylabel("metrics.recall&precision")
+    #plt.ylabel("metrics.precision")
+    #plt.title("metrics.precision")
+    plt.title("metrics.recall&precision")
+    plt.legend()
+    plt.show()
+
 
 if __name__ == "__main__":
     print "Hello uba"
@@ -436,6 +487,8 @@ if __name__ == "__main__":
     max_features=100
     print "max_features=%d" % max_features
     x_train, x_test, y_train, y_test=get_features_by_wordseq()
-    print y_train
-    print y_test
-    do_rnn_wordbag(x_train, x_test, y_train, y_test)
+    #print y_train
+    #print y_test
+    #do_rnn_wordbag(x_train, x_test, y_train, y_test)
+    show_hmm(x_train, x_test, y_train, y_test)
+    #do_hmm(x_train, x_test, y_train, y_test)
