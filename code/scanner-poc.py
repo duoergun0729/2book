@@ -41,7 +41,8 @@ def generator_xss():
 
     m = tflearn.SequenceGenerator(g, dictionary=char_idx,
                                   seq_maxlen=maxlen,
-                                  clip_gradients=5.0)
+                                  clip_gradients=5.0,
+                                  checkpoint_path='model_scanner_poc')
 
     for i in range(50):
         seed = random_sequence_from_textfile(xss_data_file, maxlen)
