@@ -10,6 +10,7 @@ char_idx_file = 'char_idx_xss.pkl'
 maxlen = 25
 char_idx = None
 xss_data_file="../data/aiscanner/xss.txt"
+generator_file="generator_file.txt"
 
 
 def generator_xss():
@@ -42,17 +43,17 @@ def generator_xss():
     m = tflearn.SequenceGenerator(g, dictionary=char_idx,
                                   seq_maxlen=maxlen,
                                   clip_gradients=5.0,
-                                  checkpoint_path='model_scanner_poc')
+                                  checkpoint_path='chkpoint/model_scanner_poc')
 
-    for i in range(50):
-        seed = random_sequence_from_textfile(xss_data_file, maxlen)
-        m.fit(X, Y, validation_set=0.1, batch_size=128,
+    print "random_sequence_from_textfile"
+    seed = random_sequence_from_textfile(xss_data_file, maxlen)
+    m.fit(X, Y, validation_set=0.1, batch_size=128,
               n_epoch=1, run_id='scanner-poc')
-        print("-- TESTING...")
-        print("-- Test with temperature of 1.0 --")
-        print(m.generate(600, temperature=1.0, seq_seed=seed))
-        print("-- Test with temperature of 0.5 --")
-        print(m.generate(600, temperature=0.5, seq_seed=seed))
+    print("-- TESTING...")
+    print("-- Test with temperature of 1.0 --")
+    print(m.generate(60, temperature=0.5, seq_seed=seed))
+    print("-- Test with temperature of 0.5 --")
+    print(m.generate(60, temperature=0.1, seq_seed=seed))
 
 
 if __name__ == "__main__":
