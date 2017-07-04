@@ -49,6 +49,24 @@ def load_dga():
     x=[i[1] for i in data.values]
     return x
 
+def get_feature_charseq():
+    alexa=load_alexa()
+    dga=load_dga()
+    x=alexa+dga
+    max_features=10000
+    y=[0]*len(alexa)+[1]*len(dga)
+
+    t=[]
+    for i in x:
+        v=[]
+        for j in range(0,len(i)):
+            v.append(ord(i[j]))
+        t.append(v)
+
+    x=t
+    x_train, x_test, y_train, y_test=train_test_split(x,y,test_size=0.4)
+
+    return x_train, x_test, y_train, y_test
 
 def get_feature_2gram():
     alexa=load_alexa()
@@ -97,14 +115,54 @@ def do_mlp(x_train, x_test, y_train, y_test):
     print(classification_report(y_test, y_pred))
     print metrics.confusion_matrix(y_test, y_pred)
 
+def do_rnn(trainX, testX, trainY, testY):
+    max_document_length=64
+    y_test=testY
+    trainX = pad_sequences(trainX, maxlen=max_document_length, value=0.)
+    testX = pad_sequences(testX, maxlen=max_document_length, value=0.)
+    # Converting labels to binary vectors
+    trainY = to_categorical(trainY, nb_classes=2)
+    testY = to_categorical(testY, nb_classes=2)
+
+    # Network building
+    net = tflearn.input_data([None, max_document_length])
+    net = tflearn.embedding(net, input_dim=10240000, output_dim=64)
+    net = tflearn.lstm(net, 64, dropout=0.8)
+    net = tflearn.fully_connected(net, 2, activation='softmax')
+    net = tflearn.regression(net, optimizer='adam', learning_rate=0.001,
+                             loss='categorical_crossentropy')
+
+    # Training
+    model = tflearn.DNN(net, tensorboard_verbose=0)
+    model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
+              batch_size=10,run_id="dga",n_epoch=5)
+
+    y_predict_list = model.predict(testX)
+    print y_predict_list
+
+    y_predict = []
+    for i in y_predict_list:
+        print  i[0]
+        if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+
+    print(classification_report(y_test, y_predict))
+    print metrics.confusion_matrix(y_test, y_predict)
+
 if __name__ == "__main__":
     print "Hello dga"
+    print "charseq & rnn"
+    x_train, x_test, y_train, y_test = get_feature_charseq()
+    do_rnn(x_train, x_test, y_train, y_test)
 
+"""
     print "2-gram & mlp"
     x_train, x_test, y_train, y_test = get_feature_2gram()
     do_mlp(x_train, x_test, y_train, y_test)
 
-"""
+
     print "2-gram & XGBoost"
     x_train, x_test, y_train, y_test = get_feature_2gram()
     do_xgboost(x_train, x_test, y_train, y_test)
