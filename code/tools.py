@@ -78,7 +78,10 @@ def use_tflearn():
     model.fit(X, Y, n_epoch=20, validation_set=(testX, testY),
               show_metric=True, run_id="dense_model")
 
+
+
+
 if __name__ == "__main__":
     print "Tools for deeplearning"
-    use_tflearn()
+    #use_tflearn()
     #use_keras()
