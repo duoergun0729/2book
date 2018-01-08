@@ -222,14 +222,15 @@ if __name__ == "__main__":
     print "get_features_by_wordbag"
     x,y=get_features_by_wordbag()
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
-    #do_svm_wordbag(x_train, x_test, y_train, y_test)
+    do_svm_wordbag(x_train, x_test, y_train, y_test)
     #do_nb_wordbag(x_train, x_test, y_train, y_test)
-    do_dnn_wordbag(x_train, x_test, y_train, y_test)
+    #do_dnn_wordbag(x_train, x_test, y_train, y_test)
 
     print "get_features_by_wordbag_tfidf"
     x,y=get_features_by_wordbag_tfidf()
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
-    do_dnn_wordbag(x_train, x_test, y_train, y_test)
+    do_svm_wordbag(x_train, x_test, y_train, y_test)
+    #do_dnn_wordbag(x_train, x_test, y_train, y_test)
     #NB
     #do_nb_wordbag(x_train, x_test, y_train, y_test)
     #show_diffrent_max_features()
