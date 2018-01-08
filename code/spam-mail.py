@@ -20,7 +20,7 @@ from tflearn.layers.normalization import local_response_normalization
 from tensorflow.contrib import learn
 
 
-max_features=500
+max_features=5000
 max_document_length=100
 
 
@@ -114,7 +114,7 @@ def get_features_by_wordbag_tfidf():
     ham, spam=load_all_files()
     x=ham+spam
     y=[0]*len(ham)+[1]*len(spam)
-    vectorizer = CountVectorizer(binary=True,
+    vectorizer = CountVectorizer(binary=False,
                                  decode_error='ignore',
                                  strip_accents='ascii',
                                  max_features=max_features,
@@ -219,13 +219,17 @@ def  get_features_by_tf():
 
 if __name__ == "__main__":
     print "Hello spam-mail"
-    #print "get_features_by_wordbag"
-    #x,y=get_features_by_wordbag()
-    #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
+    print "get_features_by_wordbag"
+    x,y=get_features_by_wordbag()
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
+    #do_svm_wordbag(x_train, x_test, y_train, y_test)
+    #do_nb_wordbag(x_train, x_test, y_train, y_test)
+    do_dnn_wordbag(x_train, x_test, y_train, y_test)
 
-    #print "get_features_by_wordbag_tfidf"
-    #x,y=get_features_by_wordbag_tfidf()
-    #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
+    print "get_features_by_wordbag_tfidf"
+    x,y=get_features_by_wordbag_tfidf()
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
+    do_dnn_wordbag(x_train, x_test, y_train, y_test)
     #NB
     #do_nb_wordbag(x_train, x_test, y_train, y_test)
     #show_diffrent_max_features()
@@ -236,12 +240,12 @@ if __name__ == "__main__":
     #DNN
     #do_dnn_wordbag(x_train, x_test, y_train, y_test)
 
-    print "get_features_by_tf"
-    x,y=get_features_by_tf()
-    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
+    #print "get_features_by_tf"
+    #x,y=get_features_by_tf()
+    #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.4, random_state = 0)
     #CNN
     #do_cnn_wordbag(x_train, x_test, y_train, y_test)
 
 
     #RNN
-    do_rnn_wordbag(x_train, x_test, y_train, y_test)
+    #do_rnn_wordbag(x_train, x_test, y_train, y_test)
