@@ -1,0 +1,53 @@
+Subject: mail delivery failed : returning message to sender
+this message was created automatically by mail delivery software .
+a message that you sent could not be delivered to one or more of its
+recipients . this is a permanent error . the following address ( es ) failed :
+rrrhythms @ aol . com
+smtp error from remote mailer after end of data :
+host mailin - 01 . mx . aol . com [ 205 . 188 . 159 . 57 ] : 554 - :
+( hvu : bl ) http : / / postmaster . info . aol . com / errors / 554 hvubl . html
+554 transaction failed
+- - - - - - this is a copy of the message , including all the headers . - - - - - -
+return - path :
+received : from mailbox . hrnoc . net ( [ 216 . 120 . 225 . 22 ] )
+by relay 3 . hrnoc . net with smtp ( exim 4 . 32 ; freebsd )
+id ldupna - 000 nel - lk
+for rrrhythms @ aol . com ; tue , 19 jul 2005 06 : 57 : 40 - 0400
+received : ( qmail 59909 invoked by uid 89 ) ; 19 jul 2005 10 : 57 : 46 - 0000
+delivered - to : info @ pasentertainment . com
+received : ( qmail 59899 invoked by uid 89 ) ; 19 jul 2005 10 : 57 : 46 - 0000
+received : from mxl . hrnoc . net ( 216 . 120 . 232 . 254 )
+by mailbox . hrnoc . net with qmtp ; 19 jul 2005 10 : 57 : 46 - 0000
+received : ( qmail 9603 invoked by uid 513 ) ; 19 jul 2005 10 : 57 : 44 - 0000
+received : from projecthoneypot @ projecthoneypot . org by mxl . hrnoc . net by uid 503 with qmail - scanner - 1 . 20 st
+( clamuko : 0 . 70 . spamassassin : 2 . 63 . clear : rc : 0 ( 218 . 43 . 171 . 70 ) : sa : 0 ( 1 . 6 / 15 . 0 ) : .
+processed in 0 . 802258 secs ) ; 19 jul 2005 10 : 57 : 44 - 0000
+x - spam - status : no , hits = 1 . 6 required = 15 . 0
+x - qmail - scanner - mail - from : projecthoneypot @ projecthoneypot . org via mxl . hrnoc . net
+x - qmail - scanner : 1 . 20 st ( clear : rc : 0 ( 218 . 43 . 171 . 70 ) : sa : 0 ( 1 . 6 / 15 . 0 ) : . processed in 0 . 802258 secs )
+received : from pl 070 - ipado 2 sinnagasak . nagasaki . ocn . ne . jp ( helo mailwisconsin . com ) ( 218 . 43 . 171 . 70 )
+by mxl . hrnoc . net with smtp ; 19 jul 2005 10 : 57 : 43 - 0000
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 24815595 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : info @ pasentertainment . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+x - hr - scan - signature : 2 fbcfbdl 81 f 732 eb 7 bl 2270 bfad 389 b 6
+x - hr - sa - score : ( )
+x - hr - status : hr _ avscanned - ( projecthoneypot @ projecthoneypot . org / 216 . 120 . 225 . 22 )
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivable !

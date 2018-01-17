@@ -1,0 +1,18 @@
+Subject: delivery notification : delivery has failed
+this report relates to a message you sent with the following header fields :
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+from : " barry castillo "
+to : info @ pettymadden . com
+subject : just to her . . .
+your message cannot be delivered to the following recipients :
+recipient address : bynumpetty @ aol . com
+original address : info @ pettymadden . com
+reason : smtp transmission failure has occurred
+diagnostic code : smtp ; 554 - : ( hvu : bl ) http : / / postmaster . info . aol . com / errors / 554 hvubl . html transaction failed
+remote system : dns ; mailin - 02 . mx . aol . com ( tcp | 206 . 46 . 252 . 55 | 49939 | 64 . 12 . 138 . 89 | 25 ) ( rly - xlol . mx . aol . com esmtp mail _ relay _ in - xll . 3 ; tue , 19 jul 2005 06 : 57 : 34 - 0400 )
+recipient address : dnldgrms @ aol . com
+original address : info @ pettymadden . com
+reason : smtp transmission failure has occurred
+diagnostic code : smtp ; 554 - : ( hvu : bl ) http : / / postmaster . info . aol . com / errors / 554 hvubl . html transaction failed
+remote system : dns ; mailin - 02 . mx . aol . com ( tcp | 206 . 46 . 252 . 55 | 49939 | 64 . 12 . 138 . 89 | 25 ) ( rly - xlol . mx . aol . com esmtp mail _ relay _ in - xll . 3 ; tue , 19 jul 2005 06 : 57 : 34 - 0400 )

@@ -1,0 +1,26 @@
+Subject: fw : application escalation contacts
+louise ,
+i heard you were looking for a contact list for applications , and had been passed a spreadsheet to update , that had all the business areas , leads and their directs . . . .
+we already have an escalation list for applications ( see attachment ) , and people are supposed to maintain it in livelink . . . . will this do as is ? , or would you like it in the same format as the spreadsheet ?
+i ' ve attached a word doc version , in case you can ' t get to the livelink url below .
+regards
+steve
+- - - - - original message - - - - -
+from : furches , terry
+sent : friday , october 26 , 2001 8 : 35 am
+to : ad & s directors and project managers
+subject : application escalation contacts
+did you know that application development & support has a list of escalation contacts for all applications we support ?
+the application escalation contact list provides information on who to contact ( and how to contact them ) regarding issues with applications supported by application development and support .
+to view the application escalation list , click here - > http : / / edms . livelink . enron . com / ena / livelink . exe / 10703143 / application _ escalation _ list . doc ? func = doc . fetch & nodeid = 10703143 . it can also be found in the " trading applications - internally developed " section of the need to know website ( ) .
+how to update the application escalation list
+since the list is a valuable tool for both the resolution center and other developers , it is critical the list be kept up - to - date . please note that changes to the application escalation list are also made in the new it contacts website , which is primarily used by infrastructure . you only need to request a change to the application escalation list . please email me your changes as they occur and i will ensure both the application escalation list and the it contacts website are updated .
+below are a few reasons you may need to update the application escalation list :
+? staffing / organization changes
+? new applications
+? applications no longer in existence
+? contact method changes ( new numbers , etc )
+thanks !
+terry furches
+project control
+713 . 853 . 4580

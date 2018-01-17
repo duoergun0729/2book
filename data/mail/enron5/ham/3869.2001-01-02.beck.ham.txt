@@ -1,0 +1,56 @@
+Subject: erd review
+here ' s a summary of our conversation so you have points to follow up with .
+general status of the database model :
+fix not represented - need to incorporate into common design and standardize
+- might cause some fix rework .
+referential integrity not entirely enforced - potential for bad data to
+develop .
+snapshots from global databases are currently daily - this can be easily
+changed to be more frequent , but need to consider implementation as
+decision on direction of global as a part of commodity logic is made .
+rate information not developed - need integration with rate server or mkm ,
+preferably mkm . need to define how mkm will be used - whether just for index
+names or to obtain actual settlement prices or curves as well .
+application development is not currently occurring on a single version of
+the database . therefore , some issues could arise as each development team
+migrates to the standard . this needs to happen relatively quickly .
+specific issues :
+gfd _ pipe _ meters _ snp - probably need to add fac _ type ( wh , ite , etc ) for
+possible use as validation in kx functionality
+gas _ deal _ location _ dtl - this table refers to facility number rather than
+pipe and meter . facility number is an enronism that no other company
+will recognize .
+pipe and meter general - should try to avoid using pipe _ cd as key . this
+value needs to be updateable as pipelines are bought and sold .
+- data for facilities is heavily dependent upon enron global facilities
+database in current design and functionality - this needs revisiting as
+the decision surrounding global is made
+cp _ addr _ vw - this table references only internal _ cp _ id and contact _ type _ cd
+in conjunction with address _ id . addresses are specific to
+internal _ cp _ id , product _ cd , deal _ nature _ cd , contact _ type _ cd , and region _ cd .
+need to add deal nature , product , and region to ensure correct address
+usage since many companies align their business along these determinants
+and addresses may vary
+counterparty - there is a mixture of the usage of global counterparty . some
+areas indicate a certain amount of independence from enron ' s global
+counterparty system , by having a table to capture commodity logic information
+on a counterparty such as phone numbers , credit ratings , etc . this would
+position cl to become independent at a later date . yet , commodity logic
+functions as a subset of enron networks and gcp must make entries to indicate
+the usage of a customer by enron networks to obtain an sap id and
+support payment processing through to sap . so , cl could not become
+independent without further functionality or process changes . so why
+not put the added data requirements within gcp to start with ? if
+global moves to commodity logic , then this design needs to be revisited for
+sure . there should probably be some standardization between
+dependence / independence whether or not cl separates from enron .
+common data - status is not included in the views being utilized by the
+applications . i hope the views have been filtered for active status
+only . show was going to check on this .
+- concept of mapping others ' codes to ours for processing , is not
+supported anywhere in these tables . perhaps that has been handled in
+an isolated manner in the fix design ? this will have to be there for internal
+release as well as external release . this is critical to the hub
+concept .
+i look forward to sitting in on your meetings surrounding these issues . let
+me know if you have further questions .

@@ -1,0 +1,7 @@
+Subject: delivery failure : utilisateur m . fierobe ( m . fierobe @ cedus . fr ) non
+your message
+subject : just to her . . .
+was not delivered to :
+m . fierobe @ cedus . fr
+because :
+utilisateur m . fierobe ( m . fierobe @ cedus . fr ) non recens? dans l ' annuaire domino

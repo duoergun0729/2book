@@ -1,0 +1,60 @@
+Subject: summary of cash flow events
+sally and brent ,
+here are the details behind our phone calls this morning . " m " is millions .
+sheila
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheila glover / hou / ect on 08 / 31 / 2000 11 : 43
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+clara carrington
+08 / 31 / 2000 10 : 31 am
+to : sheila glover / hou / ect @ ect
+cc : joyce kuo / na / enron @ enron
+subject : summary of cash flow events
+sheila ,
+we have been having issues with the commodity cash flows since last friday ,
+aug 25 . this is a listing of what ' s been going on .
+time pdh
+date commodity book given to trader summary of discussion
+8 / 25 / 00 enpower - west 7 : 05 original west cash flows did not look
+right . valerie left voice mail
+late thursday night stating not to treat the $ 18 m gain as
+final . she indicated that lavorato was going to review the
+cash flows this morning and she will let us know the final
+number at that time . these cashflows created a $ 19 , 000
+pvol affect .
+7 : 45 re - ran w / old west cf after consulting with pushkar , we
+replaced the new west cash flows with prior days so hedging
+could begin .
+10 : 15 final spoke with monica lande at 9 : 30 am and she stated that
+the original cash flows received were real . we then had to
+bring the original cash flows back and re - do the pdh
+reports .
+8 / 28 / 00 refer to email sent by sheila on this day .
+8 / 29 / 00 uk - nap - lt - prc 7 : 35 cash flows received from the uk book looked
+really weird .
+the $ 38 m cash flow curve change created a 15 , 000 pvol
+affect . we contacted guy freshwater regarding . he
+indicated that per mark fondren , the book was officialized
+monday , on friday since monday was a holiday for their
+office . we backed out the new cash flow , and then substituted
+the old ones .
+8 / 30 / 00 uk - nap - lt - prc 7 : 30 original the same thing happened as 8 / 29 / 00 .
+the book was not officialized
+7 : 45 final on 8 / 29 , therefore we received the same incorrect cash
+flows . we again
+substituted these cash flows with those received on 8 / 25 / 00 . i
+talked with
+mark fondren and he indicated that the book has now been
+officialized .
+( in the past we have not had issues with the uk commodity books in
+the
+erms system . )
+8 / 31 / 00 enpower - west 7 : 20 original cash flows received for west created
+a 14 , 000 pvol affect . we contacted
+8 : 00 final monica lande and she informed us that there was a $ 14 m
+loss in their book ,
+but $ 6 m was not real . we asked for a cash flow strip for the
+incorrect flows , but she was not able to provide it . therefore , we
+used the previous day ' s cash
+flows . after the 7 : 20 pdh report , the system started running slow ,
+therefore
+it took even longer to produce a revised report .

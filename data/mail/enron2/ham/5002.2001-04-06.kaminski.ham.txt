@@ -1,0 +1,16 @@
+Subject: free latex
+go to http : / / www . winedt . com / , select downloads , and download winedt 5 to your
+c drive .
+on bottom of the same page ( download ) , click on miktex ' s home page ,
+click on miktex 2 . 0 , and download all the highlighted zip files . you may also
+want to download miktex - 2 . 0 - manual . pdf .
+you can then unzip all the files and follow the steps outlined in
+miktex - 2 . 0 - manual . pdf to
+install winedt and miktex . however , the procedure to " add miktex bin
+directory to path "
+may not work . it ' s best to manually add the following to your path :
+c : \ texmf \ miktex \ bin ;
+this software is quite easy to use and very versatile . you can even include
+colored picture in your tex document .
+best ,
+alex

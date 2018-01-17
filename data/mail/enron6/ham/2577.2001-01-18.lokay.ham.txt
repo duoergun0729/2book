@@ -1,0 +1,49 @@
+Subject: outlook migration details
+as we prepare to migrate to microsoft windows 2000 and outlook 2000 , we want
+to provide information on outlook . . . the product , the implementation , and
+enron ' s email guidelines , in general . microsoft outlook 2000 integrates more
+effectively with the windows 2000 operating system and other microsoft
+products than does lotus notes . further it provides a more robust mail
+platform . additional benefits include the ability to update your hand - held
+device from multiple places , and the ability to retrieve your enron e - mail
+via a browser .
+mail conversion process - you will not lose any mail messages in the
+conversion to outlook ! the last 30 days of mail will be converted to
+outlook . all other mail messages in your notes database will be available
+via a read - only browser - based notes file . the enron e - mail retention policy
+described below will apply to all mail files . all information in your
+personal address book will be converted to outlook .
+notes databases - after the outlook conversion , you will not have notes on
+your desktop ; thus , all notes databases will be web - enabled . if you are the
+owner of a notes database , you will be contacted soon to schedule the
+conversion .
+notes archive databases - archiving of mail messages is a violation of the
+mail retention policy . no archive database will be supported or converted to
+outlook . you will not have access to the file after the conversion .
+training - to ensure your successful conversion to outlook 2000 , you will be
+required to sign up for and attend a hands - on training class . the class will
+consist of an overview of windows 2000 and outlook . you will also receive
+brochures and other documentation as you are migrated to outlook .
+encrypted mail
+encrypted mail messages will not be converted to outlook . if you have any
+encrypted messages in your current mail file , we will contact you directly
+prior to your conversion .
+mailbox size - user mailboxes will be restricted to 100 mb . warnings will be
+sent as your mail file reaches 75 mb . after your mail file reaches 100 mb ,
+you will no longer be able to send messages .
+inbound / outbound mail size limits - the restricted size for both incoming and
+outgoing mail is now 10 mb .
+email retention policy - below is a copy of the email retention policy . this
+policy will be enforced with the outlook implementation .
+message location maximum retention
+inbox 30 days
+message log / sent mail 30 days
+trash rollover from inbox for 15 days
+bulletin boards 30 days
+folders / archives e - mail messages placed in folders / archives
+archives all e - mail messages placed in archives will be destroyed after one
+year .
+your next communication will be shortly before your migration date . if you
+have any questions in the meantime , please feel free to call us .
+ets solution center at 713 - 345 - 4745
+omaha help desk at 402 - 398 - 7454

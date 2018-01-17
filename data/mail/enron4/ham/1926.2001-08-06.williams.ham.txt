@@ -1,0 +1,22 @@
+Subject: epe lending / day - ahead short for 8 / 7
+we will be short under the west bom book both in spl 5 and palo verde for tomorrow . following are the details of these positions . as always , please let me know if you have questions .
+1 . epe lending - stwbom and stsw are each short 25 mw on peak at palo at a price of $ 71 . 50 . please reduce the puchase prices to $ 4 after buying in the real time market . sell back to el paso under the respective desks at $ 0 . deal numbers and terms are :
+719949 - stwbom buys epe
+25 mw @ $ 71 . 50
+719952 - stwbom sells stsw
+25 mw @ $ 71 . 50
+719954 - stsw buys epe
+25 mw @ $ 71 . 50
+2 . day - ahead short - stwbom is short a shaped schedule in spl 5 at a price of $ 75 . following are deal numbers and volumes :
+719925 - stwbom buys cal - imbalance
+he 11 - 10 mw
+he 12 - 30 mw
+he 13 - 30 mw } @ $ 75
+he 14 - 25 mw
+he 15 - 15 mw
+he 16 - 5 mw
+719943 - stwbom sells stwrockies
+same shape @ $ 75
+3 . day - ahead short - stwbom will also be short 75 mw on peak in spl 5 at a price of $ 63 . 49 . these deals were entered in the new fsp system as opposed to good old enpower , so be on the lookout for mistakes . deal numbers are as follows :
+719920 - stwbom buys cal - imbalance
+75 mw @ $ 63 . 49

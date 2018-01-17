@@ -1,0 +1,93 @@
+Subject: price caps
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vladimir gorny / hou / ect on 11 / 01 / 2000
+03 : 39 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : tim belden 10 / 27 / 2000 05 : 40 pm
+to : john j lavorato / corp / enron , dave delainey , mike swerzbin / hou / ect @ ect ,
+robert badeer / hou / ect @ ect , sean crandall / pdx / ect @ ect , tim belden / hou / ect @ ect ,
+jeff richter / hou / ect @ ect , diana scholtes / hou / ect @ ect , tom alonso / pdx / ect @ ect ,
+mark fischer / pdx / ect @ ect , john m forney / hou / ect @ ect , paul choi / sf / ect @ ect ,
+john malowney / hou / ect @ ect , holli krebs / hou / ect @ ect , greg wolfe / hou / ect @ ect ,
+chris h foster / hou / ect @ ect , stewart rosman / hou / ect @ ect , kim ward / hou / ect @ ect ,
+debra davidson / pdx / ect @ ect , tim belden / hou / ect @ ect , lester
+rawson / pdx / ect @ ect , john zufferli / cal / ect @ ect , james d
+steffes / na / enron @ enron , mary hain / hou / ect @ ect , christopher f
+calger / pdx / ect @ ect , dave parquet , phillip k allen / hou / ect @ ect , vladimir
+gorny / hou / ect @ ect , monica lande / pdx / ect @ ect , elliot mainzer / pdx / ect @ ect , tim
+heizenrader / pdx / ect @ ect , cooper richey , stephen swain / pdx / ect @ ect , susan j
+mara / sfo / ees @ ees , steven j kean / na / enron @ enron , mark palmer / corp / enron @ enron
+cc : debra davidson / pdx / ect @ ect
+subject : price caps
+the following summarizes recent price cap events in california . i think that
+i have most of it right . if there is anything wrong or missing please let me
+know . please don ' t share the attached spreadsheet with anyone outside of
+enron .
+regards ,
+tim
+new cap specifics
+on 10 / 26 / 2000 the iso board passed a motion by a vote of 13 - 10 to implement a
+new price cap methodology .
+the new methodology will become effective 11 / 3 / 2000 or as soon thereafter as
+can be implemented . caiso staff has indicated that it will be difficult to
+achieve that start date . they have not yet indicated what an achievable date
+might be .
+the new price cap methodology will remain in place until :
+comprehensive market changes have been implemented and the market has proven
+to be workably competitive under a variety of load conditions .
+either ferc or the iso board orders its removal .
+cap prices will be based on the average nymex l 3 d settlement average and the
+following heat rate table :
+load level heat rate 4 . 00 gas example cap
+40 gw $ 250 / mwh $ 250 / mwh
+caps will be rounded up to the nearest $ 5 / mwh increment .
+demand bids and demand responsiveness programs are exempt from these caps .
+the iso will post the price caps for each load level at least 48 hours prior
+to the beginning of each calendar month . based on the iso ' s two day - ahead
+system load forecast , the iso will post hourly caps at least 24 hours prior
+to the hour of delivery .
+ferc context
+ferc has delegated cap authority to the caiso until 11 / 15 / 2000 .
+the iso has asserted that they don ' t need ferc authority since it is a bid
+cap rather than a sales cap . ferc regulates sales , not purchases , of
+electricity and therefore can regulate sales prices but not purchase prices .
+the iso has filed with ferc for an extension of the price cap authority .
+ferc has to rule on the filing by 11 / 18 / 2000 . ( note that this is 3 days
+after their authority expires )
+ferc will release its proposed order on 11 / 1 / 2000 based on the results of its
+206 investigation of the california wholesale power markets . we don ' t know
+what they will find or what they will propose .
+the proposed order will have a 30 day comment period , after which ferc will
+likely issue a final order . ferc will be accepting oral comments on
+11 / 9 / 2000 in washington . enron still has to determine who will provide oral
+comments .
+many companies have filed at ferc advocating or opposing a litany of price
+caps , cost based rates , and market redesign recommendations .
+it is likely that the price caps approved by the iso board will go into
+effect . how long they will remain in effect will depend on whether ferc
+extends the iso price cap authority and whether the final order stemming from
+the current 206 investigation stipulates a specific price cap policy .
+impact of price caps
+the attached spreadsheet contains a table of likely maximum monthly prices at
+different gas price levels . we think that this is the highest that markets
+would clear since it assumes that each hour clears at the cap . it is hard to
+say whether actual prices would clear significantly lower than the cap
+because we don ' t know whether sellers will offer below the cap or at the
+cap . the assumptions behind our analysis are detailed in the bullets below .
+take actual historical loads from 1999 and 2000 .
+calculate implied price cap for each hour using actual historical load , new
+price cap methodology , and a range of gas prices .
+divide historical hours into peak and off - peak buckets .
+calculate average price for each month for peak hours and off - peak hours .
+for example , we have two years worth of data for the months of january
+through september . each month has approximately 400 hours . for january
+through september , we took approximately 800 observations for each month ( 400
+from each year ) and calculated a simple average of all of the individual
+observations .
+we created a peak table and an off - peak table . the table shows the
+calculated implied cap based off of the acutal loads at varying gas prices
+for each month . this value represents what the month would clear at if each
+hour cleared at the cap ( based on historic loads ) . while any given hour
+could be above this value , our calculation estimates the likely monthly
+average cap value !
+the blue shading indicates what the caps would be given current ( 10 / 27 / 2000
+nymex ) forward prices . the yellow shading indicates those forward power
+prices which are in excess of the proposed cap .

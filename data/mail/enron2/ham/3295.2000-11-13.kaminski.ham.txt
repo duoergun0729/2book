@@ -1,0 +1,73 @@
+Subject: re : looking for " fat tails " in time - series for ngi - socal
+vince ,
+i quite agree , we have to separate out price and position ,
+and that is what we have done with the historical simulations / evt ideas . we
+have taken today ' s delta - gamma , hold that frozen , and gone back historically
+and looked at price changes and see what happens to portfolio changes .
+garman and company have looked at gross historical portfolio changes , which i
+agree is not the best approach , due to the artificiality imposed by largest
+net open positions ( nop ) , such as we have seen recently .
+regards
+naveen
+vince j kaminski @ ect
+11 / 13 / 2000 10 : 31 am
+to : tanya tamarchenko / hou / ect @ ect
+cc : naveen andrews / corp / enron @ enron , vince j kaminski / hou / ect @ ect , vladimir
+gorny / hou / ect @ ect
+subject : re : looking for " fat tails " in time - series for ngi - socal
+tanya , naveen ,
+just a thought . changes in the portfolio values may combine both the changes
+of prices and positions .
+this happens if one tracks changes in the value of our historical gas
+portfolio . a big jump in
+the volumetric position from day to day , combined with a moderate price
+movement may produce an
+observation that looks artificially big .
+if the volumetric position was frozen , it ' s just a scaling factor and there
+should be
+no discrepancy between your numbers . of course , the correct approach
+is to separate the price process from the position changes .
+vince
+tanya tamarchenko
+11 / 13 / 2000 08 : 38 am
+to : naveen andrews / corp / enron @ enron
+cc : vince j kaminski / hou / ect @ ect , vladimir gorny / hou / ect @ ect
+subject : re : looking for " fat tails " in time - series for ngi - socal
+naveen ,
+i am trying to answer the question : what is the appropriate stochastic
+process to model the behavior
+of commodities ' prices in our var model . so what i do care about is the
+behavior of log - returns .
+any help is appreciated .
+tanya .
+naveen andrews @ enron
+11 / 10 / 2000 04 : 35 pm
+to : tanya tamarchenko / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , vladimir gorny / hou / ect @ ect
+subject : re : looking for " fat tails " in time - series for ngi - socal
+tanya ,
+we care about portfolio value changes , not log - returns of a
+single contract , which has extremes in the behavior and can be fit to a
+fat - tailed distribution . a 1 . 20 basis move , with 500 bcf position , is an
+extreme event , anyway you slice it . in the literature , as elsewhere , i agree
+for a single contract log - returns , they don ' t divide by vols .
+regards
+naveen
+tanya tamarchenko @ ect
+11 / 10 / 2000 04 : 17 pm
+to : naveen andrews / corp / enron @ enron
+cc : vince j kaminski / hou / ect @ ect , vladimir gorny / hou / ect @ ect
+subject : re : looking for " fat tails " in time - series for ngi - socal
+naveen ,
+i got ngi - socal prices for prompt , prompt + 1 , . . . , prompt + 59 contracts .
+for each contract i calculated moving average based on 21 log - returns as
+well as moving volatility . then i calculated normalized log - returns :
+[ return ( t ) - ave ( t ) ] / vol ( t )
+and compared the results to normal distribution .
+i could not find fat tails !
+volatility changes a lot from day to day , so when people look at
+log - returns ( not normalized ) it seems that there fat tails ( big spikes , large
+returns more frequent than normal ) ,
+which comes from the fact that volatility is not constant ( at all ) .
+see the spreadsheet is under o : \ _ dropbox \ tanya
+tanya

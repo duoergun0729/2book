@@ -1,0 +1,86 @@
+Subject: ad hoc timeline review team
+mark -
+the ad hoc team ' s product is attached . it is a suggested revision to the
+nerc a 3 al time table for the wscc . some basic points are :
+* elimination of manually setting the wscc pre - schedule flag . the
+table provides rules for the e - tag software to automatically set the flag .
+* the majority of our efforts were focussed on creating an incentive
+mechanism to encourage timely tag submission and assessment . the team
+agreed that the best incentive mechanism would be a financial one ( i . e . ,
+tags submitted close to the deadline would pay a high submittal fee - tags
+submitted early in the hour would pay little or no submittal fee - approval
+entities would receive compensation for assessing / approving late tags ,
+etc . ) . but , a financial mechanism would have to go through a cumbersome
+review / approval process which would be too inflexible for the fast paced
+world of e - tag and nerc ' s electronic scheduling . so , the suggested
+incentive process increases the risk of a tag not being approved the closer
+the submittal time is to the start time . to do this , we considered three
+parameters - the assessment window , deferred denial , and the default
+composite status .
+* the assessment window is a period time that the e - tag
+authority service gives the approval services to assess a submitted tag .
+each approval service is to check the tag for various things and respond
+with a approved or denied vote back to authority service who then set the
+final composite status .
+* deferred denial is when a entity denies a tag , the composite
+status does not immediately become denied , but instead waits until the end
+of the assessment window to set the composite status . this allows the
+denying approval entity time to reconsider their vote and change it , if
+appropriate .
+* the default composite status is a final stated reached at
+the end of the assessment window when one or more approval entities fails to
+actively approve or deny a tag . currently , tags submitted before a certain
+deadline will have their final composite status default to approved . tags
+submitted after a certain deadline will have their final composite status
+default to denied .
+for real - time tagging , we cite the hour - ahead business where
+purchasing - selling entities trade products for delivery in the next hour .
+* tags submitted in the first half of the hour - ahead , referred
+to 0 to 30 past , will have a 10 minute assessment window , are subjected to
+deferred denial , and will default to approved / conditional .
+* tags submitted from 30 to 40 past , will have a 10 minute
+assessment window , are not subjected to deferred denial ( can be called
+instant denial ) , and but will still default to approved / conditional .
+* tags submitted in the after 40 past , will have a 5 minute
+assessment window , are not subjected to deferred denial ( can be called
+instant denial ) , and will default to denied ( thus assigned a composite
+status of late ) .
+* the table references specific times in the submittal and assessment
+process which should all reference a consistent time zone standard . the
+team was divided on the best approach . some suggested all times on the
+table be the prevailing time for the lca . this would require each ca to
+include in the e - tag registry their time zone . some suggested all times on
+the table be in pacific prevailing time . and some suggested that all times
+on the table be in pacific standard time . the conclusion is that a white
+paper would be produced prior to the july isas meeting discussing the pros
+and cons of each suggestion .
+* the group does not recommend basing submittal time on the tag
+agent ' s time clock - submittal time should stay with the authority service .
+* here ' s a big one - because the timing table allows for later
+submittal times , the tag assessment process is encroaching on the start of
+the wscc standard ramp ( i . e . , currently starts at 10 minutes before the
+hour ) . we are recommending that isas request the oc to study the
+feasibility of moving the wscc standard ramp from a twenty minute duration
+straddling the hour to 10 minute duration straddling the hour ( i . e . , starts
+at 0 : 55 and ends at 0 : 05 ) . such a change would align the wscc with the
+eastern interconnection and relieve some of the issues surrounding late tag
+submittals .
+* there was some discussion on establishing a new regional practice
+for the tariff deadline for schedule changes ( most are set to 20 before the
+start ) . it was felt that there is little chance at getting all entities to
+change their tariffs in a coordinated and timely manner .
+* the team did not want to address at this time issues concerning
+multiple preschedule days and how they are not recognized in policy 3 or the
+e - tag specifications .
+* finally , the team can not stress enough that a composite status of
+late should not and does not mean automatic denial . the late designation
+simple indicates that the default composite status is denied . approval
+entities should make every effort to assess all tags , late or not .
+hurray for the team members , many , many thanks .
+>
+robert harshbarger
+puget sound energy
+oasis trading manager
+425 . 882 . 4643 ( desk )
+206 . 604 . 3251 ( cell )
+- tag time table draft _ rev 3 . doc

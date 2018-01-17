@@ -1,0 +1,52 @@
+Subject: re : amendment to im ii ppa
+todd and louise ,
+with respect to no . 1 below , i will check with mike curry to get his view on " contract intent " .
+with respect to no . 2 and no . 3 , the answer is absolutely " no " as they are material changes to the contract that have significant value issues . since i personally requested these changes to the original contract ( in the negotiation process ) , i know what the contract intent was and continues to be .
+if aep is still the equity buyer , they have complete control over the " grid curtailment " and associated termination risk in item no . 2 since they are the transmission owning utility in the region .
+the total epmi ppa ( as of 9 / 17 cob ) value is currently $ 18 . 5 million . my estimate for ppa value erosion for amendments no . 2 and no . 3 is $ 8 - 10 million . obviously , the $ erosion value is somewhat subjective , however , the transmission risk / grid curtailment risk on this project is significant and the termination event for grid curtailment is essential to mitigate what could be substantial downside for epmi . the reason i had mike ensure this provision was in the current ppa was to shift some of that risk back to enron wind and now enron wind is trying to push it to the project lenders ( who also don ' t want the risk ) .
+- - - - - original message - - - - -
+from : lindholm , tod a .
+sent : mon 9 / 17 / 2001 5 : 54 pm
+to : presto , kevin m . ; curry , mike ; lamb , john ; payne , michael
+cc : murphy , harlan ; kitchen , louise
+subject : re : amendment to im ii ppa
+kevin ,
+ewc requires three clarifications to the ppa in order to get the project financed and sold . all previously requested amendments proposed by the equity purchaser have been dropped , and ewc will take the resulting pricing reduction .
+i want to make sure you understand how minor these three clarifications are . these clarifications conform to the original deal and are not changes to the deal .
+1 . banking provisions . ewc and epmi agreed that energy and renewable energy credits ( " recs " ) produced by the indian mesa ii wind generating facility in any year in excess of the annual minimum quantity would , on a cumulative basis , offset any deficiencies of energy and recs in subsequent years . section 4 . 04 of the agreement does not clearly provide the cumulative carryover mechanism which was contemplated by the parties . ( this section originally provided for the carryover , but in an effort to simplify the language , the aggregate carryover concept was clouded . ) both the project lenders and the proposed equity purchaser have required that the point be clarified . there has never been a disagreement between epmi and ewc on the intention of the carryover banking provisions . epmi ' s most recent refusal to make this clarification now appears to be a change in the original deal
+2 . grid curtailment ewc and epmi drafted the contract with specific provisions relating to termination resulting from grid curtailment , section 5 . 04 . there is an ambiguity in that grid curtailment could also be covered under the termination provision relating to force majeure under section 5 . 02 . this inconsistency is the problem . neither ewc nor epmi were to pay damages to the other party in the event of grid curtailment . the proposed equity purchasers have requested that the force majeure provisions of the ppa be clarified to make it clear that extended grid curtailment would not give rise to termination payments . this clarification is consistent with the original intent of the parties and is not a change to the deal .
+3 . epmi credit support . epmi ' s obligations under the ppa are guaranteed by enron . the indian mesa ii ppa permits epmi to assign the ppa to certain affiliates without consent of the seller . any assignment by epmi would not relieve it of its duties and obligations under the contract , and the enron guarantee would remain in place . however , the project lenders have required clarification that the enron guarantee would either explicitly remain in place or that the assignee would have a credit quality at least as good as enron corp ' s credit quality . the project lender ' s have also requested that the termination payment provisions be clarified to provide that any substitute ppa used to calculate a termination payment would also need to be with a party that had a credit quality similar to enron corp ' s , since that is the credit that is supporting the indian mesa ii ppa . this will not affect the value of the contract to a third party since enron bears this obligation unless released by the project .
+under the dispute resolution provisions of the ppa we could certainly pursue declaratory relief under arbitration . our sense is that this does nothing but ensure delay .
+from an enron perspective :
+the sale of the equity and the financing of the non - recourse debt on the indian mesa ii project is currently at a standstill due to issues surrounding the ambiguities in the ppa
+while the debt financing for the indian mesa i project is in place ( different offtaker ) the proposed equity sale to aep is linked to the sale of the indian mesa ii project .
+if enron cannot move forward with the financing of the project within the next month , enron will likely end up with approximately $ 153 m less cash at year end than it counted on in its plan , in addition to any decrease in planned earnings
+the after - tax return to enron in a " hold " situation is 0 % , due to enron being in the alternative minimum tax position , i . e . it cannot use the tax benefits .
+it was clear in the discussions with the city of san antonio that these clarifications would have had no affect on value .
+tod
+- - - - - original message - - - - -
+from : presto , kevin m .
+sent : saturday , september 15 , 2001 2 : 41 pm
+to : curry , mike ; lamb , john ; payne , michael ; lindholm , tod a .
+cc : murphy , harlan ; kitchen , louise
+subject : re : amendment to im ii ppa
+i would like to make the message even more clear . epmi will not be making any changes , amendments , clarifications , interpretations , etc . to the current indian mesa ii ppa . therefore , any proposed purchaser of the indian mesa facility must evaluate the contract based on their own legal and commercial interpretation .
+i don ' t think it is productive to spend any more time on this discussion . we will continue provide enron wind with the ppa value on a daily basis such that total shareholder value is maximized for any proposed wind transaction ( sale of company and / or sale of im project ) .
+please feel free to call me to discuss ( 713 - 853 - 5035 )
+- - - - - original message - - - - -
+from : curry , mike
+sent : fri 9 / 14 / 2001 3 : 11 pm
+to : lamb , john ; payne , michael ; lindholm , tod a .
+cc : presto , kevin m . ; murphy , harlan
+subject : re : amendment to im ii ppa
+we are not interested in these changes to the ppa . these changes will weaken the language in the contract for us ( i . e . improve it for aep that is probably why they are asking for the " clarifications " ) . i will be out next week on vacation so please address any further concerns in my absence to kevin presto . regards , - mike
+- - - - - original message - - - - -
+from : lamb , john
+sent : friday , september 14 , 2001 10 : 28 am
+to : curry , mike
+cc : lindholm , tod a . ; payne , michael ; godfrey , jay
+subject : amendment to im ii ppa
+mike : attached is our proposed amendment to the indian mesa ii ppa . it deals with the banking clarification ( section 4 . 04 amendments ) , grid curtailment clarification ( section 5 . 02 amendments ) , guaranty clarifications requested by the lenders ( section 5 . 05 and 9 . 03 amendments ) , and the ercot amendment ( section 3 . 04 amendments ) that we have discussed . please note that the ercot restriction would permit international sales , such as to mexico , but would otherwise restrict epmi ' s sales of energy from the wind facility to other locations within ercot . in the preparation of this draft , we used the same amendment that was previously sent to you by e - mail on 8 / 22 / 01 . that e - mail had a redline with it to show the changes to the banking provisions . please let us know whether this draft is acceptable or whether you have any questions or comments on the amendment . thanks
+regards
+john
+>

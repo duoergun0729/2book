@@ -1,0 +1,64 @@
+Subject: re : my model for spikes
+valery ,
+i am interested in receiving the preprint .
+on another note , i would be glad to meet you for lunch / dinner
+sometimes during the next few weeks .
+please , let me know what would be the best time to meet .
+vince
+vincent kaminski
+managing director - research
+enron corp .
+1400 smith street
+room ebl 962
+houston , tx 77002 - 7361
+phone : ( 713 ) 853 3848
+fax : ( 713 ) 646 2503
+e - mail : vkamins @ enron . com
+" valery kholodnyi " on 12 / 20 / 2000 03 : 13 : 09 pm
+to : vkamins @ enron . com
+cc :
+subject : my model for spikes
+dear dr . kaminski ,
+i was recently allowed to release into the public domain on the limited basis
+the first of the preprints that i recently authored on my model for spikes in
+power prices and for the valuation of the contingent claims on power . in this
+regard , i have just given a talk on this model at the joint seminar of the
+center for energy finance education and research and the institute for
+computational finance at the ut austin . right now i am also in the process of
+forming a list of specialists both in the industry and academia who might be
+interested in receiving this preprint . please let me know if you might be
+interested in receiving this preprint .
+i look forward to hearing from you .
+sincerely yours ,
+valery kholodnyi
+manager of quantitative analysis
+research and analytics group
+txu energy trading
+ps . here are the main preprints that i have recently authored on my model for
+spikes in power prices and valuation of contingent claims on power :
+1 . valery a . kholodnyi , the stochastic process for power prices with spikes
+and
+valuation of european contingent claims on power , preprint , txu - rag - 01 / 00 ,
+july
+2000 .
+2 . valery a . khlolodnyi , valuation of a swing option on power with spikes ,
+preprint txu - rag - 05 / 00 , august , 2000 .
+3 . valery a . kholodnyi , valuation of a spark spread option on power with
+spikes ,
+preprint txu - rag - 21 / 00 , november 2000 .
+4 . valery a . kholodnyi , valuation of european contingent claims on power at
+two
+distinct points on the grid with spikes in both power prices , preprint
+txu - rag - 24 / 00 , november 2000 .
+5 . valery a . kholodnyi , valuation of a transmission option on power with
+spikes ,
+preprint txu - rag - 25 / 00 , november 2000 .
+as i have indicated to you in my previous e - mail , contrary to the standard
+approaches , i model spikes directly , as self - reversing jumps on top of a
+stochastic process for the regular dynamics of power prices in the absence of
+spikes . in this way the dynamics of power prices is modeled as a non - markovian
+process , even if the process for the regular dynamics of power prices is
+markovian . among other things my model for spikes allows for the explicit
+valuation and hedging of contingent claims on power with spikes , provided that
+the corresponding contingent claims on power can be valued and hedged in the
+absence of spikes .

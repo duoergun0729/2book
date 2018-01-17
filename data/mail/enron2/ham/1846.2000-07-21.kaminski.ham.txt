@@ -1,0 +1,37 @@
+Subject: var for metals
+it is my preference to have an aggregated var methodology for the metals
+business as soon as possible ( version la ) . i do not want to poison progress
+with my opiniion , but i think that the critical first step is to find a way
+to aggregate positions in coarse buckets , perhaps sacrificing precision for
+speed , based on " rules " that oerations can deliver , research can stand behind
+and commercial will accept . , and using an equally coarse var calculation
+( the equivalent of ad - hoc var ? ) that can be delivered to the " official books
+and records " on a daily basis . this i believe would be acceptable for a 2 - 3
+month time frame ( at which time we get versionlb ) as opposed to waiting 2 - 3
+months to implement a better process and have nothing in the interim .
+ultimately , i would look for version 2 a to be delivered and very defendable
+by 1 / 1 / 01 . this will require indulgence and compromise on all fronts but i
+cannot conceive of a better way . please let me know if this is consistent
+with your understanding . a critical point from my perspective is that the mg
+commercial team and metal operations staff understand their role in making
+this happen and willingness to accept the consequences . i look for you to
+take the lead as leader of the integration to do so . if you need any input
+from the rest of us to underscore the importance please let us know . as i
+alluded to on the phone , the people in houston that have been involved in the
+var process have been through an extraordinary period of detailed scrutiny of
+var by commercial and have been hindered by the lack of basic understanding
+by all parties as their responsibilities . given the distance and the newness
+of the metals personell , i fear that this could set us all up for some
+surprises and some very uncomfortable communication , much of which is not
+entirely necessary .
+thanks
+ted
+eric gadd
+07 / 21 / 2000 11 : 46 am
+to : ted murphy / hou / ect @ ect , bjorn hagelmann / hou / ect @ ect
+cc : richard sage / lon / ect @ ect
+subject : attached fax
+ted and bjorn -
+we plan to release draft recommendations on metal position limits by close of
+business on 24 july and have asked vince to prepare a v @ r computational
+methodology prior to the 7 / 8 aug bod meeting .

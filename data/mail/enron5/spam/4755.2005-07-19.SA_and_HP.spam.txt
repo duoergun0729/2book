@@ -1,0 +1,6 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 13 : 12 : 51 + 0200 ( cest )
+from ns 2 . mclink . it [ 212 . 48 . 4 . 11 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+- - - - - transcript of session follows - - - - -
+550 5 . 1 . 1 . . . user unknown

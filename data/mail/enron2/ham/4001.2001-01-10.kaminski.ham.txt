@@ -1,0 +1,10 @@
+Subject: request submitted : access request for rakesh . bharati @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000013287
+approver : stinson . gibner @ enron . com
+request create date : 1 / 10 / 01 5 : 57 : 18 pm
+requested for : rakesh . bharati @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

@@ -1,0 +1,10 @@
+Subject: it weekly tip - don ' t save or update !
+don ' t save passwords
+internet explorer and some web based applications give you the ability to save your password , so you don ' t have to type it in each time you access it . unfortunately , this time - saver can also get you in trouble when you are forced to change your password and the new password doesn ' t get saved . we ' ve had numerous calls to the help desk due to old passwords still being " saved " . to keep yourself from being a victim ( and for good security ) , please do not save passwords when prompted . some examples are below . . .
+don ' t update software or install plug - ins
+most of us have gone to a web site that prompted us to update our software version or shows a link to install a new plug - in so we can see all the fancy web page components . many vendor web sites let you download demos of their software . we need to resist the temptation to do this , since it may not be approved software and could cause applications to malfunction . this can further lead to difficulty in tracking down the cause of problems , since the workstation is now " non - standard " . only the omaha it staff should be installing software . when in doubt , please contact the help desk for assistance . examples from web sites are below . . . . thanks !
+: _ _ _ _ _ _ _
+tyler a theobald
+ets omaha it
+402 - 398 - 7247
+solution center : 402 - 398 - 7454

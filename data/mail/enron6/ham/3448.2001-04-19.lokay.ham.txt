@@ -1,0 +1,25 @@
+Subject: new pnr points on transwestern
+per request from marketing i have established the following new park and ride points for transwestern pipeline . these points have been added to the pnr template in cbs , and therefore will be available with all other park and ride points on pnr contracts .
+poi name pnr swgas mohave
+poi # 78149
+drn # 295115
+station n / a
+location sec 17 , tl 8 n , r 21 w , mohave az
+effective 4 / 18 / 01
+related to physical poi 78003 tw / sgtc mohave delivery
+_ _ _ _ _ _ _ _
+poi name pnr citizens griffith
+poi # 78150
+drn # 295116
+station n / a
+location sec 19 , t 20 n , rl 7 w , mohave az
+effective 4 / 18 / 01
+related to physical poi 78069 citizens griffith energy delivery
+_ _ _ _ _ _ _ _ _ _ _ _ _
+poi name pnr calpine southpoint
+poi # 78151
+drn # 295117
+station n / a
+location sec 9 , tl 7 n , r 21 w , mohave az
+effective 4 / 18 / 01
+related to physical poi 78003 calpine so point power delivery

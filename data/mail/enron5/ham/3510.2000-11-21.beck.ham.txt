@@ -1,0 +1,46 @@
+Subject: re : dpr adjustments for uk power
+from the risk management perspective i would like to add the following
+comments :
+uk power - despite much testing we still have a few production teething
+problems with the transfer to enpower and this was the first full live day .
+the specific issues surrounding the o 30 m adjustment is being investigated by
+it and we hope to have a definitive answer tomorrow .
+continental power - the portcalc valuation failed 4 times as a result of it
+problems resulting is us missing the deadline .
+oslo - the officialisation was at 10 . 56 london time against a deadline of
+11 . 00 .
+james
+david hardy
+21 / 11 / 2000 17 : 01
+to : james new / lon / ect @ ect
+cc : mike jordan / lon / ect @ ect , steve w young / lon / ect @ ect , debbie r
+brackett / hou / ect @ ect , david port / market risk / corp / enron @ enron , michael r
+brown / lon / ect @ ect
+subject : dpr adjustments for uk power
+james ,
+it appears only the uk gas mtm made it for the v @ r run in houston today .
+uk power : ( despite the spotlight being on this feed due to the first run of
+the new evaluation system ) was officialised late and required the below
+mentioned adjustment .
+contintental power : officialised late ?
+nordic power : was officialised around 11 am london time - the slowness of the
+current feed to houston prevented the feed reaching there on time ( feed has
+been rewritten by it to speed up the process and is currently in uat )
+however , it appears the normal time for officialisation this book is around
+10 . 30 am which allows the feed to hit to normally hit on time .
+appreciate if you could looked into the above .
+regards
+david
+- - - - - - - - - - - - - - - - - - - - - - forwarded by david hardy / lon / ect on 21 / 11 / 2000 16 : 06
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+michael batey
+21 / 11 / 2000 12 : 22
+to : david hardy / lon / ect @ ect
+cc : mike wellings / lon / ect @ ect
+subject : dpr adjustments for uk power
+david
+we have a topside adjustment to put through of o ( 30 , 164 , 151 ) against south
+western electricity plc . this is due to pd deal eo 00535 , peer id 41957 being
+valued in enpower when it was supposed to be excluded from the mtm .
+regards
+mike

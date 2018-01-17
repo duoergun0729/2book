@@ -1,0 +1,119 @@
+Subject: fw : fea announces the release of @ energy 2 . 1 .
+chris ,
+fea just released a new version of @ energy 2 . 1 . could you update it with the new version ?
+hopefully it will not take you too much time .
+as always , i value your work and appreciate your help .
+zimin
+- - - - - original message - - - - -
+from : kaminski , vince j
+sent : tuesday , may 15 , 2001 8 : 37 am
+to : lu , zimin
+subject : fw : fea announces the release of @ energy 2 . 1 .
+- - - - - original message - - - - -
+from : " erin hopkins " @ enron [ mailto : imceanotes - + 22 erin + 20 hopkins + 22 + 20 + 3 cerin + 40 fea + 2 ecom + 3 e + 40 enron @ enron . com ]
+sent : monday , may 14 , 2001 5 : 47 pm
+to : kaminski , vince j
+subject : fea announces the release of @ energy 2 . 1 .
+05 / 14 / 2001
+enron north america corp .
+vince kaminski
+1400 smith street
+30 th floor , rm . 3036 b
+houston , tx 77251 - 1188
+1 713 - 853 - 3848
+dear vince kaminski ,
+this is to inform you of the release of @ energy 2 . 1 . ftp download
+instructions are available immediately . the download instructions are
+included at the end of this email . please see below for more information
+regarding this new release . .
+fea is pleased to enclose your new version of @ energy / erglib . the
+accompanying documentation contains installation and other information .
+here is an overview of the new and changed features since version 2 . 0 .
+@ energy ( forward curve ) no change .
+@ energy ( basics ) a control variate methodology hull ( 1997 ) has been
+implemented for valuation of american options ( opt ) , black and
+mean - reverting models . it greatly improves accuracy at minimal cost in
+speed . all models now supports new scalar risk measures corresponding to
+parallel displacement delta , hedge , and gamma . average price / strike options
+now support an alternative way of computing theta . the definition of gamma
+curves has been modified for all models .
+@ energy ( advanced ) a faster and more accurate methodology is used to value
+spread options . models affected are spreadopt , stripspreadopt , optspreadopt ,
+optstripspreadopt . the new methodology dramatically improves speed . all
+models now supports new scalar risk measures corresponding to parallel
+displacement delta , hedge , and gamma . average price / strike options now
+support an alternative way of computing theta . the definition of gamma
+curves has been modified for all models .
+@ energy ( swing ) the definition of gamma curves has been modified for all
+models .
+@ energy ( weather ) no change .
+see the file fea \ energy \ ergnote . txt in your distribution for a list of bug
+fixes .
+here is an overview of the new and changed features since version 1 . 6 .
+@ energy ( forward curve )
+jump parameters are now calibrated for use in other @ energy functions .
+inputs and outputs to powercalib and comcalib have changed . see the
+corresponding function syntax in the user guide for additional information .
+35 - 40 % speed improvement . the module is now out of beta .
+@ energy ( basics )
+different interpolation schemes on forward prices are now supported . if you
+use indexswap , exoticswap , or optindexswap with floating price linked to a
+series of futures dates , such futures dates need not be close to dates
+specified in the forward curve input . a new utility function , pathutil ,
+allows you to simulate and visualize price paths consistent with the models
+supported by @ energy . 25 - 30 % speed improvement .
+@ energy ( advanced )
+different interpolation schemes on forward prices are now supported . if you
+use optdiffswap or diffswap with floating price linked to a series of
+futures dates , such futures dates need not be close to dates specified in
+the forward curve input . calspreadopt now allows for the specification of
+two different mean reversion rates . 30 - 35 % speed improvement .
+@ energy ( swing )
+swingopt and stripswingopt now allow for valuation of swing straddle
+contracts with overall load constraints . 65 - 70 % speed improvement . the
+module is now out of beta .
+@ energy ( weather )
+30 - 35 % speed improvement .
+see the file fea \ energy \ ergnote . txt in your distribution for a list of bug
+fixes .
+if you are a user of the erglib library , please be aware of possible
+backward compatibility issues in calls to eapo , easo , espreadapo ,
+espreadaso , and ecrackapo . see fea \ energy \ ergnote . txt for additional
+details .
+here is an overview of the new and changed features since version 1 . 5 .
+@ energy ( basics )
+european options and strips of european options now support valuation via a
+jump diffusion model ( see opt and stripopt functions ) . average price options
+( see the apo , spreadapo , crackapo functions ) , and average strike options
+( see the aso , spreadaso functions ) now allow for a direct input of the
+fixing dates .
+@ energy ( advanced )
+includes two new functions , optstripopt and optstripspreadopt for valuation
+of complex compound options .
+if you are a user of the erglib library , please be aware of backward
+compatibility issues in calls to eapo , easo , espreadapo , espreadaso , and
+ecrackapo . see fea \ energy \ ergnote . txt for additional details .
+here is an overview of the new and changed features since version 1 . 4 .
+@ energy ( forward curve )
+@ energy ( forward curve ) is the new module which includes functions designed
+to generate forward curves , volatility curves and mean reversion rates used
+in many other @ energy functions . module in beta release .
+@ energy ( basics )
+apo ' s and aso ' s : bug fixed when avg _ starts prompt .
+type " quit " .
+the file will be downloaded into the directory at which you entered the ftp
+site .
+double click on the exe and follow the instructions on the screen .
+there is also a readme file which contains installation instructions .
+you may wish to print this out for easy reference .
+n . b . : the password is only valid until the first friday of next month .
+if you have any questions please feel free to contact us . we appreciate this
+opportunity to be of continuing service to enron north america corp . .
+regards ,
+erin hopkins
+administrative assistant
+financial engineering associtates , inc .
+tel : + 1 . 510 . 548 . 6200
+mailto : info @ fea . com
+or
+mailto : support @ fea . com

@@ -1,0 +1,122 @@
+Subject: article on gas marketers : top gas gorillas
+note the discussion on market share halfway through the article .
+top gas gorillas show strong volume growth
+the year 2000 was a banner year for the top players in gas marketing , with
+huge increases in gas prices , enormous volatility , continuing growth in sales
+volumes and major potential for profits . physical gas sales volumes for the
+top 20 marketers in ngi ' s ranking grew 17 % to nearly 150 bcf / d , and profits
+among the larger players came in very strong with companies such as williams
+reporting 2 , 000 % profit increases in their energy merchant segments .
+however , for many of the smaller players it was a tough year . " the big news
+here is probably the price pressure the marketers have had to withstand , "
+said ben schlesinger , president of maryland - based consulting firm schlesinger
+and associates , which tracks energy marketing . " these people have price
+exposure on both sides of their business : the buy side and sell side . they ' ve
+actively sought to hedge these risks , but there ' s no question that there have
+been some real stresses in their businesses as a result of quadrupling gas
+prices in 2000 . "
+significant shuffling has begun to take place and will continue , not just
+among the leadership but among the whole roster of 500 marketing companies ,
+predicted schlesinger . " for the first time i ' m not sure all 500 will make it
+because of the price volatility , and the stresses that it creates on their
+balance sheets and their ability to meet the different needs of their
+customers . " if you are on the wrong side of a transaction these days in
+california , you are going to suffer significantly . it ' s not much different at
+the henry hub either , he noted . the harsh reality is that only the strong
+will survive .
+ronald j . barone of ubs warburg believes the california energy crisis and
+fears of lack of gas supply and capacity are driving customers to the
+strongest marketers . " i think that over the long term it will be a positive
+for the bigger players , such as enron . customers want to go with somebody who
+is big , has facilities , somebody who is going to guarantee it , somebody who
+can do risk management for them . enron is the 800 - pound gorilla here . "
+enron has been the 800 - pound gorilla in gas marketing for years but there
+were always plenty of 750 - pound gorillas around . last year , however , enron
+found a way to trade natural gas over the internet and at last glance was
+well over 1 , 600 pounds , more than double the size of its next closest rival
+gorilla , duke energy . enron sold 23 . 8 bcf / d of gas last year compared to only
+13 . 3 bcf / d the year prior and compared to the 11 . 9 bcf / d sold by duke energy ,
+which came in second place in ngi ' s ranking of gas marketers by physical
+sales volume .
+enron catapulted itself to the next level with the help of its handy new
+tool , enrononline , its web - based proprietary energy and commodity trading
+system that now handles about 3 , 000 mainly natural gas transactions each day .
+in 2000 , enron completed its first full year of deploying enrononline , which
+quickly became the world ' s largest web - based e - commerce site . during the
+year , enron executed 548 , 000 transactions online with 3 , 000 customers ,
+totaling $ 336 billion of gross value .
+the tremendous success of enrononline led many observers to wonder whether
+market concentration was beginning to take place in the industry . when you
+look at enron ' s massive increase in wholesale transactions you have to wonder
+about that concentration . enron ' s 23 . 8 bcf / d is pretty large ( 35 % ) when
+compared with the 69 bcf / d that is actually consumed in north america . but
+you have to factor in multiple trades - - - one marketer trades a given
+molecule of gas to another marketer and so on . according to schlesinger , the
+so - called " churning factor " is close to three .
+" in the past several years when we ' ve been polling marketers , we got numbers
+( in 1999 ) that came to about 60 tcf . we added up all the physical sales by
+all the marketing companies . we did not have 100 % response in our survey - - -
+some of the mid - sized and smaller companies didn ' t respond . we reasonably
+extrapolated that about 65 tcf , maybe even 70 tcf of gas was traded each year
+in north america . physical consumption in north america is about 25 tcf so 70
+divided by 25 is about 2 . 8 . "
+using that calculation , enron with 23 . 8 bcf / d of physical gas sales in 2000
+ends up with a not unreasonable 12 % market share . when the federal trade
+commission looks at markets and market share , it uses several tools , one of
+which is the herschman - herfindahl index , a measure of market concentration .
+it ' s the sum of the squares of the market share of each participant . if one
+company owns the entire 100 % of the market , that ' s an hhi of 10 , 000 .
+the department of justice has been using 1 , 800 as a red flag when it
+considers approval of mergers and acquisitions . according to schlesinger , the
+total gas industry has an hhi of only about 200 , way below any suggestion of
+market concentration .
+" it ' s so low that it ' s unbelievable . it ' s a highly competitive business . even
+if one competitor has 12 % of the market ( hhi of 144 ) and the next competitor
+has 6 % and on down , it certainly doesn ' t send up any red flags , " he said . " it
+could be that market concentration in the gas industry has risen a bit in
+2000 , but this information alone would not diminish the fact that the
+industry is one of the most competitive businesses in the united states .
+however , there may be some regional issues we have to think about , " he added .
+" we haven ' t looked at that , so i can ' t comment on whether anyone has undue
+market power in a particular region or state , for example . "
+there is a snowball effect going on among the top marketers . the leaders keep
+getting larger . volume growth averages at least 10 % per year or more . several
+factors should fuel future growth . price increases , volatility and
+uncertainty of supplies are driving buyers to the larger marketers , according
+to both schlesinger and barone . online trading has become a new springboard
+for additional growth by allowing greater efficiency and many more trades to
+take place .
+schlesinger said he believes electronic trading was responsible for a good
+part the 17 % increase in volumes . enron attributed much of its growth to the
+online business .
+according to some observers , online trading still has plenty of room to grow .
+altra energy ceo paul bourke believes about 30 % of all gas trading now takes
+place over the internet . bourke said altra had 8 , 000 natural gas trades on
+its system in december .
+however barone predicts there eventually will be a slowdown in gas marketing
+growth in the united states as international energy markets grab the
+attention of many marketers . " international should pick up the slack and
+contribute increasingly to the bottom line , " he said . barone also expects the
+current market situation and the continued interest in service , supply and
+commodity versatility to continue driving marketing companies together . " i
+think size , scope and scale are incredibly significant . "
+only one of the top 20 major marketers last year resulted from the
+combination of two separate predecessors : axia , which grew out of the
+combination of koch energy and entergy . the rest of the group achieved its
+growth without major acquisitions or mergers .
+thirteen out of the 20 top marketers showed double - or triple - digit volume
+growth with only two companies in the minus column . pg & e had the largest
+volume deterioration of any of the large marketers with a 40 . 1 % decline in
+annual volumes and a 42 % decline in quarterly volumes . pg & e went through a
+significant reorganization last year . the move of its national energy group
+( neg ) to bethesda , md , from houston , had the greatest impact on its trading
+activity . but the company also sold its energy services business and its
+texas gas transmission assets among other changes . " it really slowed down our
+trading [ and ] a large number of people stayed behind in houston , " said
+company spokesman patrick hurston . at the time of the move , the company
+estimated about half , or 100 , would make the move . hurston wouldn ' t say how
+many actually made the trip , but the company is still actively hiring .
+transcanada , which also underwent a massive reorganization last year , was the
+other company in the minus column with a 3 % decline in sales volume .
+the remainder of the group experienced large increases in volumes : enron at
+94 % , duke with 15 % growth , sempra with 51 % and bp amoco with 100 % growth .

@@ -1,0 +1,30 @@
+Subject: intranet consolidation announcement
+announcing the gpg intranet
+consolidation project
+( home . gpg . enron . com )
+why are we doing this ?
+in the spirit of the one gpg campaign , we are consolidating all of the gpg
+intranet sites to present a common look and feel by leveraging the latest web
+technology . this effort will reduce the cost to maintain these sites and
+servers .
+how will it affect me as a user ? as a user you will be able to search the gpg
+intranet , create your own mygpg . com page and update content you are
+responsible for whenever you need .
+ ( . as a webmaster ?
+by utilizing content management tools , webmasters will be able to focus on
+development efforts . standards will be put in place regarding navigation ,
+graphics , content and performance . tools will be available to check the
+performance and usage of your site .
+what are the next steps ?
+the intranet team will be contacting webmasters with content on the current
+gpg website ( www . ots . enron . com ) to discuss the migration . all content on the
+existing web server will be moved to the new gpg intranet .
+what is the future direction ?
+the initial rollout will include the migration of the existing gpg site
+( www . ots . enron . com ) , content management of that information and the
+mygpg . com .
+meetings will be setup with each operating company ' s webmaster to discuss
+timelines for integrating the remaining web servers into the new environment .
+questions
+ladonna dervin is the project manager for the project and can be reached at
+713 . 853 . 7103 if you have any questions regarding the project .

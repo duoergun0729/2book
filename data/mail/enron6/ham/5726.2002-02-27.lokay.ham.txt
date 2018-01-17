@@ -1,0 +1,29 @@
+Subject: transwestern capacity release invoice for feb 2002 - ena / burlington
+please be advised that a manual adjustment will need to occur on ena ' s contract 24924 . the deal was structured whereby tw would receive a marketing fee equal to 50 % of the rate negotiated in excess of the original contracted rate between ena and tw ; the other 50 % goes to ena .
+here ' s the basics :
+ena ' s contract with tw is at a daily rate of $ 0 . 0600 ( one - part )
+the release to burlington is at a daily rate of $ 0 . 1020 ( demand only plus applicable commodity and fuel based on usage )
+tw will bill burlington through normal course of business ( reservation of $ 71 , 400 [ $ 0 . 1020 x 25 , 000 x 28 days ] plus applicable commodity fees )
+ena demand invoice will need to be adjusted so that they only receive a capacity release credit of $ 56 , 700 [ ( $ 0 . 1020 - $ 0 . 0210 ) x 25 , 000 x 28 days ] amy - please do an adjustment of the capacity release rate by inputting a discount of $ 0 . 0210 for this line item on the manual invoice .
+richard - when payment is received from burlington for their acquisition , please process the credit amount of $ 14 , 700 to ena .
+tw will need to book marketing fee revenues of $ 14 , 700 [ $ 0 . 0210 x 25 , 000 x 28 days ] richard - has a separate account been established for these revenues ?
+if you have any questions , please let me know .
+elizabeth
+- - - - - original message - - - - -
+from : brown , elizabeth
+sent : wednesday , february 27 , 2002 8 : 29 am
+to : giambrone , laura ; hernandez , bert ; mcevoy , christine ; miller , beverly ; miller , christopher l ; minter , tracy ; mulligan , amy ; ward , linda ; donoho , lindy ; lindberg , lorraine ; lohman , tk ; lokay , michelle ; watson , kimberly ; mcconnell , mark ; y ' barbo , paul ; buchanan , john
+cc : dietz , rick ; lee , dennis
+subject : transwestern capacity release report for february 2002 reservation invoices
+attached is the file to be used for demand invoice verification for january 2002 capacity release transactions . if you have any questions , please feel free to contact me .
+fyi - based on the flash invoices i generated last night for the capacity release transactions and global settlement contracts , please note the following :
+ena k # 24924 res - manual rate adjustment is needed for the 50 / 50 split of marketing fees for capacity released to burlington
+conoco k # 20748 res - delete the thoreau to e . thoreau line item
+conoco k # 20835 comm - delete authorized overrun line items and roll volumes up to the commodity charge type
+texaco k # 25923 / 25924 comm - when verifying fuel rate of 4 . 5 % between the lateral and mainline contract sched volumes , there is a ldifference that could not be attributed to rounding . need to verify if difference is caused by makeup volumes ; and if delivery makeup scheduled , then invoice should be adjusted accordingly .
+please remember that the notes above are based on data as of 2 / 26 / 02 . i will review again on the lst .
+schedulers - please provide a final copy of the delivery tolerance report to both me and marketing so it can be determined if makeup will affect the rate to be charged [ some contracts are based on calculations , especially when charging incremental fees for alternate point usage ] .
+>
+thanks ,
+elizabeth
+x 3 - 6928

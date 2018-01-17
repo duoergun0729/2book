@@ -1,0 +1,83 @@
+Subject: computerworld article
+fyi : several errors like ' brokering ' in the report but given the fact that
+the guy had no clue what enron does or companies like it do , this came out
+okay . in all of the pr group ' s marketing effort , enron as a market - maker is
+the message .
+ravi .
+- - - - - forwarded by ravi thuraisingham / enron communications on 02 / 05 / 01 10 : 54
+am - - - - -
+shelly mansfield
+02 / 05 / 01 10 : 49 am
+to : ravi thuraisingham / enron communications @ enron communications
+cc :
+subject : computerworld article
+shelly mansfield
+enron broadband services
+713 - 853 - 4589 office
+713 - 646 - 8887 fax
+877 - 929 - 7889 pager
+713 - 303 - 4720 cellular
+- - - - - forwarded by shelly mansfield / enron communications on 02 / 05 / 01 10 : 51 am
+- - - - -
+norman levine
+02 / 05 / 01 10 : 08 am
+to : shelly mansfield / enron communications @ enron communications
+cc :
+subject : computerworld article
+following is the computerworld article :
+link :
+enron seeks to broker storage deals between users , ssps
+by lucas mearian
+while technology service providers have long been talking about data storage
+as a utility that should be sold in the open marketplace like electricity or
+natural gas , little has been done to pool market resources in order to hawk
+surplus disk - array capacity .
+but that ' s exactly what a subsidiary of houston - based energy and
+communications conglomerate enron corp . is doing by launching a
+business - to - business exchange that it said will seek to match spare capacity
+owned by storage service providers ( ssp ) with corporate users who want to be
+able to quickly scale up and down the amounts of storage they have available .
+enron broadband services this week announced that it has already signed a
+deal with waltham , mass . - based storagenetworks inc . and is negotiating
+similar agreements with at least six other ssps . if successful , analysts
+said , enron ' s business proposition could go far toward generating a set of
+operating standards for the emerging ssp business .
+" it ' s a market with mix of small and large players and companies that define
+their roles differently , " said ken weilerstein , an analyst at gartner group
+inc . in stamford , conn . enron ' s plan also could help enterprise - level users
+get additional benefits along with the storage capacity they ' re renting , such
+as security and disaster recovery support , he added .
+ravi thuraisingham , director of global bandwidth risk management at enron
+broadband services , said the new offering won ' t include additional security
+features . but enron does plan to standardize on a set of ssp services and
+bundle them with disaster recovery and communications bandwidth capabilities ,
+he said .
+initially , enron - - which had total revenue of $ 101 billion last year - -
+expects to charge users monthly fees of $ 25 to $ 55 per gigabyte of managed
+storage , depending on market conditions and the length of time a company
+expects to need the capacity . " we ' re there to try to discover a market
+clearing price , " said thuraisingham , adding that the service is tentatively
+due to go online in the third quarter .
+enron said it has already signed best buy co . , one of the leading retailers
+of consumer electronics , computers and software in the u . s . , to buy the
+storage capacity it needs to support a customer relationship management
+application through storagenetworks . connecting users such as best buy to
+available storage could take anywhere from three days to three months ,
+according to thuraisingham .
+under enron ' s plan , storage capacity owned by participating ssps will be
+connected to an existing network of switching hubs through which the company
+currently trades telecommunications bandwidth . enron said it has 18 switching
+centers , or " pooling points , " in the u . s . , and another seven overseas .
+at first , the company plans to focus its attention on ssps in boston and
+other metropitan areas where the necessary networking plumbing can be easily
+installed . but even there , thuraisingham said , enron is " pretty much in the
+initial stages of getting ssps up to speed on what the market is about . "
+enron has been managing online trades of telecommunications bandwidth since
+the spring of 1999 . later that year , it also launched a web site called
+enrononline that oversees the trading of natural gas , electricity and other
+commodities . that quickly became the world ' s largest e - commerce site and is
+now said to be processing more than $ 1 billion worth of transactions daily .
+norman levine
+enron broadband services
+713 - 853 - 5010
+norman _ levine @ enron . net

@@ -1,0 +1,59 @@
+Subject: tw sale / hedge of unsubscribed firm
+tw is currently in negotiations with a handful of shippers regarding 3 blocks
+of unsubscribed firm capacity :
+block one
+volume : 27 , 500 mmbtu / d
+term : 1 year , 01 / 01 / 02 thru 12 / 31 / 02
+receipt : san juan , ignacio or blanco
+delivery : california border - not to exceed 13 , 500 mmbtu / d at needles .
+price : floating . difference between ngi socal and iferc , epng , san juan
+award criteria : adjustment ( + / - ) to floating price
+block two
+volume : 49 , 000 mmbtu / d
+term : 1 year , 01 / 01 / 03 thru 12 / 31 / 03
+receipt : san juan , ignacio or blanco
+delivery : california border - not to exceed 35 , 000 mmbtu / d at needles .
+price : floating . difference between ngi socal and iferc , epng , san juan
+award criteria : adjustment ( + / - ) to floating price
+block three
+volume : 11 , 000 mmbtu / d
+term : 2 years , 01 / 01 / 02 thru 12 / 31 / 03
+receipt : san juan , ignacio or blanco
+delivery : east of thoreau
+price : floating . difference between ngi socal and iferc , epng , san juan *
+award criteria : adjustment ( + / - ) to floating price
+* mismatch between delivery point and pricing location is an attempt to
+capture more of the spread value . however , early discussions with shippers
+indicates the structure may not be marketable . we may ultimately revert to
+selling it on a " san juan to eot " basis .
+transwestern attempted to impose a deadline for consideration of these blocks
+on friday , jan . 5 , in order to bring closure . however , some parties were
+not able to comply and will be providing proposals on monday .
+if an acceptable offer for one or more of these blocks ( blocks one and two ,
+in particular ) is received on monday , then in addition to the preparation of
+the physical gas transportation contract , a hedging strategy to lock - in the
+spread value should be implemented .
+i ' ve spoken with dave neubauer and others ( larry , morgan , vernon and theresa )
+regarding the execution of an appropriate risk management strategy . in
+particular , i spoke with morgan about hedging the basis risk by executing
+fixed / floating price swaps at the receipt and delivery ends . we ' ve already
+talked with the potential shippers about using ngi socal at the california
+border and iferc , epng , san juan for receipts . these indices appear to be
+the most liquid with respect to trading the paper . they are also highly
+correlated to physical prices at the receipt and delivery locations off
+transwestern .
+if the physical transport deals are completed on monday , i believe we should
+move to execute derivative instruments to hedge the basis spread .
+indications from counterparties earlier in the week are showing about a $ 1 . 40
+spread in ' 02 and $ 0 . 90 in ' 03 . however , given the current state of the gas
+market , and after consulting with steve harris , i also believe we should
+leave the price risk open on the fuel collection under these contracts . it
+seems imprudent at this point to lock - in fuel gas prices that are at
+historically high levels .
+i ' ve attempted to at least " tee - up " the requisite paperwork that will
+document the physical transaction , hedge transaction and attempted hedge
+strategy . i ' ve included it below for your use if a hedge is indeed put on
+for these pending transactions . please feel free to modify or to make such
+changes as you see necessary .
+i ' ll be in washington d . c . on monday and tuesday . i ' ll have my cell phone
+with me and will be checking messages also . call if you have questions .

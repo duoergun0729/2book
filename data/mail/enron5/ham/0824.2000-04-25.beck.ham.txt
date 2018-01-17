@@ -1,0 +1,56 @@
+Subject: book - split update 4 / 25 / 2000
+as we are nearing the deadline for the book - split project , i want to give you
+a status update .
+book - split
+completed
+separate cash & term books have been setup in enpower and global databases
+for every country
+pablo pissanetzky has written code to successfully transfer over 99 % of the
+deals into their proper regional books
+two dozen deals ( mainly annuities ) have been modified in production to
+transfer according to pablo ' s code
+all deals requiring manual intervention on go live date have been identified
+initial position report has been developed and tested for accuracy
+uncompleted
+communication to commercial of positions ( wed . april 26 )
+presentation of the position report which allows commercial to view monthly
+peak / off - peak volumes by region ( wed . april 26 )
+pcs by deal for each portfolio
+separate dprs and associated reports for the pool and bilateral portfolios
+modifications necessary for the settlements invoicing system
+transmission
+we are making progress on this effort although you have not seen any hard
+evidence . zhiyong wei is the it director in houston who is responsible for
+enpower development . we are working with pablo and zhiyong on several
+possibilities . as we have previously discussed , there is not the current
+capability to value the spreads as options , but we are testing the other
+scenarios .
+buy / resale
+this deal type has been disabled
+we are waiting for zhiyong ' s response as to its future functionality if any
+transmission
+pablo tested in the stage environment today after receiving minor assistance
+from zhiyong
+ability to book transmission deal without annuity leg
+ability to liquidate demand charge daily
+reflects long and short positions at the appropriate regions ( as forwards not
+options )
+does not value the forward spread between the regional curves ( still testing )
+variable cost treatment is still being tested
+forwards
+if deep in the money , we could enter intra - desk / inter - desk deals to reflect
+positions and p & l
+much time and it development resources have been spent to make use of the
+transmission functionality . after speaking with zhiyong , there evidently was
+a big push last year for the mtm of transmission . the latest version has
+been in the test environment for some time , but no one is currently testing
+it . it will take some attention to test it properly and will not be complete
+by the book - split deadline .
+as we established in our last meeting , the mtm of transmission is a separate
+project from the book - split . due to the complexity and amount of data
+involved in the book - split project itself , it is advisable that we
+incorporate the transmission second . further testing of the transmission
+will continue this week and by the end of the week we should have a decision
+on the most effective way to currently book transmission .
+please call or come by if you have any questions ,
+todd hall

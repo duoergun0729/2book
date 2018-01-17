@@ -1,0 +1,44 @@
+Subject: re : choosing the riskfree rate
+dear all ,
+i completeley agree with ben that treasuries are the most liquid and reliable
+benchmarks . i also think that fmas have their own advantages and
+disadvantages .
+however , it looks like it would be very difficult for us to avoid using libor
+as benchmark - at least to price anything related to capital markets ( for
+example , credit default swaps ) . our prices will always be different from
+that on capital markets if we use benchmarks different from the market .
+as a half - way solution we can have different benchmarks - for example , use
+anything , that we decide is closest to risk - free , to value products
+significantly different from that priced on capital markets , and libor for
+everything priced on capital markets .
+we can adjust by manipulating other coefficients ( event , liquidity ,
+recovery ) for our purposes , but it looks like benchmark should be libor .
+to avoid negative default probabilites ( for highly rated reference entities )
+we can add cost fo repo and haircuts ( as all bankers do ) .
+let us continue our discussion on this .
+slava
+benjamin parsons
+13 / 03 / 2000 20 : 07
+to : bryan seyfried / lon / ect @ ect , martin mcdermott / lon / ect @ ect , viacheslav
+danilov / lon / ect @ ect , stuart ffoulkes / lon / ect @ ect , eklavya sareen / lon / ect @ ect ,
+tomas valnek / lon / ect @ ect , john metzler / lon / ect @ ect , simon brooks / lon / ect @ ect ,
+konstantin malinovski / lon / ect @ ect
+cc : vasant shanbhogue / hou / ect @ ect , vince j kaminski / hou / ect @ ect , steven
+leppard / lon / ect @ ect , jitendra patel / lon / ect @ ect , william s
+bradford / hou / ect @ ect , harry arora / hou / ect @ ect
+subject : choosing the riskfree rate
+dear all ,
+following on from the discussions had with vince et al a few weeks ago ,
+regarding the problems inherent in using treasuries as our benchmark riskfree
+curve , i ' ve written the attached short document . my preliminary conclusions
+are as follows :
+recent turmoil in the treasury market mostly hit 10 and 30 - year bonds .
+treasuries are still the most liquid curve , and that used by banks for
+benchmarking risky debt .
+there is a considerable a liquidity / scarcity premium inherent within the
+corporate - treasury spread , which we are not taking into account . more
+accurate measurement of this premium should allow us to calculate bankruptcy
+prices based on treasuries , which are consistent with the market .
+all further comments are welcome of course .
+regards
+ben

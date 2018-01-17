@@ -1,0 +1,15 @@
+Subject: e - mail and voicemail retention policy
+as a reminder , ena  , s policy regarding retention of electronic mail , including
+lotus notes mail , internet e - mail , cc : mail and voicemail is as follows :
+message location maximum retention
+inbox 30 days
+message log / sent mail 30 days
+trash rollover from inbox for 15 days
+bulletin boards 30 days
+folders / archives e - mails placed in folders or archives  ) one year
+voicemail 90 days
+e - mail and voicemail older than the maximum retention will be purged
+automatically by it , which is responsible for monitoring compliance with this
+policy . any exception to this policy requires approval by mark haedicke or
+richard sanders .
+mark frevert and mark haedicke

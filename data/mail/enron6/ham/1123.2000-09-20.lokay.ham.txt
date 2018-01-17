@@ -1,0 +1,40 @@
+Subject: windows 2000 / outlook project
+houston - area et & s employees : ( the marketing group should have already been
+contacted by jean mcfarland . )
+next week , we are going to begin phase i of the windows 2000 / outlook
+project . in this phase , we will be gathering information about the hardware
+and software that you are using within your group .
+the process will begin with an email inventory . you will receive an email on
+monday , september 25 , with the subject of w 2 k inventory - please open . all you
+need to do is open the email message . this email will do a quick inventory
+of applications you have installed on your pc or that you may access from the
+network , as well as your desktop hardware specifications . the information
+gathered from this email will be stored in a notes database for reporting .
+it is very important that you open this email from your primary workstation .
+please do not open it remotely , or if you ' re checking someone else ' s mail .
+mid - week , we will deploy teams to conduct individual interviews to assure
+that we have a complete picture of your technical environment . this process
+will take approximately six weeks to complete for all of ets . the findings
+from these interviews will determine the phase ii start date .
+data responsibility
+as we prepare for this massive effort , we ask that you assist us by doing the
+following :
+1 ) identify any business - related applications that may reside locally .
+2 ) remove data from the local drive of your desktop ( c : \ and / or d : \ ) , and
+store it on your network drive . the special data requirements of laptop
+users will be addressed during the actual migration .
+3 ) remove all non - business - related data from network drives .
+4 ) remove non - company - owned applications from your environment .
+5 ) if you have historical data that does not change , contact the solution
+center and have a cd created for a more permanent storage method .
+training for windows 2000 / outlook
+training requirements will be addressed during phase ii by a number of
+methods that will include :
+hands - on training , which will consist of 1 hour on windows 2000 and 2 hours
+on outlook ,
+iptv video ,
+tri - fold cards on the microsoft products , and
+cbt ( computer - based training ) .
+if you have any questions , comments , or concerns , please feel free to contact
+the :
+ets solution center at 54745

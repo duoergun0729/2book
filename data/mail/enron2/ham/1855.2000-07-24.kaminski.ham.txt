@@ -1,0 +1,37 @@
+Subject: sap timesheets
+hello everyone :
+thanks to krishna we have come up with a plan that i believe is going to
+save everyone some time . we have created an excel spreadsheet , with
+the time sheet form , and there is a tab for each of you , in alphabetical
+order
+by first name across the bottom of the spreadsheet .
+the spreadsheet is saved in o : \ research \ common \ sap timesheets \ mmm - dd .
+( mmm = month and dd = 15 th or end of the month time period - i . e . , this time
+period is 7 / 16 - 7 / 31 / 00 ) . the regular 8 hour days have already been entered
+for each of you . therefore , if you have no exceptions you just need to type
+in
+your name in the bottom right corner by the place marked ( emp sign ) , and save
+it .
+if you do have exception time , simply open that particular pay period and
+show the exception time ( off - duty , vacation , overtime , sick time , jury time ,
+family
+time , etc . ) that you may have had during that pay period . some of the codes
+have already been entered for you , the rest are listed at the bottom of the
+spreadsheet and just change the ones that are already there for whatever
+applies .
+if you are an exempt employee you need only show your off - duty time
+or exception time . if you are non - exempt you must show all hours worked
+and if you have overtime , you must add that to the 8 hours regular time .
+there is no code for non - exempt overtime .
+this should make it much easier for everyone . however , i will need you to
+fill out this timesheet form by the 13 th and 29 th of each month . i will
+try and remind you by email the day before .
+i would still appreciate your emailing me of any vacation , hod day , or any
+other
+off - duty that you know about before hand , that way if you are out of pocket
+for any
+reason and cannot fill in one of the forms , i will be able to fill in your
+timesheet for you .
+if you have any questions or suggestions , please let me know .
+thanks !
+shirley

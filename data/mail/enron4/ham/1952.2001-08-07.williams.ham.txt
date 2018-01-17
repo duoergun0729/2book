@@ -1,0 +1,29 @@
+Subject: caiso notice : operating procedure s - 315 emergency overload
+mitigation procedure for stability rated paths
+market participants :
+please assure that this notification is forwarded to your respective
+operating departments - - -
+notification of operating procedure update
+* the following new or revised iso operating procedures have been
+implemented and are posted for reference on the iso website .
+iso operating procedure posted : s - 315 emergency overload mitigation
+procedure for stability rated paths
+version : 2 . 2
+effective date : 8 - 1 - 2001
+procedure purpose : the purpose of this procedure is to reduce flows on iso
+managed interconnections within twenty minutes as required by wscc mandatory
+reliability criteria , through coordinated operational measures with adjacent
+interconnected control areas . such measures may include , transferring flow
+to other facilities , generation changes , and schedule adjustments .
+summary of changes : the wscc stability limit changed from 10 to 20 minutes .
+* please find them at
+http : / / wwwl . caiso . com / thegrid / operations / opsdoc / index . html under the
+appropriate operating procedure section heading .
+if you have any questions , please e - mail the ' procedure control desk '
+mailbox [ mailto : procctrldesk @ caiso . com ] and we will respond as soon as
+possible .
+thank - you ,
+operations support and training
+crcommunications
+client relations communications
+california iso

@@ -1,0 +1,114 @@
+Subject: ebs ' s approach to storage trading
+hi ravi - -
+thanks for you note . i would be very interested in a meeting to establish an
+ebs - wide approach to storage . it ' s a huge opportunity .
+we could expand the 2 : 30 pm friday meeting to include all interested ebs
+people and discuss the topics below . could shalesh coordinate this meeting
+and also coordinate the ongoing effort firm - wide ? have i omitted anything
+below ?
+as i see it , here are the key storage initiatives that ebs should undertake ,
+and who is involved up to this point .
+1 . - establish storage contract terms and pricing
+who ' s involved : virawan , jean mrha beach
+a . define terms for storage needed for ebs products ( mediacast ,
+mediatransport , and new products )
+b . define general terms for other storage contracts
+2 . - establish storage pooling points ( spp )
+who ' s involved : shalesh , richard reichardt , mark palmer , kara knop
+who ' s needed : other designated people from bloomer and griebling groups , jim
+crowder ' s group input on alliances
+a . define technology needed
+servers , storage devices
+control software for physical delivery
+b . decide optimal spp locations
+at / near existing bandwidth trading pooling points
+at / near existing ebs city pops
+at a hosting partner location
+c . engage optimal partners to create spp
+ibm
+ibm global services
+tivioli ( storage management software )
+emc
+sun
+compaq
+existing storage portal vendors ( e . g . storage networks )
+3 . - establish storage trading benchmark
+who ' s involved : unknown
+who ' s needed : research group
+a . define unit of measure for trading contract ( e . g . , terabyte - month )
+b . establish pricing mechanisms
+4 . - identify ( and monetize ) storage market opportunites
+who ' s involved : unknown
+who ' s needed : cox ' s group , bloomer ' s group
+a . storage intermediation opportunities
+b . establish virtual storage portal service for ebs
+ravi thuraisingham
+03 / 08 / 00 11 : 00 am
+to : mark s palmer / enron communications @ enron communications , jean mrha / enron
+communications @ enron communications , john bloomer / enron communications @ enron
+communications , richard reichardt / enron communications @ enron communications
+cc : kara knop , stinson gibner / hou / ect @ ect , vince kaminski , david cox / enron
+communications @ enron communications , shalesh . ganjoo @ enron . com
+subject : meeting for friday on storage
+hi mark , i have not met you yet but heard a lot of good things about you . i
+would like to discuss with you and possibly with john bloomer and richard
+reichardt about the ebs research ' s role in supporting the storage market
+development from the origination and trading perspective . there are several
+people in various groups that are talking about storage but here is what ' s my
+take on our involvement - - please correct me or suggest otherwise .
+shalesh ganjoo is our lead analyst on this effort . in addition to his effort
+with your group , he is presently supporting jean mrha with pricing and
+standardization for a traded storage maret - - stinson gibner is directly
+supervising him in this effort .
+shalesh came to us through referal from david cox - - david discovered him at
+one of his speaking engagements . shalesh had talked to david about traded
+storage market development some time last october and david refered shalesh
+to enron research group . we hired shalesh for general analyst position and
+now he is pulled into all aspect of this storage effort . currently , he is
+our point person ( with stinson or i supervising his effort ) who is supporting
+jean mrha and you on the subject . kara knop has aproached shalesh with
+request for some support and shalesh and she are sorting out each other  , s
+role in this regard . as per my discussion today with david , we need to
+coordinate this storage effort from the perspective of modeling market
+assessment etc . for this i suggest shalesh and his effort so that all parties
+involved can benefit from collective effort within one central source . based
+on david ' s and my assessment of shalesh ' s capabilities , i would like to
+suggest that the commercial heads use shalesh for his creative thinking ,
+understanding of the market and analytical capabilities and not just for data
+gathering and simple research effort . we can add other staff as we see the
+need and as you request them .
+please respond this e - mail with your comments if this sounds like aplan , so
+that we can support this effort efficiently and in a scalable manner .
+kind regards ,
+ravi .
+a bit about ebs research group
+john bloomer and richard reichardt have met me and are aware of my role and
+stinston gibner ' s role in ebs . i lead a team of quantitative professionals
+via a group we are calling ebs research . this group reports to stinson
+gibner ( vp ) and vince kaminski ( md and head of enron research ) . stinson and
+vince are the original founders of enron corp research that has been charged
+with model development efforts to support enron energy trading and other
+enron business . enron research is involved in all aspects of enron buinesses
+( ees , international , corporate affairs such as fas 133 and other accounting
+and new product ( derivatives ) development , etc . ) .
+within ebs research , there serveral professionals supporting kevin howard
+( cfo office ) , john griebling , tom gros and jean mrha , david cox ( via boris ) ,
+and the war room . our main area of focus is with jean mrha ( trading ) and
+john griebling ( optical network design and optimization , etc . ) . we play a
+key role with john griebling ' s go forward network design and implementation
+through our responsiblity to provide traffic engineering analysis and
+modeling effort .
+- - - - - forwarded by ravi thuraisingham / enron communications on 03 / 08 / 00 09 : 31
+am - - - - -
+shalesh ganjoo @ ect
+03 / 07 / 00 08 : 01 pm
+to : mark s palmer / enron communications @ enron communications
+cc : ravi thuraisingham / enron communications @ enron communications @ enron
+subject : meeting for friday on storage
+dear mark ,
+i am looking forward to presenting my competitive analysis on the storage
+market on friday to you and others . ravi thurasingham will be calling you to
+find out if we ( research group ) can assist your group in any other way .
+please let me know if you need any information before we meet . thank you .
+sincerely ,
+shalesh ganjoo

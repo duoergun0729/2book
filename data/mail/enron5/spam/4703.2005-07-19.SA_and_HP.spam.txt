@@ -1,0 +1,6 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 07 : 00 : 22 - 0400
+from [ 220 . 114 . 199 . 211 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+- - - - - transcript of session follows - - - - -
+550 5 . 1 . 1 . . . user unknown

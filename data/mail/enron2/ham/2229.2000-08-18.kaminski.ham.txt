@@ -1,0 +1,27 @@
+Subject: re : alex ' s paper
+comments :
+1 . in the sentence between eqn . 3 and eqn . 4 , i think " annualized
+volatility " should replace " annualized standard deviation . "
+2 . as to the comment , " immediately we see something quite
+counter - intuitive . " i would disagree . i think that its quite intuitive
+that this model should get closer to the black - scholes price as what is
+defined as the " jump " component becomes just part of the main price
+distribution , which happens if we define a jump to be only a 1 - sigma
+event . the table does show , however , that the results of using this model
+are very sensitive to exactly how you choose to define a " jump " ( i . e . 2 - sigma
+or 3 - sigma . . . events ) , and this is one difficulty in using the model in
+practice .
+3 . in the paragraph after the table , i don ' t understand the argument about
+hedging the option . especially about buying a swap which would pay on the
+difference between the strike and fs . this seems non - sensical .
+4 . i could not follow the logic of the last two sentences of the article , so
+this point should probably be explained more clearly .
+- - stinson
+vince j kaminski
+08 / 18 / 2000 08 : 15 am
+to : grant masson / hou / ect @ ect , stinson gibner / hou / ect @ ect , alex
+huang / corp / enron @ enron
+cc :
+subject : alex ' s paper
+minor changes i made to alex ' s paper .
+vince

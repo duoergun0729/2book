@@ -1,0 +1,34 @@
+Subject: caiso notice - june 19 ferc order - emissions and start up cost
+calculations
+iso market participants :
+in the federal energy regulatory commission ( " ferc " ) june 19 order , the
+california independent system operator corporation ( " iso " ) was directed to
+pay generators for air district mitigation fees associated with nox
+emissions as incurred by generators required to run in accordance with iso
+dispatch instructions . the iso specifically was ordered to develop an
+emission allowance charge assessed against all in - state load served on or
+through the iso controlled grid in order to recover nox emission mitigation
+costs which would be used to pay eligible generators for such mitigation
+costs . in compliance , the iso filed , on july 10 , 2001 , proposed tariff
+revisions to develop :
+1 . ) a rate for the emission allowance charge ,
+2 . ) an escrow account for monies collected ;
+3 . ) a process through which generators would submit to the iso invoices
+for emission mitigation fees ; and
+4 . ) a payment process through which the iso would pay for such
+mitigation costs .
+in a market notice posted on august 1 , 2001 , the iso published the initial
+emission allowance charge rate . the iso has developed details of the
+methodology and calculations used to develop this rate and posted this
+information at http : / / www . caiso . com / docs / 2001 / 07 / 12 / . html
+.
+the june 19 ferc order also directed the iso to exclude start - up fuel costs
+from the calculation of the mitigated market clearing price , and instead , to
+pay generators for such start - up fuel costs , in the same way as the iso is
+to handle emission mitigation costs and fees . in a market notice posted on
+august 1 , 2001 , the iso published the initial start - up fuel charge rate .
+the iso has modified the previously posted start - up fuel charge rate and
+provided details of the methodology and calculation used to develop this
+rate . this information is also posted at
+.
+cr communications

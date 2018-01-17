@@ -1,0 +1,22 @@
+Subject: rac risk reporting
+currently , members of ted murphy ' s group have been preparing certain
+non - standard reports at the request of commercial . these reports can be
+categorized as :
+" morning report " - daily
+component v @ r - daily
+adhoc v @ r - as needed
+book reconciliation - as needed
+stress testing - as needed
+back testing - weekly
+correlation matrix - bi - weekly
+i have obtained a copy of all reports currently being prepared . in the
+upcoming weeks we need to transfer the preparation of these reports from rac
+to risk operations . in order to do that , on a report by report basis , we
+need to determine what group within risk operations should prepare these
+reports ( risk management and controls or the individual commodity risk
+management groups ) .
+in the next couple days , i will be sending you each a listing of reports
+prepared , and then set up a time to meet with you so we can determine the
+best way to go forward .
+best regards
+shona

@@ -1,0 +1,25 @@
+Subject: re : status - " pcg wish list "
+thanks for the update .
+no point in pushing andrew back though , that ' s the point of an audit .
+louise
+to : louise kitchen / hou / ect @ ect
+cc : david forster / corp / enron @ enron , andy zipper / corp / enron @ enron , sally
+beck / hou / ect @ ect
+subject : status - " pcg wish list "
+i just wanted to give you an update on where we are on the pcg wish list .
+we discussed about a month ago the fact that we had close to 200 items on our
+list of development / enhancements to our applications . we met on numerous
+occasions with mark d . and team to prioritize , etc . however , i think
+primarily due to the reorg in it , and mark leaving the team , we have done a
+lot of talking over the past three weeks , but nothing has happened to date .
+jennifer and i met with hal elrod yesterday , and i have met with bob hillier
+a couple of times , and we seem to be on the right track now . i know bob
+hiller is looking for people in his group to support these needs .
+my concern is growing due to the fact that andrew parsons and team will be
+re - auditing us before the end of the year . the key control weakness of the
+pcg was the lack of profiles manger - i have stressed that this is # 1 on the
+list of things to do . i think we are fairly close , but we will need to start
+and complete testing over the next several weeks . my hope is that we push
+andrew back as far as possible !
+please let me know if you have any questions -
+sheri

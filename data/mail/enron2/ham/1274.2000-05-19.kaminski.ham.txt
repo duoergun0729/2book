@@ -1,0 +1,30 @@
+Subject: re : cplex floating license
+samer ' s suggestion makes a lot of sense . we can start with something like one
+floating dev . license + 2 opl licenses and buy more later based on actual
+usage . on the pricing agreement , it probably makes sense to get a guarantee
+on the discounts for additional licenses for one year ( or till dec . ) . i am
+definitely interested and can provide the share of funding necessary from my
+clients .
+thanks ,
+krishna .
+from : samer takriti @ enron communications on 05 / 19 / 2000 11 : 14 am
+to : ravi thuraisingham / enron communications @ enron communications
+cc : chonawee supatgiat / corp / enron @ enron , pinnamaneni
+krishnarao / hou / ect @ ect @ enron , samer _ takriti @ enron . net , stinson
+gibner / hou / ect @ ect @ enron , tom halliburton / corp / enron @ enron , vince j
+kaminski / hou / ect @ ect
+subject : re : cplex floating license
+chonawee and i just had a phone conversation with cplex . there are other
+alternatives ( products ) that may help in saving time and cost . chonawee and i
+feel that one floating develoment license , and one or two opl ( a package on
+sale that provides modeling and optimization features ) licenses will do . in
+addition , we need floating deployment licenses . for the development licenses ,
+the charges should be split " equally " between the different groups that may
+ask for optimization help ( although it is hard to predict who may ask for
+future help ) . we are suggesting equally since these licenses are used to
+develop the needed solution but are not ( in general ) used to run the
+software . the deployment licenses can be charged on per - use basis for
+different groups .
+cplex is going to send us a new quote . we ' ll make the decision soon after
+that .
+- samer

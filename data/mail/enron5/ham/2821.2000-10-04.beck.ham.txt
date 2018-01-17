@@ -1,0 +1,109 @@
+Subject: preparation for tomorrow ' s meeting at 9 am ( fernley fyi )
+this is the process of assessing impact and priorities i mentioned
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike jordan / lon / ect on 04 / 10 / 2000 14 : 23
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+mike jordan
+26 / 09 / 2000 19 : 18
+to : fernley dyson / lon / ect @ ect , mark pickering / lon / ect @ ect , richard
+sage / lon / ect @ ect
+cc : steve whitaker / lon / ect @ ect , sandip joshi / lon / ect @ ect
+subject : preparation for tomorrow ' s meeting at 9 am ( fernley fyi )
+this is a note we should send to john , richard , joe and michael - explaining
+how we are going to justify the program beyond our current agreement in
+principal !
+we should go back to them with 1 and 2 reasonably quickly ( joe and richard
+will be big buyers of 1 at least )
+introduction
+enron is expanding rapidly and continuing to grow , both in its current
+business and in acquiring new business lines
+this has highlighted a number of problems , not least of which is the lack of
+transparency in the underlying cost structure within enron
+we need to focus on the root causes of these costs rather than the symptoms .
+objectives
+current costbase - we need to establish each business units ' end to end
+direct support costs . see spreadsheet below an example - worksheet " e 2 e
+direct support headcount "
+model of costbase as we move forward - we need to develop a cost model that
+will provide
+a qualitative description of the cost drivers within the organisation , which
+answers
+what are we doing - what are the key activities / functions within each
+business unit and functions across all business units
+why are we doing this - what are the main cost / activity drivers for carrying
+out these activities / functions
+what headcount cost is attributable to each activity / function - establish a
+quantitative cost measure
+we need to be able to report on current operational leverage and efficiency
+ratios
+efficiency ratio - what is the percentage of rework for each
+activity / function - implies an estimate of how far we are from stp process
+operational leverage - ratio of headcount increase to activity increase
+use costbase model to predict quantifiable benefits - using headcount cost
+data and ratios
+we need to understand how many quick hits will accrue from business process
+changes to current environment - impact on efficiency ratio
+we need to understand how functionality developments will change required
+headcount cost - impact on operational leverage ratio
+investment cost - the specific costs associated with changing the operating
+platform
+development costs - people [ and hardware ]
+business analysts  , time
+line management time
+user time ( including time for uat )
+consulting costs
+[ opportunity cost ]
+prepare cost benefit analysis - use 3 and 4
+identify qualitative benefits
+reduction in operating risk - process will be exception based with up front
+controls
+reduction in number of operational errors
+trading errors that should be charged to the middle office
+client costs
+funding errors
+mo and it support base focused on value adding tasks
+more effective management .
+better management information .
+quicker identification of exceptions should leader to quicker resolution .
+people benefits - increased job satisfaction as processes are now more
+investigative
+improved control standards as standard processes will stretch across all
+businesses .
+eliminates costs and difficulty of maintaining various systems , e . g .
+spreadsheets .
+easier to cross train staff and provide cover .
+utilise all information above to calculate an actual and target unit cost per
+transaction ( vanilla and complex ) and monitor as key success factor from
+progam
+the spreadsheet below shows what we should be looking to complete - worksheet
+" costs model input " . we need to do this by product - one spreadsheet per
+product
+example ! ! - sally , this is updated now
+next steps -
+confirm scope
+e 2 e direct support costs - enron europe limited
+cost model
+middle office
+products
+gas
+power
+credit
+structured commodities
+it
+not in scope - although could be expanded
+egm
+metals
+ees
+ebs
+eim
+steps and responsibilities - for land 2
+e 2 e direct support costs - finops
+establish and agree scope - mike jordan / steve whitaker
+define departmental activities - initial draft - steve whitaker / sandip joshi
+confirm departmental activities - department heads - james new , ian sloman ,
+gail hill etc .
+determine key drivers for each activity for each product - departmental heads
+add weightings to each driver - departmental heads
+collate information - sandip joshi
+consolidate spreadsheets and send back for comments - sandip joshi
+plan for steps 3 +
+steve and mike

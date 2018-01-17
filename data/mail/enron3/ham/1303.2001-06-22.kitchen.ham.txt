@@ -1,0 +1,58 @@
+Subject: re : fw : hanover
+i spent some time with lance shuler this afternoon . we should be able to sell our entire block under rule 144 k which would be another option to " dribble - out " .
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : friday , june 22 , 2001 12 : 01 pm
+to : lydecker jr . , richard
+subject : re : fw : hanover
+good point - i must have lost my optimism !
+from : richard lydecker / enron @ enronxgate on 06 / 21 / 2001 05 : 57 pm
+to : louise kitchen / hou / ect @ ect
+cc : dan boyle / enron @ enronxgate , joseph deffner / enron @ enronxgate
+subject : re : fw : hanover
+gkh ' s drag - alone rights only extend to stock actually owned by jedi ( or a subsequent purchaser in a " non exempt " transaction ) . to the extent we have disposed of a part of our interest in a public sale ( an exempt transaction ) the rights do not attach to the shares themselves .
+if jedi sells to a third party in a non - public transaction ( a " non exempt " transaction ) this stock would be subject to the drag along , tag along conditions and the other provisions of the stockholders agreement . there are other restrictions that restrict partial sales in a non exempt transaction to less that 50 % of the original share ownership .
+enron has valued the hanover investment at the screen price for mark to market accounting based upon the free disposition in a public transaction . there is no question that any restriction on private sales theoretically impacts value negatively . on the other hand , the " tag along " rights theoretically have a positive impact on value .
+in your example , if gkh sells to xyz subsequent to completion of enron ' s sale to abc , in that case gkh could require abc to sell to xyz at $ 20 . on the other hand if gkh cuts a deal to sell to xyz at $ 60 , abc would have tag along rights of inclusion at $ 60 .
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : thursday , june 21 , 2001 2 : 03 pm
+to : lydecker jr . , richard
+subject : re : fw : hanover
+are we saying or not then that if :
+scenario
+ene sells to abc inc at $ 40
+gkh sells to xyz inc at $ 20
+xyz has the right buy abc ' s shares at $ 20 .
+if this is right are we selling our shares with this drag along right , therefore heavily discounted .
+from : richard lydecker / enron @ enronxgate on 06 / 21 / 2001 01 : 10 pm
+to : louise kitchen / hou / ect @ ect
+cc :
+subject : fw : hanover
+sales under a 33 act registration and rule 144 are " exempt transactions " per the jedi / gkh / hanover stockholders agreement . several months ago i confirmed with ray bowen that there are no other agreements that would restrict our dispositions via a public sale .
+prior to actually starting a 144 process i would advise both gkh and hanover of our plans .
+- - - - - original message - - - - -
+from : richard lydecker / corp / enron
+sent : thursday , march 08 , 2001 2 : 31 pm
+to : dan boyle / corp / enron
+subject : hanover
+dan , although it seems that the secondary offering lockup requirements rule out
+the type of transaction discussed this morning , the issue of other restrictions
+on jedi right to sell was introduced .
+gkh has drag - along and jedi has tag - along rights .
+there is an agreement among the company , gkh and jedi that restricts but does
+not preclude disposition :
+transfers to affiliates are ok
+a registered offering or rule 144 disposition are ok
+other sales involve a rofr :
+written notice to company 30 days prior to proposed disposition to bona fide
+purchaser
+company has 20 days to respond to buy all or a portion of proposed
+disposition on same terms and conditions
+if company does not take all shares , any remaining offered to other
+shareholder within 2 days
+the other shareholder has 7 days to respond
+these are the primary provisions . we would need a more detailed assessment of
+the issue once a specific structure proposed / accepted .
+let me know if i can help .
+dick .

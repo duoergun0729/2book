@@ -1,0 +1,40 @@
+Subject: re : dealbench in 2002
+louise :
+we completed an assessment and found that the variable operating costs were not as competitive as other alternatives in the marketplace .
+george
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : monday , october 08 , 2001 8 : 07 am
+to : wasaff , george ; piper , greg
+cc : richter , brad ; pickering , mark ; beck , sally
+subject : re : dealbench in 2002
+george ,
+we are pretty sure dealbench is the cheapest in the market place - we are way below others for costs . do gss use dealbench for all our sourcing now ?
+louise
+- - - - - original message - - - - -
+from : wasaff , george
+sent : friday , october 05 , 2001 4 : 40 pm
+to : piper , greg
+cc : richter , brad ; pickering , mark ; beck , sally ; mesquita , ross ; whalley , greg ; delainey , david ; dietrich , janet ; lavorato , john ; kitchen , louise ; fallon , jim ; mcmahon , jeffrey ; bowen jr . , raymond ; shankman , jeffrey a . ; mcconnell , mike ; mccarty , danny ; sherriff , john ; causey , richard
+subject : re : dealbench in 2002
+greg :
+as you know , we have used dealbench as our auction platform since inception and have been very pleased with the results . unfortunately , the costs associated with this proprietary platform make it cost prohibitive for enron to sustain . i would suggest that the more prudent approach is to determine the aggregate demand for such services and to utilize gss to contract and manage a third party service / auction platform for corp . and the commercial business units .
+george
+- - - - - original message - - - - -
+from : piper , greg
+sent : thursday , october 04 , 2001 3 : 58 pm
+to : delainey , david ; dietrich , janet ; lavorato , john ; kitchen , louise ; fallon , jim ; mcmahon , jeffrey ; bowen jr . , raymond ; shankman , jeffrey a . ; mcconnell , mike ; mccarty , danny ; sherriff , john
+cc : richter , brad ; pickering , mark ; beck , sally ; wasaff , george ; mesquita , ross ; whalley , greg
+subject : dealbench in 2002
+as you know , we have an application in enw called dealbench . this application allows deal rooms , data rooms and auctions .
+enw has done a complete review of this application and determined the following :
+( 1 ) it is very difficult to build a successful , externally facing business based on the above lines of service in an asp format . outside marketing to external clients for a fee was stopped in july 2001 .
+( 2 ) a change in the ecommerce landscape combined with auctioning technology becoming a commodity makes it very difficult to sell the application and associated intellectual property . enw has approached 22 separate companies about a purchase of the software since april with no outright bids .
+( 3 ) however , the auction and deal room functionality was used by many internal business units for a variety of reasons . according to expected budgets and expected costs prior to events vs . actual results after auctions and deal rooms occurred , enron business units realized approximately $ 8 million in value . in the past , ena has done 13 data rooms , ees did 2 live auctions , ebs did 3 live auctions , corp . did 4 live auctions , tax did a deal room and nbpl did 2 auctions in addition to the small amount of business that was done by non - enron clients .
+therefore , the question going forward is if several business units in enron will take the application on an allocated or commitment to services basis for 2002 . the total estimated expense for the application ( depreciation , ongoing technical and commercial support , etc . ) is $ 2 million for 2002 .
+if a representative of each business unit would get back to me with an answer soon , that would be great . the application works well and has provided real value to enron . if there is not enough interest in it , i will discuss with whalley what we do about potentially shutting it down .
+thanks .
+greg piper
+chief executive officer
+enron net works , llc
+_ _ _ _ _

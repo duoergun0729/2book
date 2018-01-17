@@ -1,0 +1,16 @@
+Subject: employees that are listed in the research time site that are not in
+the research group
+hello everyone :
+in doing the sap timesheets this time i have discovered there are several
+people listed in the 105896 cost center - org . unit # 1424 ( research ) that
+are no longer in the research group . shouldn ' t they be moved ?
+they are :
+alexios kollaros 502373 now with the new power co .
+farouk lalji 501609 analyst rotated out
+ainsley gaddis 400250 summer intern returned to school ( last day the 11 th )
+mandeep chahal 502876 now with the new power co .
+james aimone 514849 summer intern returned to school ( last day the 11 th )
+roman zadorozhny 501778 now with another co . in enron
+please let me know if i need to do anything .
+thanks !
+shirley

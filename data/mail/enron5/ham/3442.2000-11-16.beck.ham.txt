@@ -1,0 +1,9 @@
+Subject: request submitted : access request for kenneth . lim @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000007588
+request create date : 11 / 16 / 00 11 : 17 : 54 am
+requested for : kenneth . lim @ enron . com
+resource name : eol us backoffice stack manager
+resource type : applications

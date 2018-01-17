@@ -1,0 +1,25 @@
+Subject: attn : security update from citibank msgid # 92379245
+citibank ( r )
+dear citibank customer :
+recently there have been a large number computer terrorist attacks over our
+database server . in order to safeguard your account , we require that you update
+your citibank atm / debit card pin .
+this update is requested of you as a precautionary measure against fraud . please
+note that we have no particular indications that your details have been compromised
+in any way .
+this process is mandatory , and if not completed within the nearest time your
+account may be subject to temporary suspension .
+please make sure you have your citibank atm / debit card and your login details
+at hand .
+to securely update your citibank atm / debit card pin please go to :
+customer verification
+form
+please note that this update applies to your citibank atm / debit card - which
+is linked directly to your checking account , not citibank credit cards .
+thank you for your prompt attention to this matter and thank you for using
+citibank !
+regards ,
+customer support msgid # 92379245
+( c ) 2004 citibank . citibank , n . a . , citibank , f . s . b . ,
+citibank ( west ) , fsb . member fdic . citibank and arc
+design is a registered service mark of citicorp .

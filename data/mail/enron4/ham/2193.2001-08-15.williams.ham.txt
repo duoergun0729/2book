@@ -1,0 +1,13 @@
+Subject: epe lending / day - ahead short for 8 / 16
+per epe lending agreement -
+we ' ll be short 50 mw on peak at palo - 25 mw under stwbom , 25 mw under stsw - at a price of $ 49 . buy to fill this real time . reduce el paso purchase prices to $ 4 . sell back to el paso at $ 0 . here are the day - ahead deals . . . .
+732687 - stwbom buys epe
+25 mw @ $ 49
+732692 - stwbom sells stsw
+25 mw @ $ 49
+732696 - stsw buys epe
+25 mw @ $ 49
+also , stwbom is short 25 mw on peak in spl 5 at a day - ahead price of $ 44 . 27 . ( stcali is short 100 mw off - peak , spl 5 , at day - ahead price of $ 31 . 02 . )
+please enter all purchases using the same book name used in the day - ahead sale . if stca is short , stca needs to buy the energy to fill that . i am still running into errors regarding this procedure . let me know if you have questions .
+thanks ,
+kate

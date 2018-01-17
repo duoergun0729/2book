@@ -1,0 +1,30 @@
+Subject: re : credit reserve update
+we have not done any recent analysis since the end of january or maybe even
+the end of december . i will have rod nelson and tanya rohauer relook at the
+impact of the changing yield curve on credit reserve .
+we have a lot of improvements we need to make on our current methodology when
+we have the time and resources to dedicate to it .
+bill
+vince j kaminski
+02 / 17 / 2000 10 : 14 am
+to : william s bradford / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect
+subject : credit reserve update
+bill ,
+most recent vincent ' s update on what ' s going on with the credit model .
+another issue . i am increasingly concerned with our general approach to the
+generation
+of probabilities of default . recent developments in the credit markets are
+likely to
+change completely the dynamics and levels of interest rate spreads . i am
+curious if
+you looked at the credit reserve based on the current yield curves ( as of the
+last few days ) .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 02 / 17 / 2000
+09 : 05 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vincent tang
+02 / 15 / 2000 05 : 12 pm
+to : vince j kaminski / hou / ect @ ect
+cc : grant masson / hou / ect @ ect , tanya tamarchenko / hou / ect @ ect
+subject : credit reserve update

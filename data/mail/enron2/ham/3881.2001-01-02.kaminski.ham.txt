@@ -1,0 +1,80 @@
+Subject: fw : afternoon tea with fea
+vince :
+thanks for surfacing . happy new year !
+linda
+december 2000 financial engineering associates , berkeley , ca
+gentlepeople ,
+as the end of the year rapidly approaches , it seems timely to thank you for
+your business this year . thank you for helping to make this the best year
+ever for fea !
+and , wed also like to wish you happy holidays and a healthy and prosperous
+new year .
+earlier this year , fea initiated  3 virtual coffee break  4 , an emailed
+newsletter for fea alliance partners . it has proven to be a popular and
+useful media to share information . this is our first effort at an emailed
+newsletter to fea clients ,  3 afternoon tea with tracie ) . we hope you will
+take a few minutes to skim it for pertinent information and then move it to
+your fea file folder for future reference .
+* * * announcing fea product updates ! * * *
+fea has been extraordinarily busy running extensive testing on new releases .
+the following should be available to all clients , who are current on
+maintenance , in just a couple weeks . we will send an email notification of
+the availability of the release , and cds will be shipped . if you prefer ,
+email support @ fea . com to request download instructions .
+@ energy . 2 . 0 will feature the release of the forward curve builder and the
+swing ( take or pay ) options valuation module . the forward curve builder , as
+its name suggests , calibrated the forward price curve for power
+( electricity ) and other commodity markets . some additional new features in
+the 2 . 0 release include a jump diffusion model for european - style options ,
+an option on a strip of options and an option on a strip of spread options .
+varworks 4 . 0 includes sophisticated stress testing , support for individual
+equities , and new easier to use templates . eagerly awaited by fea clients ,
+the addition of stress testing capabilities has been a top priority for
+fea ' s engineering team . fund managers will be happy to hear that individual
+( sectorial ) equities are now supported in varworks . 4 . 0 .
+if you do not own a license for @ energy or varworks , and want to evaluate
+them , email sales @ fea . com and request a 30 day demo . product demos are free
+to existing fea clients . curious about a product , but dont have time to
+install a demo , read the instructions and experiment ? visit
+www . fea . com / demos . htm and select alternative one . we can now demo fea
+software on your computer screen , via the internet .
+* * * list of current versions of fea products now posted on - line !
+you may refer to www . fea . com / support . htm for details of the most current fea
+product releases .
+* * * fea newswire : fea and its chief scientistmark garman have been awarded a
+4 th us patent ! patent 6 , 122 , 623 recognizes the " watershed method " as fea ' s
+second us patent defining cutting - edge methodologies for var . the importance
+of the recent invention is that it will allow market risk to be more
+accurately allocated into accounting periods . mark ' sprior patent in the var
+arena pertained to the calculation of " marginal var " or " component var , "
+which allowed risk managers to " slice and dice , " or dissect enterprise - wide
+var into its constituent components . ( see the pressrelease at
+www . fea . com / pdf / watershed _ pr . pdf ) .
+* * * first beta site for varworks se * * * www . fea . com / press _ rm . htm
+look for a press release announcing the first beta site for feas varworks .
+se ( server edition ) . varworks ses dynamic risk analysis and reporting
+environment will enable the delivery of customized risk profiles to dozens
+of exchange participants . ( see the product description at
+http : / / www . fea . com / p _ varse . htm . )
+* * * did you hear ? ? ? ? ?
+riskmetrics , as of 1 / 15 / 2001 , will be charging for their previously free
+data sets . only outdated data sets will be available at no charge .
+feas makevc product allows you to build your own customized data sets
+utilizing historical time series data that you may already have available to
+you . you may request a free 30 day demo of makevc from
+www . fea . com / demos . htm . product demos are free to existing fea clients .
+* * * plan ahead
+the next var seminar will be late spring 2001 . see
+www . fea . com / seminars . htm for information as it becomes available , or browse
+the october 2000 seminar brochure . you may also contact sales @ fea . com to
+reserve your space .
+* * * the fea frequent flyers * * *
+december / january , madrid , spain , carlos
+january 15 + calgary and toronto , canada , tracie
+february 13 - 14 , new york , garp 2001 , laurent and christine
+february 13 - 15 , germany , e * trade chris and ursula
+february 19 , london , tracie
+contact sales @ fea . com to arrange a meeting .
+the fine print : we are interested in your feedback , and ideas for future
+topics . please send an email if you do not want to receive future fea
+newsletters . mailto : elena @ fea . com

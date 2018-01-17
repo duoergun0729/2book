@@ -1,0 +1,3 @@
+Subject: delivery status notification
+- these recipients of your message have been processed by the mail server :
+antonioalves 90 @ zipmail . com . br ; failed ; 5 . 2 . 2 ( mailbox full )

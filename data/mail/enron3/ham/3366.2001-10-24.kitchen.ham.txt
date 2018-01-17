@@ -1,0 +1,3 @@
+Subject: external counterparty / external user logins
+external user logins : 891
+external counterparty logins : 4726

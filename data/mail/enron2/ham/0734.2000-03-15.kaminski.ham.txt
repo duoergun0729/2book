@@ -1,0 +1,81 @@
+Subject: videoconferencing picture clears up
+network world fusion focus : neal weinberg on product review of the week
+today ' s focus : videoconferencing picture clears up
+03 / 14 / 00
+dear wincenty kaminski ,
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ this newsletter sponsored
+by w . quinn ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+how to regain the 30 % of nt / 2000 server space that ' s wasted
+free ! get a grip on spiraling disk consumption and regain 30 % or more
+of your site  , s enterprise storage capacity . wquinn ' s storagecentral
+lets you : monitor , track and control user disk consumption ; identify and control what types of
+files your users can write to your servers .
+get a grip on your nt / 2000 storage space - - free eval :
+l
+copy and paste urls that break in two lines and remove extra spaces .
+today ' s focus : videoconferencing picture clears up
+by neal weinberg
+if you  , ve been turned off by the jumpy frames and poor audio quality
+associated with real - time videoconferencing , the reviewmeister has good
+news for you . there  , s a new generation of videoconferencing end - point
+devices that provide business - quality pictures and sound for under
+$ 12 , 000 .
+we grabbed a box of popcorn and tested eight videoconferencing systems ,
+using 384 k bit / sec isdn and ip connections .
+in the category of videoconferencing appliances that is , standalone
+systems that go in a conference room for group video sessions with
+colleagues or business partners polycom  , s viewstation mp was the
+clear winner .
+the polycom viewstation provided outstanding video and audio quality .
+in addition , it was easy to install , configure and use .
+in the category of pc - based products , which are especially good for
+virtual collaboration from your desktop , vcon  , s mc 800 was the hands -
+down winner , based on its high - quality components .
+the beauty of these products is they allow you to have a real - time
+video image of the person you  , re conferencing with in one corner of
+the screen , with the rest of the space available for data collaboration .
+if you  , re in the market for a system , be sure to get one with a sony
+evi d 30 / 31 video camera ; an unidirectional boundary microphone , like
+the audio technica ; and a quality sound mixer . and look for remote
+administration and system management tools . for example , the
+viewstation allows you to upgrade software , change settings , or change
+address book entries directly from the administrator  , s system .
+most systems will allow you to transmit over isdn or ip , but we found
+performance over ip was dragged down by ip  , s overhead requirements . for
+the complete product review , go to :
+of course , there  , s more to videoconferencing than end points , so we
+whipped up an implementation guide that lays out the network topology ,
+bandwidth and quality - of - service issues .
+based on our testing , the reviewmeister says now is the time to start
+pilot - testing a videoconferencing system . your chief information
+officer will love it when you tell him you can slash your company  , s
+airline and hotel bills because you  , ve got people from all over the
+company in virtual rather than face - to - face meetings .
+next week : we loaded windows 2000 on a pc and a server and ran gigabit
+ethernet to the desktop . guess where the bottleneck was ?
+to contact neal weinberg :
+- - - - - - - - - - - - - - - - - - - - - -
+neal weinberg is features editor at network world , in charge of product
+reviews , buyer ' s guides , technology primers , how - tos , issue - oriented
+feature stories and the technology insider series . you can reach him at
+mailto : nweinber @ nww . com .
+for related links - - click here for network world ' s home page :
+http : / / www . nwfusion . com
+videoconferencing picture clears up , network world , 03 / 13 / 00
+but implementation is still fuzzy , network world , 03 / 13 / 00
+how we did it , network world , 03 / 13 / 00
+subscription services
+to subscribe or unsubscribe to any network world e - mail newsletters ,
+go to :
+to change your email address , go to :
+subscription questions ? contact customer service by replying to this
+message .
+other questions / comments
+have editorial comments ? write jeff caruso , newsletter editor , at :
+mailto : jcaruso @ nww . com
+for advertising information , write jamie kalbach , account executive ,
+at : mailto : jkalbach @ nww . com
+network world fusion is part of idg . net , the idg online network .
+it all starts here :
+http : / / www . idg . com
+copyright network world , inc . , 2000

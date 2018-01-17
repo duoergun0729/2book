@@ -1,0 +1,5 @@
+Subject: east power project directory
+a new directory ( m : \ eprojects directory ( \ \ nahoutrd \ houston \ pwr \ common \ eprojects ) has been created to house all of the related documents that will be used to manage the east trading enhancement projects . the intent of this directory is to store all of the business requirements , documentation and project management for this project as well as all future work on our systems .
+there has been 5 directories set up , accenture , north east , mid west , south east and ercot . below these main directories there is three directories for risk systems ( casey / stacey ) , settlement systems ( thresa ) and trading systems ( correy ) . a draft scope and action item document has been created for managing business requirements and progress . the accenture directory will be populated with the material that is in the initial accenture report for our ongoing enhancement .
+you have been given access ( r / w ) to the m : \ eprojects directory ( \ \ nahoutrd \ houston \ pwr \ common \ eprojects ) . if you have additional staff that require access please submit an erequest for my approval .
+thanks .

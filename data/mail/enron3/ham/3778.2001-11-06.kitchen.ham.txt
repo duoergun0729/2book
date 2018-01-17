@@ -1,0 +1,51 @@
+Subject: margin only 11 - 05 . xls
+futures margin requirements
+wire date 11 / 6 / 01
+stmt date 11 / 5 / 01
+us $ $ $ canadian $ $ $
+broker ote credit facility covering ote ote less creditcoverage net option value initial margin line of credit
+covering initial margin ( except edf mann see calc below ) initial margin
+less line of credit covering initial margin line of credit
+covering realized / unrealized gains & losses ote initial margin
+abn - amro inc 503 , 712 . 00 503 , 712 . 00 0 . 00 388 , 300 . 00 388 , 300 . 00 0 . 00
+adm investor 316 , 250 . 00 316 , 250 . 00 0 . 00 0 . 00 0 . 00
+bank one 0 . 00 0 . 00 0 . 00 0 . 00 0 . 00
+carr futures ( ng ) 0 . 00 0 . 00 0 . 00 0 . 00 0 . 00
+carr futures inc . ( 1 , 460 , 680 . 58 ) ( 1 , 460 , 680 . 58 ) 0 . 00 2 , 511 , 837 . 81 2 , 511 , 837 . 81
+credit suisse first boston ( 1 , 160 , 915 . 45 ) ( 1 , 160 , 915 . 45 ) 0 . 00 1 , 142 , 964 . 00 1 , 142 , 964 . 00
+edf man ( see note below ) ( 18 , 655 , 272 . 50 ) 9 , 936 , 510 . 00 ( 28 , 591 , 782 . 50 ) ( 34 , 511 , 776 . 60 ) 15 , 063 , 490 . 00 15 , 063 , 490 . 00 0 . 00 0 . 00
+fimat * 42 , 199 , 731 . 06 42 , 199 , 731 . 06 0 . 00 10 , 646 , 516 . 00 10 , 646 , 516 . 00 1 0 . 00
+hsbc - us $ ( 3 , 323 , 112 . 50 ) ( 3 , 323 , 112 . 50 ) 0 . 00 375 , 311 . 00 375 , 311 . 00
+hsbc - canadian 0 . 00 0 . 00 0 . 00 31 , 670 . 00 417 , 220 . 00
+jp morgan 873 , 969 . 37 873 , 969 . 37 0 . 00 512 , 020 . 00 512 , 020 . 00
+mann financial 0 . 00 0 . 00 0 . 00 0 . 00 0 . 00
+paribas 83 , 022 , 463 . 80 83 , 022 , 463 . 80 0 . 00 25 , 608 , 872 . 00 25 , 608 , 872 . 00 0 . 00 0 . 00
+prudential si 555 , 085 . 40 555 , 085 . 40 0 . 00 492 , 800 . 00 492 , 800 . 00
+refco , inc 0 . 00 0 . 00 0 . 00 0 . 00 0 . 00
+r j o ' brien ( 1 , 870 . 00 ) ( 1 , 870 . 00 ) 0 . 00 70 , 000 . 00 70 , 000 . 00
+saul stone & company 77 , 154 . 00 77 , 154 . 00 0 . 00 147 , 000 . 00 147 , 000 . 00
+smith barney , inc * * 9 , 569 , 912 . 00 9 , 569 , 912 . 00 0 . 00 5 , 570 , 731 . 00 5 , 570 , 731 . 00 0 . 00 0 . 00
+smith barney , inc * * ( financial ) ( 148 , 500 . 48 ) ( 148 , 500 . 48 ) 0 . 00 86 , 400 . 00 86 , 400 . 00
+total excluding mid - day calls 112 , 367 , 926 . 12 9 , 936 , 510 . 00 102 , 431 , 416 . 12 ( 34 , 511 , 776 . 60 ) 62 , 616 , 241 . 81 46 , 243 , 093 . 00 16 , 373 , 148 . 81 0 . 00 31 , 670 . 00 417 , 220 . 00
+mid - day calls : ( based solely on market movement )
+edf mann 0 . 00
+total including mid - day calls 112 , 367 , 926 . 12
+* * smith barney initial margin does not include delivery margin of $ 0 . 00
+used line
+credit lines : line ote initial margin total line used total line unused
+smith barney 50 , 000 , 000 . 00 - 5 , 570 , 731 . 00 5 , 570 , 731 . 00 $ 44 , 429 , 269 . 00
+paribas 75 , 000 , 000 . 00 - 25 , 608 , 872 . 00 25 , 608 , 872 . 00 $ 49 , 391 , 128 . 00
+edf 25 , 000 , 000 . 00 9 , 936 , 510 . 00 15 , 063 , 490 . 00 25 , 000 , 000 . 00 $ -
+fimat 20 , 000 , 000 . 00 - $ 20 , 000 , 000 . 00
+170 , 000 , 000 . 00 9 , 936 , 510 . 00 46 , 243 , 093 . 00 56 , 179 , 603 . 00 113 , 820 , 397 . 00
+note : edf man - positive net option value is collateral for futures requirement .
+initial margin $ 15 , 063 , 490 . 00
+option value used to cover margin $ 0 . 00
+initial margin less positive option value $ 15 , 063 , 490 . 00
+edf man line of credit analysis :
+initial margin $ 15 , 063 , 490 . 00
+ote $ 18 , 655 , 272 . 50 ( limit 20 , 000 , 000 )
+net option value 34 , 511 , 776 . 60
+line of credit balance $ 25 , 000 , 000 . 00 ( limit 50 , 000 , 000 )
+paribas line of credit limit is $ 75 , 000 , 000
+1 includes amounts withheld from payments due enron . fimat ' s customer agreement states that excess margin including ote due to enron must first be used to pay down advances on the facility .

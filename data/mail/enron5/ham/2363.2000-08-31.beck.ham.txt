@@ -1,0 +1,14 @@
+Subject: eol average deal count as of 08 - 30 - 00
+the following files contain a graphical view of the average deal count per
+month by commodity for eol and otc transactions since the launch of
+enrononline . this information is for comparitive analysis only . do not
+update links when opening these files .
+average deal counts for all commodities
+na gas breakout by region ( non - averaged , including volume and notional value )
+if you have any questions regarding this breakout , please contact one of the
+following :
+torrey moorer x 3 - 6218
+matt motsinger x 3 - 5221
+pete berzins x 5 - 7594
+pete
+enrononline

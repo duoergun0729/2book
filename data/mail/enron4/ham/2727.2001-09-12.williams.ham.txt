@@ -1,0 +1,11 @@
+Subject: fw : request closed : access request for bill . williams . iii @ enron . com
+bill -
+your public folder is located in public folder / other enron entities / enron north america / portland / bill williams iii . if you want help organizing your inbox so certain e - mail automatically saves into your public folder , just let me know .
+thanks ,
+kate
+- - - - - original message - - - - -
+from : arsystem [ mailto : arsystem @ mailman . enron . com ]
+sent : wednesday , september 12 , 2001 12 : 14 pm
+to : symes , kate
+subject : request closed : access request for bill . williams . iii @ enron . com
+the request has been completed with all resources requested either completed or rejected . you can view the details of the request by clicking http : / / itcapps . corp . enron . com / srrs / auth / emaillink . asp ? id = 000000000058321 & page = myreq .

@@ -1,0 +1,41 @@
+Subject: doorstep meeting - additional action steps
+the missing attachment ! ! ! ! ! !
+please note that these are the controls primarily associated with the middle
+office .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike jordan / lon / ect on 15 / 06 / 2000 13 : 40
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+mike jordan
+15 / 06 / 2000 13 : 34
+to : john sherriff / lon / ect @ ect , steve w young / lon / ect @ ect , fernley
+dyson / lon / ect @ ect , brent a price / hou / ect @ ect
+cc : ted murphy / hou / ect @ ect
+subject : doorstep meeting - additional action steps
+from our meeting yesterday i noted the following additional action steps (
+not recorded within report )
+immediate
+define a summary of fundamental controls on one page - that can be reviewed
+on a cross functional basis ( commercial , commercial support and rac - the
+execute , control and review functions ) - timetable
+draft summary schedule - done
+separately get business controllers and rac management to rate each business
+by control point ( red , amber or green ) by next thursday and arrange joint
+meetings with commercial on businesses that have a poor assessment or
+significantly different assessments - action mike jordan and steve young
+others as soon as possible
+follow up on status of investment required for weather business in oslo -
+action mike jordan
+investigate reporting of trades not captured on trade date within dpr on a
+daily basis - action mike jordan
+establish accountability for existing process for creating authorised trader
+list - action steve young
+change process for publishing authorisation list - placing it on commercial
+bulleting board - and reference location within dpr - action mike jordan
+generate an update of status re master isda - action steve young and
+investigate possibility of flagging this status within gcp - action mike
+jordan
+determine current eol straight through process rate ( stp ) across bridges to
+risk management systems - action mike jordan
+define summary information on coal / p & p etc businesses for inclusion in dpr
+for supervisory review by john
+regards
+mike

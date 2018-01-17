@@ -1,0 +1,21 @@
+Subject: re : joint probabilities
+bob -
+thanks for your help on this - it is exactly what we were looking for . i
+also wanted to let you know that i will be revising some of these numbers and
+asking you to rerun the probability table . i hope that this is not a problem .
+thanks again
+bob lee @ enron
+08 / 31 / 00 11 : 00 am
+to : michael anderson / hou / azurix @ azurix
+cc : zimin lu / hou / ect @ ect , vince j kaminski / hou / ect @ ect , stinson
+gibner / hou / ect @ ect
+subject : re : joint probabilities
+the attached spreadsheet has been updated to include probabilities for
+exceeding stated stock prices in each year .
+these numbers represent the probability for all combinations of rab ratio and
+exchange rate . for example , 2003 shows a stock value of 7 . 38 for a rab = 1 . 1
+and fx = 1 . 5 . we previously showed the prob of exceeding a stock price of
+7 . 38 , and rab > 1 . 1 , fx > 1 . 5 as 14 % . the probability of exceeding 7 . 38 for
+all possible values of rab and fx is 35 % ( interpolating between 40 % and 27 %
+in the price table ) .
+bob

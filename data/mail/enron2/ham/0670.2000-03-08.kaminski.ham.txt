@@ -1,0 +1,67 @@
+Subject: packet analysis software
+hi stinson , as per our discussion , here is the e - mail from jim on the
+subject . i convinced jim that this type of modeling effort is our gig and he
+completely agrees . as per jim ' s suggestion , he and i will talk more on the
+product while we are in denver . i suspect that we will arrange for the vendor
+to come to houston and do a presentation on the product and install the
+product on our machines . as for additional development we should get john
+bloomer and jim together in a meeting and hash out the requirements from john
+bloomer ' s perspective .
+using vince ' s analogy , this tool allows us to deternime the size of the cargo
+space needed for fedex - like delivery ( our streaming media products ) . whereas ,
+the optical light path switching ( ds - 3 , oc - 3 , oc - 12 and oc - 48 ) based trading
+will reserve the underlying airline routes , etc . so the packet based stuff
+is looking at the required capacity from ip layer ( network and transport :
+level 3 and 4 ) requirements . the optical light path is level 1 & 2 based
+requirements . that is this tool will allow john bloomer to size ( actually we
+will do the analysis for him ) the capacity requirement that he would need for
+the products that he is developing .
+that is my take on the difference , we ' ll find out otherwise .
+once i finish off this discussion with jim in denver , i suggest putting
+martin lin on the job to find out more about the product and do the leg work
+to arrange for vendor demo and software installation . martin will keep samer
+and chonawee updated on the information that he gathers . martin please start
+checking on the web about this company and other similiar produts . i will get
+you contact number for ebs and the vendor as soon as jim provides them to
+me .
+avici uses this product . avici is a next generation router vendor that is
+selling terabit routers . ebs is an investor in that company .
+ravi .
+- - - - - forwarded by ravi thuraisingham / enron communications on 03 / 08 / 00 03 : 47
+pm - - - - -
+jim irvine
+03 / 08 / 00 12 : 33 pm
+to : ravi thuraisingham / enron communications @ enron communications
+cc :
+subject :
+ravi
+attached is an overview of what opnet technologies itdg and modeler ( v ) 7 . 0
+offers out of the box . as previously mentioned , we have purchased this s / w
+and are discussing potential co - development of module ( s ) currently not
+supported . my belief is we can spin up a couple of your studs and develop
+our own stuff faster @ a fraction of the cost . avici , used opnet to develop
+a circuit emulation model for their tsr and cisco used opnet for mpls and dpt
+modeling . these guys are willing brides at this point . we just need to
+clearly identify their role in the network performance management and
+modeling space . we will have to talk more in denver .
+my flight arrives @ 10 : 00 ish and i am told that rental cars are scarce .
+jim
+- - - - - forwarded by jim irvine / enron communications on 03 / 08 / 00 10 : 18 am - - - - -
+mvaghedi @ mil 3 . com
+01 / 12 / 00 02 : 10 pm
+to : jim irvine / enron communications @ enron communications
+cc :
+subject :
+- version 7 . 0 capability list - final - vl . 3 . 00 . doc
+mani vaghedi
+mil 3 , inc .
+itdg sales engineer
+tel . ( 408 ) 562 - 5757 ext . 3200
+fax : ( 408 ) 562 - 5758
+mvaghedi @ mil 3 . com
+http : / / www . mil 3 . com
+* * * * * * * * * * * * * * * * * * * * * *
+please attend the industry ' s most informative decision support seminar
+register today for free seminar at www . mil 3 . com / seminars . html
+* * * * * * * * * * * * * * * * * * * * * *
+- att 2 . htm

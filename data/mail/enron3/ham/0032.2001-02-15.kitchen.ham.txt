@@ -1,0 +1,6 @@
+Subject: re : gas daily options revaluation
+this is to inform you that we are rolling out changes to the gas daily option pricing model . currently the system is not properly pricing index puts and calls at locations with gas daily index premiums or discounts ( puts and calls are priced at the same level no matter what the index ) . the change will result in raising call values / lowering put values at locations with index premiums and the opposite at locations with index discounts .
+in addition , index plus / minus option deals ( for example index - 1 . 00 puts ) - which are currently incorrectly priced flat to the index option ( the index - 1 . 00 put is priced flat to the index put ) - will be accurately priced to reflect the difference in strikes .
+if anyone has any questions please call me at 3 - 6731 .
+thank you ,
+larry may

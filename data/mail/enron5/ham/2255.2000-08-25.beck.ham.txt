@@ -1,0 +1,32 @@
+Subject: var limit usage graphs
+we have created two new graphs that will be published daily along with the
+dpr .
+for each business unit or commodity group in the dpr the graphs show the var
+compared to its limit .
+when var is under the limit ( as in the example on the right ) , it appears
+green , and the unused portion of the limit appears yellow , which together add
+up to the limit amount . when var exceeds the limit ( as on the left ) , the
+limit is represented in red , and the excess is shown as a red box outlined in
+black . one graph shows usage in dollar terms and the other as a percentage
+of the individual limits .
+we should be able to publish this graph to the web report viewer as soon as
+the web masters have completed the set up . meanwhile , we will e - mail these
+graphs to you every day after the dpr is finalized . today ' s are attached
+below . please launch the excel file instead of using the lotus notes viewer .
+over the past several months we have been putting together a database to
+standardize and capture the information that flows to the dpr ( it is very
+much like the database we created for eol to report numbers ) . with it we can
+perform a variety of analyses ( correlations between books , back - testing ,
+estimating sensitivities to risk factors , p & l decomposition and attribution ,
+etc . ) . we are nearly finished with its construction , and we hope to provide
+you superior analytics and reports in the future .
+next week we hope to publish two new graphs : for each business unit in the
+dpr one will have 30 day rolling and 5 day rolling rovars ( average p & l
+divided by average var ) and the other will have 30 day rolling and 5 day
+rolling curve shift sharpe ratios ( average delta - gamma p & l divided by its
+standard deviation ) .
+we hope you find these useful .
+regards ,
+eugenio perez
+risk analytics
+energy operations

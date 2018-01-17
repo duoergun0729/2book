@@ -1,0 +1,8 @@
+Subject: entelligence website
+we ' re trying to get a demo setup - probably for lunch time one day this week .
+in the meantime , you can view the homepage at
+http : / / test . entelligence . enron . com
+security will prevent you from going any further until you have been setup .
+if you wish to gain access , please submit a request through erequest at
+http : / / itc . corp . enron . com . currently , you can only request test access .
+production access should be added later this week .

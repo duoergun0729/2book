@@ -1,0 +1,11 @@
+Subject: preliminary cost savings for ea
+from our work weekend before last , our third scenario ( staying in the business , but making improvements more slowly and reducing some service levels ) , our estimated savings for operations and it development were :
+annualized savings ( in millions ) & headcount reductions ( enron employees )
+direct costs bonus subtotal net cap total
+ops it accural savings severance savings ex savings
+5 . 4 12 . 8 1 . 5 19 . 7 3 . 8 15 . 9 11 . 8 27 . 7 dollar savings
+65 71 - 136 fte reduction
+this work was not done at the level of identifying individuals , but rather positions . identify indiour work today will be to further refine this estimate and to individuals ' names . we have already identified our lower performers across operations and it as well . we had to get through our work this weekend in identifying higher performers supporting eim and egm who could potentially support ea and ees in an effort to provide an even stronger team for those two business units .
+the above estimates of cost savings did not include savings from jenny rub , which she can calculate for us based on detail of headcount reductions and any systems work that is discontinued ( i . e . server savings ) . the estimate also did not include any potential reductions in the eol charges for ea that may result from cost reductions that greg piper is having with brad richter .
+your desire to cut costs for ea but not reduce work force seem to be incompatible . we will do our work and then see how we can reconcile this with you .
+- - sally

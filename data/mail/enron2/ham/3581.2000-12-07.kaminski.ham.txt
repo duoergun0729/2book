@@ -1,0 +1,11 @@
+Subject: re : implementation of smothing algorithm for forward forward
+volatilities calculation
+winston ,
+i am sending you the documentation on the new methodology for creating ffvols
+from implied vols . this methodology requires some minimization procedure
+to fit the given vol curve with a smoothing function . i am sending you the
+code i wrote that performs minimization with simulated annealing method from
+numerical recipes .
+we might need to discuss some details . please , let me know if you have
+questions .
+tanya .

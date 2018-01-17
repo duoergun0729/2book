@@ -1,0 +1,33 @@
+Subject: failure notice
+hi . this is the qmail - send program at mail . globalhosting . com .
+i ' m afraid i wasn ' t able to deliver your message to the following addresses .
+this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
+:
+sorry , no mailbox here by that name . vpopmail ( # 5 . 1 . 1 )
+- - - enclosed are the original headers of the message .
+content - type : message / rfc 822
+return - path :
+received : ( qmail 93914 invoked by uid 399 ) ; 19 jul 2005 11 : 18 : 55 - 0000
+received : from unknown ( helo ml . dnsix . com ) ( 63 . 251 . 171 . 164 )
+by mail . globalhosting . com with smtp ; 19 jul 2005 11 : 18 : 55 - 0000
+received : from [ 61 . 106 . 118 . 27 ] ( helo = mailwisconsin . com )
+by ml . dnsix . com with smtp ( exim 4 . 44 )
+id ldupnn - 0002 ud - uo
+for distltmich @ compusep . com ; tue , 19 jul 2005 03 : 58 : 20 - 0700
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 38191009 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : distltmich @ compusep . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+( body supressed )

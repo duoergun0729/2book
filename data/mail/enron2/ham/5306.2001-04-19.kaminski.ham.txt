@@ -1,0 +1,82 @@
+Subject: re : d dhar , amitava
+cc : chaney , craig ; mumford , mike ; kirkpatrick , eric ; brent , richard ; parsons ,
+ben ; albanis , george
+subject : re : d & b contact names
+iris / amitava ,
+i may have already said this , but we ' ve had so many e - mails and telephone
+calls flying back and forth that i wanted to make sure i at least got this
+much out to you . clearly , i would like you to set up the meeting with the
+riskcalc gurus to dig deeper into their methodology ( as much as they ' ll tell )
+and the impact of missing variables and any other idiosyncracies the model
+may have . also try to get a better feel for how well they think the model
+extends to other countries . i know from a previous conversation with lea
+carty and reading about the model that it was calibrated off north american
+names but they suspect it might extend to other countries . conversely , i
+know they are working efforts within moody ' s risk management services to
+develop private ( and probably public ) firm models specific to regions . one
+they mentioned was australia and also within western europe . data , as
+always , was the issue . see if the quants have any perspective on their
+success / plan in that area .
+lastly , we truly appreciate the aggressive efforts you both have made toward
+pushing off this private model initiative and i ' m very confident we ' ll be
+able to nail a firm plan down upon receipt of either d & b and / or experian data .
+cheers ,
+scott
+- - - - - - - - - - - - - - - - - - - - - - forwarded by scott salmon / eu / enron on 19 / 04 / 2001 20 : 51
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+mike mumford @ ect
+19 / 04 / 2001 17 : 55
+to : scott salmon / eu / enron @ enron
+cc :
+subject : re : d & b contact names
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike mumford / lon / ect on 19 / 04 / 2001 17 : 59
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : iris mack / enron @ enronxgate on 19 / 04 / 2001 09 : 23 cdt
+to : mike mumford / lon / ect @ ect
+cc : amitava dhar / corp / enron @ enron
+subject : re : d & b contact names
+hi ,
+two riskcalc sales people made a presentation this week about their product .
+they stated that they could set up a meeting with their quants and our
+people to discuss the model input and what happens if we have less than 17
+inputs .
+regards ,
+iris
+- - - - - original message - - - - -
+from : mumford , mike
+sent : thursday , april 19 , 2001 1 : 37 am
+to : mack , iris
+subject : re : d & b contact names
+ooops . . . part ii .
+i just threw out 12 as a number for something we might develop . . . it ' s really
+not based on anything . we know 17 will work for pre - packaged programs . we
+also know there will be a great number of names with less than the full 17 . . .
+i assume we would pursue another model ( internal or external ) to provide
+probably less accurate numbers but at least available for names with fewer
+inputs .
+mike
+from : iris mack / enron @ enronxgate on 18 / 04 / 2001 15 : 02 cdt
+to : mike mumford / lon / ect @ ect
+cc : amitava dhar / corp / enron @ enron , scott salmon / eu / enron @ enron , eric
+kirkpatrick / eu / enron @ enron
+subject : re : d salmon , scott ; kirkpatrick , eric
+subject : re : d & b contact names
+iris ,
+thanks .
+after our meeting we stuck around to discuss things a little further .
+specifically with respect to global counterparty names . . . we have duns
+cross - references on about 70 of active names ( 13 k out of 18 . 5 k ) . we could
+greatly accellerate purchase of some useful data by buying blind all major
+data associated with these specific duns numbers .
+pro - data gets in on names we know we want to review asap , but without
+resolution on which specific fields are most useful . we also get to test for
+completeness of data ( how many have all 17 fields . . . how many have only 12 of
+which fields , etc . ) .
+con - costs could be significantly higher . . . buying info we don ' t know we
+need ( converse of buying only the 17 fields doesn ' t seem best answer ) . we
+would end up buying additional info later . . . overhead costs and piecemeal
+buying will increase costs . it development time would be greatly
+increased . . . multiple file formats . . . developing to unknown maximum size ,
+etc . . . . redoing when more data is purchased .
+any thoughts .
+mike

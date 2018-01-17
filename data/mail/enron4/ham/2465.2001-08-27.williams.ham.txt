@@ -1,0 +1,4 @@
+Subject: do supplemental energy bids matter ?
+bill , chris ,
+i think this is the market notice you two were refering to . yes , caiso will use the lower of sc - submitted bids or a unit ' s proxy cost for purposes of determining dispatch order and the mcp of supplemental energy and a / s . however , my understanding is that this adjustment only affects the auction for supplemental energy and a / s . if you have costs above the current price cap and your costs are above your unit ' s proxy costs ( and are willing to justify them ) , you should bid your higher - than - proxy costs . if you are accepted , you are supposed to be paid as bid .
+let me know if you want me to follow up with caiso ( or let me know if you have asked them about this ) .

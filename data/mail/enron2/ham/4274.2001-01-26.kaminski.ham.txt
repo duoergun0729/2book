@@ -1,0 +1,76 @@
+Subject: fea announces the release of @ energy 2 . 0
+january 26 , 2001
+vince kaminski
+enron north america corp .
+1400 smith street
+30 th floor , rm . 3036 b
+houston , tx 77251 - 1188
+1 713 - 853 - 3848
+dear vince kaminski ,
+this is to inform you of the release of @ energy 2 . 0 . ftp download
+instructions are available immediately . the download instructions are
+included at the end of this email . your cd ' s and manuals will be shipped to
+you within 2 weeks . please see below for more information regarding this new
+release .
+please confirm that you are the correct recipient for this shipment and your
+address above is correct by clicking reply and send . if any changes need to
+be made , please make the changes above and reply .
+* * warning : please note that if you did not received a license key for
+@ energy after june 2000 , you will need to contact support @ fea . com or call
+510 . 548 . 6200 to obtain a new license key to enable the new version . * *
+* * swing users : @ energy / swing now replaces the " swing " product . see the
+@ energy user manual for a discussion of the changes . contact fea for the
+necessary license keys . you will be able to run both the new and old swing
+simultaneously .
+heres an overview of the new and changed features since version 1 . 6 :
+@ energy ( forward curve )
+jump parameters are now calibrated for use in other @ energy functions .
+inputs and outputs to powercalib and comcalib have changed . see the
+corresponding function syntax in the user guide for additional information .
+35 - 40 % speed improvement . the module is now out of beta .
+@ energy ( basics )
+different interpolation schemes on forward prices are now supported . if you
+use indexswap , exoticswap , or optindexswap with floating price linked to a
+series of futures dates , such futures dates need not be close to dates
+specified in the forward curve input . a new utility function , pathutil ,
+allows you to simulate and visualize price paths consistent with the models
+supported by @ energy . 25 - 30 % speed improvement .
+@ energy ( advanced )
+different interpolation schemes on forward prices are now supported . if you
+use optdiffswap or diffswap with floating price linked to a series of
+futures dates , such futures dates need not be close to dates specified in
+the forward curve input . calspreadopt now allows for the specification of
+two different mean reversion rates . 30 - 35 % speed improvement .
+@ energy ( swing )
+swingopt and stripswingopt now allow for valuation of swing straddle
+contracts with overall load constraints . 65 - 70 % speed improvement . the
+module is now out of beta .
+@ energy ( weather )
+30 - 35 % speed improvement .
+if you have any questions please feel free to contact us . we appreciate this
+opportunity to be of continuing service to enron north america corp . .
+regards ,
+michelle mendoza
+support @ fea . com
++ 1 - 510 - 548 - 6200
+financial engineering associates , inc . ( fea )
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+to download @ energy 2 . 0 via ftp , follow the following instructions :
+note : using explorer leads to unpredictable results , so we suggest using
+netscape or a dos shell .
+using netscape :
+in the location box type : ftp : / / energy @ ftp . fea . com
+password : 2 rbzxgv 5
+energy - 2 . 0 - win 32 . exe is for windows 95 / 98 / 2000 / nt . download and run on
+a local drive .
+using a dos shell :
+at a dos prompt type : ftp ftp . fea . com
+user : energy
+password : 2 rbzxgv 5
+type " binary " and hit ' return ' .
+type " ls " for a list of available files .
+type " get " energy - 2 . 0 - win 32 . exe and and wait for the ftp > prompt .
+type " quit " .
+the file will be downloaded into the directory at which you entered the ftp
+site .
+double click on the exe and follow the instructions on the screen .

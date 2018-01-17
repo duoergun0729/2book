@@ -1,0 +1,11 @@
+Subject: undelivered mail returned to sender
+this is the postfix program at host fnsrvlxl 0 . fnbs . net . my .
+i ' m sorry to have to inform you that your message could not
+be delivered to one or more recipients . it ' s attached below .
+for further assistance , please send mail to
+if you do so , please include this problem report . you can
+delete your own text from the attached returned message .
+the postfix program
+: host 202 . 9 . 108 . 195 [ 202 . 9 . 108 . 195 ] said : 550 no
+such user ( distinfo _ kl ) - err distinfo _ kl @ iprestige . com not found ( in reply
+to rcpt to command )

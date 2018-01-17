@@ -1,0 +1,18 @@
+Subject: fw : pma ' s
+bill ,
+the following is a message that heather sent to me after we talked about this deal and she did some additional research . a synopsis of this deal :
+geir entered the deal on 4 - 24 - 01 . buy $ 320 , sell $ 30 , creating a $ 290 . 00 per mw charge to your books
+you went back on 4 - 27 - 01 and corrected the sel price to $ 300 , changing the $ 290 . 00 charge to your books to a $ 20 per mw charge to your book .
+since this is an intra - month change , portland risk should recognize this when the compare it to their liqrec report and they should recognize a $ 108 , 000 credit back in your pma ' s . ( since the change was done before month - end , this never hit settlements to pull thru for dpr because by the time settlements looked at it , it was correct . )
+my point here is that you will see this credit in your pma ' s , you just haven ' t yet . with the transition of people in risk , one of the functions that got delayed was the true - up between the liqrec report and the end of the month intra - month changes report , which is where your variance is sitting now . risk is aware that this is out there and they are doing their best to true these types of things up . as of today , they are working back to january . right now , they can ' t give me a timeline of when this will be recognized , but please be assured that they are working on it .
+heather has requested that if you have specific questions , that you direct them to her . she will also let you know as soon as she has a good idea of when they will be caught up .
+please also feel free to ask me any questions about the processes . i ' ll help you in any way that i can .
+thanks for pointing this out to us . anything that can help us to stay on top of these processes is always a plus .
+virginia
+also concerning w - bom 590753 .
+what happens when a deal is changed in the same month after the flow date - risk can calculate the difference and add it to the liquidation value .
+or what happens is that we re - run the reports for customers and desk - to - desk and compare to another report called the liqrec ( liquidation reconcilation ) the differences we should run through the books .
+john is working on that . he is starting in jan . - so you can let bill know that yes it has not come through yet - and risk will enter that .
+i will give him a better timeline of when that will happen when i know .
+thanks for all of your help on this virginia .
+heather

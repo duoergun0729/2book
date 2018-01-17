@@ -1,0 +1,121 @@
+Subject: re : enpower
+i have not personally talked to james about these issues in enpower . his
+concerns regarding swaptions and asian options are accurate . it is currently
+working on new volatility curves for swaptions to use . it is also working on
+correlations in order for asian options to be valued properly . london trades
+many more swaptions and asian options than the us ; therefore , the impact of
+not having swaption volatility curves and correlations is greater to them .
+the majority of options in the u . s . are european monthly and daily exercises
+and the current volatility curves adequately take care of these deals . the
+idea of swaption volatility curves has floated around in the us , but other
+more material items always got in the way and we continue to use the deal
+specific volatilities for the swaptions we do have . once the technology is
+in place to use swaption volatilities we will also adopt . the system was
+originally built to handle the physical power world that existed in the us
+and as new markets and new ideas ( such as the us becoming more and more of a
+financial market ) we will need to enhance enpower to follow suit . swaption
+vols and asian options are two of these enhancements .
+also , it is difficult to get option data out of enpower . we have in stage an
+option sensitivity matrix that , once implemented into production . i will be
+sure that james knows about . it probably will not solve all his problems ,
+but it will give him a starting place .
+stacey
+enron north america corp .
+from : sally beck 12 / 11 / 2000 11 : 00 am
+to : stacey w white / hou / ect @ ect
+cc :
+subject : enpower
+in cleaning up e : mails , i ran across this one that i had not yet read . has
+james called and talke with you about enpower ? are his concerns in the memo
+accurate ? let me know . - - sally
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sally beck / hou / ect on 12 / 11 / 2000 11 : 03 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+fernley dyson
+11 / 29 / 2000 02 : 54 am
+to : richard causey / corp / enron @ enron , sally beck / hou / ect @ ect
+cc :
+subject : enpower
+just a heads - up - a long - winded email , but please see highlighted paragraphs .
+i find it hard to believe the scenario portrayed here , but stranger things
+have happened - will keep you posted .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by fernley dyson / lon / ect on 29 / 11 / 2000 08 : 44
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+james new
+28 / 11 / 2000 13 : 42
+to : ted murphy / hou / ect @ ect , david port / market risk / corp / enron @ enron
+cc : mike jordan / lon / ect @ ect , coralie evans / lon / ect @ ect , fernley
+dyson / lon / ect @ ect
+subject : status update on the issues surrounding continental power
+volatilities and correlations
+as you know for some time we have been trying to get the continental power
+traders to increase the volatilities they use for valuing their option
+portfolio and for use in calculating their var as it has been obvious that
+the market has become more volatile but this was not being reflected in
+their mark .
+in looking at the impacts of this , various other issues came to light .
+firstly it raised issues over the correlation matrix used in the var model as
+this was way out of date . we have worked with jitendra and have now put in a
+matrix that both the traders , risk and rac are happy with . secondly , as you
+may be aware , in portcalc swaptions currently use the volatility input on the
+deal ticket and not off any volatility curve .
+the current portfolio is 90 % swaptions and so this represents a serious issue
+for us in that it is not practical to manually change all the volatilities at
+the deal ticket level every time the implied voaltilities change . we cannot
+use the option functionality as this only values hourly or daily exercise
+options and not fixed expiry swaptions or options . we also have not found any
+way in portcalc of valuing asian options so we are having to ' force ' in the
+few we have . we have had the houston based portcalc it team work on a ' new '
+piece of swaption valuation code but currently it contains a number of
+worrying bugs . these are primarily that the proposed code does not take the
+correct underlying forward price and uses the volatility of ( approximating )
+the last day of the underlying rather than the implied volatility of the
+underlying .
+they are currently being hampered in that they do not have any it personnel
+who have sufficient option knowledge ( i understand that the two most
+experienced coders resigned to go to another houston based energy company ) .
+this is extremely worrying and i find it hard to believe that the whole of
+enron ' s power business is having to use the methodology of inputting the
+volatility at the deal ticket level . this will almost certainly mean that
+different volatilities are being used in the var as are being used to value
+the swaption portfolio globally . as well as these issues we have concerns
+over the use and accuracy of the smile adjustment in portcalc ( worryingly it
+does not seem that you can ' switch ' this off ) . briefly it seems that portcalc
+calculates the delta used to adjust the volatility by comparing the strike
+price to the forward price of the last day of the underlying rather than the
+forward price of the underlying itself .
+we have engaged london based it and are looking at the code we have used in
+power 99 to se if there is a way we can get something done quickly to start
+to value all option products off a curve and to be able to book asian options .
+once we get the above resolved we still have no way or extracting the vega or
+gamma risk from portcalc in it ' s current state as the information is just no
+there ( so we are told by it ) . the system ' seems ' ( we cannot be 100 % sure
+given all the other errors ) to produce a vega and gamma p & l number but what
+the risk is remains a mystery . again this is very worrying in that we have
+power option traders all over the world who can ' t get their underlying vega
+or gamma risk position from the global valuation system . we are trying to
+work on something manual to draw a line in the sand but i would really like
+to know how the american based traders cope as they have this problem
+( knowingly or not ) for years . what sign offs were gained for the
+implementation of enpower because it seems to us that using the current
+system it is not possible to comply with the global risk policy . how do we
+validate the inputs to the valuation if we do not know the risk ?
+despite the above we have now persuaded the traders to save out newer higher
+volatilities a week ago and you should have seen a large move up in their
+var . however , as it stands at the moment they are notable to save out a daily
+remark as jitendra is saying that he is not happy with their ' model ' / vol
+curve generator ( i have today asked for a full explanation , details of any
+testing etc etc and time lines so we can move to getting over this hurdle ) .
+the swaptions have also not yet had the ticket volatility changed but the
+impacts are expected to be positive as we are long volatility .
+i would appreciate your comments on the above as it seems that we are pushing
+the boundaries here on areas which we really expect to have already been
+covered in houston some time ago and could do with some help . we are having
+to use a system which seems to us to have numerous bugs and short comings and
+are having to spend an enormous amount of it time overcoming the inadequacies
+of enpower wich i do not think most people are aware of . consequently we have
+not been able to deliver all the improvements we were required to do in
+gaining the increased limits so 3 months ago but i would hope you agree that
+it is not for a lack of trying .
+sorry it ' s so long but if there are any questions or any perceived
+inaccuracies in any of the above then please let me know .
+james

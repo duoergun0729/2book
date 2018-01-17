@@ -1,0 +1,34 @@
+Subject: fw : rto week - - summary of day one panel
+fyi .
+tj - - will you please forward to kevin ' s group . thanks .
+- - - - - original message - - - - -
+from : novosel , sarah
+sent : monday , october 15 , 2001 10 : 29 pm
+to : presto , kevin m . ; davis , mark dana ; may , tom ; will , lloyd ; lindberg , susan ; gupta , gautam ; misra , narsimha ; scheuer , janelle ; baughman , edward d . ; herndon , rogers
+cc : nicolay , christi l .
+subject : rto week - - summary of day one panel
+today was the first day of ferc ' s " rto week " in washington , d . c . the topic of today ' s panel was " rto markets and design : required markets and optional markets . " the issues in both panels were quickly merged and the two panels discussed all of the issues .
+panel one : mandatory rto markets
+the morning panel consisted of the following participants : peter cramton ( university of maryland ) , david hadley ( indiana psc ) , mark kleinginna ( ormet ) , john meyer ( reliant ) , john o ' neal ( mirant ) , and roy shanker ( consultant for generators in the northeast ) .
+energy spot market
+there was unanimous agreement among these panelists that the rto must run a real time energy , or spot , market . most panelists agreed that the spot market should be a bid - based , security - constrained system with economic dispatch . in response to a question from pat wood , most also agreed that nodal ( lmp ) pricing should be used in the spot market , although john meyer from reliant stated that zonal pricing is used in ercot and that works also .
+day ahead market and balanced versus unbalanced schedules
+most of the panelists said that the rto should not require balanced schedules . peter cramton said that with a day - ahead market , no need for balanced schedules because the real time market prices will discipline behavior . john meyer agrees , saying if there is no balanced schedules requirement , then there might be a need for a day - ahead market . john notes that ercot has a balanced schedule requirement . john also said that imbalance penalties could be appropriate for imbalances that hurt the system . roy shanker also said ferc needs either a balanced schedules requirement ( which he does not recommend ) or have a day - ahead market .
+icap requirement
+most of the panelists ( except peter cramton - - university of md ) support an icap requirement . however , none of the panelists could point to an effective icap market ( roy shanker says he has an idea of what would work - we will probably see this in comments in the icap proceeding due later this week ) .
+mark from ormet kept bringing the message back to the need to know the rules and know that the rules will not change substantially over time . mark said liquidity in pjm does not help him move power to the midwest since the rules are undefined outside of pjm . he cannot enter into long - term contracts because he does not know what the rules will be one or more years out . he also said you can have an icap market but market participants have to be able to meet icap requirements through load response .
+standardized markets
+most of the panelists agreed that the mandatory markets should be real time and day - ahead energy markets , spinning and non - spinning reserves and regulation should also be required and be standardized .
+massey asked if the costs to standardize are outweighed by the benefits . roy shanker said the northeast works so ferc should not change it . even if ferc does not require standardization between the rtos , creating large rtos and fixing the problems within the rtos will be a big improvement . mark with ormet and the indiana commissioner both urged ferc to standardize the mandatory markets among the rtos .
+panel two : optional rto markets
+the afternoon panel consisted of the following participants : fiona woolfe ( lawyer with experience in england and wales pool ) ; roy thilly ( wisconsin public power inc . ) ; richard pierce ( professor at george washington ) ; glen arthur ( connecticut psc ) ; steve naumann ( commonwealth edison ) ; ed cazalet ( apx ) .
+this panel was intended to cover optional market issues , including whether a day - ahead market is needed and whether there should be icap markets . this panel addressed these issues as well as the need for a real time market , market monitoring , and other issues .
+mandatory markets
+other than ed cazalet ( apx ) , the other panelists for the most part agree that the rto should run a real time and day - ahead energy market , ancillary services markets , and there must be an icap requirement . ed cazalet believes that there only needs to be a small balancing market ( perhaps with balanced schedules requirements ) and leave the creation of any other markets to independent entities to create .
+icap
+most of the panelists believe that the rto should provide a day - ahead market , congestion management and ancillary services . most also favor an icap requirement and market .
+pat wood said he is not convinced that a blanket icap requirement is needed on day one . he has been considering an icap requirement that does not apply until triggers are reached , and perhaps that should be considered here as well . he has also been talking with a northeast regulator about having different requirements for states depending on whether they have retail access or not .
+shelton cannon ( staff ) asked the panelists to assume one midwest rto - can there be different icap requirements within the rto ? most panelists agree that if the icap rules are the same within the rto , that there could be percentage requirement deviations .
+day two of rto week focuses on congestion management in the morning and transmission planning and expansion in the afternoon . we will get summaries out on these panels tomorrow .
+please call me with questions or comments .
+sarah

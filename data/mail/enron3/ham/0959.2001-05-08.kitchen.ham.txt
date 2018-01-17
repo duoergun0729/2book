@@ -1,0 +1,28 @@
+Subject: gtv weekly status update
+gtv status meeting attendees : dave nommensen , francis lim , jeremy wong , bill fortney , nayan dattani , russ severson , narasim kasaru , mike swaim , chuck ames , geoff storey
+accomplishments :
+? incorporating physcial deal positions in tds :
+o changes for the view aggregation have been completed ( please see the attached project timeline ) .
+o provided group of groups and filters for cash position tab .
+? single point of deal entry for term deals :
+o single point of deal entry is in user test .
+? gas daily deals :
+o changes to portcalc application to create gdi calc in erms are in user testing .
+? live feeds for gas daily / intra - month curves :
+o development of live feeds has been completed , tested , user - approved and already in production .
+? option grid ( phase 2 ) :
+o conversion from motif into powerbuilder is completed and in user test .
+? gas daily options :
+o changes to portcalc application have been completed and are in user test .
+plans for the week ending 5 / 11 / 01 :
+? continue it development of phase i items .
+o exclude cash deals outside of prompt day ( s )
+o need to include first month of " n " in both idx and cash positions .
+o gdi portcalc needs to use pice + basis after " m " is published .
+o deal entry corrections being made for mapping rate index to pub code .
+o include cash position total column on position manager tab
+? continue it development of phase 2 issues .
+issues / open items :
+? how to determine fixed price total in cash position .
+? extent of programming revisions and user testing could cause user acceptance to occur after may bid week , thus delaying rollout until mid - june .
+thanks , dave n .

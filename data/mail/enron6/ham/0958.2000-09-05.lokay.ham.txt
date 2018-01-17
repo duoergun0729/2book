@@ -1,0 +1,44 @@
+Subject: gpg windows 2000 / outlook project announcement
+gpg will begin gathering information in september for our migration to
+windows 2000 and outlook / exchange .
+windows 2000 ( or w 2 k ) is microsoft ' s newest operating system and has been
+selected as enron ' s standard desktop operating system . along with this
+change , we are moving from lotus notes to outlook / exchange as our standard
+messaging ( email ) application .
+this project is a huge undertaking , and we need everyone  , s assistance to
+ensure success . the gpg - it team will partner with each group to ensure every
+aspect is covered . each group ( it and the user group ) will assign a point
+of contact ( poc ) to work with the it group . the poc ' s responsibilities
+include application information gathering , identifying security requirements ,
+documenting all issues and concerns , and communicating project status .
+we are approaching the windows 2000 / exchange project in a phased approach .
+phase i , starting now and running through november , consists of  & information
+gathering  8 about hardware , applications , issues , as well as application
+testing in our windows 2000 lab and user sign - off . the phase i findings will
+determine the phase ii start date .
+phase ii , will be the actual  & implementation  8 of desktop hardware , windows
+2000 and outlook software , and user training . we will also be migrating
+" user " data on the network to a windows 2000 file server and migrating
+applications to a windows 2000 application server .
+some of the benefits of migrating to w 2 k
+increased desktop reliability and response time . windows 2000 is much more
+stable and robust than windows 95 / 98 / nt .
+increased system performance because minimum hardware requirements for w 2 k
+are 350 mhz and above with 256 meg memory .
+increased desktop manageability and enhanced functionality .
+single sign - on for all users / servers . no more problems with trying to keep
+all your lan and email passwords the same !
+some of the impacts to migrating to w 2 k
+some of the old office ( word , excel , powerpoint or access ) documents will
+need to be updated . if you have any old documents that you think will not
+move forward to w 2 k , please communicate this to your it poc .
+we are aware that some hardware and applications may have problems running in
+windows 2000 . we will work together to find a suitable solution for
+everyone .
+another communication with much more detail regarding w 2 k and outlook will be
+coming soon .
+if you have any questions , comments or issues , as always , please feel free to
+contact your gpg support group directly .
+thanks .
+gpg solution center omaha help desk
+x 54745 x 7454

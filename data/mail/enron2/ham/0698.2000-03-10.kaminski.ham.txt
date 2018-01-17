@@ -1,0 +1,97 @@
+Subject: new update on ppi model for inflation book - final version
+dear all ,
+attached is anjam ' s reasoning and final version of the uk ppi pllu model .
+the uk inflation book ' s main exposure is to two ppi indexes - the pllu and
+the dzcv through year 2010 . both are ppi output indexes with very comparable
+baskets . the only significant difference between the two is the presence of
+energy in the pllu ( 7 . 6 % ) . the model in use escalates the two indexes by the
+same factors . however , with the energy price fluctuations in recent years
+different models for the two indexes would reflect better the nature of their
+drivers . anjam concentrated on the pllu index first and he will shortly
+construct one for the dzcv based on the same methodology , but without the
+brent crude curve .
+the new model achieves the two main objectives of the ppi curve : it is
+significantly more robust and stable than the existing one , and it is
+considerably less sensitive to the input coefficients . this will result in us
+having more confidence in our monthly p & l as well as less fluctuations .
+best regards ,
+martina
+x 34327
+anjam ahmad
+10 / 03 / 2000 11 : 59
+to : martina angelova / lon / ect @ ect
+cc :
+subject : new update on ppi model for inflation book
+dear all ,
+i followed up on the suggestions of happening babe at the conference call as
+follows : -
+1 ) use less data
+unfortunately , kicking out only 1990 makes the overall equation a lot less
+robust , in fact dramatically so , and so eliminates the possibility of using
+less data . the model tested was the rpi ( month + 15 ) ppi pre - empts the moves in rpi by about 8 months . the
+magnitude of the oscillations is also reduced . this shows that if we had
+more detail in our rpi forward curve , then the ppi model would reflect those
+peaks and humps adequately .
+conclusion
+i therefore propose that we use the model that incorporates rpi , rpi [ t + 15 ]
+and deviations of brent crude from long - term average . the new model is
+plotted below in burgundy and can be compared to the old ppi which is
+depicted in blue .
+please note that all this analysis only applies to pllu , and that a separate
+study will be needed for the dzcv ppi index .
+regards ,
+anjam
+x 35383
+- - - - - - - - - - - - - - - - - - - - - - forwarded by anjam ahmad / lon / ect on 09 / 03 / 2000 16 : 52
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+anjam ahmad
+08 / 03 / 2000 14 : 03
+to : martina angelova / lon / ect @ ect , harry arora / hou / ect @ ect , maureen
+raymond / hou / ect @ ect , zimin lu / hou / ect @ ect , farouk lalji / hou / ect @ ect
+cc : trena mcfarland / lon / ect @ ect , dale surbey / lon / ect @ ect , stinson
+gibner / hou / ect @ ect , vince j kaminski / hou / ect @ ect , leandro
+ibasco / corp / enron @ enron
+subject : update on ppi model for inflation book
+dear all ,
+we thought it might be useful to incorporate brent crude as an explanatory
+variable for ppi ; it was found that deviations of dated brent crude from the
+long - term average of $ 18 . 80 was the best form of the variable to use ( for
+predictions the brent forward curve produced by the global products group is
+used ) . the three new equations developed were : -
+pllu ( t ) = a . rpi ( t ) + b . rpi ( t + n ) + c . ( datedbrentcrude - 18 . 8 ) + constant ,
+where n is 14 , 15 or 16
+[ reddish curves ]
+r - squared approx 0 . 49
+f - stat approx 32
+the chart below shows what our projected pllu curve would be given this
+equation , and also the three best relations from before which were based upon
+current and future rpi :
+pllu ( t ) = a . rpi ( t ) + b . rpi ( t + n ) + constant , where n is 14 , 15 or 16
+[ greenish curves ]
+r - squared approx 0 . 47
+f - stat approx 45
+comparison of models
+as you can see , the two equations differ in the very short - term and very
+long - term ; the inclusion of deviations of brent crude leads to short - term
+predictions of 3 . 0 % to 3 . 2 % over the next six months . the greenish curves
+predict pllu in the range of 2 . 5 % to 2 . 8 % over the next six months .
+the curves are then very similar until 2009 , when the models including crude
+break - away to the upside , relative to the falling rpi curve . the model based
+purely on rpi hugs the rpi curve much more closely in the longer term . this
+is only important to the extent that we have large positions beyond 2009
+( which we don ' t ) .
+suggestion
+what could be useful now is a differently - specified model designed to
+forecast only the next 3 months , using auto - regressive or auto - regressive
+error terms . this model would be far more accurate in the near - term , and we
+could include this information onto the front of this long - term model . this
+may be useful , despite the fact that most of our exposure is in future time
+buckets .
+back - testing
+all the models give similar visual and statistical performance over the data
+sample used ( based mainly on 1990 s " new paradigm " economy ) .
+hopefully we can discuss these and other points later in the tele - conference ;
+your ideas on this would be appreciated .
+regards ,
+anjam
+x 35383

@@ -1,0 +1,39 @@
+Subject: re : gtv ii
+please see the attached file for the revised inception document . i would appreciate any comments . we will be working on the specification of phase 2 once this document is signed off .
+thanks
+zhiyong
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : monday , march 19 , 2001 11 : 15 am
+to : wei , zhiyong
+cc : stock , stephen ; storey , geoff ; sullivan , colleen ; perlman , beth ; bibi , philippe a .
+subject : re : gtv ii
+comments :
+zhiyong wei to be added to signature lists .
+timeline to include production dates - ie include uat and production roll - out dates .
+dependencies - where there are dependencies on other groups ( any interaction required with any group outside of zheiyong ' s ) , these need to be highlighted and a representative from that group needs to sign off on that portion of the timeline ( a representative can not be below director level in the organiztion ) .
+there are clearly many people rolling off early in this project who can be utilized for phase ii - i would suggest the specfication for phase ii is completed in the very near future as the majority of the work in this is done in the very short term by the developers and it moves to the test team .
+please re - issue today .
+louise
+from : zhiyong wei / enron @ enronxgate on 03 / 16 / 2001 12 : 34 pm
+to : louise kitchen / hou / ect @ ect
+cc : stephen stock / enron @ enronxgate , geoff storey / hou / ect @ ect , colleen sullivan / hou / ect @ ect , beth perlman / enron @ enronxgate , philippe a bibi / enron @ enronxgate
+subject : re : gtv ii
+louise ,
+attached please find the inception document requested . i would greatly appreciated your comments . i will be consulting colleen and geoff for any necessary revision . i will be requesting signatures on wednesday afternoon , march 21 .
+thanks
+zhiyong
+>
+- - - - - original message - - - - -
+from : schoppe , tammie on behalf of kitchen , louise
+sent : tuesday , march 13 , 2001 4 : 24 pm
+to : wei , zhiyong
+cc : stock , stephen ; storey , geoff ; sullivan , colleen ; perlman , beth ; bibi , philippe a .
+subject : gtv ii
+i understand we have now finalized 90 % requirements on the gtv ii .
+please could we pull together the format inception document this week for signature on your meeting next week with geof and colleen .
+document to include all requirements , dependencies and timelines .
+i would suggest whoever is writing this spend some time with geof this week .
+please circulate to draft all listed above including me .
+thanks ,
+louise

@@ -1,0 +1,14 @@
+Subject: projects update
+vince ,
+a quick project update .
+1 . sandeep and i spoke with robert schenck in adelaide . he will email a
+henwood proposal to us . they already figured that we must be interested in
+modelling dabhol .
+2 . the wti eol trading simulation had an error . we were counting a
+mid - offer spread profit on each trade , but we actually would make the spread
+on each round - trip transaction ( one trade to open , one trade to close ) . i
+modified the calculation and sent the new numbers to greg whalley ( he is the
+one who caught the mistake , so there goes my bonus for the year . ) and john
+lavorato . i should probably re - run the earning volatility numbers , and
+update ted murphy as well .
+- - stinson

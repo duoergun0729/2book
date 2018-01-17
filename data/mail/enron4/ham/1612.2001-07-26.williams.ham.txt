@@ -1,0 +1,10 @@
+Subject: saturday frontier energy payback
+real time traders ,
+this saturday 7 / 28 frontier needs to repay bpa for control area reserves that where used on 6 / 30 and 7 / 21 . the total frontier owes is 32 mw . i ' ve arranged with bpa to return 2 mw on peak for saturday .
+however , this payback needs to be done real time as bpa ' s ability to take the energy is dependant on their system operations .
+the real time procedure is as follows :
+1 ) call the bpa real time power scheduler at 503 - 230 - 3341 around 0400 or 0500 and tell him you are calling to schedule energy imbalance paybacks from frontier energy for 2 mw on peak . if bpa can take the schedule try to get them to commit to take all 16 hours . then call bpa real time transmission and buy a 2 mw wheel using account # 805608 for energy imbalance paybacks to bpa merchant .
+if bpa is unable to take the 2 mw schedule for any hour please sell it real time for the best price in the northwest .
+2 ) in enpower enter a buy from frontier at zero price and note in the comments section that this is a energy imbalance payback deal . enter a sale to bpa at zero price and note in the comments section that this is a energy imbalance payback deal . extend bpa transmission deal 704168 to include the additional 2 mw .
+call me if there are questions or problems . we tried to do this payback last saturday and the energy just went inadvertent for 3 hours because we didn ' t call bpa .
+les

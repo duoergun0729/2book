@@ -1,0 +1,15 @@
+Subject: 3 d vr ? 5 > nh 8 h - cd 9 + 7 a acid
+corrupted message
+this is the courier mail server 0 . 47 on hrwl . com . cn .
+i received the following message for delivery to your address . this message
+contains several internal formatting errors . this is often caused by
+viruses that attempt to infect remote systems . instead of blocking
+this message , it has been converted as a safe , text - only attachment that
+can be safely read with a text editor .
+this sometimes also happens when the sender ' s mail software has a bug
+that creates improperly - formatted messages . although these kinds of
+formatting errors may often be ignored by other mail servers , this
+server detects and intercepts improperly - coded messages in order to
+prevent viruses from taking advantage of bugs in e - mail programs :
+the headers in this message contain improperly - formatted binary content .
+see for more information .

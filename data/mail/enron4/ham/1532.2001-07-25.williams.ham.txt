@@ -1,0 +1,18 @@
+Subject: caiso ads communication : important notice for ads users
+to all ads market participants :
+please find attached for your review the following documents : " oos examples
+mp " ( electronic dispatch of out - of - sequence and out - of - market instructions
+- - guide for market participants ) , a proposed ads query file data
+dictionary , and a proposed ads download file data dictionary .
+these three documents attempt to explain how oos , in - area oom , and real - time
+rmr dispatches will be communicated through ads .
+note that we are proposing a market sim during the week of 9 / 24 - 9 / 28 , and a
+rollout to production on 10 / 12 / 01 .
+i will be available in the tswg meetings to answer any questions , or you can
+email comments to me at gford @ caiso . com .
+> > >
+greg ford
+california iso
+market operations
+( 916 ) 351 - 2344
+gford @ caiso . com

@@ -1,0 +1,70 @@
+Subject: greg , fyi - jeff asked me to forward this to you for your review . srs
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sherri sera / corp / enron on 05 / 15 / 2000
+04 : 25 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" joseph a . cherian " on 05 / 09 / 2000 08 : 10 : 19 am
+to : " jeffrey k . skilling "
+cc : vince j kaminski , " robert a . jarrow "
+, " robert c . merton "
+subject :
+mr . jeffrey k . skilling
+president and c . o . o . ,
+enron corp .
+dear jeff ,
+this email is from robert jarrow ( cornell ) and myself ( joe cherian ) . i hope
+you recall meeting / lunching with bob jarrow & me when you keynoted at my
+1999 math finance day conference here at boston university . i wanted to
+introduce you to skg inc . , a startup that is focused on providing an
+innovative service to the electronic trading community . messers kuppuswamy
+seshadhri , sriketan mahanti , and gaurav mallik are the principal founders
+of skg , inc . bob jarrow and i represent the company ' s scientific advisory
+board . nobel laureate robert merton , who also sat on our table during your
+keynote address , very kindly serves as an ad hoc senior advisor to skg and
+has been an invaluable resource to skg , including putting us in touch with
+jp morgan . coincidentally , the c . o . o . of jp morgan capital corp . ed
+colloton , in an april 7 meeting told us he would introduce us to the c . f . o .
+of enron online , whom he knows and at which he felt skg would have huge
+value - adding opportunities . however , given ed ' s busy travel schedule , i
+don ' t believe he has been able to do that yet . hence this joint decision by
+bob jarrow and myself to send you this email .
+skg ' s solution is to provide dynamic pricing and value maximization in
+electronic trading of securities / commodities on ecns and atss ( alternative
+trading systems ) . it achieves this through a process of " strategic
+negotiation " using automated agents ( intelligent software manifestations ) .
+our system should not be viewed as an ecn , but rather as an enhancement to
+any extant trading system , be it an ecn , ats , clob , nasdaq , etc . our
+initial system design has been conducted for financial instruments trading ,
+e . g . bonds / equities , but our strategy is as much applicable to energy / power
+instruments trading , high speed communications bandwidth trading , and other
+web - based commodities trading , which we believe is of interest to enron
+online .
+skg is superior to existing solutions in the following way :
+1 ) it considers multiple attributes , e . g . , price , time , volatility ,
+bandwidth . ( in high speed communication bandwidth scenarios , for example ,
+the dimensions could be price , bandwidth size , time for which bandwidth
+available , continguity of the allocation , and such . )
+2 ) it involves dynamic matching as opposed to " static " matching .
+3 ) it is multi - lateral .
+4 ) it adapts itself dynamically to changing market conditions .
+5 ) it allows traders to make important trade - offs , as they do in
+traditional markets .
+currently , skg is involved in discussions with the heads of trading at
+fidelity , putnam investments , lehman bros . , kpmg , meridien research ,
+salomon smith barney , jp morgan , state street , banc of america , mckinsey ,
+citizens power , and a host of other folks .
+we think we have a value - adding service to provide to enron online or any
+other enron subsidiary that the skg offering matches and that you deem fit .
+skg ' s founders and i will be very happy to provide you or your
+representative ( s ) with more details , including a demo of the prototype , in
+a meeting . we are therefore hopeful that you will be able to arrange
+something appropriate .
+thanks very much , jeff ! we look forward to hearing from you .
+with warm regards ,
+joseph cherian and robert jarrow
+cc : professor robert c . merton
+joseph a . cherian
+associate professor of finance
+boston university school of management
+595 commonwealth avenue , room 522 h
+boston , ma 02215
+tel : 617 - 353 - 2679 ( o )
+617 - 353 - 6667 ( fax )

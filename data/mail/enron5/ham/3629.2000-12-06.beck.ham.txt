@@ -1,0 +1,30 @@
+Subject: demo w / louise
+hey tom and sally ,
+i just wanted to give a status report of my meeting with louise kitchen
+yesterday . four main issues were of confirm central were discussed : legal
+loose ends and ramifications , user interface , functionality , and future
+enhancements .
+starting with the legal aspect louise wanted mark taylor brought into the
+process . she felt his experience from eol would be useful , and would help
+make any seams between eol and cl disappear . i am setting up ameeting for
+early next week between mark t . , mark g . , and alan to get this process
+rolling .
+the user interface louise thought needed some work she definitely did not
+like the colors of the website . she had good comments on how to improve the
+look and feel . we will try to incorporate louise ' s suggestions as quickly as
+possible . i am not to concerned about these comments since we have spent the
+last 4 weeks developing functionality and have not yet focused on this issue .
+louise was happy with the actual functionality of the site . she actually
+said we did an excellent job .
+finally , on future relases she wanted us to focus on financial & physical
+power , financial & physiacl gas in the u . s . she felt that this is a market
+where we could make money , where enron has enough volume that we could really
+relieve some pain on our counterparties . other commodities such as liquids ,
+global products , metals , she felt either did not have enough voume to justify
+the business model or would take to long to integrate into cl . as far as
+additional features to the site incorpoating an importing function for cp
+data was high on the list , next was reporting confirmation statistics ,
+exporting data , and finally automatching .
+take away message from the meeting was that louise was extremely happy with
+the site and our progress to date .
+brad

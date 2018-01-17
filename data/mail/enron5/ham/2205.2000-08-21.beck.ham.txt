@@ -1,0 +1,59 @@
+Subject: re : trading v origination offices
+i agree with the exception of point 3 below . i plan for them to be one of
+several authorisers of bills ( in no case however , the only authorisers ) .
+also , i spoke to sally about the " agency " office and she agrees that in the
+short term , the agency plan is what we need to implement . however , a
+mentioned by both ted and sally , we need to discuss what the ultimate goal is
+for these offices ( will they continue to exist ? ) . let ' s call what we plan to
+implement now " phase i " .
+best regards
+to : richard sage / lon / ect @ ect
+cc : sally beck / hou / ect @ ect , brent a price / hou / ect @ ect , fernley
+dyson / lon / ect @ ect , mike jordan / lon / ect @ ect , shona wilson / na / enron @ enron , ted
+murphy / hou / ect @ ect , naomi connell / lon / ect @ ect
+subject : re : trading v origination offices
+thanks - i think this is a good start as far as roles go , but as i outlined
+to shona last week , we should apply some basic rules to the process , ( forgive
+me if obvious ) for example :
+rule 1 : no confirmations issued , chased or matched by remote offices
+this should be done centrally and further all the customers of the remote
+office should be given contact numbers ( e . g . fax ) at the operations hub . that
+way any incoming confirmations etc go to the independent ops group .
+rule 2 : no cash payments or receipts in respect of transactions approved or
+reconciled by remote offices
+operations hubs should reconcile cash movements to changes in position .
+rule 3 : no physical settlements or receipts in respect of transactions
+approved or reconciled by remote offices
+this splits the logistics process somewhat , but is essentially as with cash
+in that every movement of physical product should be approved ( where
+necessary ) and reconciled to movements in the position at operations hubs .
+the " initiation / optimisation " aspect of logistics could remain remote , since
+arguably it involves pseudo - trading .
+not exhaustive but helpful i hope .
+dp
+richard sage @ ect
+08 / 21 / 2000 03 : 40 am
+to : sally beck / hou / ect @ ect , brent a price / hou / ect @ ect
+cc : fernley dyson / lon / ect @ ect , mike jordan / lon / ect @ ect , shona
+wilson / na / enron @ enron , ted murphy / hou / ect @ ect , david port / market
+risk / corp / enron @ enron , naomi connell / lon / ect @ ect
+subject : trading v origination offices
+sally , brent ,
+there are three mg offices in north america outside new york which , previous
+to the acquisition by enron , acted much as trading offices .
+shona and naomi have worked with the people in new york to put in place extra
+controls so that they are not trading offices , for example having a trader in
+new york or london own each book and sign off on profit daily .
+this process has highlighted the fact that our non - trading offices are not
+all the same , and cannot reasonably all be the same .
+some offices organise logistics things to happen on the ground , some
+originate , and some execute for trading offices .
+is a suggestion for how we can make this division explicit .
+all the cc above are bought in to this approach .
+what do you require to be comfortable so that we can put it up to causey and
+buy ?
+it is worth noting that this approach would have caught helsinki , except for
+the contract - in - a - bottom - drawer , but no system of control can reliably catch
+that , as was evidenced by eott .
+thanks ,
+richard

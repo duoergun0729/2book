@@ -1,0 +1,43 @@
+Subject: dynegydirect : new trade floor functionality
+effective monday , january 7 , 2002 , dynegydirect will institute a " new look "
+on our trade floors . the new look will have active and inactive markets
+designated with green and red lights to the right of the product line .
+upon opening your individual trade floor / window the window may not contain
+the usual number of products . you have two choices to make :
+choice 1 :
+a " show all mkts " button will be on the upper right of the screen . if you
+check this , all the markets you have saved in your trading window ( s ) will
+appear , just as they always have , whether the markets are active or
+inactive . you will not see the green and red lights to the right of the
+product line .
+choice 2 :
+if you do not check the " show all mkts " button , the window may be blank
+until dynegy begins posting prices and volumes and a " refresh " button
+appears on the top center of the window . clicking on the " refresh " button
+will enable active markets , which will be indicated by a green light to the
+right of the product line . the light will remain green for 30 seconds after
+activation .
+the " refresh " button will reappear as additional markets become active or
+as an existing market becomes inactive . when dynegy places a product on
+hold ( inactive market ) the price and volume will disappear and a red light
+will appear to the right of the product line after 15 minutes of
+inactivity .
+clicking on the " refresh " button will add all active markets and / or remove
+all inactive markets .
+additional note :
+any new trading windows you create from monday forward will default to
+choice 2 .
+dynegydirecte - care
+dynegy inc .
+1000 louisiana , suite 5800
+houston , texas 77002
+e - mail :
+e - care @ dynegydirect . com
+phone
+north america 877 . 396 . 3493
+united kingdom 0800 . 169 . 6591
+international 011 . 713 . 767 . 5000
+fax
+north america 877 . 396 . 3492
+united kingdom 0800 . 169 . 6615
+international 011 . 713 . 767 . 4923

@@ -1,0 +1,110 @@
+Subject: to : webmaster @ ezmlm . org esto es lo que estabas buscando !
+curso
+profesional
+de reparación de pc
+no
+siempre es necesario llamar a un técnico .
+aprenda todo lo que puede hacer para reparar y mantener su pc
+saludable . . . .
+algunos
+de los temas que componen este excelente cd . . . .
+reconocimiento
+de componentes dentro del gabinete
+desarme del cpu / presentación y reconocimiento de los elementos de
+hardware / motherboards / microprocesadores / memorias / discos rígidos /
+fuentes .
+modem - fax / placas de video / placas de sonido / salidas serie y paralelo
+/ dispositivos scsi . incluye fotos ilustrativas , de manera que el alumno
+pueda entender el materialde lectura .
+microprocesadores
+información clasificada de las companias más importantes que
+fabrican microprocesadores .
+evolución . 286 , 386 , 486 , 586 , k 5 , pentium , k 6 , k 7 , pentium mmx , celeron ,
+pii , piii y p 4 , atlhon y duron .
+características / instalación / jumpeo / setup .
+discos
+rígidos
+forma de conexión / componentes
+que lo integran / configuración del disco rígido particiones y formateo
+del disco . ( fdisk , format , partition magic ) .
+/ conexión de uno o mas discos . ( master / slave ) .
+fuentes
+de alimentación
+descripción y reconocimiento de sus componentes : resistencias /
+capacitores
+transformadores / inductores / diodos / transistores / circuitos
+integrados / uso del tester / verificación y reemplazo de componentes .
+módem
+? fax
+descripción / como funciona /
+instalación
+del software / utilidades
+fax , correo electrónico e internet .
+impresoras
+distintos tipos de impresoras ( matriz , chorro de tinta y láser ) .
+descripción de su funcionamiento / fuente y placa lógica / fallas más
+comunes y su reparación . mantenimiento / limpieza / instalación .
+buses
+tipos : isa , vesa local bus , pci , agp . características / seteo / el
+interfaz
+scsi
+setup
+setup standard / setup avanzado / chipset / autodetect / optimización
+del setup .
+memorias
+ram y rom / distintos tipos de memoria ram . simm , dimm , rimm y ddram /
+colocación en el motherboard / memoria cache / shadow / extendida /
+expandida / como expandir la memoria .
+multimedia
+cd rom / placa de sonido / dvd / grabadora de cd - rom / cámara
+digital / instalación en d . o . s . / windows 95 / 98 / me / xp .
+optimización del equipo / localización de fallas bajo el sistema
+operativo .
+disqueteras .
+zip drive ( interno y externo )
+instalación / conocimientos básicos de su funcionamiento /
+limpieza y reparación / distintos tipos de zip / capacidades / su
+instalación .
+monitores
+tipos de monitores / elementos que lo componen / fuente , cañón ,
+etc .
+horizontal , vertical , brillo y contraste . hercules , ega , vga , svga .
+curso
+sobre virus
+descripción de los más comunes / como actúan / forma de
+reproducción y propagación / detección y eliminación de los mismos /
+programas antivirus existentes en el mercado .
+y
+mucho más . . .
+drivers
+últimas
+actualizaciones ( vga , sound , ) modem ( actualización v . 90 ) , genius , motorola ,
+usrobotics , pctel , etc .
+trucos
+-
+cambiar el disco c sin tener que reinstalar todo el soft
+- cómo probar fuentes de alimentación atx
+- optimizar un zip drive . y mucho más ?
+software
+necesario
+los
+mejores programas , para reparación , testeo , comprobación y
+restauración de la pc . los mas utilizados por los técnicos .
+manuales
+-
+conexión a internet
+- curso sobre virus
+- glosario . y mucho más ?
+redes
+red
+de área local , conexiones , comunicación de datos , redes inalámbrica ,
+adsl .
+.
+todo
+este valioso material en un solo cd ! . . . y a solo $ 40 ! !
+pídalo
+aquí
+y
+recíbalo en su domicilio sin cargo !
+si este mensaje no
+resulta de su interés , puede removerse aquí . muchas gracias .

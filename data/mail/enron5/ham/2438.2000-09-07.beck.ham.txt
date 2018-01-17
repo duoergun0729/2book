@@ -1,0 +1,52 @@
+Subject: four new graphs
+we have created four additional graphs to be published daily along with the
+dpr :
+return on var ( rovar )
+curve shift p & l ( delta - gamma ) sharpe ratio
+risk - return ( large )
+risk - return ( small )
+all of these graphs deal with the concept of risk - adjusted return . the
+markets in which we operate have unlike risk characteristics . furthermore ,
+enron ' s appetite for risk also differs in each market . as a result , it is
+difficult to compare returns in absolute terms . therefore , the approach of
+these graphs is to divide return by a measure of risk , in effect restating
+return numbers into a standard base ( how many dollars we earn for every
+dollar we put at risk ) .
+for each business unit or commodity group , the rovar graph shows an average
+of daily total p it shows an average of
+daily curve shift p & l ( both delta and gamma ) divided by its standard
+deviation . this sharpe ratio is uncomplicated by non - trading p & l ( like new
+deals , reserves , and so forth ) . furthermore , whereas var is a forward
+looking statistic ( the most we are likely to lose in one day with a given
+probability ) , standard deviation is backward looking ( the actual volatility
+of our returns over the period ) . this graph also has two bars for every
+business unit or commodity group : a dark brown on the left showing the sharpe
+ratio on a 4 week rolling basis , and a light brown on the right showing the
+ratio on a 1 week basis .
+the curve shift p & l sharpe ratio and the rovar graphs complement each other
+well . they measure different things , but if our p & l is composed mostly of
+curve shift , and if our var closely predicts curve shift volatility , the two
+statistics should be very close .
+sometimes it is interesting to see the actual magnitude of the p & l relative
+to the risk . we therefore put together the risk - return graphs . on the
+vertical axis , they show 4 week rolling average p & l . on the horizontal , they
+show 4 week rolling average var . the various business units are plotted as
+points on the graphs . these graphs are closely related to the 4 - week rovars ,
+in that the vertical value of every point divided by its horizontal value is
+the business unit ' s rovar ( average p & l / average var ) . another way of
+looking at these graphs is that the slope of a line connecting the origin
+( 0 , 0 ) with the plotted point of a business unit is its rovar . books with
+small risks and returns ( < $ 2 million ) are plotted on the " small " graph , and
+the rest , on the " large " .
+these graphs are based on the dpr database that we built to standardize and
+capture the information that is reported in the dpr . most , but not all of
+the information in the dpr currently flows from the database . as a result ,
+we do not have rovars or sharpe ratios for every business unit . as we
+continue to set up exports into the database , we will fill in the missing
+numbers .
+we will e - mail you these graphs every day until we can publish them on the
+intra - net . please remember to launch the file in excel , instead of using the
+lotus notes viewer . the var limit usage graphs that we created last week are
+already on the web . we hope that you find all of these useful .
+regards ,
+eugenio perez

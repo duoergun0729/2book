@@ -1,0 +1,39 @@
+Subject: re : rotation information
+martin , i am working right here with jim irvine and discussed your rotation .
+you will report to me , with ' client ' reporting role to jim where you will do
+most of the work . you will remain in houston working on the 19 th floor for
+now until we find you a place on either 44 th or 45 th . jim irvine will be
+asking john griebling for network planning office space in houston . you will
+get an office in that area . jim will work from portland but will hold an
+office in houston . until the office space on ebs floors happens , you need to
+remain on the 19 th . we will allocate you to jim ' s & john griebling ' s group
+full time . you will have ebs computers , cell phone , etc . to be fully
+connected on the ebs side . you will work initially on the trffic engineering
+side to support day - to - day fire - fighting like analysis . i will supervise you
+with repect to guidance on what to do etc . . . jim will direct what will get
+done . both jim and i will support traffic engineering work but jim is
+ultimately responsible for deliverables .
+our technical operational research specialists ( samer , chonawee , and two
+others from stanford & mit ) will focus on next generation algorithms for ebs .
+such an algorithm is currently being specified . this will depend on how the
+trading market will develop . we know that existing off - shelf codes won ' t be
+sufficient . the development period for these algorithms will anywhere from 3
+months to 9 months depending on the complexity . this is in - line with when ebs
+anticipates trade volumes to really pickup . i hope this helps .
+regards ,
+ravi .
+martin . lin @ enron . com
+02 / 23 / 00 02 : 06 pm
+to : ravi thuraisingham / enron communications @ enron communications
+cc :
+subject : rotation information
+ravi ,
+the associate program has a procedure that requires information on new
+rotations . i just wanted to clarify some details of my rotation to ebs , esp
+given the retained ties to research . will jim irvine be my supervisor with
+ebs
+being the company billed for my time ? that is , will my connection to research
+be informal and understood , rather than having some actual reporting function ?
+this is with respect to the a / a pool .
+thanks ,
+martin

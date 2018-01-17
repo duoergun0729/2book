@@ -1,0 +1,5 @@
+Subject: fyi - mahonia structure
+mahonia transaction is one way margin only because mahonia has already prepaid their leg of the transaction so there is never a scenario where the floating leg would be less than the fixed leg ( which has been bought down to 0 ) so margining is not possible in that direction . as prices fall we effectively begin to repay the transaction . we can followup in more detail later on the structure but we will also work on mitigating the margin req due to falling prices as the pipe deal closes and resources can be redeployed .
+joe
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+sent from my blackberry wireless handheld ( www . blackberry . net )

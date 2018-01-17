@@ -1,0 +1,20 @@
+Subject: tw map program
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kevin hyatt / et & s / enron on 06 / 26 / 2000
+03 : 46 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mark kostinec
+06 / 26 / 2000 03 : 02 pm
+to : kevin hyatt / et & s / enron @ enron
+cc :
+subject : tw map program
+you can install the tw map program via these instructions :
+got to the " start " button - > programs - > standard applications - > winstall
+for other apps .
+after winstall loads , scroll down in the " available applications " windows
+until you see
+" tw map # 1 " .
+click once on the " tw map # 1 " then on " install " .
+click on " ok " then on the " exit " button to close winstall .
+you should see an icon on your desktop labeled " tw map " . another application
+should appear
+under " start " - > programs - > tw production apps - > tw map .
+mark kostinec - 402 - 398 - 7294

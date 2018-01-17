@@ -1,0 +1,49 @@
+Subject: trend analysis for select commodity groups
+fyi - we are finally getting to a point where we can spend some time looking
+at the numbers to determine what some of the trends are . we will be sending
+this to louise / dave to highlight some of those that may require commercial
+intervention .
+sheri
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheri thomas / hou / ect on 08 / 25 / 2000 01 : 34
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+torrey moorer
+08 / 24 / 2000 04 : 47 pm
+to : sheri thomas
+cc :
+subject : trend analysis for select commodity groups
+attached is a trend analysis on the four primary commodity groups which have
+either been demonstrating , or have been thought to be demonsrating , a decline
+in eol transactions as a percentage of total trading activity . the graphs for
+each group represent a line plot of eol ' s weekly percentage of total trading
+activity by deal count and volume over the last three months . the attachment
+also contains source data on the second and third pages , which gives the
+absolute numbers represented by the percentages shown on the graphs . these
+sheets contain several additional commodity groups which have demonstrated a
+decreasing or erratic eol trend , but were not graphed because they averaged
+less than 10 - 15 total transactions ( both eol and non - eol ) per week .
+a few notes on the four graphed commodity groups :
+austrian power - the overall eol trend as a percentage of transactions in
+austrian power has been upward over the last three months , despite the sharp ,
+temporary decrease which took place at the end of july as a result of the
+head austrian power trader and stack manager going on holiday . since his
+return , the percentage has picked back up and as of 8 / 22 about 30 % of
+austrian power trades were once again being done through eol . there is cause
+for concern here , however , in the fact that the absence of one trader
+effectively shut off eol trading in this commodity group .
+lpg - the lpg products have followed a somewhat erratic path since inception ,
+with eol transactions typically accounting for between 20 and 30 percent of
+total lpg trading activity . this overall trend remains intact and as of 8 / 22 ,
+eol accounted for 26 % of lpg trades .
+crude & products - this commodity group has been demonstrating a steady
+decline in eol trading activity over the last three months . while eol trades
+accounted for approximately 20 % of all crude and products activity in may ,
+this percentage has dropped off to just over 10 % as of august 22 nd . this
+trend is particularly disturbing because of its consistancy , as well as the
+relatively large data pool on which it is based .
+uk power - although the absolute number of trades in uk power dropped off
+significantly at the end of july , eol ' s percentage of uk power transactions
+has remained fairly stable . eol ' s percentage of uk power trades " spiked "
+briefly during the second week of june , but outside of this the percentage of
+uk power trading represented by eol transactions has fluctuated between 20
+and 40 percent . on trade date 8 - 22 , eol transactions accounted for just over
+50 % of all transactions done in uk power .

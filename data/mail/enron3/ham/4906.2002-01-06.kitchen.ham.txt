@@ -1,0 +1,106 @@
+Subject: re : service bureau prohibitions
+hi ursula ,
+i ' ll ask bob hillier to find out who our legato contact is . clearly , we need this backup software on day 1 . we will also look into the rational relationship . it is not as critical as it is used for development ( we have licenses for rose and for clearcase and clearquest ) .
+- - jay
+- - - - - original message - - - - -
+from : ursula . mills @ ubsw . com [ mailto : ursula . mills @ ubsw . com ]
+sent : sat 1 / 5 / 2002 5 : 31 pm
+to : webb , jay ; kitchen , louise
+cc :
+subject : fw : service bureau prohibitions
+hi louise / jay
+if you can help shed any light on your vendor relationship with legato
+and rational , and whether you believe there is scope for reviewing
+these licenses with a view to changing the relevant license agreements ,
+that would be extremely helpful . we understand that both these
+products would be critical components to running the netco systems .
+thx
+ursula
+- - - - - original message - - - - -
+from : roger . ross
+sent : 05 january 2002 18 : 07
+to : bwells
+cc : roger . ross ; stephen . kahn ; mills , ursula
+subject : re : service bureau prohibitions
+thanks bert . as promised , i am following up with e company on the
+various
+assigned agreements that prohibit providing service to a third party .
+feel
+free to have ursula pursue the question simultaneously . i am also
+looking
+into what services the parties intend fire to provide for transition as
+this is not a part of the transaction that i have been following
+closely to
+date .
+roger
+" wells , bert " on 01 / 05 / 2002 01 : 46 : 31 pm
+cc : " ' ursula . mills @ ubsw . com ' "
+subject : re : service bureau prohibitions
+> this message is from a law firm and may contain information that
+> is confidential or legally privileged . if you are not the
+> intended recipient , please immediately advise the sender by
+> reply e - mail that this message has been inadvertently
+> transmitted to you and delete this e - mail from your system .
+> thank you for your cooperation .
+>
+>
+> steve and roger ,
+>
+> we are reviewing a sampling of third party software licenses e
+> company entered and seem to have found two licenses not
+> previously noted by e company as containing an express
+> prohibition on use as part of a service bureau . as i discussed
+> with roger briefly yesterday , this we assume is as much an issue
+> for you as it would be for us because operation of the it on a
+> service bureau basis initially is a key mutual expectation .
+> both licenses are listed on your draft schedule 2 . 1 ( f ) ( i ) to the
+> contribution agreement so i ' m guessing they are material to the
+> business and the relevant software would have to be operated for
+> u company ' s benefit . u company hasn ' t spoken to any e company
+> it personnel to learn the significance of the affected software ,
+> but ursula mills is planning to raise the question with jay webb
+> or another appropriate person .
+>
+the two licenses are :
+1 . enterprise software license agreement between legato
+systems , inc . and [ e ] corp , dated as of sept . 27 , 2001 , respecting
+numerous software products generally branded with the names
+networker , gems , celestra , octopus and others . section 2 . 2
+provides : " restrictions on use . licensee shall not , and shall
+not aid , abet or permit any third party to : . . . ( iii ) . . . use
+for timesharing or service bureau purposes or otherwise use . . .
+the software . . . for the benefit of third parties . . . . "
+2 . products license agreement # 3185 modified for [ e ]
+corp , issued by ration software corp . , dated as of feb . 17 , 1998 ,
+respecting various software products branded clearcase , rational ,
+purify , and quantify and others . section 1 . 1 provides : " general
+grant of license . . . . you may not rent , lease or use the product
+in a service bureau capacity . . . . . "
+we continue to review the agreements for the service
+bureau issue as it is the most pressing from a time perspective .
+we have already found several ambiguous licenses and will bring
+those to your attention as a group later .
+if other express provisions such as the above turn up , i
+will let you know on a case by case basis as this issue is one our
+it personnel are taking seriously .
+bert
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> bert wells
+> covington & burling
+> 1330 avenue of the americas
+> new york , new york 10019
+> ( 212 ) 841 - 1074 ( voice )
+> ( 212 ) 841 - 1010 ( fax )
+> bwells @ cov . com
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+* * * * * * * * * * note * * * * * * * * * *
+the information contained in this email message is intended only
+for use of the individual or entity named above . if the reader
+of this message is not the intended recipient , or the employee or
+agent responsible to deliver it to the intended recipient , you
+are hereby notified that any dissemination , distribution or
+copying of this communication is strictly prohibited . if you
+have received this communication in error , please immediately
+notify us by telephone ( 650 - 802 - 3000 ) , and destroy the original
+message . thank you .

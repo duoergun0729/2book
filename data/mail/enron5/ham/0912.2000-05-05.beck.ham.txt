@@ -1,0 +1,21 @@
+Subject: bridge monitoring
+we encountered a problem with the sitara bridge this morning and it has
+uncovered the importance of risk ' s involvement in watching this - especially
+during the morning hours . the sitara bridge failed at 10 : 35 a . m . and we came
+very close to missing our nom deadlines on several next day deals . we
+( product control ) do have a safeguard in place ( our it department is beeped
+if a deal stays in intermediate status for over 5 minutes ) , but we did not
+receive timely notification of this issue - it was at least 15 minutes after
+the problem started . we have fixed that going forward - jennifer denny and
+torrey moorer will be beeped in addition to it .
+we will continue to make every effort to watch the bridge ; however , the risk
+groups ( or some designated individual ( s ) ) must be watching this as well to
+ensure that any deals that fail are entered into the downstream systems on a
+timely basis , and primarily to alert us of any problems asap . if anyone in
+your respective groups need additional training or assistance , please call
+jennifer denny at x 35824 or torrey moorer at x 36218 .
+i have attached a file with the 35 transactions that were in intermediate
+status ( just fyi )
+please call me if you have any questions .
+sheri
+x 36557

@@ -1,0 +1,19 @@
+Subject: continued customer service commitment
+the resolution center is taking the next step of ensuring we are providing
+the service you , our customer , are looking for . as of wednesday september
+20 th , with each call made to the resolution center , an email survey will be
+sent out upon closure of the ticket . please take the time to fill out the
+survey and let us know how we are doing . we will post these results
+quarterly on our web page and show exactly how well we are doing . we have
+attached a copy of the survey for your viewing .
+thank you again for your continued support .
+resolution center
+region : houston
+status : 4
+summary : this is a test
+your it support case number hdo 000000001606 has now been closed by demo ( demo
+user for startup ) .
+in order to improve the quality of support we provide , we would like to know
+if you were satisfied with the service you received on this call .
+please select a grade from the list below which best describes the service
+you received :

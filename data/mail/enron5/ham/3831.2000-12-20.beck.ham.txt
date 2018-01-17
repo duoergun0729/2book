@@ -1,0 +1,14 @@
+Subject: broker client procedure
+attached is a draft of the broker electronic transaction agreement which will
+be used to allow brokers to transact on behalf of their customers . please
+review the document and give me any comments . please pay particuliar
+attention to section 3 transactions .
+also please note that it will be imperative that broker confirmations are
+done each day on broker client transactions to limit the exposure associated
+with online transaction broker breakage costs . the confirmations group will
+be responsible for confirming each day and notifying credit immediately of
+any discrepancies between enron and the broker . notification by the
+confirmations group will be the only means by which credit will be informed
+to shut down broker activity in the case of a transaction that has not been
+confirmed and / or verified by the broker .
+thank you

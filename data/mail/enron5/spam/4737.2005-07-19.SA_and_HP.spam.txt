@@ -1,0 +1,43 @@
+Subject: failure notice
+this is the mail delivery agent at messagelabs . com .
+i was not able to deliver your message to the following addresses .
+:
+144 . 189 . 100 . 102 does not like recipient .
+remote host said : 550 5 . 0 . 0 . . . host down
+- - - below this line is a copy of the message .
+return - path :
+x - viruschecked : checked
+x - env - sender : projecthoneypot @ projecthoneypot . org
+x - msg - ref : server - 3 . tower - 115 . messagelabs . com ! 1121770867 ! 6986571 ! 1
+x - starscan - version : 5 . 5 . 4 . 1 ; banners = - , - , -
+x - originating - ip : [ 221 . 9 . 132 . 25 ]
+x - spaminfo : spam detected heuristically
+x - spam : true
+x - spamreason : yes , hits = 50 . 0 required = 7 . 0 tests = spam signature :
+spam . health . 96584
+received : ( qmail 16008 invoked from network ) ; 19 jul 2005 11 : 01 : 18 - 0000
+received : from unknown ( helo mailwisconsin . com ) ( 221 . 9 . 132 . 25 )
+by server - 3 . tower - 115 . messagelabs . com with smtp ; 19 jul 2005 11 : 01 : 18 - 0000
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 30516347 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : antonio _ silva @ br . css . mot . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivabie !
+this email has been scanned by the messagelabs email security system .
+for more information please visit http : / / www . messagelabs . com / email

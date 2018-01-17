@@ -1,0 +1,32 @@
+Subject: extreme value theory applied to weathet
+- - - - - - - - - - - - - - - - - - - - - - forwarded by christian werner / enron _ development on
+19 / 08 / 2000 10 : 06 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+christian werner on 19 / 08 / 2000 02 : 08 : 56
+to : vince . kaminski @ enron . com
+cc :
+subject : extreme value theory applied to weather
+- - - - - - - - - - - - - - - - - - - - - - forwarded by christian werner / enron _ development on
+19 / 08 / 2000 01 : 15 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+christian werner on 19 / 08 / 2000 01 : 55 : 56
+to : vkamins @ enron . com
+cc :
+subject : extreme value theory applied to weather
+dear vince ,
+back in july , when you visited our sydney office you mentioned extreme value
+theory . i am wondering whether research is looking into the application
+of extreme value theory to power and esp . to weather . in a recent news
+article it was highlighted that a trend in the industry towards t _ max , t _ min ,
+etc .
+i am in particular referring to the news article below :
+in the past we have observed a similar trend where customers are asking for
+t _ max , t _ min , or below or above precipitation structures . the choice in the
+past has been the burn analysis on historical data . however , we are in
+particular interested in the extreme events , and the application of evt could
+provide a meaningful tool for the analysis .
+has the research group looked into the application of evt to weather ? evt has
+a long history of application in hydrology ( which would cover parts
+of the precipitation structures . . . ) . also , research ( esp . at eth in zuerich )
+is indicating the application of evt to v @ r . . . .
+thank you !
+regards ,
+christian

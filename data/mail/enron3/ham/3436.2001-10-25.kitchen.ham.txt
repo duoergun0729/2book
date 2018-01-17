@@ -1,0 +1,3 @@
+Subject: positions spreadsheet - update
+i ' ve expanded the counterparty list to all those that typically do more than 50 trades per day . additionally , liquid power products have been added in . one final note : on the previous spreadsheet , the position under a particular column indicated the starting position for that day rather than the ending position for that day . in this version , each number represents the end - of - day position for the given date . effectively , all the numbers slide over 1 column .
+- - jay

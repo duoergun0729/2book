@@ -1,0 +1,69 @@
+Subject: uk submission of positions
+just to follow up on james ' s note of yesterday - my apologies for being out
+the elimination of the requirement to ' grab ' the fx and ir market environment
+from houston ( and consequently use european data ) can improve our ability
+to kick the overnight batch processing off earlier in the evening . james and
+i will be working with brian hudson to determine the timetable for effecting
+this change
+the revised batch start time would improve the opportunity to detect any
+system failure and complete a rerun of the valuation process so as to deliver
+completed results by the time the risk management team arrive at their desks
+in the morning . system failures are the most significant problem we face in
+delivering timely information to houston . consequently the probability of
+meeting current reporting deadlines would be greatly improved given that we
+will have full it overnight support covering for any it failure and curve
+input validation processes on trade date .
+indeed given the successful completion of all overnight runs we are able to
+deliver
+officialisation of all valuation systems and most spreadsheets ( david hardy
+is in final testing of the eastern spreadsheet feed ) by the 10 am deadline (
+houston 4 am )
+flash p & l by the lpm deadline ( houston 7 am )
+completion of the final dpr to be submitted to houston by the 5 pm deadline (
+houston 11 am )
+james and i are currently finalising a document reviewing all possible
+changes to business processes that could improve these times . this is in
+addition to working with commercial and it to assess the possibility of
+delivering significantly faster revaluation systems that could assist in
+delivering a trade date control process .
+i can confirm that there is significant work to do in this area , however , we
+are dedicated to meeting the objectives of improved / more real time control .
+please feel free to call if the above requires any additional commentary .
+regards
+mike
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike jordan / lon / ect on 19 / 12 / 2000 15 : 06
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+james new
+18 / 12 / 2000 09 : 10
+to : rick buy / hou / ect @ ect
+cc : john sherriff / lon / ect @ ect , michael r brown / lon / ect @ ect , fernley
+dyson / lon / ect @ ect , mike jordan / lon / ect @ ect , ted murphy / hou / ect @ ect , gary
+hickerson / hou / ect @ ect
+subject : uk submission of positions
+rick ,
+thanks you for your note below . we are today implementing a flash p & l
+process . we aim to report daily numbers at 7 am houston time and will start
+today with the p & l . we will build on this and hope to have draft positions
+and var for most books within a week or so . there will be a reconciliation of
+flash to final numbers which will be included in our return to houston .
+i will put together a note on the london dpr production process which goes
+into the process we currently have , the process we actually need to have , and
+the obstacles that are in the way . i would expect this to be finalised
+tomorrow . obtaining the usd interest rate curve on a more timely basis is
+just one of our problems but it is unfortunately by no means our only or most
+serious problem .
+james
+from : rick buy
+15 / 12 / 2000 21 : 59
+to : john sherriff / lon / ect @ ect , michael r brown / lon / ect @ ect , mike
+jordan / lon / ect @ ect
+cc : gary hickerson / hou / ect @ ect , ted murphy / hou / ect @ ect
+subject : uk submission of positions
+need your help on the following : each day we are delayed in finalising var ,
+p & l and positions because the uk must wait for a usd interest rate curves
+before submitting their data to houston . i am also told that it is really not
+necessary to wait for this curve and the data could be submitted close of
+business london . even if there was some minor inaccuracy from this method it
+would be better than what we have now . this would greatly improve the
+efficiency ( by 4 to 6 hours ) in reporting to senior management . can you guys
+initiate this change or get me to the right person there . thanks , rick

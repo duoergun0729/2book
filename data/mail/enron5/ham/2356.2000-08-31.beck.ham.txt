@@ -1,0 +1,54 @@
+Subject: re : v @ r training sign - up list & misc info
+the following comes to mind :
+describe the inputs to var and the sources of the inputs
+discuss enron ' s timing of running the var calculation
+explain the diversification effect
+explain that only officialized books are included in the var calculation
+explain how enron uses the var for risk measurement , portfolio performance
+analysis , individual trader analysis
+address risk policy limits related to var
+a comparison of enron ' s risk appetite , measured in var , vs . other financial
+companies would be interesting
+how does enron ' e use of var as a risk measurement tool compare with our
+competitors ?
+explain why the var engine would have different positions than our benchmark
+reports .
+discuss component var
+discuss useful analyses enron can implement utilizing var ( sharpe ratio , var
+efficiency , etc . )
+hope this helps ,
+mike
+enron north america corp .
+from : patti thompson 08 / 31 / 2000 04 : 11 pm
+to : michael e moscoso / hou / ect @ ect
+cc :
+subject : v @ r training sign - up list & misc info
+last chance for imput for v @ r classes . . .
+i ' m bothering you about this because it seems to me that you are the one who
+is so intimately involved w / v @ r and would understand possibilities here . .
+thanks ,
+pt
+- - - - - - - - - - - - - - - - - - - - - - forwarded by patti thompson / hou / ect on 08 / 31 / 2000
+04 : 09 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : patti thompson 08 / 31 / 2000 04 : 05 pm
+to : gracie s presas / hou / ect @ ect
+cc : tim o ' rourke / corp / enron @ enron
+subject : v @ r training sign - up list & misc info
+gracie ,
+i have attached sign - up list . please order materials & make whatever
+arrangements are necessary for both classes . we have 24 signed up for
+9 / 14 - 15 session & 22 signed up for 9 / 21 - 22 session . i asked for comments on
+how to tailor class to our particular area & only got 1 response :
+give an overview of the information flow between systems to generate v @ r
+( erms , enpower , grms , cas , spreadsheets ) . i don ' t think that everyone has a
+good idea of how / where all the information comes from to run v @ r on a nightly
+basis . where does information come from . what information is passed to v @ r .
+how to determine underlying positions are correct . how to troubleshoot when
+v @ r looks wrong .
+sally ' s cost codes are :
+company # : 0413
+cost center # : 105588
+please let me know what else you need from me .
+thanks for your help ,
+patti x 39106

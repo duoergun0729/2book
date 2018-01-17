@@ -1,0 +1,45 @@
+Subject: re : updates to processes
+dear rick ,
+thanks for the update . i appreciate your input as i do not know what your
+discussions with rick buy have been . to address your points below :
+1 ) i agree that your team should be involved in the planning of each
+individual review although i am under the impression that ted & sally ( by
+proxy cassandra and i ) would set the scope & timing of the reviews while your
+group would be looped in to the planning for each individual process . if my
+understanding is incorrect , please let me know .
+2 ) i agree that it would be useful for everyone to attend all meetings .
+however , due to the limited time we have from arriving at the doorstep to
+delivery of the report to ted and sally , your group really has to be focused
+on completing the deal test . we don ' t need three different people
+obtaining the same information at the same meetings . if there has been a
+change in your group ' s role from what i originally understood ( we need lower
+level people from your team who would be able to execute a deal test ) , we
+may have to add additional resources to do the actual deal test to ensure it
+is done on time ( by the time we leave the site ) .
+3 ) agreed - i ' d like to hear what donna and mike neeves have resolved as far
+as the database is concerned before we meet again .
+best regards
+shona
+to : shona wilson / na / enron @ enron
+cc : ted murphy / hou / ect @ ect , sally beck / hou / ect @ ect , cassandra
+schultz / na / enron @ enron , lynn
+bellinghausen / enron _ development @ enron _ development , donna lowry / hou / ect @ ect
+subject : re : updates to processes
+shona : thank you for your memo . i think it is a good idea to define roles
+and responsibilities and i appreciate the fact that you have taken the
+initiative to do so . however , i do have the following comments :
+1 ) i have some accountability to rick buy for the success of this effort ,
+therefore i ( or my designee ) need to be involved in doorstep pre - planning
+and post - mortem . i will be involved in reviewing the final report before
+presentation and will attend the meeting when the report is presented to buy
+and causey .
+2 ) i realize that in the interest of getting a review done timely it is
+sometimes necessary to " divide and conquer " . however , where logistically
+possible , i believe that it makes sense for my people to be involved in
+meetings held with commercial personnel . this facilitates understanding
+operations , document flow , points of contact , report writing as well as
+furthering our goal of educating " multi - functional " people so that we can
+continue to reduce the resources necessary to perform these reviews .
+3 ) there are still some detailed issues that need to be clarified regarding
+the database . let ' s schedule another meeting with cassandra and donna .
+please let me know if you have any questions , regards , rick

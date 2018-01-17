@@ -1,0 +1,103 @@
+Subject: the lure of the san
+network world fusion focus : amy larsen decarlo
+on storage in the enterprise
+today ' s focus : the lure of the san
+03 / 14 / 00
+dear wincenty kaminski ,
+today ' s focus : the lure of the san
+by amy larsen decarlo
+e - business is changing how businesses value information . information
+has become a strategic asset that gives companies an edge over their
+market rivals . companies use intelligence to identify new markets and
+make contact with prospective customers . in this media - saturated era ,
+information itself is packaged and sold as a product . this makes the
+ability to supply users with fast access to stored information on a
+continuous basis absolutely crucial .
+companies are clearly coming to a crossroads in their storage
+implementations . with estimates for internet storage capacity needs
+doubling every three months , it professionals are hungry for a scalable
+solution to help them consolidate control of stored information . they
+often look to storage - area networks ( san ) as a better option to manage
+their information storage systems than distributed models .
+today , most organizations rely on a distributed storage model that uses
+file servers to process i / o requests from end users and other
+application servers . in this model , all requests for data go through
+the file server that owns the attached storage disks , and only one file
+server can tap data on a particular disk via a scsi bus .
+this model has several shortcomings . first , the amount of data a
+server can access is restricted to the number of disks supported by the
+bus , which limits the capacity of a single file server . second , because
+the server processes each i / o request , it risks becoming a bottleneck .
+third , this server model carries some daunting availability limitations ,
+because only one file server is allowed to access a set of disks . if
+that file server or any of its scsi connections fails , then users and
+other application servers lose access to the stored files .
+this model carries other major disadvantages . distributed file servers
+rely on the data transport network to run backup and recovery operations
+which can eat up bandwidth and slow normal network transmissions to a
+crawl . finally , this decentralized setup is difficult to manage from
+both a logical and a physical perspective . file server based storage
+systems are distributed throughout the enterprise , so it is often
+difficult to assess current and future capacity needs . and because
+these servers use a parallel cabling scheme to link the file server to
+the disk array , they can also be cumbersome to set up and manage .
+sans promise to mitigate the problems that plague conventional file
+servers , largely through consolidation of control . these specialized
+storage networks claim higher availability , faster performance ,
+centralized management , and by their architecture , the capability to
+remove bandwidth - intensive data backup and recovery operations from the
+lan . this frees up the lan for normal data communications and ensures
+smoother back - up operations .
+using high - speed transports like fibre channel , sans offer a high -
+performance network optimized for moving storage data . sans also make
+way for new storage implementations like lan - free backup . and , because
+fibre channel can support distances of up to 10 kilometers , san devices
+can be widely distributed , but also centrally managed as one network .
+yet , as was the case with lans in their younger years , sans are still
+developing . vendors are still working out major product interoperability
+issues , while companies deploying san technology struggle with how to
+merge the very different worlds of storage and networks and manage both
+together . ultimately the hope is that , like lans , sans will develop into
+a mature and highly manageable solution that supplies substantial
+benefits at lower costs .
+given that storage deployment and ongoing support costs can total 10
+times the acquisition price for the equipment , the consolidated
+management capabilities of a san may deliver the biggest benefit to
+business .
+to contact amy larsen decarlo :
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+amy larsen decarlo is an analyst with enterprise management associates
+in boulder , colo . , ( http : / / www . . com ) , a leading
+analyst and market research firm focusing exclusively on all aspects of
+enterprise management . she focuses on storage management , application
+management , and security . in her position , she oversees market research
+and contributes to custom project work in her focal coverage areas .
+prior to joining ema , amy spent five years covering enterprise
+management for industry trade magazines , including informationweek and
+data communications . she can be reached at
+mailto : decarlo @ . com
+for related links - - click here for network world ' s home page :
+http : / / www . nwfusion . com
+storage networking industry association ( snia ) :
+http : / / www . snia . org
+fibre channel industry association ( fcia ) :
+http : / / www . fibrechannel . com
+scsi trade association ( sta )
+http : / / www . scsita . org
+other storage - related articles from network world :
+legato primes storage resource mgmt , network world , 03 / 13 / 00
+subscription services
+to subscribe or unsubscribe to any network world e - mail newsletters ,
+go to :
+to change your email address , go to :
+subscription questions ? contact customer service by replying to this
+message .
+other questions / comments
+have editorial comments ? write jeff caruso , newsletter editor , at :
+mailto : jcaruso @ nww . com
+for advertising information , write jamie kalbach , account executive ,
+at : mailto : jkalbach @ nww . com
+network world fusion is part of idg . net , the idg online network .
+it all starts here :
+http : / / www . idg . com
+copyright network world , inc . , 2000

@@ -1,0 +1,17 @@
+Subject: your riskmetrics site password
+dear kaminski ,
+thank you for registering .
+your requested username is polonia and your password is riskdata .
+you may use this login to :
+- access picture of risk at http : / / www . riskmetrics . com / por / index . cgi
+- use the longrun forecast engine at
+- use the data directory at http : / / www . riskmetrics . com / data / view / index . cgi
+- access the creditmetrics datasets at
+- access the riskmetrics datasets at
+- read our technical documents at
+- read our monitors at http : / / www . riskmetrics . com / research / monitors / index . cgi
+- read the corporatemetrics publications at
+- read risk management : a practical guide at
+please let us know if you have any questions or concerns ,
+rmg web services
+web @ riskmetrics . com

@@ -1,0 +1,26 @@
+Subject: re : approval is overdue : access request for stewart . range @ enron . com
+i will ask him which specific directories he needs to access .
+- - stinson
+vince j kaminski
+11 / 22 / 2000 08 : 08 am
+to : stinson gibner / hou / ect @ ect
+cc :
+subject : approval is overdue : access request for stewart . range @ enron . com
+stinson ,
+should we do it ?
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 11 / 22 / 2000
+08 : 08 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+arsystem @ mailman . enron . com on 11 / 21 / 2000 07 : 04 : 54 pm
+to : vince . j . kaminski @ enron . com
+cc :
+subject : approval is overdue : access request for stewart . range @ enron . com
+this request has been pending approval for 2 days and you are the
+alternate . please click
+approval to review and act upon this request .
+request id : 000000000007876
+approver : stinson . gibner @ enron . com
+request create date : 11 / 20 / 00 2 : 36 : 29 pm
+requested for : stewart . range @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

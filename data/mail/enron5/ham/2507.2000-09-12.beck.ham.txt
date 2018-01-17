@@ -1,0 +1,7 @@
+Subject: rovar , sharpe ratio , and risk - return graphs are now on the
+executive reports viewer
+the rovar , sharpe ratio , and risk - return graphs we began publishing last
+week are now on the web - based executive reports viewer , along with the var
+limit usage graphs .
+regards ,
+eugenio

@@ -1,0 +1,9 @@
+Subject: request submitted : access request for matthew . hommel @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000010219
+request create date : 12 / 13 / 00 1 : 05 : 00 pm
+requested for : matthew . hommel @ enron . com
+resource name : eol us backoffice product data manager
+resource type : applications

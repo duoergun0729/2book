@@ -1,0 +1,122 @@
+Subject: [ avfs ] romanian software production & export
+to : avfs @ fazekas . hu
+attn : marketing department
+from : i . q . software - bucharest
+ref . : romanian software production & export
+our anti - spamming company policy :
+never bother you again
+to remove your e - mail address from the present
+contact list just do not reply to this message .
+if you receive this message by mistake and / or you are not interested
+in the following brief presentation , please accept our apologies .
+this is a world - wide promotion campaign . the selected e - mail addresses
+are extracted only from the commercial websites of the targeted markets .
+we would like to offer you for consideration our brief presentation .
+we are looking for a marketplace in your country .
+to communicate with us please reply using
+the plain text format in the body of the message
+> > > mentioning your specific inquiry / offering demand > > company name , address , phone
+- man - power ;
+- data - entry ;
+- mapdrawing ;
+- outsourcing .
+* so that you would be able to have an idea of our skills
+we present you some of our current projects :
+the situs system ( informative of tribunals bureaus of supervision )
+was realized for informative administration of activities typical
+for tribunals and bureaus of supervision for ministry of justice - italy
+( microsoft visual basic 6 . 0 , database : oracle 8 . 0 ) .
+the ice system foresaw the resigtering of the italian - romanian companies
+on romanian territory . the application is constituted by a browser which
+allows the navigation and provides some additional skills , advanced search
+on varied criterious which are created in a dynamic way by the user
+( visualbasic 6 . 0 , database : access 97 ) .
+museum - the main request from the museum was to handle ( multimedia )
+documents in specific formats on different operating system and platforms
+( c + + , html , corba idl , orb : orbacus ) .
+library ( national library of firenze ) - informatical system for managing
+and labeling the ancient bibliographical materials
+( power builder , database : oracle ) .
+interflora - communication and management system ; consists in some
+applications and services which allows the communication between
+the flowerist man from italy and international association of flowerists
+( visual basic 6 . 0 ) .
+audit office - the realization of a porting which foresaw 16 bit controls
+for substitution with 32 bit controls , introduction of new activex controls ,
+substitution of formula 1 with native controls of visual basic 6 . 0 .
+unico - the program foresaw the possibility of acquisition from images
+of more than 60 models of unico and iva
+( fiscal declarations ) - ( delphi 4 . 0 . database : sql ) .
+ministry of finance - fiscal documentation - the objective is
+the easy access to the italian legislation and its consulting .
+the application based on a client / server architecture , using a network
+communication ( sockets ) for data exchange with the server ( visual c + + ) .
+foreign ministry - economical application -
+this application is conceived as a group of projects .
+administration
+balance - sheets
+dispositions of payment
+foreign expenses
+synthetically dates
+servers
+( visual basic 6 . 0 , database : sql server 7 . 0 )
+sogei - the administration of the custom houses .
+this application is created for the financial administration of the
+peripherical offices at the customhouse ( java , html , database : oracle 8 . 0 ) .
+iccrea - application of processing development of the
+bank - procedures on mainframe ( cobol / cics / db 2 ) .
+telecom - microfilm data acquisition .
+registering numbers and subscribers .
+anagrafica - acquisition from images of dates and personal information .
+italian ministry of finance - data acquisition
+from images of medical prescription .
+iq register - acquisition of information from images
+and optics archives of documentation .
+* we had been offering for the entire veneto region ,
+the following professional system engineers :
+ambiente bull gcos 8 : systematical and special assistance
+in interel rfm , sql , infoedge .
+ambiente bull / reti : systematical and special assistance
+of regional networks for datanet , l . a . n . , x . 25 ,
+dsa , mainway transmission , telematical networks .
+ambiente unix : 2 unix system operators with knowledge of gcos 6 .
+* we have been offering for the meteorology institute of padova
+the following professional system engineers :
+ambiente digital / unix : systematical and special assistance
+for dec vax / vms and unix systems with strong enough knowledge
+of informix and c programming .
+ambiente / decnet / windows : systematical and special assistance
+for dec vax / vms and windows with knowledge in financial administration
+of local networks , in financial administration and configuration of
+communication systems ( router , bridge , gateway , etc ) and of products
+of exchange data , in financial administration and configuration of
+interface systems of internet .
+therefore , to increase our presence to the international
+market we took part in the inter - governmental program
+between the united states and romania .
+thus , we participated to the international meeting of both
+romanian and american it companies on lst november 2001 due
+to the kind initiative of both governments .
+the reason of this program , of the meeting mentioned above and of the
+initiatives that followed was to offer a new way for outsourcing ,
+more convenient than the indian one to american software companies .
+our company , already present on american market , is interested to be
+a potential partner and one of most interested in cooperating with
+american it companies .
+our main interest is both on the american and european market .
+our managing staff after visiting italy managed to establish relations
+with this country for our curent projects .
+on the other side a marketing tour has already been established
+in the usa in the month of may for any possible projects .
+that is why we might be able to directly discuss with you any new project .
+we ' d appreciate your feed - back containing detailed contact coordinates :
+company name , address , phone and fax numbers , contact person , web - site .
+our area of interest : software production export
+we wish to express our availability to work under the client ' s brand .
+please don ' t hesitate to send us your specific inquiry / offering demand .
+we ' ll be happy to provide you the lowest prices in the field .
+thanking you for your time and looking forward to your reply ,
+we wish you all the best .
+i . q . software staff
+avfs mailing list
+avfs @ csibe . fazekas . hu

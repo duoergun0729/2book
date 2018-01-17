@@ -1,0 +1,54 @@
+Subject: enron metals fx status
+sally / brent
+fyi - no action required
+this note and an earlier email ( forwarded separately ) highlights issues
+around some transactions originated within metals that arose due to
+' misunderstanding ' of limits - which was work in progress for andrew
+cornfield ( risk ) , lloyd fleming ( rac ) and shane dallman ( fx desk -
+reporting to gary hickerson ) working with the metal commercial mds on the
+subject of an exemption from corp policy for ir and fx hedging .
+it is pleasing that people in the control environment picked up the issues on
+a timely basis but disappointing that a firm conclusion between the
+commerical groups on ' delegated ' limits took longer than anticipated .
+if you need any detail please call
+mike
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike jordan / lon / ect on 23 / 11 / 2000 12 : 28
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : lloyd fleming 23 / 11 / 2000 11 : 58
+to : rick buy / hou / ect @ ect , michael r brown / lon / ect @ ect , michael j
+hutchinson / eu / enron @ enron
+cc : ted murphy , david port , gary hickerson / hou / ect @ ect , mike
+jordan / lon / ect @ ect , andrew cornfield / lon / ect @ ect , tim r jones / eu / enron @ enron ,
+shane dallmann / lon / ect @ ect , robert soeldner / lon / ect @ ect
+subject : enron metals fx status
+the following issues have been resolved today following discussions with
+metals commercial , risk management and rac :
+5 m euro prop trade : it has been agreed that this will be closed out
+immediately . metals traders will be advised that fx exposure may only be
+generated as part of a hedge position to an underlying metal trade , and that
+any fx exposure must be laid off via roger murray - evans ( metals fx trader )
+and the global markets desk .
+averaging trades ( fx and bullion ) : change method of booking trades so that
+the averaging leg of all trades is booked as it arises ( i . e . daily ) and the
+resulting fx exposure is captured daily and laid off with global markets as
+part of the metals aggregation .
+a number of other matters , which have been under discussion for some time ,
+were also agreed : -
+euro / ali option : currently operates under a $ 30 m fx limit and is managed
+by tim jones . it has been agreed that this limit will be reduced to $ 20 m
+( emrac to approve ) and be a part of gary hickerson ' s limit . as the options
+expire , the limit will be progressively reduced . the limit applies only to
+this transaction and does not cover any other fx dealing by enron metals .
+any subsequent transactions of this nature will be covered under separately
+proposed limits .
+overnight exposure : enron metals to apply for a small overnight limit to
+cover trades booked after the end of day cut - off . $ 2 m total net open
+position has been proposed , to be agreed with gary hickerson and form part of
+his limits .
+fx position management : fx exposure generated through the day to be
+aggregated and passed to the global markets desk .
+regards
+lloyd fleming
+rac market risk management
+ph : + 44 20 7783 4532
+mobile : + 44 7760 17 87 42

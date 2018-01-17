@@ -1,0 +1,27 @@
+Subject: 2000 accomplishments
+sap related - -
+financial settlements developed and ready for implementation with sap
+interface on extremely tight timeline
+unify settlements sap interface for gas and power
+four rounds of fit testing
+assistance to canada on sap testing and implementation
+energy operations sap related processes reviewed and transition plan developed
+energy operations sap process web site developed and put on intranet
+transfer of unify and sap knowledge to team of energy operations settlements
+personnel ready to support implementation
+interface to sap team to encourage more interaction with energy operations
+interface with arthur anderson on sap audit to clarify issues and agree on
+solutions
+other - -
+restructured training resources to eliminate dependence on individual
+contractors and our exposure to their unexpected departure by establishing a
+relationship with teamleadership to keep our energy operations specific
+training going .
+kicked off development of business training to complement systems training
+already in place for unify and sitara .
+launched energy operations manager coaching program with team leadership
+ebs related - -
+launched project momentum , a project to identify global data at ebs and
+convert ebs to global data systems .
+started requirements gathering for bandwidth trading billing and settlement
+joined the blockbuster project focusing on customer care and billing

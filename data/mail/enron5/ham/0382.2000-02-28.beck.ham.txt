@@ -1,0 +1,63 @@
+Subject: unify
+sally , fyi - we ' ve had many complaints and i ' ve had many discussions today
+with dave n . and inja . they did discover some system board that is going to
+be replaced tonight . hopefully replacing the board will do it but history
+makes me skeptical that this is the sole cause for the slow performance .
+needless to say we had to get settlements and volume management to stop their
+work and we still didn ' t see any improvement . i know everyone is just as
+frustrated as logistics . at our last several meetings to discuss this problem
+i was insistent that unless they have an answer it seems to me , and the rest
+of the staff , that the system just cannot support the real heavy demand that
+first of month noms and the monthly close require .
+i ' ve included an email i received from kathy kelly if you want some gory
+detail . to save you the trouble it normally takes 2 - 3 minutes to create
+nominations on the largest pipes today some have taken as long as 55
+minutes .
+i ' ll keep you posted - bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by robert superty / hou / ect on 02 / 28 / 2000
+04 : 52 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+robert superty
+02 / 28 / 2000 04 : 47 pm
+to : inja chun / hou / ect @ ect , dave nommensen / hou / ect @ ect
+cc :
+subject : unify
+fyi - inja , dave - please read kathy ' s memo below .
+don ' t know what to tell them . we ' ve been down this road at the same time of
+the month over and over again .
+any suggestions - bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by robert superty / hou / ect on 02 / 28 / 2000
+04 : 30 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : katherine l kelly 02 / 28 / 2000 04 : 26 pm
+to : robert superty / hou / ect @ ect
+cc : edward terry / hou / ect @ ect
+subject : unify
+bob ,
+you have probably already caught wind of this since it seems to be the only
+thing anyone is talking about today , but i wanted to bring it to your
+attention that unify is at an all time pathetic slowness today . basically ,
+this is all i ' ve heard about today from the schedulers . clarissa has just
+handed me a screen print that shows that it took 33 . 23 minutes to create a
+nom on tennessee . robert has informed me that it has taken him 55 minutes to
+create a nom on columbia gas . it took me over 30 minutes to log on today and
+as soon as i ran a report , it kicked me out saying that i didn ' t have enough
+memory .
+this has always been a problem at the end of the month , but this month has
+reached in all time low . i ' ve talked to dave about three or four times today
+and so has ed . ed has been monitoring the system and he seems to think that
+client services has been taking a large part of the cpu time . we have both
+questioned dave on this , but he doesn ' t seem to see anything unusual with the
+amount of users from accounting , although he does agree that a huge amount of
+cpu time is being used .
+i hate to end this on a negative note , but at this rate , no one will be
+clean by 1 : 45 tomorrow . i don ' t know what the status is as far as people
+looking into ways to make unify faster , but maybe it is time to draw some
+attention to this again .
+by the way , the bridge from sitara to unify has also been crawling today .
+i ' ve already informed dave of this , but the bridge was totally out of
+commission this past weekend as well . this effected those people who tried
+to get a jump start on cleaning for the month and working on the first of the
+month noms . i hate to say it , but once again , how can we expect people to
+get their work done , if we don ' t give them systems that work . on a good
+note , i did get feedback from clarissa that terminal server was working well
+over the weekend . unfortunately , she said that unify was terribly slow , but
+no slower than it is when she ' s here in the office .

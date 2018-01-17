@@ -1,0 +1,13 @@
+Subject: epe lending - 7 / 31
+following are the details of tuesday ' s lending agreement with el paso - 50 mw on peak at palo verde :
+709300 - stwbom buys epe
+hlh / pv
+25 mw @ $ 55
+709310 - stwbom sells stsw
+hlh / pv
+25 mw @ $ 55
+709314 - stsw buys epe
+25 mw @ $ 55
+these deals have been entered day - ahead , as well as a stsw sale of 50 mw somewhere in the market . then , in the hour - ahead market , we ' ll need to procure this energy elsewhere and enter deals under the appropriate desk . we ' ll reduce the el paso purchases ( 709300 / 709314 ) to $ 4 and sell back to el paso at $ 0 , creating a $ 4 delta which constitutes the lending fee . please let bill , holden , or me know if you have any questions .
+thanks ,
+kate

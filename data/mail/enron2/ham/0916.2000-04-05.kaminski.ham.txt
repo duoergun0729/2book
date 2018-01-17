@@ -1,0 +1,59 @@
+Subject: re : for vince j kaminski ' s approval
+approved
+vince kaminski
+information risk management
+04 / 05 / 2000 03 : 50 pm
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : for vince j kaminski ' s approval
+below you will find a copy of a request that is awaiting your approval .
+please advise us as to your approval or rejection of this request by way of
+email , since your system does not allow you to open the icon that was
+submitted by way of a doc link .
+i thank you in advance for your cooperation in this matter .
+leola barnett
+information risk management
+- - - - - - - - - - - - - - - - - - - - - - forwarded by information risk management / hou / ect on
+04 / 05 / 2000 03 : 50 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+security resource request system pending vp approval
+resource request how to find the status of this request . . .
+general information initials :
+requestor : jason sokolov / hou / ect phone : ( 713 ) 853 - 6286
+requested for : jason sokolov / hou / ect
+request type : update access
+rc # : 100038 wo # :
+company # : 0011 priority : high
+manager : mike a roberts vp : vince j kaminski
+location :
+in the request processing section , see the status column for each requested
+resource .
+look at the overall status of the request in the title bar above . the status
+will display closed when your request is complete .
+click the " status " button below .
+comments :
+request # : jsov - 4 f 8 r 44
+submitted : 01 / 04 / 2000 01 : 58 : 37 pm
+name cost status implementation comments
+application / database
+bloomberg $ 1 , 800 . 00 monthly not started
+request processing path
+processed by status when comments
+manager approved 01 / 20 12 : 57 pm
+vp
+security
+implementation
+editing history ( only the last five ( 5 ) are shown )
+edit # past authors edit dates
+2
+3
+4
+5
+6 jason sokolov
+jason sokolov
+jason sokolov
+jason sokolov
+mike a roberts 01 / 04 / 2000 01 : 56 : 27 pm
+01 / 04 / 2000 01 : 57 : 47 pm
+01 / 04 / 2000 01 : 58 : 30 pm
+01 / 04 / 2000 01 : 58 : 37 pm
+01 / 20 / 2000 12 : 57 : 16 pm

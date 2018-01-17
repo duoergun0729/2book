@@ -1,0 +1,13 @@
+Subject: fw : data
+hi louise .
+this is you ' re understanding also , right ?
+- - jay
+- - - - - original message - - - - -
+from : andrews , naveen
+sent : friday , january 18 , 2002 3 : 23 pm
+to : ' nick . vasserman @ ubsw . com '
+cc : webb , jay
+subject : data
+nick ,
+per our conversation this morning regarding the data , jay webb who is in charge of it has confirmed that we indeed will be able to take the time - series information of prices , vols , etc . the only info . not transferrable is counterparty transactional data . please let mike know that .
+naveen

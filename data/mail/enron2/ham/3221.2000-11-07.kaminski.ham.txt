@@ -1,0 +1,17 @@
+Subject: contstraints on the shape of a smile
+stinson , vince , zimin ,
+here ' s a brief document on constraints on the shape of a smile for a fixed
+expiry date .
+the constraints are neccessary and sufficient for no arbitrage in this case .
+i ' ve used a template created by dr . leppard which is why it looks so scary .
+if you need constraints in the time direction then i will have to think a
+little bit more about it .
+i think constraints in this direction are very model depenendent e . g .
+stochastic volatility and local volatility models
+will throw up different constraints .
+steve ,
+i am not sure if our traders ( or quants for that matter ) are aware of these
+constraints
+and some desks are beginning to build smiles . . .
+regards
+sharad

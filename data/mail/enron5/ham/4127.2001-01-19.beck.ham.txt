@@ -1,0 +1,86 @@
+Subject: re : trading track information
+tom wilbeck @ enron
+01 / 19 / 2001 03 : 23 pm
+to : jeffrey c gossett / hou / ect @ ect
+cc :
+subject : trading track information
+as you know , we are working on an on - boarding process to get the trading
+track participants up to speed as quickly as possible in each of their
+respective rotations . one of the methods of doing this is to have each
+rotational supervisor ( you ' re one of them ) put a few points together to
+present to each participant on the first day of their rotation with you ( or
+someone in your group ) .
+for example :
+what does you group do as a whole ? the risk management group is responsible
+for providing information to the trading floor . that information consists of
+positions , p & l , and other general information which may be needed by the
+floor throughout the day . the information must be 100 % accurate 100 % of the
+time as the gas floor is taking positions based on the information they are
+given . in addition , all reports go to sr . management such as john lavorato
+and dave delaney .
+the participants need to know several logistics type things such as :
+where to sit
+user tips on the use of related business hardware ( i . e . phone system ,
+intercom , etc . )
+how long / when or if to take lunch : use your discretion .
+expected working hours : expect to be in the office no later than 8 : 00 and
+preferably by 7 : 30
+it is also important to cover the expected learning criteria with the
+participants on their first day :
+able to work under pressure - you will be asked to provide reports and
+answers to questions on the floor quickly . you will be expected to know and
+understand the information that you are giving .
+ability to handle multiple priorities - there will be times when you are
+faced with several tasks at once . you will be expected to make quick
+decisions and understand which is the most important .
+meets deadlines - everyday in risk you have to meet a deadline . the traders
+must have positions and p & l on their desks when they walk in in the morning .
+excellent written communication - your written communication will be in the
+numbers that you provide to the floor .
+excellent oral communication - again , the traders will expect answers and
+expect them quickly . you will need to articulate those in a fashion that is
+understandable .
+effective interpersonal skills - see above .
+attention to detail - this is one of the most important considerations of
+the job . again , all information must be 100 % accurate , errors are not
+acceptable .
+team player - you will be expected to work across all groups upstream and
+downstream to provide accurate information and solve related problems .
+excellent organisational skills - speed and accuracy are a hallmark of the
+job , therefore you will need to be organized at all times .
+is a motivated worker - self explainatory
+excellent analytical skills - same
+maintains relationships with traders - the trader will be relying on the
+information that you provide him . therefore it is important that he trusts
+what you are giving to him and that you are always asking if they need more
+or better information .
+effective time management - self explainatory
+competent in excel - alot of the work we do is in excel . it is important
+that you be able to navigate excel , as well as create efficiencies to make
+the job less prone to errors and to run more smoothly .
+competent with erms - erms is the system that is used to maintain positions
+and p & l . all deals flow through this system and all values related to deals
+come from this system .
+competent with risktrac - risktrac is the system that tracks counterparty
+risk and value at risk . i expect you to understand what each means , what
+the limits are , and how you can reduce and add to value at risk .
+demonstrates knowledge of trading concepts - work with the traders to
+understand why they are putting on the positions that they have . try to
+understand proper hedging strategies etc .
+each participant who comes to your area needs to know your interpretation of
+each of these competencies so they can make sure to meet your expectations
+while in your area .
+also , the participants need to fully understand exactly what they ' ll be doing
+in your area . let ' em know with as much detail as possible .
+finally , do you consider any information a pre - requisite for participation in
+your area ? ( i . e . advanced excel skills . . . etc )
+i ' d like to know so we can push the participants to get the needed training
+before coming to your group . advanced excel skills , preferably a level of
+understanding of positions and value at risk .
+please compile this information and forward it to me so i can put it into
+some on - boarding material for all of the candidates by their first day of
+rotations .
+the first candidates will begin on february 1 , 2001 .
+thank you very much for you time and consideration .
+tom wilbeck
+x 57536

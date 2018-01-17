@@ -1,0 +1,19 @@
+Subject: commoditylogic financial invoice exchange vl . 0
+the fix module vl . 0 is now operational and meets all the specifications as
+shown in the frs . the team would be happy to show you a demo at your
+convenience , perhaps early next week . we anticipate our back office using
+fix in parallel with existing systems for december 2000 , and then using fix
+" under fire " for january 2001 invoices .
+the demo uses actual data from sempra , our largest volume natgas financial
+counterparty . in about a minute , fix is able to compare enron data and
+sempra data ( received electronically as an excel spreadsheet and stored on a
+mini version of our deal database ) , immediately matching about 1450 of the
+1500 deals . it then helps the user to manually match those 50 deals that the
+primary match engine could not . this whole process , if it were purely
+manual , would take more than a day . using excel spreadsheets ( and sort
+functions ) , enron currently spends 4 to 8 hours per month matching sempra
+invoices . fix allows the user to perform all matching in about 10 minutes .
+our next deliverable is the confirm central module vl . 0 , due 1 december . we
+anticipate delivering it on time , as we have with fix .
+all the best ,
+tom

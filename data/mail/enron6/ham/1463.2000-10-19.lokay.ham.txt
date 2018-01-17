@@ -1,0 +1,17 @@
+Subject: socket vs tibco
+fyi - note win 2000 comment below
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kim kouri / et & s / enron on 10 / 19 / 2000 03 : 43
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+meiling chen
+10 / 19 / 2000 09 : 42 am
+to : kim kouri / et & s / enron @ enron
+cc :
+subject : socket vs tibco
+yesterday ' s meeting concluded that real time fuel project should use socket
+to communicate
+wtih scada to be in sync with other real time application in the group .
+steve littel sent his vb codes to me and i am working on it .
+i asked joe zhou about tw deal analysis on window 2000 . he said there should
+be no problem .
+window 2000 should have ie 5 . 0 features .
+mei - ling

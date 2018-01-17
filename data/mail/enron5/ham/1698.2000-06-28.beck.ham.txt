@@ -1,0 +1,16 @@
+Subject: yesterday ' s power outage
+as you are painfully aware , we had a power outage wednesday morning in the
+enron building . this outage was caused by localized structural failure of
+the raised floor in our 34 th floor data center . this resulted in disruption
+to the power distribution system servicing the phone switch and a number of
+ena servers .
+as a cautionary move , enron online was interrupted while the extent of the
+failure was assessed , resulting in the system being unavailable from 11 : 23 to
+11 : 39 . all enron building telephones and voicemail were unavailable for
+approximately one hour and 20 minutes and certain ena trading systems were
+unavailable for over two hours . during this time the power was stabilized
+and systems were restored . immediate steps are being taken to correct this
+problem .
+we apologize for this inconvenience .
+if you have any questions in regard to this outage , please call philippe bibi
+at x 37698 or bill donovan at x 35459

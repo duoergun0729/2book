@@ -1,0 +1,20 @@
+Subject: unify to sap interfaces
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jefferson d sorenson / hou / ect on
+07 / 05 / 2000 04 : 58 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+bob klein
+07 / 05 / 2000 04 : 57 pm
+to : jefferson d sorenson / hou / ect @ ect
+cc : rebecca ford / hou / ect @ ect
+subject : unify to sap interfaces
+we interfaced unify to sap three times today . interface number one ( 8 : 40 am )
+was error free . the second interface ( noon ) created duplicate invoices for
+those sent in our first interface . the problem that caused the duplication
+was that the flag in unify that prevents invoices from being sent to sap
+after they have already been interfaced did not work . the problem was
+corrected before out third interface at 3 : 15 pm . in the 3 : 15 interface , one
+error occurred - - - a counterparty was set up in global as intercompany that
+should be third party . this error will be corrected before our next interface
+on 7 / 6 am .
+overall , i was pleased at how well the interfaces worked today and how fast
+the sap and unify teams responded to our issues .
+bob

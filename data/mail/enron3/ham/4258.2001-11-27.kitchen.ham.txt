@@ -1,0 +1,4 @@
+Subject: greg ,
+1 . we can include the sithe agreement in the master netting agreement although we do not believe that this will work for dynegy as it is not a forward contract but an annuity stream which cannot be accelerated , however if they think it works - fine . we would not want the margin calculated net ( it needs to be exclusive of this transaction ) . if they were to convert to two swaps in order to allow for acceleration in the master netting agreement , there is an accounting issue for us .
+2 . in the east we are long physical power from them in the markets which are not pools . we are short to them in the pools which clear financially and we have no issues in the pools . so we do not need to do anything . i ' ll have the west soon .
+3 . we will have our physical gas position by point soon . we will agree to prepay for all of dec but we should only pay day by day .

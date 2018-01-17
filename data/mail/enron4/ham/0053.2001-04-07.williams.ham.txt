@@ -1,0 +1,13 @@
+Subject: ncpa br is back
+hey guys .
+i had a long talk with ncpa today and set up so that we again can do the zp 26 / npl 5 buy - resale on a realtime basis . we are not doing a profit split this time , we are paying them $ 25 / mw instead . this basically enables us to shift 21 mw across pathl 5 and not be subject to congestion as ncpa has grandfather rights across the path . this is a sweet strategy when the spl 5 / npl 5 spread is there and pathl 5 is congested . ncpa ' s capacity is 21 mw , but i would not recommend doing more than 20 mw . there are others who know about this opportunity but are not currently using it ( wesco especially ) . so by doing only 20 mw we do not remind them of ncpa .
+the way this works is that we call ncpa and ask their capacity across pathl 5 . and tell them you want to schedule the br through whatever hour .
+in caps :
+we sell to ncpa in zp 26 .
+we buy from ncpa in npl 5 .
+we can buy spl 5 to fill our zp 26 sale ( we just shift the load from spl 5 to zp 26 , so enter a epmi calpool ) .
+pg & e is ncpa ' s sc , so if you are not passing phase two give them a call .
+ncpa ' s tel # : ( 916 ) 786 - 3520
+pg & e tel # : ( 415 ) 973 - 1969
+if you guys have any questions just ask me .
+geir

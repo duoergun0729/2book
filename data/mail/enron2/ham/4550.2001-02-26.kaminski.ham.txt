@@ -1,0 +1,31 @@
+Subject: discount rates and risk capital
+dear vince :
+i spent a little bit longer putting together my initial thoughts on
+determining discount rates than i originally anticipated . it is somewhat
+surprising , but there really isn ' t much academic work that i am aware of
+that addresses these issues .
+very briefly ,
+1 . i think we need to come up with a way to define the concept of risk
+capital simultaneously with the appropriate discount rate .
+2 . i think it is important to model enron ' s opportunity cost of capital and
+how that changes over time . the liquidity of a project will affect its
+value in a very significant way when the opportunity cost of capital
+changes over time . there is also likely to be a relation between duration
+and discount rates that depends on the factors generating enron ' s
+opportunity cost of capital .
+3 . i have vague ideas about possible simulations that may help us quantify
+some of the issues that i have raised .
+please take a look at the attached document . you might find this somewhat
+confusing , so i will give you a call later in the week to discuss this .
+please let me know when you will be free . i look forward to hearing from you .
+regards ,
+sheridan
+- determining discount rates for risky projects . doc
+sheridan titman
+department of finance
+college of business administration
+university of texas
+austin , texas 78712 - 1179
+512 - 232 - 2787 ( phone )
+512 - 471 - 5073 ( fax )
+titman @ mail . utexas . edu

@@ -1,0 +1,44 @@
+Subject: mail delivery failed : returning message to sender
+this message was created automatically by mail delivery software .
+a message that you sent could not be delivered to one or more of its
+recipients . this is a permanent error . the following address ( es ) failed :
+info @ . com
+( sa ) message rejected by abuse @ . com
+( sa ) user profile spam level exceeded
+- - - - - - this is a copy of the message , including all the headers . - - - - - -
+return - path :
+received : from [ 61 . 83 . 205 . 164 ] ( helo = mailwisconsin . com )
+by uk 2 mxarrayl . uk 2 . net with smtp ( exim 4 . 52 )
+id ldupwo - 0000 ik - ay
+for info @ . com ; tue , 19 jul 2005 12 : 06 : 49 + 0100
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 24816277 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+from : " barry castillo "
+to : info @ . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+x - priority : 3 ( normal )
+importance : normal
+x - sa - exim - connect - ip : 61 . 83 . 205 . 164
+x - sa - exim - mail - from : projecthoneypot @ projecthoneypot . org
+subject : just to her . . .
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - spam - checker - version : spamassassin 3 . 0 . 4 ( 2005 - 06 - 05 ) on
+uk 2 mxserverl - 10 . uk 2 . net
+x - spam - level : * * *
+x - spam - status : no , score = 3 . 3 required = 99 . 0 tests = drugs _ erectile , drug _ dosage ,
+html _ 50 _ 60 , html _ message , info _ tld , mime _ html _ only autolearn = no
+version = 3 . 0 . 4
+x - sa - exim - version : 4 . 0 ( built sat , 24 jul 2004 09 : 53 : 34 + 0200 )
+x - sa - exim - scanned : yes ( on uk 2 mxarrayl . uk 2 . net )
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivable !

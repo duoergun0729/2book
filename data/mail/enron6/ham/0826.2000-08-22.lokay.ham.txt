@@ -1,0 +1,25 @@
+Subject: needles / topock price differentials
+i have had a casual chat with some of my accounts regarding their opinion of
+the market dynamics affecting the needles to topock price differentials .
+each customer focused more on the supply side dynamics of topock gas
+supplies , rather than the incremental intra - state transport costs required to
+transport to the pg & e citygate , as the primary driving force for the needles
+to topock price differential .
+here is a recurring theme i heard from my customers : the el paso merchant
+service ( epms ) 1 . 2 bcf contract ' s block ii capacity ( 500 mmcf / d of permian to
+pg & e / topock capacity , $ . 065 transport rate ) has a re - callable aspect . if
+epms schedules gas under the transport of block ii capacity to any other
+california delivery point other than pg & e / topock , then other parties may
+recall the capacity for their own use to pg & e / topock . currently duke has
+recalled 100 mmcf / d and pg & e energy trading has also recalled 100 mmcf / d for
+their use to transport permian gas to pg & e / topock . ( fyi - epmc may re - recall
+this capacity , but they have elected not to ) . these additional topock
+supplies coming from duke and pg & e energy trading under block ii capacity may
+be viewed as providing an oversupply of gas to pg & e at topock . this gas
+competes head to head with malin gas prices . for example , today ' s malin
+price is $ 4 . 62 while pg & e / topock price is $ 4 . 69 . today ' s cash price
+differential between needles and topock is $ . 60 , far larger than the
+previously assumed $ . 28 differential resulting from the intrastate cost
+required to bring topock gas to the citygate .
+if anyone else had additional market information or opinions regarding these
+market dynamics , let ' s discuss further at our next staff meeting . cs

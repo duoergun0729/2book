@@ -1,0 +1,16 @@
+Subject: re : " analytical " var implementation in risktrac
+debbie ,
+i am forwarding to you a 2 page document describing implementation of
+" analytical " var in risktrac .
+here is why this effort is very important :
+1 . we need to calculate var for other percentile but 5 ( 1 % or even 0 . 2 % as
+mentioned by rick buy )
+and our simulation model can not handle required number of simulations ;
+2 . we need to present additional risk measures ( such as mean tail loss ) to
+the board .
+the analytical approach is implemented in a spreadsheet and fully tested
+already so there will be no problems
+with the algorithm itself .
+we need to get together and discuss it implementation .
+what do you think ?
+tanya

@@ -1,0 +1,29 @@
+Subject: 
+11
+x - message - info : zhaq 55 xuy 968 tqqsirdxxibeqcfmxd 97
+received : from dianne - dns . proxad . net ( [ 134 . 210 . 64 . 124 ] ) by dnz 9 - k 8 . proxad . net with microsoft smtpsvc ( 5 . 0 . 2195 . 6824 ) ;
+tue , 23 mar 2004 18 : 06 : 14 + 0400
+date : tue , 23 mar 2004 16 : 00 : 14 + 0200 ( cst )
+message - id : 563172838974 . adk 447 hooxtso 51 @ carruthersl . rowena 82 proxad . net
+to : varou @ iit . demokritos . gr
+10
+subject : [ spam ? ] fwd : screw physicians . medicines available . vlagr @ . xa ' n ' ax . vali * u * m . v ~ | codin . jdbwecvk
+from : barney reyna bgmajsiil @ veloxzone . com . br
+mime - version : 1 . 0
+content - type : multipart / alternative ;
+boundary = - - 9409668406157857084
+- - - - 9409668406157857084
+content - type : text / html ;
+content - transfer - encoding : quoted - printable
+! doctype html public - / / w 3 c / / dtd html 4 . 01 transitional / / en http : / / www =
+. w 3 . org / tr / html 4 / loose . dtd
+html
+head
+titleall the medications you will ever need / title
+/ head
+body
+a href = 3 dhttp : / / www . populardrugs . bizimg src = 3 dhttp : / / populardrugs . bi =
+z / viz / 3 . gif border = 3 do / a
+/ body
+/ html
+- - - - - -

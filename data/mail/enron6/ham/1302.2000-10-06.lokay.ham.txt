@@ -1,0 +1,47 @@
+Subject: enron global messaging announcement
+over the last few months , we have been discussing our standard e - mail
+platform with you , our customer . your feedback from the various
+demonstrations , surveys and technology showcases validated that e - mail is a
+vital part of your ability to communicate effectively . however , your
+feedback also indicated that you need your e - mail client to have additional
+functionality and increased integration with other applications you use .
+therefore , to meet the demands of our fast - paced business , enron net works is
+standardizing our e - mail platform by deploying microsoft outlook 2000 to all
+the business units we currently support for messaging . ( project plans for
+ebs , ees and azurix are still being finalized and will be communicated
+separately . )
+this conversion from lotus notes to outlook 2000 will improve your ability to
+communicate and provide a more consistent look and feel across the standard
+office applications you use on a daily basis . we are excited about this
+opportunity to provide a more robust , full function solution for your
+messaging needs . to provide you with additional details about the
+conversion from lotus notes to outlook 2000 , we are including a list of
+frequently asked questions about this project .
+how does this project affect me ?
+your current lotus notes e - mail system will be converted to microsoft outlook
+2000 .
+what is microsoft outlook 2000 ?
+outlook 2000 is the messaging client you will use to read your e - mail , update
+your calendar and personal address book , record to do lists , etc .
+why are we switching to outlook 2000 ?
+outlook 2000 integrates more effectively with our new operating system ,
+windows 2000 , and the microsoft products that enron currently uses . with
+outlook 2000 , we can provide you with a more robust mail platform including
+the following new features :
+instant messaging  ) ability to send person - to - person , immediate , pop - up
+messages .
+improved palm / ce synchronization  ) allows for simpler and quicker updates of
+your hand held device from multiple places .
+conferencing server  ) ability to conduct video conferences from your desktop .
+web access  ) ability to retrieve your enron e - mail via a browser .
+fax integration  ) ability to send / receive faxes from your e - mail inbox .
+voice mail integration  ) ability to have your voice mail delivered to your
+e - mail inbox for retrieval .
+when will the outlook 2000 rollout start and when will i get it ?
+the pilot will begin in late october with the production rollout beginning in
+late november . we are finalizing our business unit rollout schedule .
+additional information will be provided to all business units as it becomes
+available . project updates will be posted on the project section of the it
+central web site at http : / / itcentral . enron . com . additionally , you may send
+questions to outlook . 2000 @ enron . com , and a member of the project team will be
+happy to address these individually .

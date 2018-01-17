@@ -1,0 +1,15 @@
+Subject: fw : sid richardson blk 16 fuel
+i have set up poi 78269 for this fuel delivery . i need someone to provide the following information in order to complete setup of the poi .
+is the west texas supply basin correct ?
+is the east of thoreau area correct ?
+should the point have gri yes or no ?
+what is the lateral id to be used ?
+what is the marketing lateral id to be used ?
+thanks
+karen
+- - - - - original message - - - - -
+from : frazier , perry
+sent : monday , september 17 , 2001 2 : 30 pm
+to : brostad , karen
+subject : sid richardson blk 16 fuel
+attached is a gscr .

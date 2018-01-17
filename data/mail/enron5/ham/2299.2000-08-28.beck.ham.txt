@@ -1,0 +1,20 @@
+Subject: controls needed to ensure cashflows are received by infinity
+shona , brent and sally ,
+this morning , the cash flows from approximately 75 books were not received by
+infinity from the erms system . we normally get 375 books and only got 296
+this morning .
+per conversation with joyce kuo and mike moscoso , susan trevino , risk
+controls , and christian , rac , changed the book heirarchy on friday , moving
+global products books , including the prepays , out of the ect group and into
+another group . we have had discussions in the past verifying with risk
+controls that the ect group is the only group which automatically sends its
+cash flows to infinity . other cash flows from books are included only by
+being listed in a script . this was not done when the books were moved from
+the ect group on friday .
+obviously , the rate & currency is not able to hedge enron ' s cash flows when
+so much has been omitted . at this time we are about one hour away from a
+good hedging report for the trading desk . this report is due the desk daily
+by 7 : 30 am .
+mike and i discussed the need for controls and sign - off by him or shona for
+changes in book heirarchy .
+sheila

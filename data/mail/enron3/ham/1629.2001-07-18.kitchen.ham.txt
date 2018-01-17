@@ -1,0 +1,47 @@
+Subject: gtv project weekly status update
+please see below for the weekly project status update of gtv and the attached file for the updated project timeline . changes are underlined .
+gtv status meeting attendees : zhiyong wei , jeremy wong , nayan dattani , george grant , bill fortney , karima husain , mike swaim , chuck ames , geoff storey , jay krish , jeff gossett , mog heu .
+accomplishments :
+? incorporating physical deal positions in tds :
+o changes for the view aggregation have been completed .
+o expandable total in cash position has been completed .
+? single point of deal entry for term deals :
+o released to production .
+? gas daily deals :
+o released to production .
+? live feeds for gas daily / intra - month curves :
+o released to production .
+? saving different views in tds :
+o completed and is currently in test .
+? capability for desk roll - ups on an ad hoc basis ( phase 2 , on hold since 7 / 9 / 01 ) :
+o new process for roll - up aggregators has been completed .
+? option grid ( phase 2 ) :
+o released to production .
+? gas daily options ( phase 2 ) :
+o released to production .
+? basis options ( phase 2 ) :
+o development of deal entry type for basis options has been completed in tagg .
+o development of loading correlation curves has been completed .
+o changes to the translator have been completed .
+? transport deal capture & valuation ( phase 2 ) :
+o creation of new deal entry type & database changes has been completed .
+o changes to the translator have been completed .
+plans for the week ending 7 / 20 / 01 :
+? continue it development of phase i items .
+o user acceptance test of physical deal positions in tds .
+? continue it development of phase ii issues .
+o change portcalc to value spread options .
+o option reports ( pl reports ) .
+? new flexible deal viewer .
+o getting sign - off of the inception document .
+o database schema design .
+? add more information to the drill - down deal details .
+o timeline estimate .
+o initial development .
+issues :
+none
+notes
+? changes to portcalc and some of tds applications have been released to production on july 17 .
+? a new requirement has been discussed to add more information to the drill - down deal details in tds position manager .
+thanks
+zhiyong

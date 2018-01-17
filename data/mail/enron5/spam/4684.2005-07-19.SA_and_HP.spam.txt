@@ -1,0 +1,42 @@
+Subject: mail delivery failed
+: returning message to sender
+this message was created automatically by mail delivery software .
+a message that you sent could not be delivered to all of its recipients .
+the following address ( es ) failed :
+este mensaje fue creado automaticamente por el gestor de correo
+no pudo ser entregado a uno o varios de los destinatarios .
+la ( s ) siguiente ( s ) direccion ( es ) fueron rechazadas :
+antonionuezc @ jazzfree . com
+mailbox is full ( mta - imposed quota exceeded while writing to file tmp / 1121770810 . 10929 . mxo 3 . yacom . srv ) :
+retry timeout exceeded
+- - - - - - this is a copy of the message , including all the headers . - - - - - -
+- - - - - - a continuacion adjuntamos copia del mensaje , incluyendo las cabeceras . - - - - - -
+return - path :
+received : from [ 192 . 168 . 1 . 50 ] ( helo = mx . ya . com )
+by mxo 3 . yacom . srv with esmtp id lduppa - 0002 qd - 00
+for antonionuezc @ jazzfree . com ; tue , 19 jul 2005 13 : 00 : 10 + 0200
+received : from [ 218 . 14 . 74 . 146 ] ( helo = mailwisconsin . com )
+by mx . ya . com with smtp id lduppy - 0006 sp - 00
+for antonionuezc @ jazzfree . com ; tue , 19 jul 2005 13 : 00 : 09 + 0200
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 30519726 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : antonionuezc @ jazzfree . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+extraldap : mailid = antonionuezc @ jazzfree . com mailhost = jazzfree . com mailquota = 5120000 mailservices = 0000000000001110 mailmessagestore = / opt / data / mail / mailvolol / a 7 / e 9 d / a 65 / 91095 c 88 / antonionuezc @ jazzfree . com /
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivabie !

@@ -1,0 +1,21 @@
+Subject: clickpaper test
+we have scheduled a user test for clickpaper on saturday , july 22 nd starting
+at 8 : 30 am on the 29 th floor of the enron building .
+first , a reminder to edward and bob to make sure the ena paper group is here
+( commercial only plus , at a minimum , john jacobson ) . it is up to edward and
+bob to decide if london personnel should be here but i would recommend a
+few . they will be the " users " in the test . we will have a script for them .
+the goal is to test the site and the capability of the trading floor . i will
+explain more about this to edward and bob next week .
+also , bill bradford or his designee from credit needs to be here to review
+the functionality of the credit check . also , ted murphy or his designee
+needs to be here to review control .
+if the test is a success , we will wipe the system clean saturday and will
+create actual customer profiles we have received in the system on sunday .
+monday we will review everything one last time for tuesday launch , july 25 th
+launch .
+we will provide lunch for everyone so get to me the names of who is committed
+so i can plan .
+please respond with any issues or questions .
+thanks .
+gp

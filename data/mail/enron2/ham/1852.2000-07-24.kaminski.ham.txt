@@ -1,0 +1,16 @@
+Subject: historical curve databases & historical ff vols
+dear all ,
+as promised , i cleaned up the data and put it into 6 spreadsheet files ( we
+will do gold and cocoa separately ) . i also ran 10 , 20 , 30 and 60 day fwd fwd
+volatility calculations based on historical log return data - you can see the
+results at the bottom of the sheet called " log returns " for each of the six
+spreadsheets attached below .
+the data in the files is ready for pca analysis . we can use either the fwd
+fwd vols from recent history or implied option quotes to complete the
+analysis .
+regards ,
+anjam
+p . s . we have already done the pca on aluminum h ( high grade , so please don ' t
+repeat the analysis for that one )
+final files :
+al _ h :

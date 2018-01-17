@@ -1,0 +1,107 @@
+Subject: re : new copier information for 55 , 60 & 65 cpm digital machines
+iain :
+we went and looked at the toshiba copier on the 32 nd floor and while it
+does not appear to be extremely fast , i believe it will work for the 19 th
+floor . i spoke with vince kaminski and he agreed with our getting this
+copier .
+we noticed this copier has a button that says " network connection "
+and were wondering it this copier could be hooked up to the network and
+we could run copies from our computer ? please let us know .
+thanks for all your help and have a wonderful christmas and new
+year !
+shirley
+co # 0011
+rc # 100038
+copier information including pictures & weblinks
+from : iain russell on 12 / 17 / 99 10 : 47 am
+to : shirley crenshaw / hou / ect @ ect
+cc :
+subject : new copier information for 55 , 60 & 65 cpm digital machines
+shirley ,
+following up on the telephone conversation , please see the attached
+spreadsheet for pricing information plus important information about " true
+world " copy speeds .
+pricing was centered on the 42 . 315 k per month volume band so that you can get
+a good feel for copier expenditure based on average month volumes . i have
+left the spreadsheet " unprotected " so that you can play with the volume
+figures and see how this changes the price overall + how the " cost per image "
+is affected by volume changes .
+? pricing spreadsheet : under " notes " towards under the pictures .
+the " true world " copy speed information has been supplied by buyers lab
+incorporated , which is an independent testing house that rates office
+equipment , including copiers and publishes their findings on a quarterly
+basis . unfortunately they have not released their findings on the canon ir 550
+as testing is not yet complete .
+? copier speeds : @ the end of the notes - mail
+{ these include 1 - 1 , 1 - 2 and duplexing + detail on completion of " sets " }
+as you will see , duplexing speeds are widely different across the various
+manufacturers equipment & the " true world " copy speeds are a soft $ expense
+which impacts the true cost of running a copier .
+listed below are the url ' s for the different 55 , 60 & 65 cpm b / w copiers .
+a ) overview
+b ) specifications
+from lanier
+ricoh equipment
+55 copies per minute
+a ) & b ) weblink for machine specifications - - > click here - - - >
+65 copies per minute
+a ) & b ) weblink for machine specifications - - > click here - - - >
+from danka
+canon equipment { ir 550 }
+55 copies per minute
+looks like : - - - >
+weblink for machine specifications - - > click below :
+a ) http : / / www . usa . canon . com / corpoffice / netofficesys / ir 550 / ir 550 fea . html
+b ) http : / / www . usa . canon . com / corpoffice / netofficesys / ir 550 / ir 550 spec . html
+canon equipment { ir 600 } > > currently on 45 day backorder
+weblink for machine specifications - - > click below :
+a ) http : / / www . usa . canon . com / corpoffice / netofficesys / ir 600 / ir 600 fea . html
+b ) http : / / www . usa . canon . com / corpoffice / netofficesys / ir 600 / ir 600 spec . html
+toshiba equipment
+55 copies per minute
+weblink for machine specifications - - > click below :
+a ) http : / / www . toshiba . com / taiseid / copiers / 5570 / features . htm
+b ) http : / / www . toshiba . com / taiseid / copiers / 5570 / spec . htm
+65 copies per minute
+weblink for machine specifications - - > click here - - >
+a ) http : / / www . toshiba . com / taiseid / copiers / 6570 / features . htm
+b ) http : / / www . toshiba . com / taiseid / copiers / 6570 / spec . htm
+notes
+here is the pricing spreadsheet for your records : - - >
+the highlighted rows on the spreadsheet reflect you current average monthly
+volume .
+fyi - - > target cpi or cost per image is in the region $ 0 . 017 up to and
+including $ 0 . 023 .
+copier model monthly volume capacities
+model manufacturer max rec / level realistic level { up to }
+toshiba 5570 340 k 115 k
+toshiba 6570 400 k 135 k
+lanier 5255 { per rep . } 200 k 100 k
+lanier 5265 { per rep . } 200 k 100 k
+canon ir 550 200 k 100 k
+canon ir 600 250 k 100 k
+fyi : we currently have a toshiba 6570 @ eb 32 kl that is averaging 69 , 332
+images per month with the top month producing 86 , 673 images and a toshiba
+5570 @ eb 3080 area that is averaging 39 , 309 per month . both of these machines
+are in the enron north america trading environment .
+the copiers quoted are all " digital " .
+digital : scan once print many = 99 copies of one sheet ? 1 scan !
+analog : scan for every image made = 99 copies of 1 sheet ? 99 scans = possible
+noise issue .
+copier speeds = total print time
+this comparison gives the speed @ which the document set is printed
+{ no staple , no 3 - hole punch }
+> > > > > 60 & 65 copy per minute machines > > > > 55 copy per minute machines < < < < <
+please call me with any questions .
+thanks , iain russell @ 713 - 853 - 6861
+contracts supervisor administration
+enron property & services corp .
+privileged / confidential information may be contained in this message . if
+you are not the addressee indicated in this message ( or responsible for
+delivery of the message to such person ) , you may not copy or deliver this
+message to anyone . in such case , you should destroy this message , and
+notify us immediately . if you or your employer does not consent to internet
+email messages of this kind , please advise us immediately . opinions ,
+conclusions and other information expressed in this message are not given
+or endorsed by my department or employer unless otherwise indicated by an
+authorized representative independent of this message .

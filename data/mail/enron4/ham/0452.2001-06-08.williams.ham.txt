@@ -1,0 +1,13 @@
+Subject: bloomberg fees
+please read the following carefully and retain this information for use whenever you trade on bloomberg :
+1 . bloomberg charges a $ 15 flat broker fee .
+2 . this fee applies whether you are the aggressor or receiver of a trade .
+3 . this fee applies each time you make a trade on bloomberg
+i . e . $ 15 per hit or lift , regardless of volume
+4 . when you extend a bloomberg deal in deal entry , account for each separate trade accordingly by adding $ 15 to any existing broker fee .
+* * * * * * 5 . because this fee is flat , select the " flat " button to the right of the broker fee . * * * * *
+6 . and most importantly , make a note in the " broker " box that the broker is in fact bloomberg .
+i know that many of you were never notified of the bloomberg fee structure , but going forward we should see every trade done on bloomberg showing up in the system as having been done with bloomberg . the confirms group in houston has compiled a weighty list of " missing " hourly trades since the advent of real time bloomberg trading . i believe these are all in the system , but possibly short a broker name and fee . this , going forward , should no longer be a problem .
+please let me know if you have any questions regarding bloomberg trading and / or fees .
+thanks ,
+kate

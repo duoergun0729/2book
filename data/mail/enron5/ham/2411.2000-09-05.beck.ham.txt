@@ -1,0 +1,85 @@
+Subject: re : enlighten common timetable
+sally - i mentioned this issue when i was over in houston and hoped to cover
+it again when we discussed envision ( following your meeting with mary and
+joel - i think joel was organising )
+brent - do you have a moment to catch up envision and the on the common
+timetable specifically ?
+all - i am planning to organise a houston / europe conference call to discuss
+enlighten and the applications and current / future business requirements that
+are dependent on it . i would like to get an understanding of your prefered
+level of involvement
+regards
+mike
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike jordan / lon / ect on 05 / 09 / 2000 11 : 19
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+john paskin
+05 / 09 / 2000 08 : 01
+to : cindy horn / hou / ect @ ect
+cc : mike jordan / lon / ect @ ect
+subject : re : enlighten common timetable
+cindy
+sorry if there was any confusion in my email - it was not actually prompted
+by your questions about enlighten , which haven ' t caused ripples and in any
+case are appropriate questions to ask .
+i ' m really trying to get commitment from business sponsors ( principally mike
+on this side ) on both sides of the pond to agree a common timetable for
+functionality . if we don ' t get this , it may be difficult for us to maintain
+a common database across houston and london , and it will end up acting as a
+broker between different business areas when establishing priorities . i
+doubt any of us want that .
+cheers
+john
+cindy horn
+04 / 09 / 2000 22 : 55
+to : john paskin / lon / ect @ ect
+cc : mike jordan / lon / ect @ ect , steve whitaker / lon / ect @ ect , scott
+williamson / hou / ect @ ect , cindy wisemiller / hou / ect @ ect , dragan
+jojic / lon / ect @ ect , phil yoxall / lon / ect @ ect , steve price / lon / ect @ ect , richard
+samuel / lon / ect @ ect
+subject : re : enlighten common timetable
+for global markets , we were not scheduled to get anything by the end of the
+year from enlighten , envoice or dtl . but in order to establish what could
+potentially be delivered by july 2001 , we were inquiring as to the data
+elements that were going to be stored as well as the functionality . it would
+be hard to make committments to use an application , without really knowing
+what it does . clarification was what we were trying to get and will require ,
+to do a true gap analysis so we can quantify the extent that these
+applications fit or do not fit our business .
+i received a functional spec for envoice today and would like to get one for
+dtl and enlighten to get a better understanding of the scope of these and
+possible enhancements that could be added on later .
+i am sorry if my queries caused some " ripples " . i still would like some
+tangible information to start looking at regarding these applications .
+please let me know what information you can supply us . thanks cindy
+john paskin
+04 / 09 / 2000 12 : 30
+to : mike jordan / lon / ect @ ect , steve whitaker / lon / ect @ ect , scott
+williamson / hou / ect @ ect , cindy horn / hou / ect @ ect , cindy wisemiller / hou / ect @ ect
+cc : dragan jojic / lon / ect @ ect , phil yoxall / lon / ect @ ect , steve
+price / lon / ect @ ect , richard samuel / lon / ect @ ect
+subject : enlighten common timetable
+dear all
+there is currently some debate as to what is going to be delivered by
+enlighten . some clarification and a question :
+clarification :
+enlighten ( certainly in london ) is actually a data hub , rather than an
+application . in itself , it will not add business value . however , the tools
+which sit on top of this system will add business value . these tools are
+currently dtl , envoice , zebra . however , i think we all anticipate more
+requirements being developed as this central data store becomes richer .
+question ( for business sponsors ) :
+we are trying hard to coordinate us and uk efforts . however , this will be
+extremely difficult if our respective business timelines are not the same .
+say - for example - mike wants enlighten to deliver volumetric reporting by
+then end of 2000 but cindy instead wants a full dpr in the same timeline .
+our data architects are going to struggle to coordinate and prioritise their
+work if we are working for two separate sets of masters . so :
+if we are really to reap the rewards of a uk / us implementation , a common
+timetable is extremely important . who are our primary uk and us business
+sponsors and can we ask them to agree a mutual timeline ? i suspect if we
+are to try and make this a joint development , nothing will make delivery
+harder than having separate and sometimes mutually exclusive sets of
+requirements from our user communities .
+comments / answers please . . .
+cheers
+john

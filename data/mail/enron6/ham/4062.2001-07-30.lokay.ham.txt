@@ -1,0 +1,35 @@
+Subject: fw : tw flow direction
+kim and lindy ,
+it looks like the timing on flow direction requirements should be around sept . lst . i got copies on the meeting notes rom michelle after steve ' s staff meeting today . i know lindy is back on thursday , then i will be out the following week of aug . 6 th - 13 th . i have some hand outs from some of our previous meetings last year that we can start with .
+please give me a call when you return lindy .
+thanks ramona
+- - - - - original message - - - - -
+from : betancourt , ramona
+sent : monday , july 30 , 2001 11 : 44 am
+to : lee , dennis
+cc : sawyer , lisa ; trevino , linda ; holmes , bradley ; dietz , rick ; betancourt , ramona
+subject : re : tw flow direction
+dennis ,
+i do not have anything documented in any detail yet . lindyis out on vacation & i lknow i will be reviewing the requirments with her . i will be working on the flow direction requirements over the next 2 to 3 maybe 4 weeks . after discussing with hasan , we plan to implement in the december / january time frame so that it moves in with tw ' s new contract system . this flow direction project was part of the tw 2001 system enhancement budget dollars . i know that at the cms status update meeting last week lisa noted these two items for tw . also noted was a comment about needing the details on the winthin and outside the path . the within and outside the path is already coded in the current cbs system and ple system . you should be able to pull from the current system the process . i know it will need to merge into the new system . the basic concept is as follows :
+all points on tw are tied to a marketing lateral code .
+this code is stored in ple for each point on tw
+a batch process is set up in cbs that is a stored procedure that runs everyday at 12 : 00 noon to calculate the inside / outside the paths on all firm contracts . ( release , fts 3 , ftsl , lft , efbh ) . this process finds the marketing lateral for the primary receipt and primary delivery pionts & identifies all possible laterals between the primary receipt to primary delivery that can be valid alternate points inside the path and stores those to be used in the allocation process . it maps it out for each firm contract . this process is uses the valid marketing laterals to build the inside alternate paths . any contract whose alternate receipt or alternate delvery point that is not in the valid available marketing lateral is an outside the path transaction . tms uses this process in the allocations on tw .
+with revalidation the tms system checks for contracts that change primary receipt points and delivery points in the evening , nongrid , i / dl , and i / d 2 cycles . however the stored procedure batch job is a maunal process , the contract team would submit this batch job on demand so that it can identify the valid marketing laterals for that specific contract that was changed . i would like to see this automated with the new cms system . each time a firm contract is changed for a gas day after the timely cycle is run , this batch job or stored procedure should automaticly rum again for that contract that was changed .
+thanks ramona
+- - - - - original message - - - - -
+from : lee , dennis
+sent : friday , july 27 , 2001 9 : 44 am
+to : betancourt , ramona
+subject : fw : tw flow direction
+ramona , let me know , please .
+thanks ,
+dennis
+- - - - - original message - - - - -
+from : trevino , linda
+sent : friday , july 27 , 2001 7 : 19 am
+to : lee , dennis
+subject : tw flow direction
+dennis ,
+i noticed on ramona ' s bullets she was working with marketing and contracts on the tw flow direction business requirements . are you in the loop on this ? if not could you please let her know that you need to be in the loop and see if there is anything documented as of yet on this ? i would like to see some type of documentation as soon as possible .
+thanks
+linda

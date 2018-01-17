@@ -1,0 +1,49 @@
+Subject: re : vmac transaction
+louise ,
+the overall idea seems logical as a method to leverage collateral received on profitable deals .
+one additional benefit would be if this allowed us to use other securities as collateral that a counterparty would not accept ( i ' m not sure what kind of other securities we have ) .
+i also think that for enrononline to continue it ' s success that in the medium term it will need some form of margining / collateral as part of the system , but you will have a better sense for weither this would be an issue in the us given a healthy enron - it is an issue in europe and with banks regardless .
+issues :
+big systems issue for implementing a same day mark to market and liquidity calculation accross all products on enrononline . therefore , i assume this would be rolled out only on the highest volume products . this will increase the cost of each transaction .
+liquidity algorithm will be hard for counterparties to swallow as they will not want to post incremental capital .
+contract issue - do you make the collateral part of all enrononline deals as if you don ' t it will be difficult to differentiate between counterparties .
+existing exposures - how do we assign the collateral rights on existing net exposures to vmac . this will likely be a logistical issue as you must have many counterparties but if the high value ones are few it could be doable , but why would the counterparty agree as he should already have our collateral ( e . g . lc ) or this may require him posting more .
+timing - this might be implemented by end of ql , but is unlikely to give you immediate benefit .
+cost - am not sure what us brokerage is but this seems to be equivalent to 40 % of brokerage as it is being paid on both sides . does this destroy margins .
+threshold - would there be a credit threshold as if not this would be very onnerous on all parties .
+quick win :
+effectively you are using collateral received to post collateral through a sleave . would it not be possible to negotiate this directly with a counterparty given a select few who require high postings currently . in either case you would have to negotiate adjustment to collateral but if it can be done without a sleave but with a bigger haircut then you would avoid the delay in setting this up wholesale . i do not know if this is legally possible .
+i ' ll call to discuss and if you want me to do more detailed work let me know .
+m
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : 27 november 2001 16 : 04
+to : romano , marcello
+subject : fw : vmac transaction
+i ' ll get you working
+- - - - - original message - - - - -
+from : eichmann , marc
+sent : wednesday , november 21 , 2001 2 : 51 pm
+to : kitchen , louise ; lavorato , john
+cc : richter , brad
+subject : vmac transaction
+louise and john :
+here is a general description of the transaction we are negotiating with vmac ( virtual markets assurance corporation ) - fsa ( financial securities assurance ) . fsa is an aaa rated insurance company large enough to provide us with a credible deal .
+here are the deal highlights :
+fsa would wrap enron ' s credit exposure as follows :
+1 ) in case of default fsa would liquidate the contracts sleeved to them by enron and use the proceeds of in the money transactions to pay for out of the money transactions .
+2 ) in case enron is out of the money in the portfolio of trades sleeved to vmac . fsa would pay the counterparties with the 100 % collateral previously posted by enron and managed on a day to day basis .
+fsa has mentioned the possibility of extending a line of credit to enron based on its net collateral position ( ~ $ 1 . 3 billion as of today ) and the net mark to market position ( ~ $ 1 . 4 billion to date ) . haircuts on the line of credit would have to be negotiated and might be significant .
+fsa - vmac would receive as compensation the fee structure described under terms and conditions . under the current structure the only risk fsa - vmac is exposed to is the risk of simultaneous default by enron and another counterparty and the operational risk of marking to market the positions and liquidating the contracts .
+please find enclosed the following :
+1 ) transaction structure : describes the payment logic in case of default
+2 ) terms and conditions : describes the terms and conditions under negotiation for the contract
+3 ) collateral haircuts : describes the collateral haircuts on the securities posted to fsa to guarantee our net mark to market position ( if out of the money )
+4 ) fsa snapshot
+5 ) fsa rating : aaa qualification of fsa by moody ' s
+please feel free to contact me or brad richter to clarify any doubts with respect to this ,
+marc eichmann
+work 713 345 - 8422 , cell 713 870 - 2696
+manager transaction development
+enrononline llc
+> > > > >

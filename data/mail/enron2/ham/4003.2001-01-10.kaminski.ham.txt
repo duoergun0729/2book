@@ -1,0 +1,20 @@
+Subject: storage model change : commodity delta
+dear all ,
+i change the storage model output to its total value versus the unit value
+before .
+the total value refers to the total present value of the storage capacity at
+given
+status ( initial conditions ) .
+the way i calculate the unit value is
+( total pv - s * capacity taken ) / total capacity
+which could suffer some negative numbers since s , the spot price could be
+very high . the correct way is to define the s as the average injection gas
+price , but
+this would be troublesome to compute .
+by switching to total pv , the delta can be interpreted as total commodity
+delta for the
+hedge . actually , duffie also suggested using the total pv as the output in
+his audit
+review .
+i have attached the xll model below .
+zimin

@@ -1,0 +1,37 @@
+Subject: re : items requiring attention
+more information than you want .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by bob m hall / na / enron on 04 / 02 / 2001 11 : 05 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : tommy yanowski / enron @ enronxgate on 03 / 30 / 2001 12 : 27 pm
+to : " dbsimpson @ aep . com @ enron " @ smtp @ enronxgate , tyanows @ enron . com @ smtp @ enronxgate
+cc : dabanks @ aep . com @ smtp @ enronxgate , kdwissner @ aep . com @ smtp @ enronxgate , tjgoldstein @ aep . com @ smtp @ enronxgate , edward d gottlob / hou / ect @ ect , bob m hall / na / enron @ enron , " sbjackson @ aep . com @ enron " @ smtp @ enronxgate
+subject : re : items requiring attention
+don : i tried to call you when i had a minute to discuss your note . i will respond to your questions in this email but we still need to talk asap . if you call back and get my phonemail please call me on my cell phone at 713 - 539 - 7094
+- - - - - original message - - - - -
+from : dbsimpson @ aep . com @ enron [ mailto : imceanotes - dbsimpson + 40 aep + 2 ecom + 40 enron @ enron . com ]
+sent : friday , march 30 , 2001 6 : 56 am
+to : tyanows @ enron . com
+cc : dabanks @ aep . com ; kdwissner @ aep . com ; tjgoldstein @ aep . com
+subject : items requiring attention
+tommy -
+here are some items that we need some help from you to achieve :
+it has always been my understanding that there would be a complete
+separate instance of all required tables to run hpl ' s business and as a
+result we would be able to run all required enron software to maintain
+our business independent of enron . we have just been told that we will
+not have access to the customer tables to add new customers and that
+this must be accomplished through enron . if this is true , it is not
+acceptable . could we please discuss ?
+[ yanowski , tommy j . ] in our original proposal , when we offered up a long term service deal the fee structure covered us setting up a totally seperate environment for hpl / aep . it would take somewhere between $ 3 - $ 5 mm in hardware to duplicate our environment for hpl . you guys came back and said you just wanted something for an interim time period at a lower cost . it was then that we offered letting you use our applications running on our boxes and on the same database . most of our applications have enough application and database level security that we can keep enron ' s data seperate from hpl / aep ' s . there are two applications , erms & cpr where we felt it necessary to create a duplicate environment due to security concerns . remember security cuts both ways and we don ' t want you looking at enron ' s data just as much as you don ' t want enron looking at yours . never the less the hardware to run these two applications plus setting up the terminal server environment plus the resource time is costing us about $ 500 k . hence the charge for set up costs . there are three areas where enron and aep will be sharing data . they are in the global reference data area :
+global common codes : your codes for mmbtu and us dollars will be the same as ours .
+global facilities : your access to pipeline , meter numbers and drn numbers will be the same as ours . all of this information is public knowledge and is provided to us via ihs energy who is the gisb certified provider of this information to the industry . you will have the ability to update you own meter information .
+global counterparties : you will be sharing customer names and addresses such as those for settlements or statements with enron . we can identify within the counterparty system who uses which address . in that way we can filter the view to the business units so that they only see those customers that they deal with . the process for hpl / aep is the same that is used across enron . our retail business units only see their customers and ena only see theirs . the reason we only have one group updating this information is because if ees starts doing business with someone who is already a customer of ena then we wouldn ' t want to duplicate that customer information . it helps us roll up total credit exposure across enron for a customer . the people who update this information are seperate from the rest of the business units and are instructed not to share any customer information even though most of it is public knowledge if you look up that customer on the internet . let me know in detail what your concern is . the ena trading community will not know who your customers are and vice versa . they will not know what addresses you use and vice versa . there are only a few people across enron who can find out this information and they are enron net works employees who provide this service to all of enron as well as the 3 rd party customers we are providing it services for . you will have a web interface to view your own customer information and to request updates or additions .
+it looks like we will need access to dcaf in order to send out
+confirmations for physical contracts executed on behalf of hpl . do you
+foresee any problems with this ?
+[ yanowski , tommy j . ] we can provide confirms for those spot and 30 day deals that hit sitara and dcaf ii . all this is set up and is ready to go . long term and financial deals for enron also flow into tagg and into erms . it is from tagg that long term and financial confirmations are generated via dcaf i . i had been told that you will not be using erms for forward risk and would be confirming deals out of zainet so we did not set up a seperate tagg and dcaf i environment to go with the seperate erms and cpr environment needed for intramonth valuation . we need to talk about this asap . i need to understand what if anything you will be confirming out of zainet . if you want to change your mind this late in the game and let enron confirm everyting except for financial deals then i need to know asap so that we can begin scrambling to see if we can set this up in time . we actually have put in code to block generating hpl / aep confirms that now needs to be removed .
+also -
+i extended offers to ken ellerman and greg lind yesterday with a start date
+to be mutually determined and worked out between you and me .
+[ yanowski , tommy j . ] thanks for letting me know . have you communicated anything to dave stadnick . i probably need to talk to him and let him know how much we need him but it would be nice for me to know what he is aware of before i meet with him .
+kindest regards ,
+don

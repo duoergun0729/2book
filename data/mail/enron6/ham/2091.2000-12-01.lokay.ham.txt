@@ -1,0 +1,28 @@
+Subject: must read : isc . enron . com
+with the completion of the enron sap implementation known as " apollo &
+beyond " in august 2000 , a new organization , the integrated solutions center
+( isc ) , was formed . the isc is a support organization for enron - wide back
+office information systems which , of course , includes sap users and the sap
+system .
+the web is an integral form of support for our customers and as you may know ,
+the isc recently launched a new website in order to better serve its
+customers and to reflect the widening scope of services the isc has to
+offer .
+from friday lst december 2000 sap . enron . com will route to isc . enron . com in
+preparation for the final closure of the " old " website on tuesday 5 th
+december 2000 .
+all due diligence was taken when verifying and validating documents that were
+migrated from the old to the new site . in order to assist you in navigating
+around isc . enron . com , please note the following navigation tips :
+- online forms reside at isc . enron . com > online forms
+- non - online forms ( formerly at sap . enron . com > quick ref tools ) reside in
+the document library at isc . enron . com > online forms > other forms
+- documentation ( ie user procedures , quick ref cards , step - by - steps ) reside
+in the document library at isc . enron . com under get help > document library
+please take a moment today to visit http : / / isc . enron . com and familiarize
+yourself with the new site if you haven ' t already been able to do so .
+questions & comments
+website only : call the isc call center at 713 - 345 - 4 sap , or send an e - mail
+from the site to the isc webmaster .
+site or documentation content : call the isc call center
+thank you .

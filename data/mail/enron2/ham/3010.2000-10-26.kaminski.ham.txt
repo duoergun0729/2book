@@ -1,0 +1,40 @@
+Subject: re : further actions on anjam ' s departure
+anjam has told me he is not going to an energy competitor ( he mentioned
+weather derivatives as a the only overlap . i therefore see this as low risk
+from a security point of view , so let ' s make sure handover is thorough . you
+might focus our security efforts on his access to weather - related info .
+richard
+steven leppard
+26 / 10 / 2000 17 : 06
+to : melanie doyle / lon / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , dale surbey / lon / ect @ ect , richard
+lewis / lon / ect @ ect
+subject : further actions on anjam ' s departure
+hi mel
+further to our earlier discussions here ' s the full list of actions we ' d like
+to put into place regarding anjam ' s departure :
+hr - type stuff :
+1 . get anjam off the trading floor as soon as possible . there is no need for
+him to remain on the floor . this will need to be delayed until it number 1
+is completed ( cataloguing his work ) .
+2 . determine where anjam is heading . we need to know who is going to know
+our positions and curves next .
+3 . remove his security pass , and insist that he is always accompanied when in
+the building . sharad is to sit with him while he catalogues his work .
+it - type stuff :
+1 . ask him to catalogue the contents of his h : drive , since the rest of the
+group will need to support his work in the future . this should take no more
+than a day or two .
+2 . get it to obtain their backups of anjam ' s h : drive for weekly intervals
+over the last two months . this will allow us to determine what he has
+deleted .
+3 . get it to provide a snapshot of anjam ' s notes folders , and provide records
+of mail sent out to the internet over the last couple of months . i ' m worried
+about code / data he may have zipped up and mailed out .
+4 . ask it to use a utility program to determine what has been deleted from
+anjam ' s c : drives . there may be useful info here too .
+5 . revoke all internet access , whether via explorer or notes mail .
+6 . get a record of all files he has printed over the last couple of months .
+vince has ok ' d this lot , so let ' s do it asap .
+many thanks ,
+steve

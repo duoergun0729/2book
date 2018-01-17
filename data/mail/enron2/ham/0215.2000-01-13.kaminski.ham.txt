@@ -1,0 +1,11 @@
+Subject: model for insurance against cruel oil down side risk
+fred ,
+i have finished a model we talked about a few days ago .
+the option we try to price is a digital on on an asian strip .
+if the average price of the prompt month crude oil in a specified time window
+falls below the strike price , the option pays a lump sum of money secified by
+the " digital payout " in the model .
+as a comparison , i also included european option on the asian strip .
+let me know if you have any questions .
+zimin
+x 36388

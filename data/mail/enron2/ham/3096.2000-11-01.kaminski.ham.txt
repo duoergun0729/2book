@@ -1,0 +1,10 @@
+Subject: approval is overdue : access request for mark . breese @ enron . com
+this request has been pending approval for 2 days and you are the
+alternate . please click
+approval to review and act upon this request .
+request id : 000000000005820
+approver : stinson . gibner @ enron . com
+request create date : 10 / 26 / 00 2 : 27 : 45 pm
+requested for : mark . breese @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

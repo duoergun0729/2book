@@ -1,0 +1,39 @@
+Subject: limit violation notification
+in the spirit of let us make it better - not in ted is chucking blame around ,
+please consider the following issue :
+at the audit comittee meeting , jeff made the comment that the number of and
+timing of the limit notifications caused them to be meaningless . now part of
+that was an attempt by him to diffuse the number of notifications represented
+graphically , but i think that there is an element of truth , particularly of
+late . therefore , i propose that we work toward making that timing faster and
+the impact more meaningful .
+i think the following might help :
+1 ) cassandra will be our point person , therefore it will be faster than
+waiting for the slower , more distracted and less organized me
+2 ) i will propose that we raise the threshholds for notifications ,
+particularly at jeff ' s level - i think that the sheer volume makes an
+impression on rick . unfortunately , i think that it will not be in effect
+until after the dec bd meeting . fyi i have proposed this at least twice and
+have been shot down by greg and rick , but now that a smart guy is proposing
+it , it will probably get more attention .
+3 ) we should use the executive report viewer as the mechanism for delivery .
+i do not know who actually supports that thing so please let me know .
+it has been important to aa for audit purposes to see " evidence " that rick ,
+jeff , ken and bd received appropriate notification - so that needs to be
+considered .
+another possibility would be risktrac . the 3 - d solution contracted for
+contains an " executive view " of " hot spots " . unfortunately , even though
+jeff requested it on his desk top 5 months ago , we can ' t get the it resources
+to pay attention to it . it however , has been interviewed several times for
+magazines and have created such incredibly successful and useful products
+such as energydesk . com , credit . com , en - lighten ,
+. .
+conceptually ,
+notifications should take place before trading begins the next day . this may
+be utopian , but it is fundamentally correct ( just because enron doesn ' t know
+it is supposed to , doesn ' t make it right ) . i am certain that real risk
+management organizations have a mechanism in place for this . it may be
+necessary to create a swag process that is lightning fast with a more exact
+process to follow .
+please have fixed by close of business today .
+ted

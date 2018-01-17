@@ -1,0 +1,31 @@
+Subject: lng hedging
+vince ,
+fyi . this is something the team has been working on with krishna .
+regards ,
+sandeep .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sandeep kohli / enron _ development on
+12 / 21 / 2000 04 : 03 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+sandeep kohli
+12 / 21 / 2000 04 : 00 pm
+to : james a hughes / enron _ development @ enron _ development
+cc :
+subject : lng hedging
+jim ,
+i am attaching below a small draft note prepared by anshuman on lng hedging .
+it talks of two products :
+( 1 ) volumetric options ( where we buy a call on 100 % of the volumes and sell a
+put on 50 % of the volumes to finance the call ) , and
+( 2 ) ratio derivative where we buy two calls at a higher price , and sell one
+at a lower price to finance it . this is not one that the traders agree to ,
+since at the upper price , the calls bought are just at the money , while the
+sold call is in the money , and will cost the seller .
+hence , only option 1 is useful . it could provide risk mitigation in the high
+price scenario , while allowing some participation in low prices . to test it ,
+we used march 2001 period . to have it cost neutral , we would buy a call at
+$ 26 , and sell the put at $ 25 . 15 .
+as we bounce these ideas , i think it is very important that we work closely
+with the global markets group . the team on the ground knows the contracts
+better , and maybe able to give you insights on what can be sold to mseb .
+would love to discuss the same with you .
+regards ,
+sandeep .

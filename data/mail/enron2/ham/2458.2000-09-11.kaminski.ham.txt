@@ -1,0 +1,14 @@
+Subject: more hedge effectiveness testing
+vince ,
+have you seen the latest version of our article ? in a nutshell , it
+establishes both what ' s right and what ' s wrong with r - squared / regression .
+essentially , r - squared is fine provided that the amount of the derivative
+optimal , but otherwise it makes little sense .
+please let me know what you think about this .
+regards ,
+andy
+andrew kalotay associates , inc .
+( 212 ) 482 - 0900
+andy @ kalotay . com
+visit our web - site http : / / www . kalotay . com
+- fasl 33 article . pdf

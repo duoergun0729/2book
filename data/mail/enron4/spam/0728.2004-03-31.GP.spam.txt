@@ -1,0 +1,28 @@
+Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ rg _ t @ ilsp . gr ]
+from paliourg @ iit . demokritos . gr wed mar 31 09 : 01 : 26 2004
+received : from iit . demokritos . gr ( [ 143 . 233 . 247 . 176 ] )
+by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with esmtp id i 2 v 61 kl 22983
+for skel @ iit . demokritos . gr ; wed , 31 mar 2004 09 : 01 : 20 + 0300 ( eest )
+message - id : 200403310601 . i 2 v 61 kl 22983 @ iit . demokritos . gr
+from : rg _ t @ ilsp . gr
+to : skel @ iit . demokritos . gr
+subject : delivery bot ( skel @ iit . demokritos . gr )
+date : wed , 31 mar 2004 09 : 11 : 27 + 0300
+mime - version : 1 . 0
+content - type : multipart / mixed ;
+x - priority : 1
+x - msmail - priority : high
+this is a multi - part message in mime format .
+content - type : text / plain ;
+charset = windows - 1252
+content - transfer - encoding : 7 bit
+mail delivery system - this mail contains binary characters
+- - - - - - - - - - - - - failed message - - - - - - - - - - - - -
+e * utx * 8 j 9 ) o 6 v
+translated message has been attached .
+content - type : plain / text ;
+name = norton antivirus deletedl . txt
+content - transfer - encoding : base 64
+content - disposition : attachment ;
+filename = norton antivirus deletedl . txt
+uubtbsb 2 axjlcy 4 =

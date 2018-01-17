@@ -1,0 +1,74 @@
+Subject: fw : winston
+debbie ,
+this is an update on the continuing winston saga . tanya
+identified the sections of the code that produce inefficiencies
+but the rest is in the winston ' s hands .
+steve stock is very cooperative and takes a very rational , enron - first
+approach to the problem . privately , my concern is that the code , based on
+tanya ' s
+report to me , leaves a lot to be desired . the code tends to be a very
+mechanical
+implementation of the algorithm , developed without a series attempt to
+optimize it .
+let ' s keep paddling along .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 01 / 24 / 2001
+08 : 53 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : stephen stock / enron @ enronxgate on 01 / 23 / 2001 05 : 38 pm
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : fw : winston
+vince ,
+. . . just to keep you in the loop on the tanya / winston issue . . .
+regards
+steve
+- - - - - original message - - - - -
+from : stock , stephen
+sent : tuesday , january 23 , 2001 5 : 36 pm
+to : tamarchenko , tanya
+subject : re : winston
+tanya ,
+i just checked in with the contractors here . . . . . and it looks like it might be
+a good idea for you to spend about 30 minutes with them to give you a guided
+tour of their documentation .
+it ' s presented as a linked set of word documents and visio drawing , with
+links to all the reletive parts as hyperlinks . it ' s pretty good and i imagine
+it will be very usefull to you , but probably requires a little introduction
+first .
+please feel free to come to my office whenever it is convenient . even if i ' m
+not available , the guys are just outside my office and i can easily stop
+whatever i ' m doing to introduce you to the project manager .
+regards
+steve
+- - - - - original message - - - - -
+from : tamarchenko , tanya
+sent : tuesday , january 23 , 2001 4 : 53 pm
+to : stock , stephen
+subject : re : winston
+steve ,
+- we spent about 5 fruitful hours with winston last week .
+- i pretty much understand the data flow when the code runs .
+- i also got an idea where the time is spent during the execution of the code
+by questioning winston .
+i did not see any results of profiling the code . winston ' s opinion is ( as i
+understood ) that he knows how much time is spent
+on different calculations and profiling is not easy to do , so we don ' t need
+to do it .
+- based on above i suggested possible way to reduce the time credit model
+takes to run and we discussed it with debbie , who was
+going to arrange a meeting with winston .
+- it might be useful to look at the documentation created by contractors , if
+you have it handy - send it to me , please .
+thank you ,
+tanya .
+from : stephen stock / enron @ enronxgate on 01 / 23 / 2001 03 : 38 pm
+to : tanya tamarchenko / hou / ect @ ect
+cc :
+subject : winston
+tanya ,
+how ' s it going with code - review from your perspective ?
+. . . did you manage to talk to our documentation contractors ?
+. . . if not , would you me to arrange for them to bring you the documentation as
+it currently stands ?
+regards
+steve

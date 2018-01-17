@@ -1,0 +1,26 @@
+Subject: preliminary dpr
+one of market risk ' s primary responsibilities is to review enron ' s trading
+activities and provide feedback to management , and management ' s expectation
+is that this is feedback and analysis is provided at the beginning of the
+houston trading day . global risk management operations in houston is now
+providing market risk with a enron consolidated preliminary dpr prior to 8
+a . m . houston time , for use in market risk ' s morning meeting where we review
+all of enron ' s trading activities from the prior day . the only information
+missing from this is the uk , and i understand we do not receive the london
+dpr until 10 : 30 a . m , 4 : 30 pm your time .
+i ' m sure you ' re working toward obtaining a final dpr earlier in the day , but
+meanwhile , we ' d like to obtain a preliminary dpr that global ops can
+consolidate for houston management ' s use first thing in the morning , as
+decisions need to be made each day based on enron ' s consolidated exposure ,
+etc . . we understand they ' re preliminary , but we work off preliminary # s
+from houston , and i expect with the 6 hour time difference , your preliminary
+# s will be much firmer than ours . we can start with just p / l and var , so
+it ' s not that many # s we need . i ' m hoping when we get the risktrac feeds
+complete we ' ll be able to see positions earlier as well .
+please let us know when we can begin receiving this information .
+thank you ,
+cassandra schultz
+vp , market risk management
+work 713 853 0429
+cell 713 858 2618
+home 936 321 2185

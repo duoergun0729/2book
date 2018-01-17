@@ -1,0 +1,12 @@
+Subject: nymex info on desktop pc ' s
+one of the deliverables of revenue management is the marketing dashboard
+which , among a veritable cornucopia of features , will include live nymex and
+enron online data pricing feeds . the rollout of the dashboard for nng and tw
+is in the next 2 weeks . however , the nymex data feed won ' t happen till
+august due to technology limitations .
+in the meantime , via our desktops , we all have access to enron online which
+provides live market data that is as good or better than nymex . this should
+suffice in the interim till the dashboard is fully functional . let me know
+if you have questions .
+thanks
+kh

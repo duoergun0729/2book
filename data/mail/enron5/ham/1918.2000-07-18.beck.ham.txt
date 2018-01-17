@@ -1,0 +1,67 @@
+Subject: mg middle office integration : fortnightly newsletter
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by scott earnest / hou / ect on 07 / 18 / 2000 09 : 27
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+tim poullain - patterson
+07 / 18 / 2000 04 : 11 am
+to : ect european middle office
+cc : richard sage / lon / ect @ ect , phil redman / lon / ect @ ect , beth
+apollo / lon / ect @ ect , stephen wood / lon / ect @ ect , michael heap / lon / ect @ ect , alex
+holland / lon / ect @ ect , andrew cornfield / lon / ect @ ect , naomi connell / lon / ect @ ect ,
+fernley dyson / lon / ect @ ect , eric gadd / lon / ect @ ect , scott earnest / hou / ect @ ect ,
+bruce garner / corp / enron @ enron , amita gosalia / lon / ect @ ect , lara
+fields / hou / ect @ ect , fiona grant / lon / ect @ ect , tani nath / lon / ect @ ect , janine
+juggins / lon / ect @ ect , andrea m kerch / lon / ect @ ect , lloyd fleming / lon / ect @ ect ,
+barry sangster / lon / ect @ ect , shona wilson / na / enron @ enron , brent a
+price / hou / ect @ ect , claire wright / lon / ect @ ect
+subject : mg middle office integration : fortnightly newsletter
+hi ,
+as you will have seen today in an announcement is to be made on the
+london stock exchange this afternoon stating we have gone wholly
+unconditional on our offer to acquire mg plc .
+though the accounting consolidation date will be the end of the month , we
+will effectively " own " the trading positions as of close of business
+yesterday ( if anyone wants clarification on the distinction between these two
+dates please call ) . therefore , as far as possible we need to have a
+recognisable " middle office " in place to ensure transparency of trading
+positions and results , efficient and controlled operational processes ,
+segregation of duties ; in a nutshell , no accidents !
+so , where are we . . .
+1 ) last week . . .
+valuation review - andy cornfield and i completed a detailed review of
+trading positions and associated valuations to ensure that from cob
+yesterday , all positions were correctly valued in line with enron ' s valuation
+methodology .
+sap - wayne andrews ( project apollo director ) was over from houston to
+kick - off the " mg migration to sap " project . michael heap will be leading this
+project from london with a focus on establishing a project plan over the next
+few weeks .
+remote offices - mg have offices all over the world and it is important to
+distinguish between " trading " offices , that are permitted to " commit " the
+firm , and origination and representative offices that service the " trading "
+offices . enron staff have been visiting all of mg ' s offices over the past few
+weeks so we can ensure that appropriate controls are established around the
+different types of office .
+2 ) this week
+dpr - yesterday sheila foo produced a dpr for the entire mg operation ,
+sub - divided into five distinct business units for onward reporting to enron
+and mg senior management . mary thambiah will be consolidating the results
+with those of enron europe from cob today - the first day we " own " mg ' s
+trading results .
+doorstep and process review - a " doorstep " controls review was performed by
+brent price two weeks ago , and provisional findings noted . however , a deal
+test is still outstanding and we are inviting aa back to this week to
+complete it . we are also asking aa to document work flow and systems
+processes so we have a better understanding of the integration points as we
+move the mg business on to the enron middle office model .
+3 ) lastly , attention model train enthusiasts . . .
+mg have about eight meters of lgb standard gauge track , a couple of
+locomotives and an array of rolling stock - problem is that the network fell
+over a couple of weeks ago ( i blame it on gerald corbett ! ) . are there any
+model train enthusiasts out there prepared to give up some of there time to
+fix it ? any offers for help will be accepted on a confidential basis -
+anonymity assured ! !
+please don ' t hesitate to call if you have any questions on any of the above x
+34264 .
+regards ,
+tim

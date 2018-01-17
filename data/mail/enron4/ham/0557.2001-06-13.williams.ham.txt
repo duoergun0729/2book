@@ -1,0 +1,17 @@
+Subject: real - time generation for 6 / 14
+group ,
+here ' s what ' s available to sell real - time for wednesday , 6 / 14 .
+harbor : harbgn _ 7 _ units and harbgn _ 7 _ pl 2 x 3
+15 mw must be sold from the steam turbine ( harbgn _ 7 _ pl 2 x 3 ) , hel 0 - 12 , spl 5 , for the best price you can get .
+5 mw must be sold from the gas turbine ( harbgn _ 7 _ units ) , hel 0 - 12 , spl 5 , for the best price you can get .
+wheelabrator martel : martel _ 2 _ amfor
+6 mw available , 7 mw prescheduled , total output equals 13 mw , hel - 24 , npl 5 , for $ 50 or greater .
+they would like to sell at least 3 mw of the 6 mw available for hel 3 - 18 , so please try get something done .
+wheelabrator shasta : wsengy _ 1 _ unit 4
+2 mw available , omw prescheduled , total output equals 2 mw , hel - 24 , npl 5 , for $ 70 or greater .
+sierra pacific holding : we don ' t know their unit id because we ' re not their sc
+20 mw available , 25 mw prescheduled , total output equals 45 mw , hel - 24 , npl 5 , for $ 55 or greater .
+must confirm the trade of the apx trade application , and the apx is their sc .
+if you have any questions don ' t hesitate to contact either chris foster or myself .
+thanks ,
+stan

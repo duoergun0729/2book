@@ -1,0 +1,27 @@
+Subject: uk rpi model
+hi zimin !
+please find attached for your review the uk rpi model , derived by
+bootstrapping rpi swaps .
+it ' s a very simple model and here are its specifics :
+swap structure
+payment : semi / semi act / 365 f
+>
+> yoyukrpi = ( ukrpi ( p - 2 ) / ukrpi ( p - 14 ) - 1 ) / 2
+> p = payment month
+>
+the first payment is the latest known historical rpi , february 2000 , 2 . 32 % .
+assumptions
+* constant cashflows between the quoted years ( as opposed to interpolating
+swaps which distorts the curve a lot ) . this explains the atrocious look of
+the " raw " curve . it is then smoothed with a macro , which anjam wrote .
+* mid point of the swaps is used for deriving the curve ;
+* discount rate is libor and i solve for the coupon rate , which is the rpi
+yoy rate ;
+* the above is solved separately for each quoted period ( e . g . 2 yrs , 5 yrs )
+and rpi rates are determined for the incremental portion .
+by forecasting rpi in the above method we are able to lock in and deliver the
+forecasted levels .
+looking forward to your comments and seeing you in london !
+best regards ,
+martina
+x 34327

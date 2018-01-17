@@ -1,0 +1,22 @@
+Subject: start date : 12 / 17 / 01 ; hourahead hour : 3 ;
+start date : 12 / 17 / 01 ; hourahead hour : 3 ; no ancillary schedules awarded . variances detected .
+variances detected in energy import / export schedule .
+log messages :
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2001121703 . txt
+- - - - energy import / export schedule - - - -
++ + + hour 3 - bad data from iso .
+trans _ type : final
+sc _ id : ectstca
+mkt _ type : 2
+trans _ date : 12 / 17 / 01
+tie _ point : pverde _ 5 _ devers
+interchg _ id : enrj _ ciso _ 5001
+engy _ type : firm
++ + + hour 3 - bad data from iso .
+trans _ type : final
+sc _ id : ectstca
+mkt _ type : 2
+trans _ date : 12 / 17 / 01
+tie _ point : malin _ 5 _ rndmtn
+interchg _ id : enrj _ ciso _ 3001
+engy _ type : firm

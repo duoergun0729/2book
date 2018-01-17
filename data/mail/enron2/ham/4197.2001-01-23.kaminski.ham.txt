@@ -1,0 +1,36 @@
+Subject: risk article
+fyi .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vasant shanbhogue / hou / ect on 01 / 23 / 2001
+09 : 06 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ben parsons
+01 / 23 / 2001 08 : 51 am
+to : nigel price / lon / ect @ ect , george albanis / lon / ect @ ect , markus
+fiala / lon / ect @ ect , jean - sebastien fontaine / corp / enron @ enron , katherine
+siig / eu / enron @ enron , amitava dhar / corp / enron @ enron , vasant
+shanbhogue / hou / ect @ ect , ilan hershkovitz / lon / ect @ ect , greg
+hedger / lon / ect @ ect , david a wall / risk mgmt / lon / ect @ ect , simon
+brooks / lon / ect @ ect
+cc : bryan seyfried / lon / ect @ ect , steven leppard / lon / ect @ ect
+subject : risk article
+everyone should read the attached risk article about calculating def probs
+from cds quotes .
+amazingly it is in pretty close agreement with our own methodology for both
+cds valuation and reverse engineering def probs . the only extension in the
+reverse engineering is that instead of linearly interpolating cds quotes ,
+they propose minimising an error measure based on ' smoothness ' of def prob
+curve and difference between model and market prices .
+what is also amazing is the fact that this article has been published in
+risk , given that it is essentially the same as my credit pricing paper , plus
+one excellent idea . given extra time , resources and brainpower , there is no
+reason why we shouldn ' t have similar work published ourselves .
+ben
+( thanks steve for pointing this article out )
+- - - - - - - - - - - - - - - - - - - - - - forwarded by ben parsons / lon / ect on 23 / 01 / 2001 14 : 40
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+london fax system 2
+23 / 01 / 2001 14 : 09
+to : ben parsons / lon / ect @ ect
+cc :
+subject : new fax received ( likely sender : + 44 20 7783 8076 ) .
+you have received a new fax from + 44 20 7783 8076
+the image contains 3 page ( s ) .

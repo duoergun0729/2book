@@ -1,0 +1,93 @@
+Subject: re : progress
+steve ,
+thanks a lot . i think that having the pseudo code will go a long way towards
+understanding how the system works and making sure that there are no
+bugs in translation of a business problem ( for example , complicated
+credit insurance deals with multiple triggers and conditionality ) into the
+code .
+regarding tanya ' s attitude . just a few points .
+1 . i don ' t think she has the skills to do the system administrator ' s work
+and she does not have the
+necessary privileges . this explains why she keeps asking winston for help .
+it ' s
+not that the work is beneath her .
+2 . some members of tanya ' s team came to me complaining about winston .
+he effectively told them to go away and work on the " research projects "
+and that he would take care of the it issues . i don ' t think that it ' s just
+tanya ' s issue ,
+though i agree that a more outgoing personality would be helpful .
+3 . the reality of this situation is that the internal customers beat on
+tanya and
+me whenever there is any performance problems and / or they intuitively
+disagree with the results of a run . they could not care less about the
+demarcation line between it and research . they also want tanya
+to sign off on the model and she cannot do it without full access to the code .
+the bottom line is that we are in full agreement : tanya and
+winston have to work as a team and i shall work on my end to make sure that
+it happens .
+credit is emerging as a critical issue for enron for the next few weeks and
+the system cannot fail .
+vince
+from : stephen stock / enron @ enronxgate on 01 / 11 / 2001 08 : 23 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : progress
+vince ,
+i got feedback from the lunchtime research meeting that you were talking
+about some specific solutions to performance of it systems . . . in particular
+distributed processing . also i heard that you had concerns about the use of
+multiple languages etc . . . .
+both of these sound like what i was discussing with you on previous
+occasions . . . do you feel the need to discuss these further ?
+the multi - language issue isn ' t really that much of an issue , as the current
+system is 98 % java right now . although i am a big fan of c / c + + ( it is my main
+development skill ) , i am also very aware that java is a much more evolved
+and robust language . i had serious doubts about the performance , but i ' ve had
+a review conducted , and the results are showing the sun unix implementation
+to be nearly as fast and in some cases faster than c / c + + because of something
+they call hot - spot technology . ( its an instruction caching technique , i
+believe ) . the concerns i expressed to you , were really about how technical
+people justify the use of a language on the strength of a relatively
+meaningless metric like portability .
+on the issue of distributed processing . . . the original review i had conducted
+by our architecture group pointed to that as a solution , and as zhiyong wei
+is already working on global valuation project , winston is actively working
+with zhiyong to see if he can model the var architecture on that , and also to
+find a common valuation piece between the systems .
+i ' d like the opportunity to talk to you about these issues if you have some
+time over the next few days ?
+also , i sat in on the tanya / winston meeting yesterday and as per our
+discussion at the elevator , i attempted to help her argument by suggesting to
+all present that she was trying to perform triage on the code . . . i . e .
+seperating research domain problems from it problems .
+she said that stepping through code was the only real way in which she could
+get a feel for where performance bottlenecks were . i asked her how she would
+measure that , and she said she would instrument the code manually by
+inserting timing elements at strategic points . i mentioned that a profiling
+tool could probably do this job for her . tanya again said that stepping
+through code is the only way she can get an idea of the code , and that
+studying documentation wasn ' t enough .
+about 6 weeks ago , i commissioned a team to document the system down to
+psuedo - code level and will be able to provide this to you and your team soon .
+( in fact i ' ve asked for a draft copy to be given to tanya right now ) , and
+winston is also working on a draft research / it " working together " document ,
+which will identify how the exchange of information takes place .
+tanya also gave the impression that she wants a dedicated it developer to do
+all the environment setup for her , because she doesn ' t really want to have to
+do that . i think that this is probably the root cause of the issue . the it
+guys are working very hard and her handling of the situation is not good , as
+it gives the impression that this kind of work is beneath her . she is
+claiming that they are un - cooperative . . . . they are claiming that she
+continually asks the same questions about set - up over and over again , and
+doesn ' t seem to want to learn how to do it . winston on the other hand , could
+be more proactive in determining what is a business related model issue and
+an it issue and ask for help from research .
+i think you debbie and i need to work quite hard to get them to play nicely .
+i have asked tanya and winston to go ahead and work very closely together
+over the next few days . . . . and debbie brackett and i will review their
+progress on friday .
+in the meantime l ' ll be looking at setting up a working test environment that
+doesn ' t involve my main quant guys in day to to day setup issues as a longer
+term solution .
+regards
+steve

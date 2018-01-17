@@ -1,0 +1,38 @@
+Subject: benchmark
+fyi . . . according to jeff , by the end of today the only position that will
+require manual adjustment is an im canada position ( 60 k ' s ) that will be
+fixed next monday when kam keiser goes back to calgary . everything else is
+now automatically feeding to the grms system ( and var calculations ) without
+human intervention .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brent a price / hou / ect on 06 / 13 / 2000 10 : 20
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : jeffrey c gossett 06 / 13 / 2000 04 : 01 pm
+to : steve jackson / hou / ect @ ect , michael e moscoso / hou / ect @ ect
+cc : brent a price / hou / ect @ ect
+subject : benchmark
+steve - mike asked me to send him a list of what we had done to improve the
+top - level adjustments on the benchmark . here are the things which we
+discussed earlier .
+mike - let me know if you need anything else .
+we have lowered the number of top - level adjustments substantially this week .
+we have taken several steps in order to achieve this .
+1 . we had to adjust formatting in all text files which go into grms .
+2 . we are using a flip - out book for all canadian deals done with the u . s .
+office so that canadian positions are pulling in correctly .
+3 . we had to adjust many book names in order that grms would pull the books
+into the system .
+4 . we had to change region codes in the system so that grms would pull in
+more than one book per region .
+issues remaining :
+intra - month canada
+chicago
+storage and intra - east
+intra - month canada - we have a risk person from the u . s . office going to
+canada on monday to fix their problems .
+chicago - will be fixed by the end of the day . system is looking for the
+wrong portfolio code .
+storage and intra - east - also will be fixed by the end of the day . overide
+books need to be set up .
+thanks
+jg

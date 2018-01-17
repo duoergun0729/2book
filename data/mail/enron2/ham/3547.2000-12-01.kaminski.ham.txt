@@ -1,0 +1,36 @@
+Subject: re : for your approval
+erica ,
+yes , no problem .
+vince
+information risk management
+12 / 01 / 2000 09 : 50 am
+to : gary taylor / hou / ect @ ect , vince j kaminski / hou / ect @ ect , stinson
+gibner / hou / ect @ ect
+cc :
+subject : for your approval
+please let me know if he is approved .
+thanks ,
+erica garcia
+- - - - - - - - - - - - - - - - - - - - - - forwarded by information risk management / hou / ect on
+12 / 01 / 2000 09 : 39 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+security resource request system
+directory line item pending access processing
+directory name : o : \ weather derivatives \ , o : \ research \ common
+service type : grant
+expiration date :
+comments :
+security processing
+processing status :
+e - mail message :
+comments / justification :
+general information request : jhrc - 4 rkjjz
+requested by : joseph hrgovcic / hou / ect phone : 33914
+requested for : joseph hrgovcic / hou / ect employee type :
+company : 0011 rc # : 100038
+priority : high
+comments / justification : i have a test windows 2000 machine running ( with
+userid t _ weatherol , for which i need access to o : \ research \ common and
+o : \ weather derivatives \
+editing history ( only the last five ( 5 ) are shown )
+edit # past authors edit dates
+1 information risk management 11 / 30 / 2000 12 : 30 : 19 pm

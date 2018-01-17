@@ -1,0 +1,5 @@
+Subject: wti simulation presentation - the latest
+john ,
+this is the updated presentation for the open - close assumption .
+i will finish the close - close ( continuous trading ) case .
+zimin

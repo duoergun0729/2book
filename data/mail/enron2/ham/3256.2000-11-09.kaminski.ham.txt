@@ -1,0 +1,184 @@
+Subject: alliance info alert - ferc reporting
+attached is a summary of recent ferc activities ( pdf file ) and the weekly
+alliance express . the following is a summary of the most recent ferc meeting ,
+followed by a listing of the most recent ferc filings .
+in a brief meeting yesterday , ferc approved a final rule adopting section 203
+merger filing requirements , generally as proposed , and extended the existing
+nyiso bid cap in its non - spinning reserves market and the related mandatory
+bidding requirement until such time that the new york market can be
+determined to be " workably competitive . " at the same time , ferc ordered a
+technical conference to explore changes to the nyiso reserves market , and
+urged market participants to reach a consensus on a preferred solution , next
+steps , and deadlines for resolution / implementation . additional details are
+provided below .
+ferc updates , streamlines merger filing process
+ferc unanimously approved its proposed order revising the reporting
+requirements for mergers . however , comm . hebert did so with reservations , as
+discussed below . commission staff stated that the order closely follows the
+notice of proposed rulemaking previously issued , but adds more detail and
+more certainty to the industry . staff stated that the order is improved over
+the proposed rule because it includes exemptions from reporting for certain
+entities and it more precisely defines geographical areas and products .
+according to ferc , the draft order :
+- revises the commission ' s filing requirements to reflect existing merger
+policy based on ferc ' s 1996 merger policy guidelines ;
+- provides more detail for the industry in developing competitive market
+analyses . the rule continues the existing screening process for mergers with
+potential horizontal competitive concerns . in addition , the rule establishes
+informational requirements for vertical competitive analyses .
+- streamlines filing requirements for transactions that do not raise
+competitive concerns ; and
+- reduces the industry ' s regulatory burden by eliminating outdated filing
+requirements .
+the rule will take effect 60 days after its publication in the federal
+register .
+commissioner reaction :
+comm . hebert expressed reservations that , although he was voting for the
+rule , ferc should not be duplicating the department of justice ( doj ) and the
+federal trade commission ( ftc ) market concentration analyses and that ferc
+should follow the lead of anti - trust enforcement officials , who could also
+analyze mergers faster and more confidentially . he also stated that ferc
+should review the filings after the doj or the ftc review them , not before ,
+and that there should be a definite time frame for review . hebert did
+mention that he was pleased that rtos and the disposition of transmission
+assets would be exempt , that ancillary services would be considered as a
+separate product and that the final rule opens the door for alternative
+market analysis .
+comm . breathitt supported the final rule , stating that it should expedite the
+approval process and that the regulatory burden should be eased due to the
+fact that older , irrelevant requirements have been dropped . she indicated
+that the final rule balanced the need for speedy decisions while protecting
+the public interest by stating that the process will be " efficient yet
+sufficient " . the commissioner said that she was pleased the final rule
+addressed technical issues such as computer modeling as well as retail
+competition and one of her main concerns , confidentiality .
+comm . massey fully supported the final rule , emphasizing that it would
+improve response time , lessen the need to ask for more data and allow the
+industry to better predict commission actions . like commissioner breathitt ,
+massey was pleased that the order will allow market modeling analysis that
+will better enable ferc to evaluate market concentration and allow applicants
+to point to other factors when concentration appears too high . massey also
+stated that the new rule includes the ability to address many of ferc ' s
+concerns , such as future mergers when they occur in succession , retail
+competition , mitigation by the enlargement of markets through rtos and
+analysis of ancillary services . in sum , he averred that the order will
+provide ferc with the tools it needs for accurate analysis , while taking into
+consideration the rapid changes in the industry .
+chairman hoecker also voiced his support and noted that he felt that this was
+a very important rule . in response to comm . hebert , chairman hoecker said
+that the doj and ftc actually wait for ferc ' s report before issuing their
+own , that the anti - trust enforcement agencies rely on ferc ' s expertise when
+reviewing mergers in the electric and gas industries . there is a major
+positive connection between industry consolidation and rtos and that both are
+reconfiguring the markets and effect how they work , he noted . because the
+rtos enlarge the size of the subject market , he indicated , rtos will help to
+preserve competition . therefore , more and larger rtos should allow for more
+mergers , he said . the chairman cautioned that this is not to imply that
+joining an rto is a requirement for a merger , but that it would certainly be
+viewed favorably .
+nyiso bid caps extended until ancillary service market shown to be workably
+competitive
+in a 3 - 1 decision , with comm . hebert dissenting , ferc extended the existing
+nyiso bid cap in its non - spinning reserves market and the related mandatory
+bidding requirement until such time as that market can be determined to be
+" workably competitive . " at the same time , ferc ordered a technical
+conference to explore changes to the nyiso reserves market , and urged market
+participants to reach a consensus on a preferred solution , next steps , and
+deadlines for resolution / implementation .
+in so doing , ferc rejected certain aspects of nyiso ' s september 1 and 8 , 2000
+compliance filing , submitted pursuant to its may 31 , 2000 order imposing a
+temporary bid cap through october 31 . the iso ' s efforts to correct market
+flaws identified in the order and further strengthen market performance had
+not yet satisfied the commission ' s directives , ferc concluded . ferc found
+that while nyiso has achieved solid progress in certain areas , overall the
+iso has not shown sufficient improvement to warrant raising and then
+gradually lifting the temporary bid cap in the iso ' s non - spinning reserve
+market by april 2001 , as the iso requested .
+commissioner reaction :
+comms . hoecker , massey and breathitt all endorsed the order as an " imperfect
+solution , " yet a pragmatic approach toward resolving the flaws plaguing the
+iso ' s market . comm . hebert faulted the commission for squandering an
+opportunity to incentivize additional supply by lifting the price controls .
+hoecker and breathitt joined hebert in expressing disappointment in the lack
+of the iso ' s progress , but contended that significant outstanding issues must
+be resolved before the bid cap can be lifted .
+in other action , ferc accepted nyiso ' s and nepool ' s proposed emergency energy
+transaction agreement , allowing nyiso and iso - ne to provide emergency service
+to each other ( ero 0 - 3638 - 000 ) ;
+stricken items included cae - 16 ( nepool ' s 64 th agreement amendment proposing
+the elimination of in service and instituting new rules governing certain
+import transactions ( ero 0 - 3577 - 000 ) ) .
+= = recent ferc filings = =
+( 1 ) rto developments
+* iso ne submitted its changes to market rule 17 , market monitoring ,
+reporting and market power mitigation , in compliance with the commission ' s
+july 26 , 2000 order . erol - 368 - 000 . filed november 1 , 2000 .
+* iso ne submitted its special interim market rule in compliance with the
+commission ' s july 26 , 2000 order . ero 0 - 369 - 000 . filed november 1 , 2000 .
+* illinois industrial energy consumers filed to intervene regarding dynegy ' s
+filing to request approval for the withdrawal of the illinois power co . from
+the miso . erol - 123 - 000 . filed november 6 , 2000 .
+* el segundo power filed a motion " requesting order on request for rehearing
+by date certain " in complaint that challenges the ca iso ' s ability to set the
+rates for the energy that it can compel generators to produce for reliability
+under its standard form contract . ero 0 - 1830 - 001 . filed november 3 , 2000 .
+* ca iso filed an unbundled grid management charge in order to recover its
+administrative and operating costs . erol - 313 - 000 . comments due by november
+22 , 2000 .
+* nepool submitted supplemental information related to its filing of the
+sixty - fourth agreement amending the nepool agreement , which proposed the
+elimination of in service . ero 0 - 3577 - 000 . comments due by november 14 , 2000 .
+( 2 ) oatt / transmission
+* duke energy filed an amendment to its catawba interconnection agreement
+with north carolina electric membership coop . erol - 282 - 000 . comments due by
+november 21 , 2000 .
+* duke energy filed an amendment to its catawba interconnection agreement
+with the saluda river electric coop . erol - 281 - 000 . comments due by november
+21 , 2000 .
+* duke energy filed an amendment to its catawba interconnection agreement
+with north carolina municipal power agency no . 1 . erol - 280 - 000 . comments
+due by november 21 , 2000 .
+* alliant energy , on behalf of ies utilities , interstate power and wisconsin
+power and light , filed new rates under its oatt to reflect the transfer of
+certain transmission facilities to american transmission co . erol - 312 - 000 .
+comments due by november 22 , 2000 .
+* wolverine power supply coop . filed to change its rate schedule ferc no . 4 ,
+wholesale service to member distribution coops , to make the debt
+restructuring charge applicable to all energy delivered to its member coops ,
+to add standby service rates and to remove references to entities that no
+longer exist . erol - 285 - 000 . comments due by november 21 , 2000 .
+* wolverine power supply coop . filed an amendment to its oatt to accommodate
+michigan retail choice and to add delivery scheduling and balancing service
+as a new service for generators interconnected to its transmission system .
+erol - 286 - 000 . comments due by november 21 , 2000 .
+* potomac electric power filed a revised attachment h - 9 to the pjm oatt
+reducing the other supporting facilities charge for lower voltage deliveries
+in the pepco zone of pjm to southern maryland electric coop . erol - 336 - 000 .
+comments due by november 22 , 2000 .
+* wolf hills energy filed a motion to intervene out of time to support the
+interconnection and operation agreement between itself and american electric
+power service corp . and to deny the protest of tva . ero 0 - 3688 - 000 . filed
+november 6 , 2000 .
+( 3 ) complaints
+* aep and southwest power pool each filed an answer to enron ' s motion for
+summary disposition regarding enron ' s complaint , in response to aep ' s updated
+market analysis , that aep service corp . administered the aep oasis and tariff
+in a manner favoring aep ' s merchant function . er 96 - 2495 - 015 , et . al . filed
+november 6 , 2000 .
+* potomac electric power ( pepco ) and the southern parties filed a motion to
+answer the protest of southern maryland electric coop and panda - brandywine
+regarding pepco ' s divestiture of generation assets pursuant to restructuring
+initiatives in maryland and the district of columbia . eco 0 - 141 - 000 and
+ero 0 - 3727 - 000 . filed november 6 , 2000 .
+* dunkirk power , huntley power and oswego power filed a motion to answer
+protests filed by numerous entities regarding ferc ' s jurisdiction over
+station power . elo 0 - 113 - 000 . filed november 6 , 2000 .
+* allegheny energy supply and ppl montour filed an answer to protests
+regarding their purchase of certain jurisdictional facilities . ero 0 - 3727 - 000
+and eco 0 - 141 - 000 . filed november 6 , 2000 .
+( 4 ) mergers / corporate restructuring
+( 5 ) miscellaneous
+= = other news = =
+* s & p revises miso outlook to negative
+- allianceexpressl 10700 . doc
+- ffl 10300 . pdf

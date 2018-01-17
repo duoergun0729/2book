@@ -1,0 +1,64 @@
+Subject: ena sap project
+as you know , we have substantially wrapped up our work related to this
+project . today , we are making what i hope are final changes to the maps and
+deliverables , with the anticipation that we will deliver to you complete
+binders by wednesday .
+one issue that we wanted to communicate relates to the use of manual payment
+processes and the risk that processing manual payments presents in the
+automated unify / sap environment . this issue was raised by melissa during our
+discussion of the manual cash reconciliation effort caused by the inability
+of sap to auto - match cash receipts and disbursements in situations where the
+money has moved or been received , but the corresponding je has not been made
+in sap . both melissa and cindy morrow have been involved in subsequent
+discussions related to the below - mentioned risks .
+1 . risk of je and payment duplication :
+payments taken directly to treasury and underlying transaction is recorded in
+unify :
+in the event that the transaction giving rise to the manual payment is
+entered initially into unify ( which would be the case for all normal
+commodity payments , excluding broker fee and broker margin payment
+transactions ) , a risk exists that the payment could be recorded and paid
+twice ( once by either a / p or treasury when the manual payment is wired and
+subsequently recorded , and once during the normal unify to sap interface ) .
+process controls will be put in place to mitigate this risk ; however , all
+controls will be people - based , not system - based . it is too late to rebuild
+the unify to sap interface to better address the use of manual payments . one
+additional suggestion might be to work with each group to reduce the use of
+manual payments except under well - defined , important circumstances .
+payments taken to treasury , and underlying transaction is recorded directly
+to sap ( does not go through unify ) :
+if the payment is not entered into sap with payment method " j " , a / p will not
+realize that the payment has already been made and will process the
+disbursement a second time .
+2 . risk of understated expense :
+payments taken to treasury and underlying transaction is recorded in unify :
+for manual payments that are not finalized in unify ( a process performed in
+the system to mark an invoice as final ) by month - end ( but the disbursement
+has already happened ) , expense will be understated .
+payments taken to treasury , and underlying transaction is recorded directly
+to sap ( does not go through unify ) :
+if payment is not input into sap by month - end but cash has moved , expense
+will be understated . ( cash outflow account will show a credit balance which
+will be flipped to a / p , but no income statement entry will be made at that
+time . )
+3 . risk of cash misappropriation :
+in addition to the above risks related to the use of manual payments , we also
+believe that a risk exists related to the use of excel - generated counterparty
+invoices and the lack of segregation between the person responsible for
+preparing these invoices and also for handling / having access to the related
+accounting records . we believe that it may be possible for a settlements
+coordinator to change the bank routing instructions or bank account number on
+the excel invoice mailed to the counterparty and then manipulate the
+accounting records during the cash application process to either write off
+the account balance or to reflect the receivable as being paid while
+constantly moving cash application balances from one counterparty to another
+( so that no one account balance ages past an acceptable range ) . we have been
+unable to determine a set of control procedures that would mitigate this risk .
+4 . revision to counterparty banking details :
+we are currently investigating the procedure performed by treasury when
+problems with bank account details cause payments to kick - out of treasury
+workstation . if the risk of misappropriation exists related to this
+procedure , we will separately communicate .
+the above may be unclear . if so , we would be glad to sit down with you for
+15 minutes or so and clarify . please let me know if you have any questions .
+thank you for the opportunity to work on this project .

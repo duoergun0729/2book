@@ -1,0 +1,38 @@
+Subject: hedging lng volumes
+stinson / vince ,
+i think this is important to know .
+regards ,
+sandeep .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sandeep kohli / enron _ development on
+03 / 28 / 2001 08 : 23 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+anshuman srivastav
+03 / 28 / 2001 06 : 32 : 20 am
+to : marc de la roche @ ect
+cc : tushar dhruv @ enron , doug leach @ ect , mohan
+gurunath / enron _ development @ enron _ development , rajesh
+sivaraman / enron _ development @ enron _ development , shubh
+shrivastava / enron _ development @ enron _ development , mukesh
+tyagi / enron _ development @ enron _ development ( bcc : sandeep
+kohli / enron _ development )
+subject : hedging lng volumes
+hi marc ,
+dpc would like a swap to hedge its price expsoure on lng . we do understand
+that there exists a basis risk between jcc ( the lng spa index ) and brent ( the
+market index for the product ) and will bear such risk . we also appreciate the
+fact that this is a financial product and irrespective of actual consumption ,
+we will still have to bear the burden ( if any ) of the swap .
+fuel - lng indexed to jcc ( closely correlated to brent futures )
+period volumes ( tbtu ) volumes ( mt ) volumes ( jcc bbls )
+january 2002 to december 2002 33 . 61 650 , 000 9 , 127 , 049
+january 2003 to december 2003 48 . 63 940 , 000 13 , 207 , 496
+january 2004 to december 2004 48 . 63 940 , 000 13 , 207 , 496
+crude swap price : can we look at a ' dirty ' hedge and get a crude ( $ / bbl ) swap
+price . like any other regular swap , this will be a monthly settle product .
+the above conversions from mt to bbls are based on lng conversion factors .
+( 14 . 04 bbls / mt ) .
+we also would like to understand the requirements of the credit group to put
+this hedge in place . please indicate the process as well as the security
+mechanisms to provide adequate credit support for the swap .
+please call me ( 98210 38711 ) or rajesh ( 98201 88310 ) for any additional info .
+regards ,
+anshuman

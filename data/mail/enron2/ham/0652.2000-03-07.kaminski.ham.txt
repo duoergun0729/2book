@@ -1,0 +1,98 @@
+Subject: re : eastern
+unless we can model the protection in some form we will not know what our
+true exposure is . so i need our team reassessing how we can
+model the benefit of the credit proctection . please keep working on this .
+john
+soma ghosh
+07 / 03 / 2000 17 : 57
+to : john sherriff / lon / ect @ ect
+cc : william s bradford / hou / ect @ ect , tanya rohauer / hou / ect @ ect , vasant
+shanbhogue / hou / ect @ ect , bryan seyfried / lon / ect @ ect
+subject : re : eastern
+john ,
+we are currently not modelling the effect of insurance on eastern on an
+individual risk basis . i have spoken at length with houston research &
+credit risk management on this given that the portfolio of risk is
+dynamic , specific allocation of protection is not appropriate . as i mentioned
+in my earlier message there is $ 135 mm cap on any one loss , assuming no losses
+have occured prior to that .
+i am happy to discuss this further with you if required .
+bill , i ' d appreciate any comments you may have re . the above .
+regards ,
+soma
+john sherriff
+06 / 03 / 2000 15 : 06
+to : soma ghosh / lon / ect @ ect , bryan seyfried / lon / ect @ ect , mariano
+gentilini / lon / ect @ ect
+cc :
+subject : re : eastern
+soma
+how are we modeling the affect of the insurance packages on the eastern deal ?
+john
+soma ghosh
+06 / 03 / 2000 11 : 53
+to : john sherriff / lon / ect @ ect
+cc :
+subject : re : eastern
+the protection is not a fixed allocation of protection to individual
+counterparties but covers the global portfolio of risk . enron has in place 3
+tranches of credit insurance covering up to $ 135 mm per event . whilst the
+insurance is not counterparty specific , it would be available for credit loss
+on eastern provided that losses had not been incurred prior to an eastern
+loss . i have already discussed with houston credit risk management at this
+point in time there has been no resolution in finding an appropriate way to
+allocate protection by name .
+summary of insurance :
+enron absorbs the first $ 10 mm of losses in any one year capped at the
+aggregate of $ 30 mm over a ten year period .
+aegis absorbs the next $ 35 mm of losses for the same ten year period .
+chubb will pick up the next $ 50 mm losses for any single event and $ 100 mm in
+losses in the aggregate for 5 years
+rsa takes the next $ 50 mm for losses in excess of $ 95 mm over a five year
+period & covers the top 9 counterparties by exposure
+regards ,
+soma
+john sherriff
+03 / 03 / 2000 18 : 16
+to : soma ghosh / lon / ect @ ect
+cc :
+subject : re : eastern
+soma
+how does the company ' s credit insurance ( done by houston last year ) affect
+this exposure ?
+john
+soma ghosh
+03 / 03 / 2000 16 : 24
+to : john sherriff / lon / ect @ ect
+cc : david weekes / lon / ect @ ect , steve w young / lon / ect @ ect , barry
+pearce / lon / ect @ ect , fernley dyson / lon / ect @ ect , william s
+bradford / hou / ect @ ect , rick buy / hou / ect @ ect , oliver gaylard / lon / ect @ ect
+subject : re : eastern
+please note that total exposure $ number is $ 979 . 8 mm not $ 783 . 2 mm .
+apologies ,
+soma
+- - - - - - - - - - - - - - - - - - - - - - forwarded by soma ghosh / lon / ect on 03 / 03 / 2000 16 : 22
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+soma ghosh
+03 / 03 / 2000 16 : 17
+to : john sherriff / lon / ect @ ect
+cc : david weekes / lon / ect @ ect , steve w young / lon / ect @ ect , barry
+pearce / lon / ect @ ect , fernley dyson / lon / ect @ ect , william s
+bradford / hou / ect @ ect , rick buy / hou / ect @ ect , oliver gaylard / lon / ect @ ect
+subject : re : eastern
+john , as requested :
+total exposure as at 29 feb 2000 : o 620 . 9 mm ( $ 783 . 2 mm )
+eurocash i monetezation : - ol 24 . 7 mm ( - $ 196 . 1 mm )
+less credit derivatives : o 40 . 0 mm ( $ 63 . 1 mm )
+total net exposure as at 29 feb 2000 : o 456 . 2 mm ( $ 713 . 9 mm )
+net month on month increase : ol 25 . 4 mm ( $ 197 . 9 mm )
+total value of eastern group guarantee : o 520 mm ( $ 820 . 6 mm )
+amount backed by txu : zero
+as well as the increase in overall exposure , please note the change in shape
+of the exposure month on month most notably credit exposure now peaking at
+the front end of the transaction ( ex credit derivs . the max exposure is at
+day 1 ) , compare to max . exp . at feb 2005 for month end jan . .
+shape of profile & increase in mtm primarily due to :
+- power curve downward shift at front end yrs 0 - 11
+- power curve upward shift at back end yrs 12 - 18
+- gas curve upward shift yrs 1 - 5 .

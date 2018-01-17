@@ -1,0 +1,89 @@
+Subject: re : rac feeds 29 - sep
+fyi . . .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by debbie r brackett / hou / ect on 10 / 06 / 2000
+01 : 18 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+james new
+10 / 04 / 2000 10 : 24 am
+to : debbie r brackett / hou / ect @ ect
+cc : hugo moreira / lon / ect @ ect , david hardy / lon / ect @ ect , mike
+jordan / lon / ect @ ect
+subject : re : rac feeds 29 - sep
+debbie ,
+for uk power , this was not officialised because we had a curve shift for 25 +
+years which was made in error . for the dpr we put a ' top side ' adjustment
+through but because of the time it would take to re calc no re calc was
+performed . this should have been covered in the daily conference call . was it
+?
+for uk gas , i thought this issue was closed on the conference call . we used
+the 30 th as our month end as a result of the way the month end fell . the guys
+have now clicked the ' officialised ' button for the 29 th if it helps you , but
+we did not use that data ( there shouldn ' t be anything materially wrong with
+it though ) .
+what i think this highlights is that we will have days where we do not
+officialise and do not re run . in these circumstances we will put a top side
+through . we therefore need a mechanism to communicate this top side and i
+would request we get this in place as soon as possible ( this has been
+requested a few times before ) .
+does this answer your questions ?
+james
+from : debbie r brackett
+04 / 10 / 2000 14 : 25
+to : james new / lon / ect @ ect , hugo moreira / lon / ect @ ect
+cc : david hardy / lon / ect @ ect , mike jordan / lon / ect @ ect
+subject : re : rac feeds 29 - sep
+james ,
+just received a note fron steve price that uk power was never approved for
+close of business 02 - oct . can you or someone in your group respond to that as
+well as to my query as to the lack of approval for uk gas for close of
+business on 29 - sep ? ( see below )
+we are making a real effort here to understand why the risk controls groups
+are not receiving data on a reliable basis and input from your group is
+crucial .
+thanks for your help ,
+debbie
+- - - - - - - - - - - - - - - - - - - - - - forwarded by debbie r brackett / hou / ect on 10 / 04 / 2000
+08 : 19 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : debbie r brackett
+10 / 02 / 2000 10 : 18 am
+to : james new / lon / ect @ ect , hugo moreira / lon / ect @ ect
+cc : david hardy / lon / ect @ ect
+subject : re : rac feeds 29 - sep
+please clarify as much as possible .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by debbie r brackett / hou / ect on 10 / 02 / 2000
+10 : 17 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+steve price
+10 / 02 / 2000 10 : 07 am
+to : debbie r brackett / hou / ect @ ect
+cc : david hardy / lon / ect @ ect , phil yoxall / lon / ect @ ect , suzanne
+bain / lon / ect @ ect , jitendra patel / market risk management / lon / ect @ ect , oliver
+gaylard / lon / ect @ ect
+subject : re : rac feeds 29 - sep
+debbie ,
+there is an mtm for the 29 - sep but is has not been approved . however , there
+is also an mtm for 30 - sep which has been approved . i think the risk managers
+would have the answer to why .
+steve
+from : debbie r brackett
+02 / 10 / 2000 14 : 30
+to : steve price / lon / ect @ ect
+cc : david hardy / lon / ect @ ect , phil yoxall / lon / ect @ ect , suzanne
+bain / lon / ect @ ect , jitendra patel / market risk management / lon / ect @ ect , oliver
+gaylard / lon / ect @ ect
+subject : re : rac feeds 29 - sep
+why no mtm for the 29 th , that being the last business day for the month ?
+steve price
+10 / 02 / 2000 06 : 40 am
+to : david hardy / lon / ect @ ect , debbie r brackett / hou / ect @ ect , phil
+yoxall / lon / ect @ ect
+cc : suzanne bain / lon / ect @ ect , jitendra patel / market risk
+management / lon / ect @ ect , oliver gaylard / lon / ect @ ect
+subject : rac feeds 29 - sep
+all
+here are the feed timings for feeds for close of business 29 - sep
+i will send another mail when they have all completed
+approved send to risktrac issues
+uk + cont gas 10 : 59 12 : 31 mtm approved is for 30 - sep . no 29 - sep mtm
+approved
+uk power 10 : 24 running now
+nordic power not yet approved
+steve

@@ -1,0 +1,16 @@
+Subject: fw : request submitted : access request 000000000053327
+the request i put in for you was rejected by stephanie sever . want me to call and raise hell ?
+- - - - - original message - - - - -
+from : arsystem [ mailto : arsystem @ mailman . enron . com ]
+sent : wednesday , august 15 , 2001 11 : 51 am
+to : cox , chip
+subject : request submitted : access request 000000000053327
+this resource request has been rejected . you can view the details of the request by clicking http : / / itcapps . corp . enron . com / srrs / auth / emaillink . asp ? id = 000000000053327 & page = myreq .
+request id : 000000000053327
+approver type : access
+signature : stephanie . sever @ enron . com
+comments : stack manager access will be provided with west power phy / finacial trading access . backoffice not needed .
+request create date : 8 / 14 / 01 4 : 40 : 28 pm
+requested for : bill . williams . iii @ enron . com
+resource name : eol us backoffice stack manager
+resource type : applications

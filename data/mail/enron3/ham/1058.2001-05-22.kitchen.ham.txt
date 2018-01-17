@@ -1,0 +1,31 @@
+Subject: gtv weekly status update
+please see below for the weekly status report for the gtv project and please see the attached file for the updated project timeline .
+gtv status meeting attendees : zhiyong wei , russ severson , francis lim , jeremy wong , bill fortney , chuck ames , geoff storey , karima husain , jay krish , mike swaim , nayan dattani , george grant , narasim kasaru .
+accomplishments :
+? incorporating physcial deal positions in tds :
+o changes for the view aggregation have been completed .
+o expandable total in cash position on schedule ( please see the attached project timeline ) .
+? single point of deal entry for term deals :
+o phase 1 of single point of deal entry for term deals is in user test .
+? gas daily deals :
+o revisions for changes to portcalc application to create gdi calc in erms have been worked on .
+? live feeds for gas daily / intra - month curves :
+o released to production .
+? option grid ( phase 2 ) :
+o released to production .
+? gas daily options ( phase 2 ) :
+o changes to portcalc application have been completed and in user test .
+o the option delta change forward month report has been completed and in user test .
+? basis options ( phase 2 ) :
+o development of deal entry type for basis options complete in tagg .
+plans for the week ending 5 / 25 / 01 :
+? continue it development of phase i items .
+o changes to portcalc for valuing physical outer month positions .
+o some modification to gdi calc .
+o changes to curve shift report for gdi calc .
+o expandable total in cash position .
+? continue it development of phase ii issues .
+issues / open items :
+none
+thanks
+zhiyong

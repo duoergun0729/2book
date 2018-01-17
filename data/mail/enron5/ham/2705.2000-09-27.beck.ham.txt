@@ -1,0 +1,21 @@
+Subject: ase documention available on website
+the website containing all of the documentation created at the ase is now
+available on our intranet . instructions for launching the site are below .
+this website contains the working documents created during the three day
+designshop . it is organized chronolgically by the various activities we
+completed during the event . each section contains the assignment , team
+lists , the hypertiles used during the team report - outs and a transcript of
+the report outs . the executive summary document you should have already
+received and a bibliography of the articles used during the external scan are
+also included .
+as a participant , you may find these working documents to be helpful .
+however , those who were not participants in the session do not have the
+context within which the conversations and work were conducted . therefore , i
+encourage you to be prudent in the distribution of this information as it may
+be misinterpreted .
+if you have any questions , please contact me .
+from internet explorer go to the sap intranet site : http : / / sap . enron . com
+click on the link " sap secure site " from the bottom of left menu .
+enter " aseoffsite " as the username
+enter " designshop " as the password both username and password are case
+sensitive

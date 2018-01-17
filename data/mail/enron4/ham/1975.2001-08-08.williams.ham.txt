@@ -1,0 +1,8 @@
+Subject: harbor for thursday , 8 / 9
+real - timers ,
+harbor cogen has been prescheduled for thursday , 8 / 9 , 80 mw , he 7 - 22 . there are a few things that needs to be done in real - time :
+1 . we would like to try to buy - back the first few hours for something under $ 67 . 50 ( what they sold for day - ahead . we ' ll use their day - ahead price rather than their generation costs because we sold day - ahead for slightly below their generation costs of $ 69 . 50 in order to make money with this buy - back strategy and selling 15 mw from the steam turbine in real - time ) . so , please try to buy - back , he 7 - 10 ( or through hel 1 if prices warrant ) , 80 mw , spl 5 . treat this like the delano buy - back , where we split the profit with the customer . please stay in contact with the control room to communicate which hour they are supposed to come up for .
+2 . we need to sell 15 mw from the steam turbine in real - time . the steam turbine can only be started up 3 hours after the gas turbine is fired up . on the back end , it can shut down the same hour that the gas turbine shuts down . so , please sell 15 mw , spl 5 , beginning 3 hours after the gas turbine comes on . for example , if you bring the gas turbine on beginning hel 1 , please begin selling the steam turbine hel 4 through he 22 .
+if you have any questions please feel free to give me a call .
+thanks a bunch ,
+stan

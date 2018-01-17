@@ -1,0 +1,18 @@
+Subject: we are for the most part finished with sec var . we are missing october and
+december brent crude commodity positions . when we get these numbers we will
+reissue this report , but they are not likely to be different enough from the
+guesses we inserted to make a difference .
+total var is the highest i have seen at $ 92 million .
+one reason is that trading commodities var remains very high at $ 66 million
+( though it is down from the $ 81 million of november ) .
+the other reason is that trading securities var is by far the highest it has
+been at $ 63 million . merchant assets ( with a var of $ 29 million ) and total
+return swaps ( with a var of $ 56 , up from $ 24 in november ) are at all time
+highs .
+bacchus and riva ( both originated in december ) conspired to increase total
+return swap var . nevertheless , the biggest culprit is cerberus ( a fixed for
+eog shares swap we put on in november ) . cerberus contains ten million
+unhedged shares of eog . the value of the shares increased from $ 42 in
+november to $ 55 in december , raising var substantially .
+regards ,
+eugenio

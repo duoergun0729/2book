@@ -1,0 +1,9 @@
+Subject: request submitted : access request for alejandra . chaves @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000009688
+request create date : 12 / 8 / 00 11 : 01 : 42 am
+requested for : alejandra . chaves @ enron . com
+resource name : eol us risk management application product data manager
+resource type : applications

@@ -1,0 +1,28 @@
+Subject: re : uk : reconciling the spreadsheet and risktrac var numbers
+hi , tanya :
+the factor loading results for the eff _ dt = ' 12 - dec - 2000 ' are available on
+the rms _ stage database .
+the parameters being used :
+effective _ date = ' 12 - dec - 2000 '
+start _ date = ' 12 - sep - 2000 '
+end _ date = ' 12 - dec - 2000 '
+please check the result in the database with :
+factor _ def _ id = 1510
+basis _ map _ id = 1562
+corr _ def _ id = 1280
+notice : this is only a testing result !
+jin
+tanya tamarchenko
+12 / 15 / 2000 05 : 20 pm
+to : debbie r brackett / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , rabi de / na / enron @ enron , jin yu / hou / ect @ ect ,
+wenyao jia / hou / ect @ ect , ganapathy ramesh / hou / ect @ ect
+subject : re : uk : reconciling the spreadsheet and risktrac var numbers
+debbie ,
+we asked dba to refresh stage this monday .
+it was refreshed on thursday . jin is running vatrfacs today ( friday ) to
+create correlations and factors .
+then , according to our plan , we will ask ramesh to run var on these inputs .
+we will send the inputs to you to run var in the spreadsheet and reconcile
+the results for uk .
+tanya .

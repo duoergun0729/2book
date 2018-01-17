@@ -1,0 +1,9 @@
+Subject: request submitted : access request for anabella . desouza @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000009842
+request create date : 12 / 11 / 00 11 : 44 : 19 am
+requested for : anabella . desouza @ enron . com
+resource name : eol us backoffice stack manager
+resource type : applications

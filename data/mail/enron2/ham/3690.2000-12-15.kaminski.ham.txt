@@ -1,0 +1,11 @@
+Subject: wti models
+stinson and vince ,
+i finalized the presentation for john lavorato , he said he is ready
+to present it to greg . he is happy with the work we provided .
+i will be on vocation starting next week . i attached the simulation models
+here in case that you need them . the oc version deals with open - close
+trading and cc version deals with continuous trading .
+should you have any questions , or need to run different scenarios , please
+call me at home . otherwise , i will see you next year .
+merry chrismas and happy new year !
+zimin

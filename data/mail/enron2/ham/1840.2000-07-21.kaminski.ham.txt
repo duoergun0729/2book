@@ -1,0 +1,15 @@
+Subject: credit support value for mg and paperco
+find below a spreadsheet with my very rough calculation of the value of
+credit support for mg and paperco .
+my approach is as follows :
+1 . assume all contracts can be modelled as financial swaps .
+2 . spread the notional trading volumes over the estimated swap tenors .
+3 . calculate the value of defaulting at each period of the swap ( the
+default option ) using black ' s formula .
+4 . treat the value of the default options as risky cash flows . that is
+treat this value just like you would an annuity stream . by discounting back
+this stream of cash flows at the original risky rate and at the risk - reduced
+rate , i find the value of credit enhancement as the difference in the two
+npv ' s .
+please give your comments , especially if this makes no sense to you .
+stinson

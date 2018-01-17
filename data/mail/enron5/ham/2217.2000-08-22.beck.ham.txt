@@ -1,0 +1,61 @@
+Subject: sap reporting workshops
+over the last two weeks , the following number of people from the indicated
+business units have attended the sap reporting workshops . in addition ,
+approximately 75 people attended the reporting workshops held in london .
+ees 18
+ena 118
+gf 7
+gp 8
+gpg 125
+total : 276
+we have continued to refine our approach to these workshops , and the
+responses indicate that we are doing a lot better . we asked the 276
+participants : " on a scale of 1 to 10 , how effectively did the workshop . . . . . .
+1 . help you learn something new ?
+2 . increase your comfort level with extracting data ?
+3 . make sap standard reporting more useful ?
+4 . use activities and discussions to contribute to your learning ?
+5 . better prepared to do your job ? "
+here are the average responses , by business unit and by specific reporting
+workshop
+overall evaluations by business unit
+helped me increased made sap contributed better prepared
+bu learn my comfort std . reporting to my me to
+do
+something new level more useful learning my job
+ees 8 . 28 8 . 17 8 . 17 8 . 28 8 . 61
+ena 7 . 58 7 . 12 7 . 38 7 . 63 7 . 21
+gf 9 . 00 9 . 43 9 . 29 9 . 14 9 . 14
+gp 8 . 63 8 . 38 8 . 75 9 . 00 8 . 75
+gpg 7 . 94 7 . 65 7 . 65 7 . 71 7 . 70
+overall evaluations by reporting workshop
+learn increase reporting contributed better prepared
+bu curriculum something comfort more to my me to do
+new level useful learning my job
+ees am & ps 8 . 67 9 . 00 8 . 33 9 . 00 9 . 00
+ees ap 7 . 67 8 . 67 8 . 67 8 . 67 8 . 67
+ees ap & ar 10 . 00 10 . 00 8 . 67 9 . 33 10 . 00
+ees design & data flow 7 . 78 7 . 11 7 . 78 7 . 56 8 . 00
+ena active excel 8 . 90 8 . 34 8 . 52 8 . 59 8 . 41
+ena am 7 . 30 6 . 90 6 . 80 6 . 80 6 . 90
+ena ap & ar 8 . 88 7 . 88 8 . 38 8 . 50 8 . 50
+ena design & data flow 6 . 15 5 . 80 6 . 27 6 . 60 5 . 80
+ena gl 8 . 00 8 . 00 7 . 80 8 . 20 7 . 60
+ena gl cca & io 8 . 72 8 . 39 8 . 28 8 . 78 8 . 50
+gf cca & gl 9 . 00 9 . 33 9 . 33 9 . 67 9 . 33
+gf fx / intercompany 9 . 00 9 . 50 9 . 25 8 . 75 9 . 00
+gp design & data flow 8 . 20 8 . 00 8 . 40 9 . 00 8 . 60
+gp gl pca & cca 9 . 33 9 . 00 9 . 33 9 . 00 9 . 00
+gpg am & ps 8 . 75 8 . 25 8 . 25 8 . 75 8 . 50
+gpg ap 8 . 70 8 . 70 8 . 70 8 . 40 8 . 50
+gpg ap & ar 8 . 77 8 . 38 8 . 31 9 . 00 9 . 08
+gpg ap cca & io 9 . 20 9 . 20 9 . 40 8 . 60 9 . 20
+gpg ar 7 . 80 7 . 47 7 . 73 7 . 73 7 . 60
+gpg design & data flow 7 . 42 6 . 73 6 . 82 6 . 76 6 . 69
+gpg gl 7 . 18 7 . 09 7 . 09 7 . 09 7 . 18
+gpg gl & io 7 . 82 7 . 73 7 . 73 7 . 55 7 . 91
+gpg ic 7 . 80 6 . 80 7 . 60 7 . 40 8 . 00
+gpg ic & cca 7 . 25 9 . 00 6 . 75 8 . 50 8 . 50
+gpg im & ps 8 . 33 8 . 22 8 . 11 8 . 56 7 . 78
+gpg io ic & cca 8 . 67 9 . 00 8 . 78 8 . 78 8 . 67
+thanks for everyone ' s participation and keep the feedback coming !

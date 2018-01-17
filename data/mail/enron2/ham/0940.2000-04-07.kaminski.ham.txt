@@ -1,0 +1,35 @@
+Subject: ees implementation
+message sent from the pjm - customer - info mailing list at
+pjm - customer - info @ majordomo . pjm . com :
+valued customer :
+ees production cut - over
+the production ees application will be made available to the registered users
+on
+monday april 17 , 2000 for day - ahead scheduling . the production system will be
+preloaded with all schedules submitted through the current scheduling process
+to
+that point ( pjm identifiers for these pre - loaded schedules will be provided
+through the usual scheduling practices ) . hourly schedules may be entered
+beginning april 18 , 2000 .
+the sandbox will be made unavailable at the time of production implementation .
+prior to april 17 , the https : / / eestest . pjm . com url will be reserved for the
+sandbox . beginning april 17 , the https : / / ees . pjm . com url will point to the
+production ees application .
+registration
+users with accounts on the sandbox will automatically have accounts on the
+production system . if you have not registered , please complete the
+authorization and registration forms located at
+http : / / www . pjm . com / ees / ees _ index . html . the contact designated on the ees
+authorization form will be faxed a list of user id ' s and passwords upon
+completion of the registration process .
+ees support
+pjm is enthusiastic about providing the responsive support you and your
+technical staff require . please contact our customer hotlines with your
+functional and technical inquiries .
+* functional support : ( 610 ) 666 - 8980
+* technical support : ( 610 ) 666 - 8886
+* email : eeshelp @ pjm . com
+questions may be directed to pjm customer service at ( 610 ) 666 - 8980 .
+to unsubscribe from this list , send an e - mail to majordomo @ majordomo . pjm . com
+containing only the following line in the body of the e - mail :
+unsubscribe pjm - customer - info

@@ -1,0 +1,35 @@
+Subject: sap id - here it is ! ! ! ! !
+the following sap id and password allows you to access pay , benefit , and
+personal data via ehronline . do not provide this id / password to anyone as it
+enables modification to direct deposit account information .
+the sap system and ehronline will be available beginning
+friday , june 23 at 8 : 00 am for time entry .
+full sap functionality for financials will be available on july 5 , 2000 .
+you will be asked to change your password at the initial logon . your new
+password should meet the following criteria :
+must be 6 - 8 characters long
+can include numbers and letters
+can not include ' enron ' in your password .
+the system will require you to change your password every 90 days .
+the following address will connect you to ehronline beginning friday , june 23
+at 8 : 00 am , http : / / ehronline . enron . com
+( must use internet explorer , version 4 . 01 or higher to access this link . )
+how do i get help ? :
+sap support :
+call the coe sap hotline at 713 - 345 - 4 sap ( 4727 ) .
+for quick reference tools , security request processes , after hours contact
+information and other general information , go to the coe web site via
+internet explorer using the following url address :
+http : / / sap . enron . com / coe
+for troubleshooting and go - live tips , go to the following web site , via
+internet explorer , using the following url address :
+http : / / sap . enron . com / coe
+click on sap , then click on troubleshooting and go - live tips
+training :
+contact your site manager if you were not able to attend a sap training
+class , and would like to attend one ,
+for approval and role assignment .
+for interactive web based training for ehronline time entry , go to the
+following web site , via internet explorer ,
+using the following url address :
+select the " new users click here to register " link

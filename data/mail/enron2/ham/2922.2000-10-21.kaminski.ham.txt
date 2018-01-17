@@ -1,0 +1,37 @@
+Subject: fwd : update
+return - path :
+received : from rly - yeo 2 . mx . aol . com ( rly - yeo 2 . mail . aol . com [ 172 . 18 . 151 . 199 ] )
+by air - yeo 4 . mail . aol . com ( v 76 _ rl . 19 ) with esmtp ; fri , 20 oct 2000 14 : 52 : 34
+- 0400
+received : from postmaster . enron . com ( outbound 5 . enron . com [ 192 . 152 . 140 . 9 ] ) by
+rly - yeo 2 . mx . aol . com ( v 76 _ rl . 19 ) with esmtp ; fri , 20 oct 2000 14 : 52 : 16 - 0400
+received : from nahou - msmswolpx . corp . enron . com ( [ 172 . 28 . 10 . 37 ] ) by
+postmaster . enron . com ( 8 . 8 . 8 / 8 . 8 . 8 / postmaster - 1 . 00 ) with esmtp id naao 9683 for
+; fri , 20 oct 2000 13 : 52 : 16 - 0500 ( cdt )
+from : stinson . gibner @ enron . com
+received : from ene - mtaol . enron . com ( unverified ) by
+nahou - msmswolpx . corp . enron . com ( content technologies smtprs 4 . 1 . 5 ) with esmtp
+id for
+; fri , 20 oct 2000 13 : 52 : 16 - 0500
+subject : update
+to : vkaminski @ aol . com
+cc : vince . j . kaminski @ enron . com
+x - mailer : lotus notes release 5 . 0 . 3 march 21 , 2000
+message - id :
+date : fri , 20 oct 2000 13 : 52 : 12 - 0500
+x - mimetrack : serialize by router on ene - mtaol / enron ( release 5 . 0 . 3 ( intl ) | 21
+march 2000 ) at 10 / 20 / 2000 01 : 48 : 43 pm
+mime - version : 1 . 0
+content - type : text / plain ; charset = us - ascii
+vince ,
+a quick update on job candidates :
+1 ) nelson neale : relayed your request to norman , and told nelson that an
+offer is in progress . did not mention specific numbers to him .
+2 ) charles shen : left a message for him that we would get back to him next
+week with details of an offer .
+3 ) interviewed by phone tom barkley at thunderbird ( brought to our
+attention by enron recruiters there ) . he looks very interesting so i am
+trying to schedule a visit to enron for him . he will finish t - bird in
+december ( mba ) and has a bachelors with honours in mathematics .
+have a great weekend .
+stinson

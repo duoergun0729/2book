@@ -1,0 +1,13 @@
+Subject: start date : 12 / 11 / 01 ; hourahead hour : 24 ;
+start date : 12 / 11 / 01 ; hourahead hour : 24 ; no ancillary schedules awarded . variances detected .
+variances detected in load schedule .
+log messages :
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2001121124 . txt
+- - - - load schedule - - - -
+$ $ $ variance found in table tblloads .
+details : ( hour : 24 / preferred : 469 . 59 / final : 469 . 59 )
+trans _ type : final
+load _ id : pge 3
+mkt _ type : 2
+trans _ date : 12 / 11 / 01
+sc _ id : enrj

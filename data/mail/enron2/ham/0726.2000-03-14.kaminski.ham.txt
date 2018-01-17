@@ -1,0 +1,28 @@
+Subject: benzene forward curve & hedge calculator
+new market we are trying to develop in benzene swaps - possibly hedging with
+financial naphtha and physical toluene .
+rgds ,
+anjam
+- - - - - - - - - - - - - - - - - - - - - - forwarded by anjam ahmad / lon / ect on 14 / 03 / 2000 10 : 35
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+anjam ahmad
+14 / 03 / 2000 10 : 34
+to : robert brewis / lon / ect @ ect , stuart bland / lon / ect @ ect
+cc : dale surbey / lon / ect @ ect , hrvoje paver / lon / ect @ ect , stinson
+gibner / hou / ect @ ect , tracy wallace / lon / ect @ ect
+subject : benzene forward curve & hedge calculator
+dear all ,
+attached is the spreadsheet " benzenecurves . xls " ( also available in
+s : \ research \ globalproducts ) that will hopefully allow you to derive a
+mid - curve for benzene based upon our existing naphtha curve produced by
+tracy . the previous hedge ratio analysis is still part of the new
+spreadsheet .
+for clarity a graph of the curve based on 1996 through 2000 data is depicted
+below :
+i can also provide confidence bands on the regression model , if this can
+assist in deciding the bid - offer spread for the forward curve , but this is
+slightly more involved - let me know you ' d like this .
+regards ,
+anjam
+x 35383
+attachment :

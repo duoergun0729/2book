@@ -1,0 +1,22 @@
+Subject: caiso notification : demand relief program settlement charge types
+this is a reminder that the summer 2001 iso demand relief program
+charges are reflected on the june 30 statements and june invoices . as
+announced previously this year , the iso has developed a summer 2001 demand
+relief program ( drp ) . the program is designed to provide an additional
+level of demand reduction on the iso system that can be implemented during a
+stage 2 emergency in an effort to prevent involuntary load curtailments or
+rotating blackouts associated with a stage 3 emergency .
+similar to last years program , the same charge types are utilized
+for capacity , charge type 7 and 117 , described in the first link below . two
+new charge types , 3472 and 3482 , have been created for the energy payment
+and allocation when contracted loads are called upon to curtail , described
+in the second link below . although the program was initiated in june , no
+calls were made to curtail load , therefore , charges 3472 and 3482 were not
+utilized . the periods in which the demand relief program was called upon
+to initiate interruptions of contracted loads can be found at the third link
+below .
+charge types 7 and 117 description :
+charge types 3472 and 3482 description :
+2001 drp load curtailments :
+keoni almeida
+california independent system operator

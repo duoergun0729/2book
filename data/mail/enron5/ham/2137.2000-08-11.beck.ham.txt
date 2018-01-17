@@ -1,0 +1,69 @@
+Subject: commoditylogic . com
+mike ,
+further to our conversation , here are some of the things i thought of while
+speaking with tom gros . there are definitely some challenges we have to
+overcome to make the hub idea within commoditylogic . com as successful as
+enrononline rather than have it turn out like sitara .
+i won ' t repeat thoughts about how we split cl from enron , but let ' s put
+ourselves in the shoes of somebody external for whom this was presented as a
+potential solution . well , that ' s an easy decision , somebody else is doing the
+hard work , and not charging us very much for it . so sign - up , but don ' t rely
+on anything until we see everything working .
+handling counterparties not using the system
+the challenge here is that the final solution world with overybody using the
+hub is wonderful , but until everybody is using the hub , we have to keep other
+procedures and systems going , which stretches resources , development , it
+support and user . this was why we decided to delay getting bolero - the
+concept is wonderful , but the value to any user is very dependent on everyone
+else one trades with using the system . this is classic chicken and egg . tom
+has a vision of cl providing the staff to handle this . this is taking us
+closer to an outsource - to - andersen - consulting model which is certainly
+achievable , although not quite such an easy sell .
+how much resource is left
+the latest project always tends to attract the most imaginative people , who
+are therefore not available for keeping everything else going and moving
+onwards . how about if we accept that such resource is dedicated to cl , and
+then review what is left in the remaining environment . does it mean we hold
+off doing anything ? if we do then increasing volume means that we might end
+up incurring costs for massive numbers of people ! we should go through
+costing for " what happens if we completely stop development of x project ? " .
+if that shows one would need 200 clerks for 3 years until something else
+comes along then it may be cheaper than developing , but i hope in most cases
+it is not !
+start small to prove concept
+e . g . first application in april 2001 only covers 20 fields
+this is excellent , and we needn ' t shout it too loud to investors in cl , but
+for our internal back office costing we need to acknowledge that it will be
+years before we can switch off many internal systems .
+we might limit the payback period on projects not part of this strategy to 3
+years out ?
+include european aspects from the beginning
+this really isn ' t very difficult so long as one has some long - on - common - sense
+europeans ( not just brits ) involved in both specification and development
+from the beginning , but an as example of how not to do it , look at enpower
+which took a year to allow just for currencies etc !
+80 - 20 rule for types of transaction
+eol has shown the benefits of focussing on simpler products first .
+once we have robust warehouses for collecting accounting ( dtl ) and risk
+( risktrac ? ) numbers then we can think about having vanilla products on stp ,
+and yet - to - become - vanilla products on explicitly different , manual
+approaches . until that time , we have a strong desire to include as many
+different prodcuts as possible for a given commodity in one system , which
+makes separating vanillas from others more complicated and costly ( think of
+certain deals in power 99 which are approximations of the actual deals , and
+manually tweaked every so often )
+testing
+tom ' s first thought is that we could leverage initial users ( who would not
+pay ) to do much of the testing .
+eol clearly got its testing done , but other experience shows that in order to
+have anything which saves time one really does need to do all the different
+phases - component , system , integration , end - to - end , and then user - acceptance .
+eol saw confidentiality as an issue and was therefore unable to use many
+external users early in the process . it did have massive
+resource - commandability and so obtained input from many traders . do the
+support functions have sufficient slack that they will be able to provide the
+same sort of user attention ? given how often i hear " short people " , that
+strikes me as something which in london would require significant additional
+resource , even after mg is absorbed .
+what else did you come up with ?
+richard

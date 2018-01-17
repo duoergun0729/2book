@@ -1,0 +1,34 @@
+Subject: power trading
+hi folks :
+very glad to hear about the new developments . just to recap what we
+discussed this morning about different things you need to look into to set up
+trading operations and the contacts :
+1 . licence to trade : regulatory people : i guess you know about this part
+better than me .
+2 . trading & risk mgmt : global risk mgmt oversight : john sherrif in london
+has the overall responsibility outside western hemisphere . research group can
+help with the structuring models used for trading .
+3 . risk conrols : before trading group is operational , it needs to get the
+authorization from the board of directors of enron along with total position
+limits and possibly value @ risk limits . these limits are typically by
+commodity type and by region . risk assessment & control ( rac ) under rick buy
+performs the internal control function ensuring that the businesses adhere to
+these trading limits . ted murphy is the vp in rac overseeing the trading
+operations . the value @ risk models come from the research group , but
+day - to - day monitoring of the numbers is done by ted ' s group .
+4 . credit risk : a credit reserve number is computed for each deal ( again , the
+models are created by research ) and is transferred to the credit group under
+bill bradford ( also in rac ) . this is basically like buying insurance from the
+corp . , so that if there is a couterparty default , the loss is covered by the
+reserve pool of the credit dept .
+5 . legal : the name i was given is alan aronowitz for legal help .
+6 . back office : initially can survive with excel spreadsheets . you should
+contact the it though when the plans finalize to talk about systems .
+australia is the most recent place where we set up the trading operations .
+you can talk to paul quilky , the trader there to talk about these issues
+( mention to him that grant masson in research gave his name ) .
+barry pierce in london was incharge of back office at the begin there .
+i can coordinate for talking with people next week . give me a call monday if
+possible . i hadn ' t the time to search for the presentation stuff today . will
+do it next week .
+krishna .

@@ -1,0 +1,12 @@
+Subject: fw : dwr stranded cost update
+our structuring and risk groups have " entered " the executed cdwr contracts into enpower . we have included executed contracts but not letters of intent . there were a few contracts that did not have sufficient information to model . we believe that we have captured 80 percent to 90 percent of value . the attached spreadsheet shows the results by company . the data comes directly from information released by the california state treasurer . since we are using enpower to calc these deals , we can update them easily . let me know if you want anything else on this .
+- - - - - original message - - - - -
+from : comnes , alan
+sent : wednesday , july 11 , 2001 3 : 04 pm
+to : dasovich , jeff ; thome , jennifer ; shapiro , richard ; steffes , james ; mara , susan ; perrino , dave ; sharma , ban ; belden , tim ; alvarez , ray
+subject : dwr stranded cost update
+using information pulled together by jennifer and ban , i requested west tradings risk / structuring group do a more careful analysis of the above - market costs associated with the dwr contracts . attached is their analysis .
+in this analysis we examined only the executed contracts and not the agreements - in principle . ( only executed contracts were released by the state in the last few weeks . ) also , gas - indexed contracts were examined on their nongas costs only . since gas costs are a pass through on some contracts , we excluded them as a conservatism ; i . e . , we did not ascribe costs to the gas portion of the contracts since they will float with market costs over time . these contracts were marked to market using current , applicable curves . finally we discounted at the libor rate , which is around 4 % / year .
+the stranded cost under these assumptions is approximately $ 10 billion . the spreadsheet shows the overmarket costs by contract . note : a negative " mark - to - market " equals a positive stranded cost .
+as before , this analysis is based upon enron ' s confidential forward curves . approval from tim belden is needed before this analysis can be released .
+alan comnes

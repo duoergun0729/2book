@@ -1,0 +1,18 @@
+Subject: fw :
+- - - - - original message - - - - -
+from : lavorato , john
+sent : sun 1 / 6 / 2002 2 : 46 pm
+to : mancini . gianfilippo @ enel . it
+cc : muller , mark s . ; colwell , wes
+subject : fw :
+here is what our model looks like from a cash needs prospective . it varies with var . it also assumes that the duration of the portfolio is short . less than 1 . 5 years . it also assumes the we are profitable ( it is tied to the gm and ebit assumptions ) . the business would also require the availability of l / c ' s and corporate guarantees . the numbers are in millions .
+var gm ebit ff cf peak loan date loan is paid off
+20 580 336 253 ( 101 ) 225 2003
+30 875 631 508 103 175 q 4 / 2002
+40 1160 916 764 306 150 q 3 / 2002
+50 1460 1216 1028 515 125 q 3 / 2002
+60 1750 1506 1282 716 110 q 3 / 2002
+i hope this is what you are looking for .
+i am working on the analyst and associate question .
+please reply so i know you got this message .
+john

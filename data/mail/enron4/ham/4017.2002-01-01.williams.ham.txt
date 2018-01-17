@@ -1,0 +1,42 @@
+Subject: start date : 1 / 1 / 02 ; hourahead hour : 21 ;
+start date : 1 / 1 / 02 ; hourahead hour : 21 ; no ancillary schedules awarded . no variances detected .
+log messages :
+parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002010121 . txt
+# # # cannot locate a preferred or revised _ preferred schedule that matches the final individual interchange schedule . unable to assign deal number .
+! ! ! general sql error .
+couldn ' t update ; currently locked .
+table
+! ! ! a user transaction is already in progress .
+! ! ! a user transaction is already in progress .
+! ! ! a user transaction is already in progress .
+! ! ! a user transaction is already in progress .
+! ! ! a user transaction is already in progress .
+! ! ! a user transaction is already in progress .
+! ! ! a user transaction is already in progress .
+- - - - energy import / export schedule - - - -
+* * * final schedule not found for preferred schedule .
+details :
+trans _ type : final
+sc _ id : ectstsw
+mkt _ type : 2
+trans _ date : 1 / 1 / 02
+tie _ point : pverde _ 5 _ ng - plv
+interchg _ id : epmi _ ciso _ sw
+engy _ type : firm
+* * * final schedule not found for preferred schedule .
+details :
+trans _ type : final
+sc _ id : ectstsw
+mkt _ type : 2
+trans _ date : 1 / 1 / 02
+tie _ point : mead _ 2 _ walc
+interchg _ id : enrj _ ciso _ 8001
+engy _ type : firm
+- - - - load schedule - - - -
+* * * final schedule not found for preferred schedule .
+details :
+trans _ type : final
+load _ id : sdgl
+mkt _ type : 2
+trans _ date : 1 / 1 / 02
+sc _ id : enrj

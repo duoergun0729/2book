@@ -1,0 +1,41 @@
+Subject: timeline for global standards & global reporting implementation
+dear mike ,
+as we discussed , you will be heavily involved in constructing and
+implementing global standards and global reporting . this is a strategic
+initative requested by the commercial teams as well as causey . this
+absolutely must be in place by the end of the year .
+essentially , there are three main areas :
+develop global ( minimum ) standards
+develop & implement exception reporting to these standards
+develop & implement global operation reporting
+i have put together milestones for us to work by in these projects :
+global operating performance
+this will be the monthly reporting package . currently we do this for n .
+america . we need to establish a reporting format for the products / locations
+currently not included in this package . the package is not intended to be
+incorporated into the current package , but use it as a guide to create our
+own .
+timeline :
+aug 31 - finalize what will be reported
+sept 15 - finalize reporting lines ( who we are getting this info from @ each
+location and who is receiving and consolidating it )
+sept 30 - close of business for sept 30 we should have our first consolidated
+reporting package to report
+oct 30 - collect feedback from lst reporting package and redesign reporting
+if necessary ( continual improvements )
+global standards time line ( daily reporting )
+this will be the exception reporting based on the global standards we
+create . this will be a daily reporting package .
+timeline :
+august 31 - finalize global standards into 2 buckets
+quantitative ( to be reported daily )
+qualitative ( to be reviewed within doorstep reviews )
+sept 15 - establish measurable targets for quantitative standards
+sept 30 - finalize reporting format for quantitative reporting lines ( who do
+we get it from , who consolidates it , who sees it , how often )
+nov 30 - have reporting implemented - start reporting
+regards
+shona
+ps - i ' m also working on developing a monthly reporting summary for each
+office concerning what the latest developements are , much like they have in
+london . i have maria working on developing a list of all offices .

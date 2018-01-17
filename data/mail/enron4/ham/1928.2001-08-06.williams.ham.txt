@@ -1,0 +1,30 @@
+Subject: fw : july pma - short term west hourly
+this was elsie ' s response to my question about " dpr rate actualization " charges on the real time pma . looks like virginia added a transmission deal to account for october 2000 bpa transmission . virginia , could you tell me why bpa transmission charges were not assessed in october ? was this the invalid contract elsie refers to in her e - mail ? let me know if you have any further information .
+thanks ,
+kate
+- - - - - original message - - - - -
+from : lew , elsie
+sent : thursday , august 02 , 2001 6 : 15 am
+to : symes , kate
+cc : ratnala , melissa k .
+subject : re : july pma - short term west hourly
+the bulk ( $ 1 , 527 . 67 ) of the amount pertains to deal 589786 . 1 . in the comment section of this deal , it states that on 4 / 23 " an annuity was added to true up bpa tranny purchases . . . . . . see vt for billing detail . " on the billing , there is a footnote in which the losses is calculated by :
+intertie service = x kwh * . 030
+northwest service = x kwh * . 019
+hope this helps . let me know if you need additional information .
+thank you ,
+elsie
+ps - the reason this is being pulled in now is that there was a problem w / loading the deal to unify due to an invalid contract .
+- - - - - original message - - - - -
+from : symes , kate
+sent : wednesday , august 01 , 2001 6 : 23 pm
+to : lew , elsie
+cc : thompson , virginia ; williams iii , bill ; chang , fran ; dunton , heather ; law , samantha
+subject : july pma - short term west hourly
+elsie -
+i have a question regarding our desk ' s pma report for july . we ' ve incurred three charges under the heading " dpr rate actualization . " virginia thompson in volume management has informed me that these have to do with bpa transmission reservations ; however , i was wondering if you might be able to further clarify this charge for me ( your initials appear next to the individual explanations ) or point to someone who can . i assume the charges , which total $ 1 , 819 ( including a credit for $ 100 ) have something to do with line loss payback . but i ' d like to know how this is calculated .
+please let me know if you can assist .
+thank you ,
+kate symes
+real time trading support
+503 - 464 - 3939

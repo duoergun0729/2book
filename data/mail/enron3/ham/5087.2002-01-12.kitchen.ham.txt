@@ -1,0 +1,25 @@
+Subject: data request
+louise , i worked with the team this morning and developed the following . please call me at 281 - 463 - 4421 or 713 - 851 - 5456 if you would like to discuss . jr
+current employee count : 62 ( includes 4 people in calgary )
+first cut : 4 people
+revised employee count : 58
+names / impact
+john oh - - fewer people to support in portland , so less it support staff needed
+greg hibbert - - fewer people to support in calgary , so less it support staff needed
+yvonne francios - - outsource video conferencing support ( no cost reduction )
+randy buckman - - no executive support ; executives will have receive trader level support
+second cut : 4 people
+revised employee count : 54
+shari daugherty - - reduced service level in security adminitration and no backup
+janet devereaux - - outsource phone switch support / backup to avaya ( cost increase )
+roberto deleon - - rely on ubs for security investigations and policy
+faheem qavi - - rely on ubs for security investigations and policy
+third cut : 5 people
+revised employee count : 49
+jenny rub , bob mcauliffe , keith dziadek , chris behney , bruce smith - - reduced management structure , rely on ubs for software and vendor management . organizational management for the following functions would be moved to somewhere else in the it organization : command center , change managment , batch scheduling , server and storage , networking
+fourth cut : 2 people
+revised employee count : 47
+gary bode , trey rhodes - - rely on ubs ' corporate email services ; no staff or operations available in houston
+fifth cut : 2 people
+revised employee count : 45
+troy beyer , ryan brennan - - no source code management and batch scheduling software support ; developers would become responsible for the management of these functions .

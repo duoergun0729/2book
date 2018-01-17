@@ -1,0 +1,36 @@
+Subject: delivery notification : delivery has failed
+this report relates to a message you sent with the following header fields :
+return - path :
+received : from ims - ms - daemon . mailo 2 . direcway . com by mailo 2 . direcway . com
+( iplanet messaging server 5 . 2 hotfix 1 . 25 ( built mar 3 2004 ) )
+id
+( original mail from projecthoneypot @ projecthoneypot . org ) ; fri ,
+24 jun 2005 11 : 42 : 25 - 0400 ( edt )
+received : from a 34 - mtao 3 . direcway . com ( a 34 - mtao 3 [ 66 . 82 . 4 . 104 ] )
+by mailo 2 . direcway . com
+( iplanet messaging server 5 . 2 hotfix 1 . 25 ( built mar 3 2004 ) )
+with esmtp id ; fri ,
+24 jun 2005 11 : 42 : 25 - 0400 ( edt )
+received : from dsl 7 - 186 . rb . comporium . net
+( dsl 7 - 186 . rb . comporium . net [ 199 . 222 . 173 . 186 ] ) by a 34 - mtao 3 . direcway . com
+( iplanet messaging server 5 . 2 hotfix 1 . 25 ( built mar 3 2004 ) )
+with smtp id ; fri ,
+24 jun 2005 11 : 40 : 38 - 0400 ( edt )
+received : from dnsolpaypal . com ( 173 . 169 . 34 . 152 ) by jem 36 - dhy 9 . paypal . com with
+microsoft smtpsvc ( 5 . 0 . 2195 . 6824 ) ; fri , 24 jun 2005 11 : 37 : 57 - 0500
+received : from paypal . com ( 127 . 0 . 0 . 1 ) by dns paypal . com ( smtpd 32 - 7 . 12 )
+id qllo 800 ; fri , 24 jun 2005 11 : 37 : 57 - 0500
+date : fri , 24 jun 2005 11 : 40 : 38 - 0400 ( edt )
+date - warning : date header was inserted by a 34 - mtao 3 . direcway . com
+from : daniel suon
+subject : fast debt relief ! ! ! = ? unknown ? q ? = b 95259 - plrk ? =
+to : stephen @ direcpc . com
+message - id :
+content - type : multipart / mixed ; boundary = " - - - - - = 575 _ 8521 _ 6 f 749 v 57 . 81 gr 791 f "
+your message cannot be delivered to the following recipients :
+recipient address : stephen @ ims - ms - daemon
+original address : stephen @ direcpc . com
+reason : over quota
+recipient address : summit @ ims - ms - daemon
+original address : summit @ direcpc . com
+reason : over quota

@@ -1,0 +1,51 @@
+Subject: action items
+sally and brent ,
+i had noted last week that we were having alot of processing problems with
+sap and other new processes / set - ups . i have gotten a commitment from janet
+tran and rena d ' souza who works with janet on the sap team to work with us to
+resolve our issues .
+below is a list of items which laurel has reviewed with rena .
+sheila
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheila glover / hou / ect on 09 / 19 / 2000 07 : 40
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+laurel adams
+09 / 18 / 2000 06 : 12 pm
+to : sheila glover / hou / ect @ ect
+cc :
+subject : action items
+this is the list of items we are focusing on , along with the names of the
+people working on a specific problem . i will keep you posted on where we
+stand on these items . ana is aware of everything , and she should be able to
+answer any questions related to these items when i am out . thanks .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by laurel adams / hou / ect on 09 / 18 / 2000 06 : 07
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+laurel adams
+09 / 18 / 2000 06 : 11 pm
+to : rena d ' souza / corp / enron @ enron , diana mclaughlin / hou / ect @ ect , phyllis r
+kennedy / hou / ect @ ect , cynthia shoup / hou / ect @ ect , ana rizvi / hou / ect @ ect
+cc :
+subject : action items
+ladies ,
+to the best of my knowledge , this is the list of items and next steps we
+outlined in our meeting :
+1 ) zici - - if errors are made in entry , you must exit and rebook to create a
+2 - sided entry . diana mclaughlin to review .
+2 ) zici - - prepays on intercompany foreign invoices . laurel to contact pamela
+lebrane and establish a game plan .
+3 ) zicr - - report to identify items to be reallocated by trading partner . ana
+to create - - rena / diana to assist if necessary .
+4 ) bai codes for activity in citibank london : laurel and phyllis to
+contact brian silver and lisa raye
+5 ) euro account - - items sent back from the bank and posted in usd
+equivalents . treasury has been notified and is researching . laurel &
+phyllis to follow up .
+6 ) " not to be posted " cash . this causes problems with cash application , and
+receivables . phyllis / rena to follow up with brian silver & lori scott
+7 ) autoclear inflo account - - rena to talk with becky ford about putting this
+on as a scheduled overnight job .
+8 ) outflow account - - laurel , cynthia , and phyllis to continue researching
+outstanding items .
+9 ) yen - - brian silver & lori scott . need a solution quickly , as jpy activity
+is increasing - - we just had a trader move over to japan .
+i think i covered everything we talked about . please feel free to correct
+me ! !

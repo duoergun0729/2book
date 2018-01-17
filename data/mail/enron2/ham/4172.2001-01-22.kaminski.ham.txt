@@ -1,0 +1,10 @@
+Subject: vince kaminski bullet points
+* definition of price volatility
+* historical vs . implied vs . model derived volatility
+* estimation of volatility from historical data in the presence of
+? ? ? ? ? ? - seasonality
+? ? ? ? ? ? - jumps
+? ? ? ? ? ? - fat tails
+* stochastic volatility models
+* recent cases of extreme price volatility in the power markets in the us :
+the causes and remedies

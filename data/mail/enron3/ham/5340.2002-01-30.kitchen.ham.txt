@@ -1,0 +1,154 @@
+Subject: fw : ubswenergy . com : urgent
+we need to keep this issue in the forefront , to avoid any future
+costly mistakes .
+mark
+- - - - - original message - - - - -
+from : petrie , james
+sent : wednesday , january 30 , 2002 11 : 46 am
+to : zimmer , janet ; bridges , mark ; barrett , beth ; halligan , laura ;
+robinson , claudia
+cc : eber , louis
+subject : re : ubswenergy . com : urgent
+i sent revisions to the faq ' s and the cover letter to kal shah and
+leslie hansen last night . kal assures me that all of the changes i
+suggested ( including the deletion of any mention of ubswenergy other
+than as part of a web address ) were being made . accordingly , i think
+the message is getting through . also , in conversations with mark
+taylor , i stressed that no trademark registration was to be made ,
+pointing out that the use of the url was intended to be temporary .
+mark had not had anything to do with a possible registration of the
+mark , other than receiving a phone mail message .
+we will see how things go , however , i believe the message has gotten
+through for now .
+jim
+- - - - - original message - - - - -
+from : zimmer , janet
+sent : wednesday , january 30 , 2002 11 : 33 am
+to : bridges , mark ; barrett , beth ; halligan , laura ; robinson , claudia
+cc : eber , louis ; petrie , james
+subject : re : ubswenergy . com : urgent
+the broader issue perhaps is that they appear to be naming / branding
+the
+on - line trading system ubswenergy and using that as a marketing name
+for their business . for example , i had heard they wanted to
+trademark
+the term . even if they have approval to use the website name
+temporarily , does it make sense to go out with a marketing name that
+might be killed in 6 months - and for which we may not have approval
+to
+trademark ? maybe not a popular position if costas is behind this -
+but
+we should be sure everyone is clear on the possible ramifications .
+just so you know , there are some intellectual property considerations
+behind this . in order to best protect the ubs and ubs warburg names ,
+group does not like us to weaken them by using ubsw .
+janet zimmer
+ubs warburg region americas
+203 - 719 - 8960 / 203 - 719 - 6097 ( fax )
+- - - - - original message - - - - -
+from : bridges , mark
+sent : wednesday , january 30 , 2002 10 : 02 am
+to : barrett , beth ; halligan , laura ; robinson , claudia
+cc : eber , louis ; zimmer , janet
+subject : fw : ubswenergy . com : urgent
+fyi , problem solved
+mark
+- - - - - original message - - - - -
+from : mills , ursula
+sent : wednesday , january 30 , 2002 8 : 13 am
+to : bridges , mark
+subject : fw : ubswenergy . com : urgent
+fyi
+- - - - - original message - - - - -
+from : costas , john
+sent : wednesday , january 30 , 2002 6 : 25 am
+to : mills , ursula
+subject : re : fw : ubswenergy . com : urgent
+heidi has now agreed to go ahead with the www . ubswenergy . com for
+the
+first 6 months i promised her a debate then . . . so for now move
+ahead ! !
+jc
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ reply separator
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+subject : fw : ubswenergy . com : urgent
+author : ursula mills at ln , d , london , ifdit
+date : 29 / 01 / 02 16 : 07
+this is the response that we have just received from group marketing .
+all relaunch efforts have now had to be put on hold as switzerland
+control the naming of the dns servers . pls could john or mike put in
+an urgent call to heidi baumann to square this one away .
+fyi - the individual in ubsw comms judit kiss
+cc : heidi baumann ; bob . hillier ; mark branson ; jarod . jenson ;
+john . devitofranceschi ; james petrie ; steve russell ; markus z . h . s . c . x .
+schaerli ; sh - hostmaster
+subject : re : ubswenergy . com : changing authoritative servers
+hi isabelle ,
+on behalf of group marketing ( heidi baumann ) i have to reject this
+request :
+- www . ubswenergy . com must not be visible ( but may be used as a hidden
+technical
+url ) .
+- e . g . " www . ubw - w . com / energy " would be ok or old - style :
+" www . ubsw . com / energy .
+robert mathez
+web quality management
+- - - - - original message - - - - -
+from : dauberschmidt , isabelle z . h . d . y . p .
+sent : montag , 28 . januar 2002 17 : 46
+to : kiss , judit ; mathez , robert
+cc : jarod . jenson ; bob . hillier ; petrie , james ; russell , steve ;
+sh - hostmaster ; john . devitofranceschi
+subject : re : ubswenergy . com : changing authoritative servers
+hi judit , hi robert
+we set the dns servers temporarily on what the customer ordered as it
+seems to
+be very time critical . it should be seen on the internet by tomorrow
+at
+latest .
+nevertheless this activation needs to be signed - off . please do so
+asap .
+and
+reply to hostmaster @ ubs . com
+thanks , rgds ,
+mit freundlichen gr ? ssen
+telecom dauberschmidt , isabelle z . h . d . y . p .
+cc : john . devitofranceschi ; jarod . jenson ; bob . hillier ; petrie , james ;
+russell , steve
+subject : ubswenergy . com : changing authoritative servers
+it is crucial that the dns servers for ubswenergy . com be set as
+follows ( as soon as possible ) :
+dnso - ext . ubswenergy . com 192 . 216 . 57 . 100
+dnsl - ext . ubswenergy . com 192 . 216 . 57 . 101
+it is entirely possible that the names dnso - ext . ubswenergy . com
+and dnsl - ext . ubswenergy . com will be rejected because the
+ip addresses associated with those names are already associated with
+dnso - ext . enrononline . com and dnsl - ext . enrononline . com . if this is
+the case , it will be necessary to use the enrononline . com domain
+names
+for the dns servers and then change the server names later , once
+ubswenergy is on - line and ready . as long as the servers provide
+information about both domains , this should be possible .
+jd
+- - -
+john devitofranceschi ( john . devitofranceschi @ ubsw . com )
+perotsystems , ubsw unix engineering , stamford + 1 203 719 5985
+never use ascii text when a microsoft product will do .
+" i have never understood why it should be necessary to become
+irrational in order to prove that you care , or indeed , why it
+should be necessary to prove it at all . " - kerr avon , " duel "
+visit our website at http : / / www . ubswarburg . com
+this message contains confidential information and is intended only
+for the individual named . if you are not the named addressee you
+should not disseminate , distribute or copy this e - mail . please
+notify the sender immediately by e - mail if you have received this
+e - mail by mistake and delete this e - mail from your system .
+e - mail transmission cannot be guaranteed to be secure or error - free
+as information could be intercepted , corrupted , lost , destroyed ,
+arrive late or incomplete , or contain viruses . the sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e - mail transmission . if
+verification is required please request a hard - copy version . this
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments .

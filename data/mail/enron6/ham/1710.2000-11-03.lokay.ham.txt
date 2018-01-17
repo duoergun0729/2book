@@ -1,0 +1,13 @@
+Subject: ets - quickplace / ideabank outage
+on friday , november 3 , at 4 : 30 , we will be migrating the ets quickplace
+server . the maintenance is expected to last approximately 30 minutes
+what does this mean to you ?
+users who access the ideabank or any quickplace discussion sites , i . e . ets
+infrastructure , program office , ets standards will not be able to access them
+until the server has been brought back up .
+the ideabank will automatically be rerouted to the new server . however , any
+references to gthou - wwolp / quickplace will need to be changed to
+nahou - lnwwol / quickplace .
+if you have any concerns about this maintenance , please contact the customer
+assistance center at 713 - 345 - 4745
+customer assistance center

@@ -1,0 +1,141 @@
+Subject: re : marketpoint license agreement
+john ,
+fyi
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 11 / 27 / 2000
+03 : 31 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" dale m . nesbitt " on 11 / 27 / 2000 02 : 51 : 54 pm
+please respond to
+to :
+cc :
+subject : re : marketpoint license agreement
+vince :
+i will send you our contract for the week long engagement . the way we do it
+is send out our time and materials contract , which has a space for
+individual task statements . i then put in a task statement for the week
+long project at the $ 12 k level so that the costs and risks are capped for
+you . look for it in the next day or two .
+with regard to the long run and short run gas models , they are both
+implemented in the same software system . neither is a prerequisite for
+running the other , but both operate the same way and the sum of the two
+consumes approximately the same resources are either individually .
+i plan to have an extended visit in houston beginning one week from today
+and lasting through the following wednesday . ( intensively tutoring my
+daughter for her first semester economics finals at rice . she certainly
+should have gotten a better looking tutor . ) that will make it very easy to
+come by and finalize whatever needs to be finalized with you that week .
+with her in houston , i spend a good bit of time there .
+look for the stuff in the next day or two . i look forward to working with
+you and your colleagues .
+thanks
+dale
+- - - - - original message - - - - -
+from : vince . j . kaminski @ enron . com [ mailto : vince . j . kaminski @ enron . com ]
+sent : monday , november 27 , 2000 10 : 44 am
+to : dale . nesbitt @ worldnet . att . net
+cc : vince . j . kaminski @ enron . com
+subject : re : marketpoint license agreement
+dale ,
+thanks for your message . in our phone conversation before the meeting you
+mentioned
+another contractual arrangement under which we could work with your
+company employees on a case - study .
+the cost of a weekly project would be $ 12 , 000 that would be applied to the
+purchase price should
+we go ahead and decide to acquire the software . this project would allow us
+to evaluate the model and
+come up with an estimate of the manpower necessary to support the model
+internally .
+please , let me know more about this option .
+we are primarily interested in a long - term natural gas model and the
+database for north america .
+unless a familiarity with the short term model is a prerequisite , we don ' t
+have resources to spend too much time on it .
+of course , a trading desk may be interested in the short term
+version of the model . i shall talk to them about it .
+vince
+" dale m . nesbitt " on 11 / 13 / 2000 06 : 00 : 05 pm
+to : , " vince . j . kaminski "
+cc :
+subject : marketpoint license agreement
+john / vince :
+i really enjoyed the meeting the other day with you and a broad cross
+section of your people . thank you very much for setting it up , and thank
+you for giving me the opportunity to speak with your people .
+as i mentioned to john , i am sending you the license paperwork for
+marketpoint . i have attached our standard license agreement for your
+consideration . as i mentioned , the license agreement covers the entire
+bundled product , which includes
+? north american gas , short and long term
+? north american electricity , short and long term
+? world gas
+? western european gas
+? world oil
+we are just finishing porting the world oil , world gas , and western
+european
+gas models over from our old ( now obsolete ) software system into
+marketpoint , so they will not be fully tested and complete for a couple of
+months . however , the gas and electricity models for north america are
+presently complete and tested . that should allow us to give you an
+attractive price before the full worldwide toolkit is available throughout
+your worldwide business .
+as i understood it , you will want the gas modeling capability first and
+will
+want to defer decisions on electric or other capability . as i mentioned at
+the meeting , we are prepared to offer that for approximately
+the fully
+bundled price . as you read the license agreement , you will see that the
+software licenses for $ 100 , 000 annually , the gas data for $ 5 , 000 , and the
+electric data for $ 10 , 000 . marketpoint will agree to license you the gas
+model plus the data for
+the software license plus the data license for a
+total of $ 55 , 000 annually . this is just under
+the fully bundled price .
+i
+think that is consistent with the discussions at our meeting , and from
+marketpoint ' s perspective would provide a great basis to move forward
+together with enron . if or when enron ever desires to " scale up " to
+another
+model or model ( s ) from the marketpoint portfolio , we will simply scale you
+up to the entire license agreement . this will allow you to decouple the
+gas
+decision from any other decisions you might make . ( i will be glad to put
+this additional pricing provision into the agreement if you decide to move
+forward . )
+i felt i was able to communicate the philosophy , scope , and operation of
+our
+approach during the meeting and to deliver you much of the information you
+might need to evaluate whether marketpoint meets your needs . i thought you
+were able to see the depth and sophistication of the product yet at the
+same
+time its simplicity and effectiveness . i thought you were able to see the
+benefits of the marketpoint dimension of economic equilibrium as a
+complement and supplement to other approaches you will assuredly use . i
+would be interested in your impressions and those of your colleagues . i
+look forward to your response and to moving ahead together . we view you as
+a very important prospective customer and client and will work with you to
+earn and secure your business .
+if you decide to license marketpoint , we can arrange to transfer and mount
+marketpoint and the short term narg model ( which is the model we suggest
+you
+begin with ) and travel to houston to deliver our 1
+day training seminar .
+our clients are usually very fluent after that 1
+day training seminar .
+thereafter , we would want you to work with the short term narg model for a
+few weeks while you get up to speed , very fluent , and very comfortable
+before you take delivery of the longer term version of narg several weeks
+later .
+thanks again , and all the best . if there is some item from the meeting
+that
+i might have forgotten to send , please remind me . my notes don ' t show
+anything , but i was speaking a lot rather than writing notes during the
+meeting and might have overlooked something someone wanted .
+dale nesbitt
+president
+marketpoint inc .
+27121 adonna ct .
+los altos hills , ca 94022
+( 650 ) 218 - 3069
+dale . nesbitt @ marketpointinc . com
+( see attached file : license . doc )

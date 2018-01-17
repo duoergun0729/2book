@@ -1,0 +1,14 @@
+Subject: reconnect of tw poi
+poi 500249 is being connected to eog effective this week , and flow is
+expected by friday , 11 / 10 / 00 .
+the poi was existing under highlands pronghorn and has never flowed . the
+existing poi will be used , but has been changed as follows :
+poi number 500249
+new poi name eog pronghorn
+location : sec 15 , t 23 e , r 32 e , leo co , new mexico
+drn # 288135
+new poi operator eog resources
+station # 47044
+dale : please add this poi to the oba for eog resources ( cr # 21879 ) effective
+immediately . ( remove from oba for duke , dr # 24268 ) . thanks
+karen brostad

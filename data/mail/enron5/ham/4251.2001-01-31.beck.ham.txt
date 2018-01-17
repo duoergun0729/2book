@@ -1,0 +1,16 @@
+Subject: operational risk
+i have taken to heart your request that we try to mitigate operational risk .
+perhaps i have found another way to serve energy operations .
+arthur andersen and risk are sponsoring a conference on operational risk
+( www . risk - conferences . com / oprisk 2001 ) . the conference is composed of two
+streams , one of which focuses on quantification and mathematical modeling
+( neural networks , bayesian models , and other statistical approaches ) . the
+quantitative approach to operational risk is akin to how var formalized and
+quantified market risk . it is also similar to the curve fitter that i wrote
+( which uses mathematics to quantify how " good " or " bad " the back end of a
+curve looks given the front end ) .
+the conference is next thursday and friday ( 8 - 9 ) in new york ( i just got the
+notice today , so i am sorry for the short notice ) .
+would you like me to attend ?
+regards ,
+eugenio

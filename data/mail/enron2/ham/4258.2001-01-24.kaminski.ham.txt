@@ -1,0 +1,35 @@
+Subject: re : research sign off
+steve ,
+sign - off from the research group is something that requires defining formal
+rules going forward .
+my concern over the last few years was that we were asked on many occasions
+to sign - off on partial results of valuation , without the benefits of a full
+picture .
+sometimes , we were asked to sign - off on trade ideas , over which we have no
+control long - term .
+i shall talk to rick buy and david port about setting up more formal rules
+for the research sign - off .
+vince
+steven leppard
+01 / 24 / 2001 03 : 42 am
+to : sharad agnihotri / lon / ect @ ect
+cc : tani nath / lon / ect @ ect , ted murphy / lon / ect @ ect , james new / lon / ect @ ect ,
+vince j kaminski / hou / ect @ ect
+subject : research sign off
+hi sharad
+i note from our discussion earlier this morning that you ' ve been asked to
+sign off a calculation from another group , which is something we ' re asked to
+do from time to time .
+i take the view that we in research can assess a computation in terms of what
+it achieves with respect to its requirements , what its shortfalls are , and
+therefore what the risks associated with using this method are . we cannot
+provide an opinion on whether these risks are acceptable to enron , which i
+feel falls firmly within rac territory .
+this then raises the question of can research sign off anything for other
+groups after all ? to " sign off " means to accept something , which our opinion
+in itself cannot do . it is most appropriate for us to provide a technical
+note outlining the methodology , risks and shortcomings of a method , leaving
+the formal " sign off " to those best placed to assess these risks for our
+company . the alternative is for multiple groups each to have their own view
+on what is acceptable risk for the company .
+steve

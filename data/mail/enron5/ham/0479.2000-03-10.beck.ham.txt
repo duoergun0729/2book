@@ -1,0 +1,38 @@
+Subject: weekly update on coe sap reporting swat team
+accomplishments :
+conducted several workshops with eecc and the calme region this week
+scheduled workshops with nepco
+have identified the needs to be addressed in the nepco workshops and are
+arranging appropriate resources
+met with the london coe to discuss their status in terms of reporting ( we are
+sharing data from workshops )
+have made an initial offer to corp hr cost center users to conduct workshops
+for them
+brought in some ey help to work with the business units to understand the
+multiple environments , extraction and analysis tools being used by the
+different business units
+upcoming :
+additional workshops for eecc and esa
+identification of the corp groups that would like to have these sessions made
+available ( and subjects they would like to cover )
+will complete the " user " guides with screen prints to give out to all
+participants ( step by step instructions , tools , and tips )
+finalize the nepco workshops ( mar 20 - 22 )
+produce a plan for upcoming workshops for eccs and design review
+summary analysis of evaluations from this week ' s workshops :
+our overall belief is that the workshops , the one on one attention , the new
+content etc . are being received very well ( scores averages around 3 . 5 on a
+scale of 1 - 4 )
+the score for the question of whether sap will meet the reporting needs is
+still too low ( average of 2 . 8 ) . we will continue to analyze the root cause
+of this problem .
+there is definitely an improvement in people understanding which modules
+contain which data . we believe that a hand - out we developed really helped
+this and will continue to continue to emphasize this learning .
+comments received :
+very good and useful
+could have used this sooner
+sessions are not long enough
+i love the workshop idea , its so much better than training classes
+feel free to contact me , melissa or kim with any questions or concerns .
+greg

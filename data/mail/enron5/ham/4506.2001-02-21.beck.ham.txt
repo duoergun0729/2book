@@ -1,0 +1,142 @@
+Subject: re : potential gas system exposure
+the mapping problem mentioned below is a power desk problem only . the
+mapping problem is purely between the interface of the gas and power trading
+systems and does not affect the book if it is strictly a gas trader ' s gas
+book . there was one instance when a gas trader ' s transactions were
+incorrectly bridged to a power trader ' s gas book through eol . the root of
+this problem was with the eol bridge not the interface mapping .
+the procedure to set up a gas book for power traders includes communication
+to it regarding the appropriate interface mapping of the book . if for some
+reason the mapping does not occur , the position will be mapped to a ' dummy '
+default desk . we will be alerted when positions are loaded to the ' dummy '
+account on a nightly basis in order to investigate the problem and ensure
+that positions do no get lost in the system .
+if anyone needs to further discuss the problem we have been having and why it
+is only the power world that is affected , please give me a call .
+thanks ,
+stacey
+( 3 - 1870 )
+from : tim belden 02 / 14 / 2001 05 : 25 pm
+to : john j lavorato / corp / enron , stacey w white / hou / ect @ ect , sally
+beck / hou / ect @ ect , beth perlman / hou / ect , steve nat / corp / enron
+cc :
+subject : potential gas system exposure
+for some period of time , various west power desks have been the default desk
+which received gas positions for new books that were not properly setup in
+tagg . i have worked with our risk team and the techology group to get west
+power out of this problem . i ' m happy with the result from the west power
+point of view .
+i am writing to alert you that one half of the problem still exists . if
+someone does a gas deal and hasn ' t set up a new book properly and doesn ' t
+carefully track his / her position , the trade goes into a dummy book that
+nobody manages . days , weeks , or months later you discover the trade and take
+the hit or the gain . i think that this risk is real because we were the ones
+finding the misplaced gas trades before - - not the gas desk with the
+misplaced trade . now nobody will find them unless the gas trader realizes
+that some of his / her position is missing .
+these are the facts as i understand them . i ' m sure that stacey white , steve
+nat , and monica lande could fill you in with more detailed information . let
+me know if i can be of further assistance .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by tim belden / hou / ect on 02 / 14 / 2001 02 : 18 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+monica lande
+02 / 14 / 2001 02 : 34 pm
+to : tim belden / hou / ect @ ect
+cc : fran chang / pdx / ect @ ect , valarie sabo / pdx / ect @ ect , samantha
+law / pdx / ect @ ect
+subject : re : remaining problem with west tot
+tim ,
+steve has described the problem accurately . setting up a dummy book solves
+the problem for us , but not for enron as a whole . if no one monitors the
+dummy book on the daily basis ( which probably won ' t happen if there is no
+ownership ) , then you still have the possibility of positions falling into
+that book and never showing up in the book that they were intended . why
+can ' t a process be put in place for the initial set - up of a book in tagg ?
+monica
+to : fran chang / pdx / ect @ ect , monica lande / pdx / ect @ ect , valarie
+sabo / pdx / ect @ ect , samantha law / pdx / ect @ ect
+cc :
+subject : re : remaining problem with west tot
+do you guys agree ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by tim belden / hou / ect on 02 / 14 / 2001 01 : 23 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : steve nat / enron @ enronxgate on 02 / 14 / 2001 03 : 49 pm cst
+to : tim belden / hou / ect @ ect , stacey w white / hou / ect @ ect
+cc : beth perlman / enron @ enronxgate
+subject : re : remaining problem with west tot
+tim , the root problem was related to the default mapping logic in the
+' interface ' job that moves the erms gas calc results to the portcalc results
+tables . if mapping logic is not set up for a new book , the job was
+defaulting the gas deals to the st - plt desk . the default mapping has been
+changed to a dummy zz _ erms book , which will prevent the deals from showing
+up in the wrong book if the mapping logic is not updated .
+in reference to beth ' s concerns . . . turns out this was a limitation in our
+production code , not an it change to production data , so we should be ok on
+that front .
+the long - term solution would be to remove the hard - coded logic , set - up table
+structures , and maintain the mapping rules through a user screen . given our
+other priorities , and the default logic change , we will not pursue this
+option .
+let me know if you have any other questions or concerns .
+steve
+- - - - - original message - - - - -
+from : belden , tim
+sent : wednesday , february 14 , 2001 11 : 49 am
+to : white , stacey
+cc : perlman , beth ; nat , steve
+subject : re : remaining problem with west tot
+thanks for the concise description of the problem . i should have cc ' d you on
+the original message . your description is much better than mine . now that
+beth has a better understanding of the issue , how long will it take to get
+solved ! ?
+to : beth perlman / enron @ enronxgate @ enron
+cc : tim belden / hou / ect @ ect , steve nat / enron @ enronxgate @ enron
+subject : re : remaining problem with west tot >
+the problem is not that we should enter a reversing trade in the system as
+this would misrepresent the positions across the board . the problem is that
+the position belongs to another book within enpower . the users have no
+access to the screens which define where our gas books are mapped in enpower ;
+therefore , it has to manually define the correct mapping for us . when the
+manual fix has not been made , we have true positions for one book mapped to
+another book .
+stacey
+from : beth perlman / enron @ enronxgate on 02 / 14 / 2001 11 : 14 am
+to : tim belden / hou / ect @ ect , steve nat / enron @ enronxgate , stacey w
+white / hou / ect @ ect
+cc :
+subject : re : remaining problem with west tot
+tim ,
+sorry about this . a better question to ask is why are systems people
+manipulating data ? why can ' t the users put on a reversing trade ? i ' m having
+fits about it resources touching production data and i can ' t tell you how
+many times we screw ourselves up because it does this .
+i ' ll let you know the end result . sorry again , but these practices have to
+stop !
+beth
+- - - - - original message - - - - -
+from : belden , tim
+sent : wednesday , february 14 , 2001 7 : 59 am
+to : beth perlman / hou / ect @ enron
+subject : remaining problem with west tot
+words cannot describe how distressing this problem is . in terms of
+mis - reporting our risk , we are dropping mmbtu ' s from some other book into our
+book as mwhs . mmbtus go for around $ 10 . mwhs go for around $ 400 . why is
+this problem so hard to fix ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by tim belden / hou / ect on 02 / 14 / 2001 04 : 58 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+>
+fran chang
+02 / 13 / 2001 06 : 27 pm
+to : tim belden / hou / ect @ ect
+cc : monica lande / pdx / ect @ ect , valarie sabo / pdx / ect @ ect , samantha
+law / pdx / ect @ ect
+subject : remaining problem with west tot
+tim :
+please note that as of 2 / 13 there will still be 1 , 321 mwhs of nymex swap
+position in st - plt book ( cob ) which is yet to be cleared out by it . i have
+sent out an email to norman lee in it and will follow up with him to make
+sure this problem is removed asap . ( the " unknown " position of the - 311 , 354
+mwhs showing up on 2 / 12 has already been taken cared of . )
+regards ,
+fran
+x 7973

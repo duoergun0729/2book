@@ -1,0 +1,25 @@
+Subject: publication schedule for dpr during holiday period
+please note the following schedule for risk book reporting during the holiday
+period :
+trade date enron status nymex equity market consolidated risk reporting
+fri , 12 / 22 open early close open dpr published for 12 / 21 results ( a )
+mon , 12 / 25 holiday ( b ) closed closed dpr not published
+tues , 12 / 26 holiday ( b ) open open dpr not published ( c )
+wed , 12 / 27 open open open dpr published separately for 12 / 22 & 12 / 26
+results
+thurs , 12 / 28 open open open dpr published for 12 / 27 results
+fri , 12 / 29 open early close open dpr published for 12 / 28 results ( a )
+mon , 1 / 1 holiday ( b ) closed closed dpr not published
+tues , 1 / 2 open open open dpr published for 12 / 29 . normal month
+end schedule applies . ( d )
+( a ) trader p & l and position reports will be produced for traded products at
+close of business
+( b ) us , canadian & london holiday
+( c ) logistics and risk personnel will be in the office on this holiday to
+support trading activity
+( d ) monthly close procedures require that changes or adjustments to risk
+books for month - end be submitted by 5 : 00 pm houston time on the first
+business day following the end of the month . the dpr published on 1 / 2 for
+12 / 29 results will be preliminary . the final dpr for 12 / 29 should be
+published on 1 / 3 , assuming that all month - end adjustments have been received
+on 1 / 2 .

@@ -1,0 +1,5 @@
+Subject: deal confirmation changes
+good afternoon ron ,
+we just had a meeting with bill williams , head of real - time trading in portland , to discuss some problems we are having with the real - time deals flowing to the deal confirmation system . currently , the deal confirmation system is pulling the term information so that changes made by real - time to reflect actual volumetric flow & price are not seen by the confirmation groups . one possible solution has already been examined and that would be to have the real - time traders use deal entry to make all the changes . this solution will not work . if the real - time guys start changing the deals in deal entry , the original negotiated deal will be lost . also , and more importantly , the time to make all the changes for the real - time adjustments in deal entry would make it impossible to keep up with the high volume of deals we are now seeing .
+thanks , david poston
+it manager , portland

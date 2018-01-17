@@ -1,0 +1,18 @@
+Subject: fw : product name
+fyi : copy of email i sent to pat o ' donnell .
+- - - - - original message - - - - -
+from : forster , david
+sent : wednesday , january 30 , 2002 12 : 06 pm
+to : ' pat . odonnell @ ubsw . com '
+subject : product name
+pat ,
+i remain concerned that we should proactively promote a short product name .
+i realise this is not consistent with group ' s position .
+some considerations :
+- if we do not promote a short name , the market will do it for us . noone is going to refer to the system as " the online trading platform for ubs warburg energy " . they will find something 4 syllables or less .
+- this is a system which had a very high profile and unique identity within the industry . downtime is reported in the trade press . numerous general news articles referenced it . whether we want the " product " to have a unique identity or not , it will have one , and we should control it to the extent we can .
+- enrononline was more than just a means of doing business with enron . it was recognised by many as a kind of " marketplace " , which provided a unique combination of liquidity , pricing and ease of transaction . the market will look to our new system as the replacement for this marketplace and the marketplace needs a name .
+- some segments of the market are already starting to use their own short form during informal conversation . they have selected " ubsol " . as discussed , i think it is in our best interest to aggresively provide the market with a replacement for this . to do otherwise means we will shortly be stuck with this name and it will be very difficult to " unstick " .
+- there are significant volumes of online and offline documentation ( help , etc . ) for which it is helpful to have a name by which to refer to the collection of people , processes , internal trading tools , reporting applications , administration applications , and website . it is important to note that the website , though the most visible part , is only one part of the overall " system " which was enrononline .
+i understand how an extremely large corporation such as ubs would be concerned with the proliferation of product names , which could be confusing when looking at all of them on a single list . however , many of our customers will have exposure to only a few ubs products , and for the individuals at those companies , most will have exposure to only one : the trading system .
+dave

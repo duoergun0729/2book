@@ -1,0 +1,28 @@
+Subject: ets and corporate change control items
+the following items were discussed in this week ' s ets and corporate change control . . .
+july 11
+beginning today and lasting through 7 / 13 at 5 : 00 p . m . , the corporate print team will make changes and verify the following printers resolve to the host names : zachary , redfish , bluefish , davie , teddy , jinmeycricket , mac , pastry , partyviking , monkey , peasant , blackjack , xman , aeros , paris , gumpy , duplex , nodeal , momoney , moolah , littlebuddy , itsec , tortilla , irms , crawfish , avenel , joker , apache , pmo , kidrock , whocares , corpaccountingg , bigbertha , nodoz , hullabaluh , banait , tajmahal , vagon , bambam , mirage , funmachine , lunchbox , seed , iron , blackgold , honeybee , gas , groovy , hpl 801 , zeon , niagara , valentine , carbon , pilotlight , gasstove , sodium , georgestrait , endeavor , uranus , skylab , hubble , mariner , voyager , challenger , pathfinder , viking , tatiana , gemini , mountain , apollo , magellan , discovery , columbia , catfish , flounder . no impact is expected .
+july 12
+from 11 : 30 p . m . through 7 / 13 at 3 : 00 a . m . , the ets server team will move the existing emc box approximately six inches . during this maintenance prestige flooring will install additional floor pedestals in preparation for installation of the new emc box . no impact is expected .
+july 13
+from 3 : 30 - 5 : 00 p . m . , telephony services will transition a second fiber ring from in - house fiber to man . this maintenance will create redundancy for the atm network for telephone systems at eb , 3 ac and ecs . no impact is expected .
+july 13
+from 5 : 00 - 5 : 15 p . m . , the corporate server team will migrate one general purpose 2 terminal server from oracle 7 . 3 to oracle 8 i and put it in the gp 2 cluster as the primary server . all applications on terminal server are oracle 8 i compliant . applications being developed require oracle 8 i , and current terminal server general purpose cluster is running oracle 7 . 3 . no impact to ets users is expected .
+july 13
+from 6 : 00 p . m . through 7 / 15 at 5 : 00 a . m . , facilities will perform the monthly routing maintenance on the eb 34 data center ' s crac ( computer room air conditioning ) units . this maintenance includes checking / changing air filters and belts , and cleaning out condensation drip pans , pipes , and drains . no impact is expected .
+july 14
+from 7 : 00 a . m . - 5 : 00 p . m . , facilities will install water piping to supply emergency backup crac units in the eb 34 data center to provide emergency cooling capacity . no impact is expected .
+july 14
+from 7 : 00 a . m . - 7 : 00 p . m . , facilities will install new power whips on the 34 th floor in the ets server area . while no outage is expected , due to the nature of the work , the possibility of a power disruption does exist .
+july 14
+from 8 : 00 a . m . - 5 : 00 p . m . , facilities will switch the eb 34 data center ' s cooling loop to the backup roof chillers to verify functionality . if a partial failure of chillers occurs , problem identification and resolution will proceed with data center load still on roof chillers ( which could result in a gradual temperature rise in the data center until resolution is complete ) . a protracted run of the chillers will continue through saturday . no impact is expected .
+july 14
+from 9 : 00 a . m . - 3 : 00 p . m . , telephony services will add caller id name & number to isdn pri trunks on eb and 3 ac telephone systems . trunk groups will be taken down in stages so that back - up trunk groups will still send and receive calls . software and hardware changes will be made to trunk groups and circuit boards to allow for new caller - id protocol . intermittent service disruptions could occur including fast busies , no dial tone , and call disconnects if you are on a trunk that is busied out during the change . if you are disconnected , redial to hit a back - up trunk . these changes will not affect long distance calls . please call harold williams at x 58917 or cindy siniard x 30558 with any questions .
+july 14
+from 7 : 00 - 11 : 00 p . m . , enron network services will connect the core enron center north and enron center south switches . no impact is expected .
+july 16
+from 6 : 00 p . m . through 7 / 17 at 10 : 00 p . m . , facilities will temporarily remove the door from eb 3460 to allow access for the new ets emc equipment . plastic will be installed to control environmentals . a guard will be placed 24 x 7 while door is down . all traffic will be routed to eb 3450 doorway . after ets emc equipment is moved in on tuesday 7 / 17 / 01 , in the evening the door will be reinstalled .
+july 20
+from 9 : 00 p . m . through 7 / 21 at 1 : 00 a . m . , the messaging team will reboot servers as part of their normal maintenance schedule . users on the mailservers listed below may see intermittent outages during the reboots : ecthou - ln 3 , ecthou - ln 4 , ecthou - ln 5 , ecthou - ln 6 , ecthou - ln 7 , ecthou _ ln 2 , nahou - lnl 0 , nahou - lnl 1 , nahou - lnl 2 , nahou - lnl 4 , nahou - ln 8 , nahou - ln 9 .
+ets solution center - houston , at 713 - 345 - 4745
+ets solution center - omaha , at 402 - 398 - 7454

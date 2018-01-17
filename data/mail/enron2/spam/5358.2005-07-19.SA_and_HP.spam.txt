@@ -1,0 +1,36 @@
+Subject: mail delivery failed : returning message to sender
+this message was created automatically by mail delivery software .
+a message that you sent could not be delivered to one or more of its
+recipients . this is a permanent error . the following address ( es ) failed :
+steve . carpenter @ up 4 it . demon . co . uk
+( generated from steve . carpenter @ up 4 it . info )
+smtp error from remote mailer after end of data :
+host punt - 1 . mail . demon . net [ 194 . 217 . 242 . 248 ] :
+550 blocked by recipient ' s spam filter options . if message is legitimate , please forward a copy to rbl @ demon . net for investigation .
+- - - - - - this is a copy of the message , including all the headers . - - - - - -
+return - path :
+received : from [ 222 . 47 . 74 . 64 ] ( helo = mailwisconsin . com )
+by seven . mx . 123 - reg . co . uk with smtp ( exim 4 . 43 )
+id ldupqo - 0001 fc - bw
+for steve . carpenter @ up 4 it . info ; tue , 19 jul 2005 12 : 00 : 39 + 0100
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 09360701 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : steve . carpenter @ up 4 it . info
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbelivabie !

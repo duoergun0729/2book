@@ -1,0 +1,7 @@
+Subject: ft . pierce
+ozzie :
+as a follow up to our phone conversation , how about scheduling the ft . pierce project review meeting during the second week in april ? the objective of the meeting is to look at the technical risk in the deal and the mitigation measures we taking . the intended outcome is to ensure all related enron entities are supportive of the transaction and have had the opportunity to ask questions . this will reduce the chance that we will run into objections down the road on " technical risks " as we begin to ramp up our capital commitments . we had a similar meeting with the electrobolt team in enron s . america , that was very productive and accomplished the above objectives .
+do you have a project presentation that you ( and / or the lead developer ) could discuss with the above team ? as many of the technical risk issues are also tied to commercial aspects of the deal we should also cover these areas as well ( e . g . , commercial objectives and obligations driving the technical design and implementation strategy ) .
+one of the key aspects of the project to discuss is the schedule risk and our strategy for securing a capable construction contractor for the job . let me know as to your availability , and who else you think should attend the meeting .
+thanks ,
+brian

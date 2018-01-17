@@ -1,0 +1,54 @@
+Subject: transwestern invoice
+elizabeth ,
+thanks . i don ' t have access to update rates . i usually depend on tk to do it . i ' ll forward this to michelle lokay in the event she does . if not , maybe amy does . i ' m out tomorrow , but back in on monday . if someone can ' t help us tomorrow , maybe we can get it fixed on monday .
+- - - - - original message - - - - -
+from : brown , elizabeth
+sent : thursday , april 19 , 2001 2 : 52 pm
+to : fawcett , jeffery
+subject : re : transwestern invoice
+importance : high
+the march rate needs to be updated for the path wot ( poi 500179 ) to eot . the rate system still reflects $ 0 . 0075 for this path rather than the calculated rate of $ 0 . 0121 . once this is done , please notify one of the schedulers to reverse and rebook for both february and march . if anyone has questions , please let me know .
+thanks ,
+elizabeth
+from : jeffery fawcett / enron @ enronxgate on 04 / 18 / 2001 08 : 56 am
+to : elizabeth brown / et however , this rate was not changed for the other primary path wot to eot and was billed at the base rate of $ 0 . 0075 . this is an additional $ 10 , 305 that will need to billed to usgt .
+these amounts should fall in line with what usgt was expecting ( other than for differences due to rounding of the rates to four decimal places ) . someone in your group will need to update these rates in cbs and notify the scheduler to reverse and rebook for both months .
+please let me know if you need anything further .
+thanks ,
+elizabeth
+from : jeffery fawcett / enron @ enronxgate on 04 / 13 / 2001 08 : 44 am
+to : elizabeth brown / et & s / enron @ enron
+cc :
+subject : transwestern invoice
+yes , effective february 15 , 2001 , their east to west flow one - part rate went from $ 0 . 04 to $ 0 . 15 / mmbtu .
+- - - - - original message - - - - -
+from : brown , elizabeth
+sent : friday , april 13 , 2001 8 : 13 am
+to : fawcett , jeffery
+subject : re : transwestern invoice
+i looked at usgt ' s response below . did the rate structure change ? if so , when and what are the terms ?
+thanks ,
+elizabeth
+from : jeffery fawcett / enron @ enronxgate on 04 / 11 / 2001 04 : 19 pm
+to : elizabeth brown / et & s / enron @ enron
+cc :
+subject : transwestern invoice
+elizabeth ,
+apparently usgt disagrees with our invoice ( the $ 10 , 000 mistake works in our favor ) . is there a way you could take a look at this ( or at least help me to do it ) in order to reconcile ? usgt also believes our february invoice is wrong . call me . thanks .
+- - - - - original message - - - - -
+from : " hyne , leslie " @ enron [ mailto : imceanotes - + 22 hyne + 2 c + 20 leslie + 22 + 20 + 3 clhyne + 40 utilicorp + 2 ecom + 3 e + 40 enron @ enron . com ]
+sent : wednesday , april 11 , 2001 2 : 11 pm
+to : ' jfawcet @ enron . com '
+subject : transwestern invoice
+dear jeff :
+here is a breakdown of my calculation for the amount we owe on contract
+# 27161 for march 2001 .
+400 , 000 * . 0075 * . 31 = $ 93 , 000 . 00 demand charge
+394 , 160 * . 1425 = $ 56 , 167 . 80 socal needles deliveries
+87 , 039 * . 1425 = $ 12 , 403 . 06 pg & e topock deliveries
+3 , 187 , 186 * . 0093 = $ 29 , 640 . 83 east deliveries
+total of $ 191 , 211 . 69
+please let me know if you have any questions or if you disagree with the
+above calculations .
+thanks ,
+leslie

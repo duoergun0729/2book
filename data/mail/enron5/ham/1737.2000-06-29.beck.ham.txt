@@ -1,0 +1,62 @@
+Subject: re : unify
+brent ,
+as i have indicated to both sally and beth , this couldn ' t have been
+accomplished without the solid partnership with the business and
+participation by key individuals from your team .
+specifically , jeff sorensen , bob klein , becky ford , laurel adams and melissa
+white were key to making this work . this was a ' come from behind ' effort and
+there were many nights and weekends that this team shared pizza while
+debugging sap and financials system issues . this type of partnership and
+commitment is required for success in these types of projects .
+kudos to the team for the on - time delivery . let ' s stay focused on making the
+transition as smooth as possible !
+brent a price @ ect
+06 / 29 / 2000 11 : 34 am
+to : jefferson d sorenson / hou / ect @ ect , rebecca fordham / lon / ect @ ect , bob
+klein / hou / ect @ ect , kenneth m harmon / hou / ect @ ect , steve neal / hou / ect @ ect ,
+hoong p foon / hou / ect @ ect , kip martin / hou / ect @ ect , philip r glass / hou / ect @ ect ,
+cynthia clark / corp / enron @ enron , richard brockhan / corp / enron @ enron
+cc : jeff johnson / corp / enron @ enron , sally beck / hou / ect @ ect
+subject : re : unify
+thanks for the update . i also want to thank everyone for a job well done .
+you all worked great as a team and proved that it projects can be completed
+on time and with relatively few problems . unify financial settlements could
+serve as an example for future it project implementations .
+from : jefferson d sorenson 06 / 28 / 2000 03 : 39 pm
+to : brent a price / hou / ect @ ect
+cc :
+subject : unify
+today is the first day for financial settlements to use unify in production
+( penultimate settlement ) . we will keep you posted on results .
+jeff
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jefferson d sorenson / hou / ect on
+06 / 28 / 2000 09 : 32 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+rebecca ford
+06 / 27 / 2000 06 : 48 pm
+to : kenneth m harmon / hou / ect @ ect
+cc : cynthia clark / corp / enron @ enron , steve neal / hou / ect @ ect , richard
+brockhan / corp / enron @ enron , hoong p foon / hou / ect @ ect , kip martin / hou / ect @ ect ,
+philip r glass / hou / ect @ ect , jeff johnson / corp / enron @ enron , bob
+klein / hou / ect @ ect , jefferson d sorenson / hou / ect @ ect
+subject : unify
+hey ken ,
+i just wanted to let you know that the financial settlement group were very
+impressed with unify during the first training class that we had on friday .
+i did not hear any negative comments , and they even said they liked it better
+than sift . some of the key areas in which they see great benefit are :
+1 . the automatic calculation of in and out of the money options
+2 . the statement group assignment screen and the idea of selecting different
+statement groups for different payment terms
+3 . the ability to sort and subtotal on financial list screen
+4 . the system is more efficient than sift
+5 . the ability to view the invoice on screeen and to click directly on the
+line to make adjustments
+6 . the ability to wire foreign currencies ( really and sap enhancement )
+one thing that i did hear is that they wished they could see enron north
+america and ena global together on the financial list screen .
+i think the development group did a great job , and i enjoyed working with
+everyone . i hope that in the next few weeks and months ahead that you will
+continue to allow the team to provide our group with quick and efficient
+response to areas of concern and enhancements .
+thank you to the group for all of your hard work ,
+becky

@@ -1,0 +1,44 @@
+Subject: re : network planning
+stinson , i had a discussion with jim and he said that the company ' s name is
+mill three . they provide modeling tools for tiered qos and the like for
+network planning . he said that the code is written in c and that we should
+be able to work with it . he will get us the contact name and we can get a
+presentation for us . jim said that he arranged for this before he met me and
+learned of our ( ebs research ) role in this matter . i made it clear to jim
+that john griebling had asked us to set up this group to do modeling and that
+we are in the process of arranging for 4 or modeling experts to reside in
+houston . from now on jim and i will work hand and hand on such issues along
+with you to make sure that we initiate development efforts as soon as
+possible to utilize krishna , samer and co . asap . . .
+i ' ll take care of arranging a meeting with these consultatants asap .
+my involvement in hamachi is through jim irvine . jim and i are working very
+well together due to our engineering background . jim has been a network
+( communications ) engineer in the army for about 20 years . for hamachi , there
+were gap analysis that needed to be done w . r . t . network reach and when and
+where the network will be available ( ebs ' and hamachi ' s ) . additionally , we
+would look at when tom gros wanted pooling points up and running , we would
+then look at hamachi ' s pooling point sites and come up with requests to
+change dates or third party involvements .
+for the most part , our efforts has been to interview hamachi network
+developers about their plans and put the data together in a manner that we
+can summarize for john . additionally , we ' ve had two meetings with sycamore
+( they have offices in denver ) on their products and brett gave a presentation
+on his effort to jim , etc . . . . more details later when we meet .
+ravi .
+stinson gibner @ ect
+03 / 02 / 00 08 : 52 am
+to : ravi thuraisingham / enron communications @ enron communications @ enron
+cc :
+subject : network planning
+ravi :
+i was told by john bloomer that there is a group of consultants in the
+portland office from a company called ( i think ) m 3 i . they are doing
+network consumption and operations modelling . jim irvine or shawna meyer
+were given as enron contacts on this project . we need to find out what
+exactly this group is doing and see if we should get samer and either you or
+me to go , find out the details , and get a brain dump of what they have
+accomplished to see if it can be used in our modelling efforts .
+can you find out what jim knows about this project and get back to me ?
+thanks ,
+- - stinson
+ps how is hamachi going , and what has been your role there ?

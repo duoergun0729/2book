@@ -1,0 +1,21 @@
+Legitimate
+----------
+- Owner: williams-w3
+- Total number: 1500 emails
+- Date of first email: 2001-04-02
+- Date of last email: 2002-02-07
+- Similars deletion: No
+- Encoding: No
+
+
+Spam
+----
+- Owner: GP
+- Total number: 4500 emails
+- Date of first email: 2003-12-18
+- Date of last email: 2005-09-06
+- Similars deletion: No
+- Encoding: No
+
+Spam:Legitimate rate = 3:1
+Total number of emails (legitimate + spam): 6000

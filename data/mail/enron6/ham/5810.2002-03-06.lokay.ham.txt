@@ -1,0 +1,33 @@
+Subject: socalgas unbundling / receipt point capacity
+as a follow - up to our meeting last friday , i have reviewed the comprehensive settlement agreement ( csa ) , socalgas system adequacy proceeding testimony of lad lorenz and the cpuc dec . 11 , 2001 decision on unbundling the socalgas system by implementing the csa with modifications . i also have a call into rodger schwecke at socal to discuss their upcoming tariff filing and the related capacity issues . some of the pertinent points made in these documents relative to receipt point capacity and allocation are as follows :
+comprehensive settlement agreement
+appendix b outlines the details of backbone transmission / receipt point capacity rights :
+1 . all receipt points will be defined with firm capacity and primary access rights that reflect physical limitations . the appendix b table of receipt point capacity indicates that for no . needles , transwestern has primary access rights of 750 mmcf / d and mojave at hector road has secondary access rights .
+2 . for interconnects into socalgas with more than one upstream pipeline , secondary access rights will be defined .
+3 . new or expanded interconnects with existing or new pipelines will have secondary access rights only and will be subject to bumping by gas scheduled through primary access points .
+in the text of the csa , the open season procedures for intrastate backbone transmission / receipt point capacity are described in detail . briefly , its proposed to work as follows :
+1 . initial reservation for core customers . socalgas acquisitions , core transport agents and wholesale customers serving the core will be provided a set aside amount of capacity . this included 300 mmcf / d at north needles .
+2 . first stage / phase i of the open season for 50 % of rp capacity after deducting core customer set aside . existing noncore customers may bid on any rp capacity up to 100 % of their historical usage .
+3 . second stage / phase ii of the open season for remainder of phase i capacity , if any , not awarded or allocated . available to same existing noncore customers as in phase i to bid on in this second round if they haven ' t been awarded capacity up to their 100 % historical usage .
+4 . third stage / phase iii of the open season for 50 % of rp capacity after deducting core customer set aside plus any remaining capacity not awarded in phases i and ii . bidding open to any existing or new customers with creditworthiness established .
+5 . socalgas will hold annual open seasons for expired or non - contracted available capacity .
+6 . market concentration limits were set such that no person or entity including affiliates may hold more than 40 % of the capacity ( after core set aside ) at any one receipt point awarded through the open season process . this does not include secondary market capacity or individually negotiated contracts acquired after the initial open season .
+examples of north needles capacity : physical capacity 750 mmcf / d add ' l 25 / 50 775 / 800
+core cust . set aside 300 inc . core 313
+avail . cap . for bidding 450 462 / 487
+phase i avail . cap . 225 231 / 243 . 5
+phase ii avail . cap . remainder of 225 remainder of
+231 or 243 . 5
+phase iii avail . cap . 225 + remainder 231 / 243 . 5 +
+of phases i & ii if any . remainder of
+ph . i & ii if any .
+system adequacy proceeding - - lorenz testimony
+lad lorenz testifies that the proposal to allocate firm receipt point capacity on the socalgas system is intended to be used " until the commission acts in the gir proceeding " .
+in section h . of lad ' s testimony on firm receipt point access , table ii illustrates that north needles will be expanded by 50 mmcf / d to a level of 800 . in table iii under the heading of firm primary access it states " tw - - who then allocates among its shippers " in reference to the 800 mmcf / d of capacity listed for north needles .
+in this same section h , lad states that this alternative proposal for allocating primary firm capacity at each receipt point will achieve improved reliability " until the commission acts to approve the csa " .
+cpuc decision 01 - 12 - 018 on socalgas unbundling
+the commission approved the csa on dec . 11 , 2001 with certain modifications . these modifications included :
+1 . market concentration limits were decreased from 40 % to 30 % and included capacity attained in subsequent open seasons or by individually negotiated contracts . secondary market capacity remains excluded from the market concentration limit .
+2 . a secondary market price cap was established at 120 % of the interruptible rate ( $ . 07191 ) .
+3 . reinstated the core reservation for intrastate capacity at 1044 mmcf / d ( csa lowered it to 1000 ) . this explains why the core reservation for needles is 313 and doesn ' t match the tw / socal contract level . the additional 44 was allocated per a calpine proposal on a prorata basis to each receipt point with needles receiving an additional 13 mmcf / d .
+in the summary and conclusion sections of the decision , socalgas was directed to include the additional 375 mmcf / d of new backbone and receipt point capacity in its open season . this part of the order did not provide any direction as to how the new capacity was to be allocated to upstream pipelines . additionally socalgas was directed to file an advice letter for implementation and to include proposed methods for allocating any additional future capacity additions .

@@ -1,0 +1,34 @@
+Subject: re : forward prices simulations in the credit reserve model
+bill and mark ,
+the figure below shows you what happens when we simulate forward prices using
+current methodology of our credit reserve model .
+the time scale on this figure goes from 0 to 30 years . i started with $ 5 . 2
+gas prices at time 0 and used the ng forward volatility curve which
+has 50 % volatilities in the front and 13 . 5 % vols for long - term contracts . you
+can see from the figure , that , for example , at 30 years horizon
+the price will be more than $ 13 . 4 with probability 5 % but less than $ 22 . 1
+with probability 99 % . the corresponding lower bounds are
+$ 1 . 17 and $ 0 . 71 .
+tanya
+from : william s bradford / enron @ enronxgate on 03 / 26 / 2001 11 : 22 am
+to : mark ruane / enron @ enronxgate , naveen andrews / enron @ enronxgate , tanya
+rohauer / enron @ enronxgate , debbie r brackett / hou / ect @ ect , tanya
+tamarchenko / hou / ect @ ect , rabi de / na / enron @ enron , wenyao jia / enron @ enronxgate
+cc :
+subject : re : gbm vs reversion
+both seem to provide fairly unrealistic values . $ 50 gas over the term seems
+improbable , however , a $ 6 gas peak does not represent capture all potential
+price movement at 99 % confience interval .
+what were your assumptions on price curves , volatilty curves , and trend
+reversion ?
+bill
+- - - - - original message - - - - -
+from : ruane , mark
+sent : monday , march 26 , 2001 11 : 11 am
+to : bradford , william s . ; andrews , naveen ; rohauer , tanya ; brackett , debbie ;
+tamarchenko , tanya ; de , rabi ; jia , winston
+subject : gbm vs reversion
+a quick example of the impact of using gbm based simulation : based on a five
+year swap , the expected losses are 18 % higher as a result of gbm . attached
+chart shows the relative long - term gas prices under both processes . >
+mark

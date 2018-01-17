@@ -1,0 +1,37 @@
+Subject: re : digitals
+pavel , many thanks for your note .
+i understand that digitals are not core enron business but as you know , i ' m
+trying to explore digitals to give , for example , a company a guaranteed
+income in year one ( to mop up expiring tax losses ) . this is offset by a
+guaranteed expense in year two . see attached hypothetical example . the
+digital will reflect an underlying commodity to which a company is exposed to
+and would be part of a price risk management strategy , thereby giving it
+' commercial purpose ' .
+i would be interested in hearing from you generally on the subject - - the
+rational for using digitals and your knowledge of its use in other markets
+( electricity or other commoodity or in the banking sector ) .
+it seems to me that setting the srike is key and a ' value judgement ' or am i
+wrong , and are there curves and models which could help you substantiate
+this ? in any event , do you have a feel for what an acceptable % of chance or
+likelihood that a commodity price hits the strike on a digital before it
+becomes non arm ' s length and does not pass the smell test ?
+vince , jarek suggested that you may be able to assist . your views would also
+be appreciated .
+gillian .
+from : pavel zadorozhny on 02 / 11 / 2000 15 : 15 cst
+to : gillian lockwood / lon / ect @ ect
+cc :
+subject : digitals
+digital options are extremely uncommon in the crude oil market . nobody ever
+asked me to show quotes in the otc market . the only time we encountered them
+was when producers , brought by our marketing team , wanted to sell a
+knock - outable swap , whereby they would get a higher swap price in exchange
+for cancelling the swap if the price settled below a certain level . this
+structure had a digital put embedded in it , although the customers didn ' t
+necessarilly know that . the companies were us oil and gas producers : venoco ,
+titan , magnum hunter , patiena oil & gas , belco , central resources . it was
+about 1 year ago . in the otc market , at about the same time , i asked for
+quotes to hedge these transactions and sold a digital cal 00 $ 16 swaption to
+elf and strips of digital puts to somebody else that i cannot recall .
+i hope this helps .
+pavel

@@ -1,0 +1,31 @@
+Subject: re : broker client
+let ' s also check lavo on this . he wanted to voice his opinion at the end before we do anything .
+i think whalley might have an opinion too but let ' s decide as enw and ea first .
+thanks .
+gp
+- - - - - original message - - - - -
+from : richter , brad
+sent : thursday , august 30 , 2001 4 : 50 pm
+to : kitchen , louise
+cc : piper , greg
+subject : broker client
+louise - -
+in response to some considerable concern voiced by presto , we are re - evaluating our broker client relationships . i ' m planning to send the following email to each of the desk heads . it is intended primarily to generate feedback from the desks , but my ultimate plan is to shut down the relationships and essentially start over with the desks making the transaction decisions instead of eol . before i launched it , i wanted to get your thoughts .
+thanks ,
+brad
+earlier this year , enron executed deals with certain broker ' s which allows the broker to execute transactions for their clients via a broker client which is linked to the enrononline platform . all executions done on broker client are free of brokerage charges . to date , about 80 % of the 3 , 400 broker trades executed on - line have been in the us power segment . the companies that have access to read and execute transactions using the broker client are as follows :
+apb energy , inc . ( canadian nat gas , canadian power , us nat gas , us power , us coal , us emissions , us weather , us crude , us bandwidth )
+natsource llc ( us nat gas , us power , canadian nat gas , us coal , us emissions )
+amerex natural gas i , ltd . ( asian crude , bandwidth , us crude , us nat gas , belgian nat gas , canadian nat gas , european crude )
+amerex power , ltd . ( australian power , austrian power , bandwidth , canadian power , dutch power , german power , nordic power , spanish power , swiss power , uk power , us power )
+power merchants group , llc ( us financial nat gas )
+prebon energy , inc . ( us nat gas , canadian nat gas , us power , canadian power , us coal , us emissions , us crude )
+prebon marshall yamane ( uk ) ltd ( uk gas , uk power , continental power , continental gas , european crude , european weather , asian weather , asian crude , european bandwidth )
+natsource tullett europe limited ( uk nat gas , uk power , continental gas , continental power , european coal )
+gfi energynet llc ( us nat gas , us power , canadian gas , canadian power )
+tfs energy , llc ( us nat gas , us power , canadian nat gas , canadian power , us bandwidth )
+a significant concern has been raised that these relationships have amounted to a free option on the part of the brokers , who will transact with enron on long - dated product only if they can ' t find an equal or better price from a supplier who will pay brokerage . while i am confident that this possibility was discussed when the deals were struck , the current situation calls for some changes . accordingly , our plan would be to exercise our right to shut down all broker clients immediately . as a result , we would be forced to return approximately $ 1 . 2 mm in fees paid by the brokers listed above .
+let me be clear that this does not preclude future broker client arrangements . the decision to engage in future deals should be made on a commodity - by - commodity and region - by - region basis . in other words , we can grant access to whichever product types the desks feel comfortable with . if particular desks have broker relationships that they would like to move on - line in support of their market , the technology and resources are available to make this happen . what we are currently seeking is simply a reset on the broker client product so that we are not employing a " one - size - fits - all " solution .
+i would welcome your thoughts and comments on this course of action before we decide to proceed .
+thanks ,
+brad richter

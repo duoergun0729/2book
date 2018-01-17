@@ -1,0 +1,8 @@
+Subject: bloomberg broker fee
+i changed the following deal entry errors for the $ 15 flat bloomberg broker fee .
+these deals were entered as $ 15 / mw instead of flat .
+desk reg _ cd deal _ id fee total rate
+epmi - st - ca rl 0 683207 - 6000 400 15
+epmi - st - sw r 7 683421 - 12000 800 15
+epmi - st - whourly rl 0 692805 - 2625 175 15
+epmi - st - whourly rl 1 697919 - 1800 120 15

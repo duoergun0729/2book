@@ -1,0 +1,10 @@
+Subject: request submitted : access request for jeremy . waggenspack @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000005411
+approver : stinson . gibner @ enron . com
+request create date : 10 / 23 / 00 8 : 48 : 43 am
+requested for : jeremy . waggenspack @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

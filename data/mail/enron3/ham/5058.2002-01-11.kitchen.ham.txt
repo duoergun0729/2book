@@ -1,0 +1,27 @@
+Subject: netcoonline launch plans
+we are getting ready for the launch of " netcoonline " and have been preparing new documentation , a refreshed site design and cleaned products to reflect our gas and power focus .
+the following timetable could change , but the general sequence should apply in any case :
+week of jan 14 :
+upon approval by the new buyer of the pa and eta formats , we will contact the master users at our top 50 customers and send them copies of the final pa and eta forms with our new buyer ' s name filled in . during this week , we will be working hard to get as many of the pa ' s returned as possible . once we have an approved pa , we can send the customer their new user id , which will allow them to start trading on the day we launch " netcoonline " .
+a splash page will be available within two business days of knowing our new company name , on a web page reached via an automatic redirect from www . enrononline . com . this page will tell customers about the pending launch of " netcoonline " and provide links to the pa and registration screens and also to the user admin screens , which will allow customer master users to start setting up their sub users .
+the splash page will look something like the following :
+a press release will be issued which will include the planned launch date of " netcoonline "
+week of jan . 21 :
+if all goes well , " netcoonline " will be launched on tuesday , january 22 , with at least financial products ( timing for gas physical and power physical to be determined according to regulatory issues ) .
+we will send out a mass mailing to approx . 3 , 000 individuals at 450 companies inviting them to sign up for netcoonline . included in the package will be a simple brochure , copies of the pa and eta , key messages and a list of frequently asked questions .
+general terms and conditions ( gtc ' s ) will be available online and must be accepted online before a company can start to trade a particular commodity .
+trading / origination coordination
+certain individuals in the trading and origination groups will be contacting customers on our top 50 list to introduce the new company and begin the process of getting signed pa ' s . the netcoonline marketing team will work with trading and origination groups to make sure that all master users that previously had enrononline north american gas and power execution rights are contacted within one week of the pa and eta being approved by the new buyer . netcoonline marketing will follow up with the master users to make sure pa ' s are signed and returned .
+netcoonline marketing contacts :
+for marketing - specific questions , please use the following contacts . for other questions , please contact bob shults ( 30397 ) or dave forster ( 31861 ) .
+teresa mandola ( 39807 ) - power
+kara boudreau ( 30570 ) - gas
+jennifer mcquade ( 53614 ) - power
+dan diamond ( 39673 ) - gas
+definitions :
+password application ( pa ) - only document where a physical signature is required by an authorized person ( master user )
+electronic trading agreement ( eta ) - must be accepted online by the master user before they can proceed into netcoonline
+master user - typically the company authorized signatory that signed the password application . establishes transaction rights for each trader ( sub - users )
+sub - user - trader , assigned either execute or read only status
+general terms & conditions ( gtc ) - document that governs online trades unless a master agreement is in place
+master agreement - document that governs online and offline trades and supersedes the gtc

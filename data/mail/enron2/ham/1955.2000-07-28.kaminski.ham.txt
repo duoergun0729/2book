@@ -1,0 +1,16 @@
+Subject: requirements for clayton
+hi vince ,
+i have communicated the following requirements to clayton . please give me
+your thoughts on additions / modifications .
+for eol model ,
+1 . working program , with easily usable interface
+2 . user docs , for new user to easily start using system
+plus includes details about program structure and modules
+3 . reports for tabulation of data by commodity , counterparty , period , etc .
+should be easy to run daily .
+4 . time series description , including graphs , plus some time series analysis
+( say , relationship of volume to time of day , day of week )
+5 . cross commodity trading relationships ( identify potential arbitrage )
+for gas model ,
+1 . calibrate model
+2 . user docs , with complete description of data

@@ -1,0 +1,54 @@
+Subject: fwd : eprm article
+return - path :
+from : vkaminski @ aol . com
+full - name : vkaminski
+message - id :
+date : fri , 8 dec 2000 00 : 19 : 50 est
+subject : fwd : eprm article
+to : vkamins @ enron . com
+cc : vkaminski @ aol . com
+mime - version : 1 . 0
+content - type : multipart / mixed ; boundary = " part 2 _ 1 e . e 608831 . 2761 c 976 _ boundary "
+x - mailer : unknown sub 171
+return - path :
+received : from rly - xao 5 . mx . aol . com ( rly - xao 5 . mail . aol . com [ 172 . 20 . 105 . 74 ] )
+by air - xaol . mail . aol . com ( v 77 . 14 ) with esmtp ; tue , 05 dec 2000 12 : 47 : 35 - 0500
+received : from mailolb . rapidsite . net ( mailolb . rapidsite . net
+[ 207 . 158 . 192 . 229 ] ) by rly - xao 5 . mx . aol . com ( v 76 _ rl . 19 ) with esmtp ; tue , 05 dec
+2000 12 : 47 : 00 - 0500
+received : from www . lacima . co . uk ( 209 . 41 . 1 . 121 ) by mailolb . rapidsite . net ( rs
+ver 1 . 0 . 58 s ) with smtp id 0923182 for ; tue , 5 dec 2000
+12 : 46 : 46 - 0500 ( est )
+message - id :
+reply - to : " chris strickland "
+from : " chris strickland "
+to :
+references :
+subject : eprm article
+date : wed , 6 dec 2000 04 : 16 : 05 + 1100
+organization : lacima consultants
+mime - version : 1 . 0
+content - type : multipart / mixed ;
+x - priority : 3
+x - msmail - priority : normal
+x - mailer : microsoft outlook express 5 . 00 . 2615 . 200
+x - mimeole : produced by microsoft mimeole v 5 . 00 . 2615 . 200
+x - loop - detect : 1
+hi vince ,
+hope things are fine with you . i ' m sorry that i only ever write to you when
+i ' m after something , but could you look at this simulation article - the
+next installment in the eprm articles .
+many thanks and best regards .
+chris .
+- - - - - original message - - - - -
+from :
+to : ; ; ;
+sent : friday , september 08 , 2000 4 : 23 am
+subject : re : var article
+> les ,
+>
+> the revised version of the var article looks fine .
+>
+> vince
+>
+- eprm _ 04 _ sim _ mr . zip

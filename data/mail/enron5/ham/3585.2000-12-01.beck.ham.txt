@@ -1,0 +1,9 @@
+Subject: request submitted : access request for cheryl . ingstad @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000008853
+request create date : 12 / 1 / 00 10 : 08 : 24 am
+requested for : cheryl . ingstad @ enron . com
+resource name : eol us backoffice data manager
+resource type : applications

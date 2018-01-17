@@ -1,0 +1,52 @@
+Subject: maths course
+dear vince ,
+?
+further to our telephone conversation , that you very much for agreeing to
+participate in the financial mathematics training course . as discussed i
+would be delighted if you could present the following sessions :
+?
+practical techniques to price exotic energy options
+?
+evaluating methodologies for pricing exotics
+? ? ? assessing the pros and cons of a partial differential equation
+? ? ? applying multi - factor models to price exotic energy derivatives
+? ? ? building trees for pricing and hedging exotics
+pricing
+? ? ? asian options
+? ? ? bermudan and american style options
+? ? ? spread and spark spread options
+? ? ? multi - commodity options
+practical example : ? ? ? pricing swing options
+? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? using monte carlo techniques to value swing
+options
+practical example : ? ? ? pricing a multi - commodity option
+?
+analysing approaches to weather derivatives valuation
+?
+understanding the mechanics of weather derivatives
+? ? ? heating and cooling degree day swaps
+? ? ? precipitation contracts
+applying probablistic approaches to pricing weather derivatives
+? ? ? stochastics
+? ? ? monte carlo techniques
+using historical methodologies and black - scholes for pricing weather
+derivatives
+valusing long term transactions
+practical example
+?
+please could you let me know by the close of business on thursday if you
+would like to make any changes to the bullet points . i have printed out your
+biography below and please could you also let me know if you would like to
+make any changes to it .
+?
+vince kaminski , enron capital & trade resources
+vince kaminski is vice president and head of research at enron risk
+management and trading , a unit of enron capital & trade resources . mr
+kaminksi joined enron in 1992 . previously he was vice president in the
+research department at salomon brothers .
+?
+thanks again vince and i ? look forward to speaking to you on friday .
+?
+best regards ,
+?
+vicky

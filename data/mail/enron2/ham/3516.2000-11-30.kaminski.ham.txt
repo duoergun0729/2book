@@ -1,0 +1,14 @@
+Subject: projects list
+stinson ,
+just want to give you a quick update about the current projects on my plate ,
+so that you can update your blackbroad
+1 ) wti trading simulation v . 2 , ready for you to review
+2 ) storage valuation for paul bieinawski ( new )
+3 ) product production margin modeling for doug friedman ( new )
+need to model explicitly the jump piece . some new ideas for discussion .
+4 ) espeed warrant valuation for randy petersen ( new )
+5 ) correlation skew for larry may
+6 ) credit exposure model , alex finished the coding , testing next
+have you had a chance to review brad ' s back testing results for the storage
+model ?
+zimin

@@ -1,0 +1,142 @@
+Subject: fyi : sycamore support on network planning
+fyi :
+note that the person mentioned in the text below ( ming lung lee ) is very
+experienced in traditional traffic engineering work . he comes from mci where
+he was responsible for modeling traffic etc . it appears that sycamore
+finally got him . one time they had lost him to corvis ( another optical
+equipment company ) , i guess sycamore went back to him with a better deal ! as
+soon as this guy is available , i ' ll set up an all day technical meeting to
+hash out what needs to be done as far as optimization algorithm development
+is concerned . i want to produce a technical requirement document to clearly
+outline what needs to be done to support dynamic , optical - switched - circuits
+based trading and streaming media applications , etc . having such an industry
+expert help us will help ' justify ' internally all the the effort on the
+traffic analysis side that john griebling has asked us to support . keep in
+mind that even though he is an expert in the field , the field that we need to
+play in has not develop yet . even the emerging data based traffic ( as opposed
+to voice where blocking of traffic is allowed ) analysis is an order of
+magnitude more difficult ( due to uncertain load ) , let alone trading such load
+( which we are planning to do ! ) .
+ravi .
+. . . sycamore hired a guy per griebling ' s request , to work with you on the
+design / planning piece of the business . he will be contracted out to enron
+for a period of 6 months initially . he lives in sf but will be traveling to
+whereever you need him . jim , griebling wanted us to set up a meeting
+between you guys for wednesday morning , if you have time . his name is ming
+lung lee and he comes to us from mci . let me know what works .
+- - - - - forwarded by ravi thuraisingham / enron communications on 03 / 07 / 00 11 : 09
+am - - - - -
+kristin . bethurem @ sycamorenet . com
+03 / 07 / 00 09 : 44 am
+to : ravi thuraisingham / enron communications @ enron communications ,
+kristin . bethurem @ sycamorenet . com
+cc : jim irvine / enron communications @ enron communications ,
+barb . vanbeyerer @ sycamorenet . com , brett . leida @ sycamorenet . com
+subject : re : pooling point profiles
+hi ravi . fair enough , we will make sure we keep you guys in the loop . let
+barb / me know which items we can offload to you guys .
+first thing to be done is barb will schedule a call between us and you all
+to gain a better understanding of a number we are trying to back into with
+the metro solutions ( there are alot of options on our side and we need some
+guidelines ) . i already talked to john about this this morning so we need to
+make some headway on that number . also , we are scheduled for a conference
+call wednesday morning with griebling to discuss where we are at with
+initial solutions for metro . would you like to join us ?
+thursday night , we have a dinner tentatively planned ( talk with griebling
+about who , where , etc . ) . friday we will be meeting all day at the omni in
+interlocken .
+ravi and jim , per my conversations with john , he is going to run point on
+the metro solutions . dorn is swamped with other activities . as for the
+switching piece , we discussed our routing software on monday and i think
+that is all we are going to do until ahi is done then we will set up a
+meeting between our guys and the ahi folks . the expectation is that this
+meeting will occur in the next 30 days .
+also , sycamore hired a guy per griebling ' s request , to work with you on the
+design / planning piece of the business . he will be contracted out to enron
+for a period of 6 months initially . he lives in sf but will be traveling to
+whereever you need him . jim , griebling wanted us to set up a meeting
+between you guys for wednesday morning , if you have time . his name is ming
+lung lee and he comes to us from mci . let me know what works .
+the best ways to reach me are my cell phone or text pager . cell is
+303 - 619 - 2485 and pager is 888 - 467 - 6167 - - you can send me a text message
+from either your pager ( if you have a 2 way ) or press 3 to get an operator .
+thanks , kristin
+- - - - - original message - - - - -
+from : ravi _ thuraisingham @ enron . net [ mailto : ravi _ thuraisingham @ enron . net ]
+sent : monday , march 06 , 2000 9 : 52 am
+to : kristin . bethurem @ sycamorenet . com
+cc : jim _ irvine @ enron . net ; barb . vanbeyerer @ sycamorenet . com ;
+brett . leida @ sycamorenet . com
+subject : re : pooling point profiles
+hi kristin , jim and i will be in broomfield , co from tueday late ~ 10 am
+until
+friday end of day . we would appriciate being in the loop of any discussion
+that
+you may have with john and dorn ( provided that they can be shared with us ) .
+both
+john and dorn are very busy and you can help alleviate some of the
+congestion by
+send information directly to jim barb . vanbeyerer @ sycamorenet . com
+subject : pooling point profiles
+kristin
+attached is the sanitized file promised .
+what is the status on next weeks meeting and more specifically , what is the
+location ?
+jim
+- - - - - forwarded by jim irvine / enron communications on 03 / 03 / 00 03 : 40 pm
+- - - - -
+| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
+| | andre bourque |
+| | |
+| | 03 / 03 / 00 |
+| | 01 : 27 pm |
+| | |
+| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
+|
+|
+|
+| to : jim irvine / enron communications @ enron communications
+|
+| cc :
+|
+| subject : pooling point profiles
+|
+|
+jim :
+as part of your vendor negotiation requirements .
+andre f . bourque
+enron broadband services
+- - - - - forwarded by andre bourque / enron communications on 03 / 03 / 00 01 : 28 pm
+- - - - -
+| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
+| | andre bourque |
+| | |
+| | 03 / 02 / 00 |
+| | 05 : 42 pm |
+| | |
+| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
+|
+|
+|
+| to : ravi thuraisingham / enron communications @ enron
+communications |
+| cc : rob kolosvary / enron communications @ enron communications ,
+|
+| lisa rosenberg / enron communications @ enron communications , andre
+|
+| bourque / enron communications @ enron communications , john
+|
+| griebling / enron communications @ enron communications , laura
+|
+| beneville / enron communications @ enron communications
+|
+| subject : pooling point profiles
+|
+|
+ravi :
+as per your request , the attached profiles have been sanitized of their
+sources .
+regards ,
+andre f . bourque
+enron broadband services
+( see attached file : pooling point profiles . xls )

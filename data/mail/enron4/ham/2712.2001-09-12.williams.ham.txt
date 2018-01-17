@@ -1,0 +1,36 @@
+Subject: eol data for september 11 , 2001
+eol deals from : 9 / 1 / 2001 to : 9 / 11 / 2001 enpower from : 9 / 1 / 2001 to : 9 / 11 / 2001
+desk total deals total mwh desk total deals total mwh
+epmi long term california 168 3 , 202 , 925 epmi long term california 19 767 , 876
+epmi long term northwest 134 2 , 501 , 800 epmi long term northwest 136 5 , 012 , 033
+epmi long term southwest 132 2 , 438 , 030 epmi long term southwest 75 8 , 242 , 785
+epmi short term california 883 730 , 800 epmi short term california 215 507 , 603
+epmi short term northwest 403 281 , 000 epmi short term northwest 152 139 , 596
+epmi short term southwest 673 624 , 600 epmi short term southwest 305 992 , 551
+real time ( as of 2 : 30 pm , 09 / 11 / 01 ) 319 8 , 050 real time ( as of 2 : 30 pm , 09 / 11 / 01 ) 238 24 , 820
+grand total 2 , 712 9 , 787 , 205 grand total 1 , 140 15 , 687 , 264
+eol deals from : 09 / 11 / 2001 to : 09 / 11 / 2001 enpower from : 09 / 11 / 2001 to : 09 / 11 / 2001
+desk total deals total mwh desk total deals total mwh
+epmi long term california 26 277 , 600 epmi long term california 1 10 , 800
+epmi long term northwest 12 247 , 200 epmi long term northwest 5 41 , 786
+epmi long term southwest 17 202 , 400 epmi long term southwest 2 500
+epmi short term california 128 32 , 456 epmi short term california 35 21 , 764
+epmi short term northwest 55 19 , 200 epmi short term northwest 28 7 , 288
+epmi short term southwest 82 25 , 600 epmi short term southwest 28 20 , 040
+real time ( as of 2 : 30 pm , 09 / 11 / 01 ) 0 0 real time ( as of 2 : 30 pm , 09 / 11 / 01 ) 39 4 , 603
+grand total 320 804 , 456 grand total 138 106 , 781
+ice volumes from : 09 / 11 / 2001 to : 09 / 11 / 2001
+delivery point total mwh epmi mwh price
+cob ( op , next day ) 200 200 $ 23 . 00
+mid c ( p , next day ) 800 0 $ 27 . 75
+mid c ( op , next day ) 600 200 $ 23 . 00
+mid c ( p , oct - 01 ) 21 , 600 10 , 800 $ 32 . 13
+np - 15 ( op , next day ) 600 200 $ 24 . 05
+np - 15 ( p , next day ) 1 , 200 0 $ 30 . 57
+np - 15 ( p , oct - 01 ) 10 , 800 0 $ 32 . 50
+palo ( op , next day ) 400 0 $ 19 . 40
+palo ( p , next day ) 7 , 200 800 $ 32 . 85
+palo ( p , oct - 01 ) 10 , 800 0 $ 32 . 00
+sp - 15 ( op , next day ) 1 , 400 1 , 000 $ 21 . 45
+sp - 15 ( p , next day ) 2 , 000 0 $ 30 . 35
+grand total 57 , 600 13 , 200 $ 329 . 05

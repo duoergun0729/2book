@@ -1,0 +1,20 @@
+Subject: fw : dash spending controls team meeting
+louise ,
+we ' re making good progress with a new project expense management protocol that will provide business unit executives with higher quality information on project expenditures as well as automatically require management authorization or re - authorization at pre - determined levels of spend or dash approved limits . my plan is to have this implemented by lq 2002 .
+richard lauer from rac is leading this effort . i ' ll keep you posted on developments .
+let me know if you have any specific thoughts or requests on this .
+- - - - - original message - - - - -
+from : lauer , richard
+sent : monday , october 22 , 2001 6 : 19 pm
+to : vargas , hope ; pierce , jody ; hodges , georganne ; schneider , chip ; boehm , rick ; musser , paul ; dupre , david ; carson , rick l . ; lowry , donna ; stafford , clayton
+subject : dash spending controls team meeting
+this e - mail follows the october 18 th isc ( sap ) working session and other one - on - one accounting process meetings . both working session and process meetings have been very productive . in preparation of tomorrow ' s team meeting , clayton stafford has outlined several sap features and possible process enhancements as follows :
+? opportunity may exist to create projects at the project definition level in sap . this would enable aggregate charges to be summarized and actual compared to budget across multiple company codes . need to further understand the relationship between profit centers and project definition levels in sap .
+? may consider default project budgets of $ 2 . 5 mm until an approved dash is received that commits funds in excess of $ 2 . 5 mm .
+? sap has an email notification feature that could be used to alert a designated person / group when a project is approaching or has exceeded budget ( within an approved tolerance level ) . some limitations do exist .
+? sap can be coded to capture unique data ( possibly the dash number ) at the project definition level . management reports can be generated from the unique field .
+? reporting features may be enhanced through the current sunrise project .
+please bring your thoughts and ideas . see you tomorrow in eb 2386 at 9 am .
+richard lauer
+rac compliance manager
+( 713 ) 853 - 4884

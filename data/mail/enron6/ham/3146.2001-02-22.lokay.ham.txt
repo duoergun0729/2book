@@ -1,0 +1,10 @@
+Subject: bp wtx to oasis
+lorraine :
+i ran a test case for the bp 100 , 000 dth from wtx pool to oasis for the term 3 / 01 / 01 to 2 / 28 / 02 . below are the findings :
+- - point capacities for oasis , valero and delhi ward are okay for the term .
+- - the 24 " lateral supplying these 3 points is slighly over the path capacity of 350 , 000 mcfd vs the ft of 366 , 000 dth , for the remainder of 2001 . lateral capacity opens a little the first of 2002 .
+- - btu content of the gas is 1050
+- - need 348 , 000 mcf of 1050 btu gas to get 366 , 000 dth through the lateral to the delivery points .
+- - risk - - if there is a call for all the gas at these delivery points ( usgt @ 95 , 000 dth , astra @ 40 , 000 , bp @ 100 , 000 & misc . @ 131 , 000 ) then we are at the maximium flow . any facilities problems or summer temperature extremes and we might not operationally make the delivery volumes .
+my recommendation would be to only allow 90 , 000 dth from bp . historically usgt has not utilized their full 95 , 000 dth . do we want to take the risk and allow bp the full 100 , 000 dth .
+darrell , i need some help with this one . give me a call .

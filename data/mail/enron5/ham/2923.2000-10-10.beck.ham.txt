@@ -1,0 +1,40 @@
+Subject: re : september status report
+fyi - see joel ' s status report below and my comments . what i would like to
+do is start hosting a monthly meeting to give a status update on our
+projects . what do you think ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary solmonson / hou / ect on 10 / 10 / 2000
+09 : 32 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mary solmonson
+10 / 10 / 2000 09 : 33 am
+to : joel henenberg / na / enron @ enron
+cc :
+subject : re : september status report
+good . it is nice to get a recap of what ' s going on .
+a few comments . . . .
+1 ) can i see the opm vision document ?
+2 ) mkm phase i - what ' s included ? what ' s the business benefit ?
+3 ) mkm - decommisioning of phoenix . i think you might be getting a little
+ahead of yourself here . first you will need to integrate mkm with enpower ,
+unify , and sitara . what are the plans for that ? i also think the delay in
+the calculation component could be a problem . for instance , we currently use
+spreadsheets to calculate the average prices and then key them into unify
+( maybe phoenix ) . we do this because we don ' t have the ability to key
+anything into either phoenix or mkm . how will we do this if phoenix goes
+away ? i want to make sure the process is thoroughly thought through here .
+4 ) mkm - support of both phoenix and lim is a duplication of efforts and
+costly . . . . . the plans here need to go back to the vision . where is the
+step by step plan of getting to the vision ?
+5 ) grs support - the most important interim priority is not reflected here
+which concerns me . because reuters accuracy is so poor , the most critical
+thing we need is the ability to select an alternate source for pricing , such
+as cqg , for the downloads !
+6 ) grs support - opis validation . this is a business issue and i ' m not sure
+this should be reflected in your status report , but you do need to make sure
+steve gets on this .
+clearly from this , i think good coordination and project management is still
+lacking in the rates / mkm world . is stuart calling the shots ( phoenix
+decommisioning ) or are we ?
+from : joel henenberg @ enron 10 / 09 / 2000 04 : 21 pm
+to : mary solmonson / hou / ect @ ect
+cc :
+subject : september status report

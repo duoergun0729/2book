@@ -1,0 +1,39 @@
+Subject: re : new powermod 97 . xls
+marty :
+absolutely yes ! we are now using option functions in the exotic options
+library ( in r : \ exotica which everybody in risk management has access to )
+instead of the old visual basic code in the powermod file . this improved the
+calculation speed for options quite a bit .
+we are also embarking on a new project to develop the next generation
+structuring and pricing models . i will discuss about this project in more
+detail with you soon and get your input , but the main goals i see now are :
+1 . superior performance ( speed ) to enable fast pricing especially for the
+underwriting group ,
+2 . proper documentation for easy maintenance and ability to quickly adapt to
+meet future needs , and
+3 . security / access control to the files .
+the first stage in this process is to take inventory of what we have : i am
+documenting the current structuring models . this step is important not only
+for developing our next generation models but also for the aa audit of all
+the ees pricing models .
+krishna .
+to : maureen craig / hou / ees @ ees , pinnamaneni krishnarao / hou / ect @ ect , dennis
+benevides / hou / ees @ ees
+cc :
+subject : new powermod 97 . xls
+any performance improvement to be expected ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by marty sunde / hou / ees on 07 / 26 / 2000 10 : 14
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+pinnamaneni krishnarao @ ect
+07 / 24 / 2000 01 : 37 pm
+to : dennis benevides / hou / ees @ ees , james w lewis / hou / ees @ ees , neil
+hong / hou / ees @ ees
+cc : marty sunde / hou / ees @ ees , alexios kollaros / hou / ees @ ees
+subject : new powermod 97 . xls
+we have made enhancements to powermod 97 . xls model to enable proper processing
+from the batch model . these changes should not affect current functionality
+of this file . we will be putting the new version into production later today .
+please contact me or alex kollaros ( x 39806 ) with your comments or problems .
+thanks ,
+krishna
+x 35485 .

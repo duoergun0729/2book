@@ -1,0 +1,35 @@
+Subject: 4 - urgent - owa please print this now .
+current notes user :
+reasons for using outlook web access ( owa )
+1 . once your mailbox has been migrated from notes to outlook , the outlook client will be configured on your computer .
+after migration of your mailbox , you will not be able to send or recieve mail via notes , and you will not be able to start using outlook until it is configured by the outlook migration team the morning after your mailbox is migrated . during this period , you can use outlook web access ( owa ) via your web browser ( internet explorer 5 . 0 ) to read and send mail .
+please note : your calendar entries , personal address book , journals , and to - do entries imported from notes will not be available until the outlook client is configured on your desktop .
+2 . remote access to your mailbox .
+after your outlook client is configured , you can use outlook web access ( owa ) for remote access to your mailbox .
+please note : at this time , the owa client is only accessible while connecting to the enron network ( lan ) . there are future plans to make owa available from your home or when traveling abroad .
+how to access outlook web access ( owa )
+launch internet explorer 5 . 0 , and in the address window type : http : / / nahou - msowaolp / exchange / john . doe
+substitute " john . doe " with your first and last name , then click enter . you will be prompted with a sign in box as shown below . type in " corp / your user id " for the user name and your nt password to logon to owa and click ok . you will now be able to view your mailbox .
+please note : there are some subtle differences in the functionality between the outlook and owa clients . you will not be able to do many of the things in owa that you can do in outlook . below is a brief list of * some * of the functions not available via owa :
+features not available using owa :
+- tasks
+- journal
+- spell checker
+- offline use
+- printing templates
+- reminders
+- timed delivery
+- expiration
+- outlook rules
+- voting , message flags and message recall
+- sharing contacts with others
+- task delegation
+- direct resource booking
+- personal distribution lists
+questions or concerns ?
+if you have questions or concerns using the owa client , please contact the outlook 2000 question and answer mailbox at :
+outlook . 2000 @ enron . com
+otherwise , you may contact the resolution center at :
+713 - 853 - 1411
+thank you ,
+outlook 2000 migration team

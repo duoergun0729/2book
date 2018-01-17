@@ -1,0 +1,11 @@
+Subject: new version of the view data database
+hello everyone ,
+there is a new version of the database . please install by hitting your start
+button , run , type o : \ eol \ eol reporting database \ view data \ eol view database
+installer . bat . the new version of the database will automatically shut you
+out for 15 minutes everyday when it is necessary to update with the current
+trading data . we apologize for the inconvenience .
+the old version of the database no longer contains any data . please be sure
+to update .
+thanks ,
+carrie and eugenio

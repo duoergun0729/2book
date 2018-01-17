@@ -1,0 +1,27 @@
+Subject: fwd : follow - up call
+return - path :
+received : from rly - yho 3 . mx . aol . com ( rly - yho 3 . mail . aol . com [ 172 . 18 . 147 . 35 ] ) by air - yho 2 . mail . aol . com ( v 77 _ rl . 36 ) with esmtp ; mon , 21 may 2001 17 : 26 : 01 - 0400
+received : from nx . numerix . com ( [ 63 . 71 . 167 . 197 ] ) by rly - yho 3 . mx . aol . com ( v 77 _ rl . 36 ) with esmtp ; mon , 21 may 2001 17 : 25 : 21 - 0400
+received : from nx . numerix . com ( localhost [ 127 . 0 . 0 . 1 ] ) by nx . numerix . com ( 8 . 9 . 3 / 8 . 9 . 3 ) with esmtp id raao 5633 for ; mon , 21 may 2001 17 : 24 : 32 - 0400
+received : from dtallam ( hercules . numerix . com [ 63 . 71 . 167 . 196 ] ) by nx . numerix . com ( 8 . 9 . 3 / 8 . 9 . 3 ) with smtp id raao 5628 ; mon , 21 may 2001 17 : 24 : 32 - 0400
+from : " dean tallam "
+to :
+cc :
+subject : follow - up call
+date : mon , 21 may 2001 17 : 18 : 41 - 0400
+message - id :
+mime - version : 1 . 0
+content - type : multipart / alternative ; boundary = " - - - - = _ nextpart _ 000 _ 0054 _ 01 coe 21 a . 15 b 849 co "
+x - priority : 3 ( normal )
+x - msmail - priority : normal
+x - mailer : microsoft outlook cws , build 9 . 0 . 2416 ( 9 . 0 . 2911 . 0 )
+x - mimeole : produced by microsoft mimeole v 5 . 50 . 4133 . 2400
+importance : normal
+vince ,
+i hope all is well with you .
+dimitri raevsky , formerly the head of quantitative analysis and risk for global credit derivatives at jp morgan chase , has joined numerix as the product manager for credit products . at jp morgan chase , one of the leading players within the credit derivatives market , dimitri played an active role in the structuring , valuing and marketing of credit derivative products .
+dimitri provides numerix with strong expertise in credit - related analytics / valuation methodologies as well as market practices . dimitri will be responsible for developing state - of - the - art credit software solutions for numerix . one of the first credit software products he will be developing is a toolkit for credit derivatives that will provide end - users with all the analytical tools and modules necessary for building credit derivatives solutions .
+we would be pleased to have dimitri speak with you and your colleagues at enron to review our plans for credit derivatives .
+we are available any time on friday may 25 th .
+please advise as to whether this date would be convenient .
+dean

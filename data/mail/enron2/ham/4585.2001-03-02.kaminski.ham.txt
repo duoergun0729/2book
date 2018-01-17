@@ -1,0 +1,31 @@
+Subject: web based expense report implementation deadline
+xms communication
+the expense management system ( xms ) is a tool used to electronically submit
+your expense report for approval and payment through the enron intranet . it
+is user friendly , accurate and less labor intensive for you and our
+accounting staff . this product was initially made available october 15 , 2000
+and approximately 50 % of the houston employees are currently using it to
+submit their expense reports . our goal is to have all enron employees using
+the xms system by april 15 ( income tax day  * easy to remember ) .
+there are some changes coming to the accounts payable ( ap ) department that
+are compelling us to fully utilize the xms system . in the near future paper
+and e - mail directed expense reports will not be accepted . if you are unsure
+of how to use the xms system there is training available through leap that
+will explain how to use the system . the following training information is
+from the december 14 th enron announcement about xms :
+training
+go to the it central web page . select services > training . click on
+" schedules " in the north america column , and go to the xms workshop schedule
+to choose your class . if no > classes are listed , call the training
+department and place your request at ( 713 ) 853 - 1816 . those in outlying
+locations and those who prefer on - line training can use leap by signing on to
+isc . enron . com and clicking on " training and education , " then leap ( shown as a
+link ) . use xms ( lower case ) as the user id and password .
+documentation
+step by step documentation is also available from it central web page . select
+services > training . click on " documentation " in the north america column and
+choose xms user ' s guide from the list .
+application support services
+call the isc help desk at ( 713 ) 345 - 4 sap ( 4727 ) . do not call accounts
+payable with questions about how to use the system or with issues regarding
+electronic pre - populated data .

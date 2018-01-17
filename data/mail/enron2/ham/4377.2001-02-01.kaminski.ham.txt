@@ -1,0 +1,22 @@
+Subject: here ' s a 4 th try ! ! !
+- - - - - - - - - - - - - - - - - - - - - - forwarded by richard b jones / hou / ees on 02 / 01 / 2001
+10 : 22 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+richard b jones
+01 / 31 / 2001 04 : 39 pm
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : here ' s a third try ! ! !
+vince ,
+while i was at hsb , i designed an insurance or reinsurance financial model
+that hsb uses for new product development , pricing different reinsurance
+strategies , computing stochastic earnings forecast , and estimating
+probabilistic maintenance & repair costs . the code , written in visual basic &
+ms access belongs to hsb , and i want to replicate it here for our use at
+enron . i would like to arrange a time to specifically talk to you and perhaps
+vasant who was briefed on the model , about how we can use your group for the
+analytical and programming support to get this model re - constructed .
+i have screen outputs from the code and vasant thought the re - design and
+construction here at enron is a problem that your group can do . could you let
+me know when we can setup an hour to discuss ?
+thanks ,
+rick jones

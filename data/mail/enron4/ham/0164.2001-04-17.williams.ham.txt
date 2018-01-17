@@ -1,0 +1,34 @@
+Subject: new app in enpower - schedule extraction
+fyi , let me know what you think .
+thresa
+- - - - - - - - - - - - - - - - - - - - - - forwarded by thresa a allen / hou / ect on 04 / 17 / 2001 11 : 04 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : thresa a allen 04 / 06 / 2001 10 : 39 am
+to : bill williams iii / pdx / ect @ ect
+cc : rebecca m grace / hou / ect @ ect
+subject : new app in enpower - schedule extraction
+fyi , you may find this report of value when reviewing the trade done by your hourly team . if you have any question please feel free to call rebecca grace @ 713 853 - 9771 or myself @ 713 853 - 6598 .
+thanks
+thresa
+- - - - - - - - - - - - - - - - - - - - - - forwarded by thresa a allen / hou / ect on 04 / 06 / 2001 10 : 26 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp . from : rebecca m grace 04 / 05 / 2001 03 : 32 pm
+to : thresa a allen / hou / ect @ ect , stacey w white / hou / ect @ ect , corry bentley / hou / ect @ ect , narsimha misra / na / enron @ enron , kayne coulter / hou / ect @ ect
+cc : duong luu / enron @ enronxgate , guido govers / enron @ enronxgate , michael jacobson / corp / enron @ enron , virginia thompson / pdx / ect @ ect
+subject : new app in enpower - schedule extraction
+please forward this message to all members of your group and to anyone else who might benefit from this program .
+enpower it has done an outstanding job in creating this application . it is invaluable to me in verifying that all my deals are in enpower correctly
+and the delivery point is balanced . it should be very helpful to be sure that a desk , delivery point and / or region is balanced . please take a look
+and come by my desk for a demo if you would like .
+ps - thanks you casey , jp , gerald and jason for helping me to test this application .
+rebecca
+to open :
+to run :
+1 ) enter the criteria into the filter at the top , paying close attention to whether you want physical or financial deals , and whether
+you want to " include desk - to - desk " deals . the more filter criteria you add the fast the extract will run .
+2 ) hit extract
+to export :
+the middle section of the application displays all the records or strips that were extracted . this may be quickly saved to a text
+file to analyze in excel , by choosing file . . . save . . . from the menu .
+to summarize and subtotal :
+the subtotal area at the bottom of the screen , groups and subtotals the records based on the fields that are dragged
+into the gray area right below the filter ( shown here in blue ) . at the very bottom of the subtotal area is a grand total
+for all records extracted .

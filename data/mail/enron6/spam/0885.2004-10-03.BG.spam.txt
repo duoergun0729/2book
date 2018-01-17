@@ -1,0 +1,40 @@
+Subject: fraud messages spread over e - gold users !
+dear e - gold user !
+net scammers under the name of e - gold users send many fraud messages !
+please be advised e - gold will never send you an html email with a hypertext
+link asking you to click on the link to access your account !
+there are numerous fraudulent emails in circulation spoofing e - mail
+addresses in the e - gold . com domain . these emails direct you to
+log into your account to verify information or update information
+and they usually operate on greed or fear in order to entice victims
+to click a hypertext link .
+these emails may say your account has a value limit , you have
+received fraudulent funds , your account will be closed for inactivity ,
+or that e - gold is paying monthly interest payments .
+regardless of the subject line of the fraudulent emails , they always
+have one thing in common . the hypertext link in the email will appear
+to be to the e - gold website , but if clicked , it directs the victim
+to a fraudulent website , designed to ensnare the careless by mimicking
+the appearance of the real e - gold website . the technique used to
+obscure the true destination of such hypertext links is via the
+use of html formatted e - mail .
+the ultimate goal of the criminal is to entice his victims to enter
+their e - gold account number and passphrase while on the fraudulent
+website . once the criminal has gained this information , he has
+everything he needs to log in to the victim ' s e - gold account
+on the real e - gold website and divert the value .
+we urge users to :
+1 never click hypertext links in html formatted e - mail to access your account .
+2 confirm that you are on the e - gold website before entering your e - gold
+passphrase into either a logon form or a payment authorization form
+( see note below about e - gold shopping cart interface ) :
+- verify the address / location / url starts with : https : / / www . e - gold . com /
+- verify the site is secure ( look at the ssl lock icon at the bottom of your browser window )
+- verify that the site certificate is issued by verisign to www . e - gold . com
+e - gold shopping cart interface ( sci )
+merchant sites using the e - gold sci will pass you to the e - gold website
+at checkout to authorize payment . the e - gold sci will pass you back to
+the merchant ' s site after you have received confirmation of your e - gold
+spend . all of the above criteria for verifying you are on the e - gold
+website also apply to spends made via the e - gold sci .
+] ] >

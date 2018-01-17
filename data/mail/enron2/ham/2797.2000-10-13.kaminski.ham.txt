@@ -1,0 +1,27 @@
+Subject: re : support for exotica
+i briefed vince this morning that we have supplied a fully functional exotica
+options library to london office ( executable and source codes ) .
+if you have any questions , my team is ready to help .
+zimin
+steven leppard
+10 / 13 / 2000 03 : 50 am
+to : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect , dale
+surbey / lon / ect @ ect , tani nath / lon / ect @ ect
+cc : paulo issler / hou / ect @ ect , sharad agnihotri / lon / ect @ ect , zimin
+lu / hou / ect @ ect
+subject : support for exotica
+all
+sharad ' s investigations of exotica ' s status in london have turned up a very
+confused state of affairs . this isn ' t being helped by the fact that :
+1 . anjam is rarely at his desk , and can ' t be found anywhere in the building .
+2 . when he is around he isn ' t willing or able to provide all the information
+sharad might need to support exotica .
+this is worrying since much of our business depends on the validity of
+exotica ' s valuations .
+sharad will now request information from anjam via email to leave a trail ,
+and i want to alert you to the fact that sharad will be cc ' ing you in on
+these emails .
+if things don ' t improve soon , i may need to request some assistance in
+extracting this information from anjam .
+many thanks ,
+steve

@@ -1,0 +1,47 @@
+Subject: mail delivery failed : returning message to sender
+this message was created automatically by mail delivery software .
+a message that you sent could not be delivered to one or more of its
+recipients . this is a permanent error . the following address ( es ) failed :
+lochnessclansman @ aol . com
+( generated from info @ stayatlochness . com )
+smtp error from remote mail server after end of data :
+host mailin - 03 . mx . aol . com [ 205 . 188 . 158 . 121 ] : 554 - :
+( hvu : bl ) http : / / postmaster . info . aol . com / errors / 554 hvubl . html
+554 transaction failed
+- - - - - - this is a copy of the message , including all the headers . - - - - - -
+return - path :
+received : from [ 222 . 108 . 233 . 182 ] ( helo = mailwisconsin . com )
+by uk 2 mxarray 4 . uk 2 . net with smtp ( exim 4 . 52 )
+id ldupsa - 0001 oe - vq
+for info @ stayatlochness . com ; tue , 19 jul 2005 12 : 02 : 51 + 0100
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 24815476 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+from : " barry castillo "
+to : info @ stayatlochness . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+x - priority : 3 ( normal )
+importance : normal
+x - sa - exim - connect - ip : 222 . 108 . 233 . 182
+x - sa - exim - mail - from : projecthoneypot @ projecthoneypot . org
+subject : just to her . . .
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - spam - checker - version : spamassassin 3 . 0 . 4 ( 2005 - 06 - 05 ) on
+uk 2 mxserver 4 - 9 . uk 2 . net
+x - spam - level : * * *
+x - spam - status : no , score = 3 . 3 required = 99 . 0 tests = drugs _ erectile , drug _ dosage ,
+html _ 50 _ 60 , html _ message , info _ tld , mime _ html _ only autolearn = no
+version = 3 . 0 . 4
+x - sa - exim - version : 4 . 0 ( built sat , 24 jul 2004 09 : 53 : 34 + 0200 )
+x - sa - exim - scanned : yes ( on uk 2 mxarray 4 . uk 2 . net )
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivable !

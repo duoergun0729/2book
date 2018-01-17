@@ -1,0 +1,10 @@
+Subject: netco structuring re - start plan
+louise et al
+we have began the following initiatives to have a structuring function ready for operation within netco as well as other related issues to be addressed :
+structuring model capabilities - we are moving all of the existing gas and power structuring models into a directory to be transferred to netco at the appropriate time . we will need to provide the estate with formal documentation ( from yourself and / or jim fallon ) for the transfer of these assets into netco ( per vince kaminski ' s request ) . these models have historically been property of the research group . we have initiated the process of transferring the ownership of this to a designated it person within the netco organization . ( see attached for more detail )
+deal processes / controls - once legal / credit formalize the contract forms we will be using for netco , we should discuss a deal approval process to implement . i would assume the old ena process would be the template we would follow with adjustments to be made for new corporate structure / ownership , appropriate approval levels of transactions , etc . issue - will there be a rac - like group to provide overall deal documentation ? i ' m sure this issue will be addressed as transactions start to hit the radar and the collective owners of netco will sign off on a control process .
+back office execution capability - once the structuring models and the risk systems have been formally moved to the new it enviroment , we will begin testing the models to the risk books to ensure valuation accuracy . we may want to talk about the reporting mechanisms from both the risk system and structuring models to include cash flow reporting tools in addition to mtm reporting . this may be a useful tool to front - end manage our cash position / exposure .
+i ' ve also attached a table with details of the above initiatives and estimated timelines .
+please call me with questions .
+berney
+x 34784

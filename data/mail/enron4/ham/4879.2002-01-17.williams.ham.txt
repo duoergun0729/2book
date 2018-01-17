@@ -1,0 +1,44 @@
+Subject: no ancillary schedules awarded . variances detected .
+variances detected in generation schedule .
+variances detected in sc trades schedule .
+log messages :
+parsing file - - > > h : \ netco finals \ haol 16 finals . txt
+- - - - generation schedule - - - -
+$ $ $ variance found in table gen _ schedule .
+details : ( hour : 1 / preferred : 3 / final : 1 . 5 )
+trans _ type : final
+mkt _ type : ha
+from _ location _ id : carbgn _ 6 _ unit 1
+- - - - sc trades schedule - - - -
+$ $ $ variance found in table int _ intrchnge .
+details : ( hour : 1 / preferred : getfieldvalue error : field power _ qty not found ! / final : 3 . 5 )
+trans _ type : final
+mkt _ type : ha
+trading _ sc : aeps
+from _ location _ id : npl 5
+sched _ type : engy
+purch _ sale : b
+$ $ $ variance found in table int _ intrchnge .
+details : ( hour : 1 / preferred : 10 / final : 5 )
+trans _ type : final
+mkt _ type : ha
+trading _ sc : echl
+from _ location _ id : npl 5
+sched _ type : engy
+purch _ sale : s
+$ $ $ variance found in table int _ intrchnge .
+details : ( hour : 1 / preferred : 1 / final : 0 . 8 )
+trans _ type : final
+mkt _ type : ha
+trading _ sc : echl
+from _ location _ id : spl 5
+sched _ type : engy
+purch _ sale : b
+$ $ $ variance found in table int _ intrchnge .
+details : ( hour : 1 / preferred : 1 / final : 0 . 7 )
+trans _ type : final
+mkt _ type : ha
+trading _ sc : echl
+from _ location _ id : spl 5
+sched _ type : engy
+purch _ sale : s

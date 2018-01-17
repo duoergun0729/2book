@@ -1,0 +1,73 @@
+Subject: re :
+to discuss when we get a moment
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike jordan / lon / ect on 22 / 10 / 2000 15 : 41
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+fernley dyson
+20 / 10 / 2000 11 : 37
+to : mike jordan / lon / ect @ ect
+cc :
+subject : re :
+excellent - we should give it as much profile as possible and ensure that our
+' agency ' offices read it - it would be good to get it out in advance of
+issuing the revised authorised traders list . will you be refer to this at
+your offsite next week ?
+thanks
+mike jordan
+19 / 10 / 2000 19 : 30
+to : john sherriff / lon / ect @ ect
+cc : fernley dyson / lon / ect @ ect
+subject :
+john
+after much debate - jackie and i agreed on the following wording to cover the
+full text - are you comfortable with wording ? if so , would you like it as a
+separate globalflash or part of the next weekly globalflash ?
+mike
+enron must complement its origination and trading capabilities with the
+ability to control and report on all transactions within its portfolios
+efficiently and effectively . summarised below are the highlights of our
+fundamental risk management standards which we must comply with to meet these
+objectives .
+these standards are a key part of the core discipline for all trading staff -
+both commercial and commercial support - and you should review them
+carefully . if you would like to raise any specific questions , please follow
+up directly with mike jordan on extension 34703 .
+john sherriff
+risk management controls in a trading environment
+to manage operational risk in a trading environment enron has designed and
+implemented operational control standards . these standards , which are common
+for all businesses , aim to prevent errors and inaccuracies and ensure the
+timely recording of trading transactions .
+what standards does enron have in place ?
+enron has six fundamental standards for risk management that cover :
+- recording transactions
+- reporting daily profit & loss and risk positions
+- confirmation and execution of transactions
+- settlements with counterparties
+- risk management and settlement system information reflected in the general
+ledger
+- implementation of business and control infrastructure
+what else is important when controls are implemented ?
+implementing segregation of duties within the trading environment ensures
+that no individual has control over all phases of a transaction . this
+allows incompatible functional responsibilities to be kept separate ,
+specifically :
+- authorization and execution of transactions
+- recording and performance of transactions
+- monitoring and review of trading activities
+why do we need to standardised controls ?
+to assimilate new or build existing commodity businesses enron needs to be
+nimble and responsive . a robust and stable control process can be duplicated
+or flexed quickly and confidently , providing scalability and the capability
+to assess and manage operational risk .
+how do we measure successful control ?
+by identifying and reporting metrics for all standards we build an
+understanding of compliance across all businesses and seek continual
+improvement . this compliments the qualitative cross - checking process
+facilitated by communication between commercial , risk management operations
+and rac .
+the control measurement process will be part of a global initiative across
+all commodities and locations .
+where can you find details of our fundamental standards ?
+mike jordan  ) head of risk management operations for enron europe
+fernley dyson  ) chief accounting officer for enron europe
+- original one pager

@@ -1,0 +1,10 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 12 : 56 : 22 + 0200 ( cest )
+from mxl - 3 . nfrance . com [ 80 . 247 . 228 . 2 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 550 user quota exceeded )
+- - - - - transcript of session follows - - - - -
+. . . while talking to mx . free . fr . :
+> > > data
+. . . user unknown
+< < < 503 rcpt first ( # 5 . 5 . 1 )

@@ -1,0 +1,67 @@
+Subject: re : your comments on metals var model
+dear andreas ,
+thanks for the very useful response and information on positions . i have
+handed over primary responsibility for metals var to kirstee hewitt ( at least
+as far as london is concerned ) and she will follow up on the points you
+kindly reported , although i am of course available to assist where
+necessary . tanya will remain the point of contact for var modelling in
+houston , and of course kirstee and tanya will work together on this to
+resolve these and further issues . i would be happy to help set up meetings
+for you in the london office when you visit next week , with kirstee , myself
+and anyone else that you would like to meet with and we very much look
+forward to your visit - please let me know if you need any help with the
+arrangements .
+regards ,
+anjam
+0207 783 5383
+- - - - - - - - - - - - - - - - - - - - - - forwarded by anjam ahmad / lon / ect on 27 / 07 / 2000 08 : 40
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron capital & trade resources corp .
+from : andreas . barschkis @ mgusa . com 27 / 07 / 2000 00 : 36
+to : anjam . ahmad @ enron . com , kirstee . hewitt @ enron . com
+cc : bjorn _ hagelmann @ mgusa . com
+subject : re : varmodel _ live . xls
+anjam ,
+thanks for your var model .
+i would like to point out the following :
+1 ) position data : i noted that the outright ( longs + shorts ) for copper
+include positions which we should not use , i . e . r . wolff quantities . this
+positions are imputed into the system at their integrity ( some legs / hedges
+are missing )
+this affects copper and lead position for now . the issues should be have
+been sorted out by the end of this month , ie next week . so in copper you
+have 25 , 487 mt to much and with lead you have 13 , 579 mt to much . ( as of june
+19 )
+2 ) looking at copper position you calculate a var of - 3 , 100 , 568 with a
+total outright of 63 . 765 mt .
+this seams too low . if i calculate 63765 x 1807 x 3 . 99 % = 4 . 218 mil . us $ . var
+( outright qty x price levelx risk factor , riskfactr as per mercur ) .
+in my view we have been understating var in mercur because we do not
+consider the spread position correctly ( i . e . in detail ) . on a position like
+that i would expect a figure of around 6 mil us $ .
+i guess the issue is in the volatility and in the holding period .
+3 ) your correlation matrix for the commodities is not final i assume as
+many fields are blank .
+lets talk tomorrow on the phone .
+attached please find the position summary for the last week # 30 ( since june
+19 ) as requested by kirstee .
+( see attached file : mgposw 30 . xls )
+andreas barschkis
+mg metal & commodity corp .
+520 madison avenue , 28 th floor
+new york , ny 10022
+tel : + 1 . 212 . 715 . 5628
+cel : + 1 . 917 . 679 . 8287
+fax : + 1 . 212 . 715 . 5608
+e - mail : andreas . barschkis @ mgusa . com
+anjam . ahmad @ e
+nron . com to : andreas . barschkis @ mgusa . com
+cc : kirstee . hewitt @ enron . com
+07 / 26 / 2000 subject : zipped varmodel _ live . xls
+11 : 37 am
+hi andreas ,
+this is the semi - final spreadsheet - have only to include price curves for
+gold and cocoa . kirstee and i would welcome your comments .
+regards ,
+anjam
+- mgposw 30 . xls

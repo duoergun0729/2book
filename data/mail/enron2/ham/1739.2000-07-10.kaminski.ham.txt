@@ -1,0 +1,21 @@
+Subject: re : vol rollup
+john ,
+we can approach this problem this way . basically you are asking how
+the total variance ( 66 % ) 2 * 143 are distributed among 113 days and the last ? 30 days . assuming volatility for the first period is simgal and that in the ? last 30 ? days is sigma 2 , then ? ? ( 66 % ) 2 * 143 = sigmal 2 * 113 + sigma 22 * 30
+futhermore , we can use nov - 00 implied volatility as a proxy to sigmal , then
+we can
+calculate sigma 2 which is the volatility for dec - 00 contract in the last 30
+days .
+sigam 2 = sqrt ( ( 66 % ) 2 * 143 - sigmal 2 * 113 ) / 30 .
+make sense ?
+zimin
+john disturnal
+07 / 09 / 2000 04 : 10 pm
+to : zimin lu / hou / ect @ ect
+cc :
+subject : vol rollup
+zimin , i am trying to understand what the near winter ng implied vols will
+look like as they approach expiration . for example , is it possible to infer
+what the implied volatility of the deco 0 ng contract will look like with 30
+days to expiry given we know current vol ( 66 % ) and term to maturity ( 143
+days ) ?

@@ -1,0 +1,24 @@
+Subject: re : eol wti historical trade simulation
+stinson ,
+thanks a lot for so much work you have done for the simulation model .
+it seems that our work will make an impact on eol trading , that is very
+exciting .
+could you e - mail me the spreadsheet model so that i can catch up with
+the changes you have made ?
+i read a few books during this vocation . especially a stochastic processes
+book , i finished the entire book . the queueing theory is very fascinating ,
+and hopefully we can apply the theory to a real ebs project .
+i will take my family out to see the nature bridge caverns near san antonio
+tomorrow .
+see you on tuesday .
+happy new year !
+zimin
+stinson gibner
+12 / 27 / 2000 08 : 09 pm
+to : greg whalley / hou / ect @ ect , john j lavorato / corp / enron @ enron
+cc : vince j kaminski / hou / ect @ ect , zimin lu / hou / ect @ ect
+subject : eol wti historical trade simulation
+greg ,
+here are results corrected for spread profit per round - trip transaction .
+prior results incorrectly counted a spread profit per trade .
+stinson

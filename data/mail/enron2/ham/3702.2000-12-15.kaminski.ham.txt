@@ -1,0 +1,108 @@
+Subject: re : uk power / gas
+vince , just fyi :
+oliver ( risk control in london ) was asking if it is appropriate to use a set
+of factors corresponding to some commodity for another commodity .
+this " mapping " we do quite frequently in our var system when forward prices
+for a commodity are not correlated ( because of poor price history ) .
+i think using this kind of mappings is ok because we can not trust these
+correlations based on illiquid price information .
+if we believed the matrix with low correlations represents what goes on in
+the market and we simply can not reconstruct it with our 7 factors - then
+we might use more factors then 7 or the matrix itself .
+tanya
+tanya tamarchenko
+12 / 15 / 2000 02 : 36 pm
+to : oliver gaylard / lon / ect @ ect
+cc : david port / market risk / corp / enron @ enron , rudi zipter / hou / ect @ ect , wenyao
+jia / hou / ect @ ect , kirstee hewitt / lon / ect @ ect , debbie r brackett / hou / ect @ ect ,
+naveen andrews / corp / enron @ enron
+subject : re : uk power / gas
+oliver ,
+i completely agree with you : validating var inputs like positions , prices and
+volatilities which are used by risktrac is the first thing to do .
+you also rise a valid question : if the factor loadings for some commodity do
+not make sense should we use the factor loadings for another commodity ?
+the factor loadings " do not make sense " when the correlations across the term
+structure are not high . so if we believe that the forward prices for this
+commodity are market prices and statistical analysis on these prices produces
+the correlations which we trust , then it would be proper to use this
+correlation matrix in var engine , not the factors . using factors is simply
+the way to speed up calculations for highly correlated prices without
+sacrificing the accuracy .
+tanya .
+oliver gaylard
+12 / 15 / 2000 07 : 11 am
+to : naveen andrews / corp / enron @ enron
+cc : david port / market risk / corp / enron @ enron , rudi zipter / hou / ect @ ect , wenyao
+jia / hou / ect @ ect , kirstee hewitt / lon / ect @ ect , tanya tamarchenko / hou / ect @ ect ,
+ganapathy ramesh / hou / ect @ ect , debbie r brackett / hou / ect @ ect
+subject : re : uk power / gas
+naveen
+regarding the calculation of uk vars in risk trac i agree that we should be
+using this calculation engine for all commodity vars . however we should not
+focus solely on the uk but ensure that we use risk trac for continental power
+and gas , uk power and gas , nordic power .
+to use risk trac i think the following need to be resolved first , to
+implement it " right the first time " , as i think it is incorrect to consider
+the risk trac numbers " as the most accurate " since it depends on the validity
+of these items :
+positions ( delta and gamma ) and curve mapping - these need to include all
+positions including those outside the main risk systems
+positions , curves and mapping should now be no problem given the feeds ,
+apart from continental power , have been uat ' d and we have the spreadsheet
+feeds up and running .
+price and vol curves - as used by the risk systems
+as above
+inter commodity correlation - prompt month
+correlation should be easy to calculate given an accurate and complete data
+set ( however the incomplete historic data for europe in risk trac , prior to
+the formation of the task force , would mean a full data set needs to be
+obtained and used ) . term structure of correlation would be good but i
+understand this is difficult to use in the calculation .
+factor loadings
+i think factor loadings should be calculated , on the same data sets used
+for inter commodity correlation , for all commodities . if this analysis does
+not appear to work i am not sure that using factor loadings for other markets
+is adequate . do we need to consider an alternative approach to calculating
+var for these markets ?
+to ensure this moves forward i think a list of the mile stones ,
+responsibilities and time lines needs to be drawn up otherwise i fear the
+process of moving across to risk trac from the spreadsheet var will
+experience some slippage .
+i will call today to start the process off .
+rgds
+oliver
+naveen andrews @ enron
+06 / 12 / 2000 21 : 50
+to : oliver gaylard / lon / ect @ ect
+cc : david port / market risk / corp / enron @ enron , rudi zipter / hou / ect @ ect , wenyao
+jia / hou / ect @ ect , kirstee hewitt / lon / ect @ ect , tanya tamarchenko / hou / ect @ ect ,
+ganapathy ramesh / hou / ect @ ect , debbie r brackett / hou / ect @ ect
+subject : uk power / gas
+oliver ,
+i had a couple of issues pertaining to uk power / uk gas . first ,
+just a few notes as it pertains to risk trac uk - implementation :
+( 1 ) in risktrac , currently all the gas curves are mapped to nbp .
+( 2 ) all the power curves are mapped to r 4 ( cinergy ) .
+factor loading analysis lends itself only to nbp and the norewgian curves ( for
+reasons of liquidity , etc ) . we have decided that nbp and cinergy are the
+best curves available at this time .
+the spreadsheet which is utilized in the uk also has curves mapped to a
+2 - 3 - year old set of factors derived from us nat gas , which is clearly not
+optimal . hence
+( 1 ) we should be using risktrac numbers for var , as it is the " most
+accurate " , both in terms of ene - wide model usage and in terms of the most
+recent updated data . ever since uk power came on board in risktrac 3 weeks
+ago , the uk power number has been consistently 7 - 8 mm above the numbers in
+your spreadsheet . this difference is to be ecpected , given the different
+inputs .
+( 2 ) the consistent numbers do not point to a data error in any obvious way ,
+however , if you believe that positions are not captured correctly , please let
+our it staff know that .
+( 3 ) checks which ramesh has done indicate that positions are tying in .
+however , as you know , there could be disconnects with enpower , etc .
+in any event , it would be ideal and optimal to have all the simulations run
+out of risktrac for reasons of aggregation and analysis .
+your help is appreciated .
+regards
+naveen

@@ -1,0 +1,22 @@
+Subject: sap expense report forms
+please remember , when completing your expense reports , pull file from
+intranet by :
+selecting sap on home page
+select - quick referencing tools ( left side of page )
+select - account payable forms
+select - sap expense report form
+complete this task every time you would like to complete an expense report .
+each report is time - dated and is considered a reference number .
+remember your sap codings :
+cost center number - # 111089
+gl account number - ( see cheat sheet i forwarded a few weeks ago . )
+gl company number - # 0060
+if you should have additional questions , please stop by ( smile ) .
+p . s . for a quick reference , the gl account numbers for the most often used
+items are listed below :
+meals & entertainment # 52003000
+travel & lodging # 52004500
+dues & membership # 52004000
+cell phone , pagers # 52503500
+subscriptions # 52508500
+office equipment # 53600000

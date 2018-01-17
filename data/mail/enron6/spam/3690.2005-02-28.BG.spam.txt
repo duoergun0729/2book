@@ -1,0 +1,30 @@
+Subject: positions available : microsoft research - university of trento centre
+* * * * * * * * * * apologize for multiple posting * * * * * * * * * * * * * *
+the new interdisciplinary centre of excellence
+microsoft research - university of trento centre for computational and systems biology
+has been established in the trento region ( italy ) . the main objectives and activities of the centre are :
+overall objectives
+1 . to advance the state of knowledge of biological information processing , the aetiology of disease , and potentially new therapies through the creation of a new research centre that will bring together scientists from multiple disciplines to focus on conducting leading research into advanced computational modeling of biological systems .
+2 . to conduct novel research into defining new computational and communication paradigms that are ' biomimetic ' in nature , i . e . , based on new principles learned from the research into biological information processing .
+3 . to exploit the research . this is expected to take the form of the development of new computational tools for enabling the predictive modeling of biological systems and processes for basic and applied research . these tools will help improving health - care , environment monitoring and protection , quality of food as well as developing better therapies and treatments by the pharmaceutical industries .
+4 . to disseminate and communicate the results of this research for the benefit of the scientific community globally , including publications , open conferences and workshops , and provide freely available , the tools developed in the course of the research for ( non - commercial ) science .
+activities :
+calculi for biology , and ' biomimetic ' computation
+we attack an open and challenging problem : the definition of a set of basic and general primitives for modeling biological systems directly inspired by biological processes . hence , the main objective of this theme is to define a calculus for biology and develop a prototype to be applied in the theme of case studies . we also plan to include quantitative information in the definition of the calculus .
+it is our belief that biological phenomena can serve as valuable source of inspiration for new primitives of process calculi and new computational paradigms . process calculi , by their own nature , take input and output , and hence communication , as the very basic form of action / reaction between concurrent systems .
+concurrency theory - and particularly process algebras - are emerging as a highly promising tool to provide formal foundations to systems biology . this field is evolving rapidly
+case studies
+the main goal of this theme is to validate and tune the work of the previous theme by exploiting the results in software developing tools and helping biologists to do science . furthermore , the preliminary analysis of real problems will inform the design of suitable primitives . also , we will build upon the effort of the theme on calculi for the definition of analysis , verification and simulation techniques to acquire new knowledge on the biological realm . a different case study could inform how the languages and techniques devised here could be transposed into the ict field to improve software quality and to manage complexity .
+storing dynamical evolution of biological systems
+the main goal of this theme is to set - up the mining and access to distributed databases storing information ( programs ) on the dynamic behaviour of biological systems . coordination with servers providing the run - time support for non - homogeneous data should also be provided . the knowledge and technology acquired in the first two research themes will be used to populate databases .
+detailed information on recruitment can be found at the page
+following the link recruitment . the selection procedure will take place in the period ' end of may - mid june ' .
+more information on the centre will be available within few days on the web site .
+best regards ,
+corrado priami
+- -
+prof . corrado priami tel . 0461 882085
+dipartimento di informatica e telecomunicazioni
+universita ' di trento fax 0461 88 2093
+via sommarive , 14 http : / / www . dit . unitn . it / ~ bioinfo
+38050 povo ( tn ) - italia priami @ dit . unitn . it

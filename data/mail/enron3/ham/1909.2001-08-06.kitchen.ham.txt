@@ -1,0 +1,21 @@
+Subject: fw : duke transaction
+- - - - - original message - - - - -
+from : collonges , remi
+sent : friday , august 03 , 2001 5 : 05 pm
+to : lavorato , john
+cc : kishkill , joe ; gonzalez , orlando
+subject : duke transaction
+we have closed tonight the following transaction :
+we sell to duke energy a series of 12 monthly options ( july 2001 to june 2002 ) , volume 10 mw , delivery southeast center of gravity ;
+strike : r $ 140 / mwh for july to december 2001 , and r $ 120 / mwh for january to june 2002 ;
+strike payable 5 th of month following month of delivery ;
+the options are automatically exercised when and if mae ex - ante price is greater than strike ( duke has not the option not to exercice if mae is not settling ) ;
+price per mwh : floor + upside
+upside : 35 % of ( mae ex - ante price - floor )
+payable by duke at the earliest of 1 ) mae invoicing date ( regardless of mae agent payment ) or 2 ) july 5 th , 2002 ;
+we do not take mae credit risk , but only duke ' s ; duke takes mae credit risk ;
+we receive a premium of r $ 5 million upfront .
+as a result , the deal is atm against our power curve . however we know that we are in rationing at least until november of this year . as a result , the mae ex - ante price will be r $ 684 / mwh . if we take the most conservative scenario and assume that we collect upside in july 02 only , mtm is about us $ 6 million . the more rationing last , the higher in the money will the deal be ( of course , immediate settlement at mae at r $ 684 of all long position would take us otm , but we do not expect this to happen very soon ) .
+i hope that this is clear . credit is on board , i ' m talking to martha stevens and her new boss stacy white to validate my assumption on the mtm .
+have a great we ,
+remi

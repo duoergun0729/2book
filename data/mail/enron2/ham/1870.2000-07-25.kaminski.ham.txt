@@ -1,0 +1,83 @@
+Subject: re : mg metals : summary of var methodology and current status
+dear all ,
+anjam and myself had a highly productive and informative set of meetings
+with andreas barkchis of mg metals ny on thursday 20 th july in the ny
+office . firstly we should say " thanks " to andreas for being so helpful in
+addressing out numerous requests for information - we look forward to
+establishing a solid working relationship with him going forward .
+find below a summary of version _ 1 a for initial rough calculation of mg
+metal ' s var .
+also anjam , kirstee ( from london side ) and cantekin , grant , vince and myself
+( houston side ) have been working for last 2 days on the spreadsheet var
+model .
+the current status of this effort and a plan for future progress is
+summarized in the enclosed document :
+v @ r methodology for mg metals positions
+version _ 1 a
+introduction
+this document describes the initial rough model for calculations
+value - at - risk for mg metals . this model will be implemented in a spreadsheet ,
+which will serve as a prototype for the risktrac implementation .
+risk factors
+the following positions represent most of mg metal  , s risk and will be covered
+by version _ 1 a :
+- base metals  , positions including :
+- aluminium ;
+- copper ;
+- gold ;
+- lead ;
+- nickel ;
+- silver ;
+- tin ;
+- zinc ;
+risk related to these positions will be quantified by simulating forward
+prices for each metal .
+- copper concentrate ;
+risk related to these positions will be quantified by simulating tc charges .
+- cocoa beans ;
+risk related to these positions will be quantified by simulating forward
+prices for cocoa beans .
+therefore these 10 curves will drive the risk : price curves for aluminium ,
+copper , gold , lead , nickel , silver , tin , zinc and cocoa beans plus tc curve
+for copper concentrate .
+assumptions and simplifications :
+- for each metal we are going to use a single price curve or all types of
+products ( physical , financial , lme traded , comex traded , scrap , alloy , stock ,
+etc . ) ;
+- delta , gamma approach for risk on options  , positions ;
+components required to implement v @ r model :
+- current forward prices available from mercur ;
+- current implied volatilities available through reuters ;
+- current positions from mercur ;
+- history of prices required to calculate factor loadings and correlations
+across commodities ;
+methodology
+version _ 1 a will be based on risk matrix approach . we will calculate principal
+components for each metal and cocoa beans to take in account the correlations
+along the term structure . we will also calculate the correlations across
+commodities based on prompt month prices history for last 3 months .
+portfolio hierarchy
+each position will be assigned to one of the following portfolios under the
+whole portfolio agg - metals :
+- mg metal
+- mg metal
+- mg metall recycling gmbh , ffm ;
+under each of these sub - portfolio there will be the following sub - portfolios :
+- comex ;
+- frame contract ;
+- lme ;
+- lme alloy ;
+- lme metal index ;
+- option call ;
+- option put ;
+- physical ;
+- physical alloy ;
+- physical real ;
+- physical scrap ;
+- price part . ;
+- prov . billing ;
+- stock ;
+- stock alloy ;
+- stock comex ;
+- stock physical ;
+- stock scrap ;

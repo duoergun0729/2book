@@ -1,0 +1,22 @@
+Subject: gtv ii weekly status update
+below please find the weekly status report for the gas trading vision ii . the project timeline is updated in the attached file .
+gtv status meeting attendees : zhiyong wei , karima husain , francis lim , jeremy wong , bill fortney , nayan dattani , dave nommensen , russ severson , jay krish , mike swaim , george grant , chuck ames , jeff gossett , geoff storey .
+accomplishments :
+? incorporating physcial deal positions in tds :
+o changes to cpr reader process hence , 2 more weeks are required for the completion of development of this task ( please see the attached project timeline ) .
+? single point of deal entry for term deals :
+o establishing communication between tds client & sitara server & its testing has been completed .
+o other it items are in progress and on schedule ( please see the attached project timeline ) .
+? gas daily deals :
+o changes to tds deal valuation are in progress and on schedule ( please see the attached project timeline ) .
+o creating gdi calc in erms is in progress and on schedule ( please see the attached project timeline ) .
+? live feeds for gas daily / intra - month curves :
+o development of live feeds has been completed , tested , user - approved and already in production .
+plans for the week ending 4 / 13 / 01 :
+? continue it development of phase i items .
+? clarify user requirements for the gas daily reports .
+? obtain sign - off for gtv - ii , phase 2 issues and timeline .
+issues :
+none
+thanks
+zhiyong

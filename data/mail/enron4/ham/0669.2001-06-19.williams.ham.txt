@@ -1,0 +1,36 @@
+Subject: eol data for june 16 , 2001
+eol deals from : 6 / 1 / 2001 to : 6 / 19 / 2001 enpower deals from : 6 / 1 / 2001 to : 6 / 19 / 2001
+desk total mwh total deals desk total mwh total deals
+epmi long term california 5 , 414 , 800 305 epmi long term california 1 , 302 , 600 45
+epmi long term northwest 3 , 952 , 400 199 epmi long term northwest 19 , 597 , 675 245
+epmi long term southwest 5 , 884 , 900 479 epmi long term southwest 10 , 772 , 035 186
+epmi short term california 1 , 244 , 712 1 , 171 epmi short term california 979 , 622 485
+epmi short term northwest 623 , 600 815 epmi short term northwest 743 , 656 391
+epmi short term southwest 1 , 071 , 344 1 , 014 epmi short term southwest 1 , 569 , 000 463
+grand total 18 , 191 , 756 3 , 983 grand total 34 , 964 , 588 1 , 815
+eol deals from : 6 / 19 / 2001 to : 6 / 19 / 2001 enpower deals from : 6 / 19 / 2001 to : 6 / 19 / 2001
+desk total mwh total deals desk total deals total deals
+epmi long term california 452 , 800 40 epmi long term california 358 , 800 11
+epmi long term northwest 294 , 800 19 epmi long term northwest 843 , 800 24
+epmi long term southwest 637 , 250 66 epmi long term southwest 608 , 800 25
+epmi short term california 59 , 392 86 epmi short term california 140 , 120 53
+epmi short term northwest 14 , 400 49 epmi short term northwest 76 , 600 29
+epmi short term southwest 77 , 040 98 epmi short term southwest 149 , 600 41
+grand total 1 , 535 , 682 358 grand total 2 , 177 , 720 183
+ice volumes from : 6 / 19 / 2001 to : 6 / 19 / 2001
+delivery point total mwh epmi mwh price
+np - 15 ( op , next day ) 200 0 $ 47 . 00
+palo ( op , next day ) 200 200 $ 35 . 00
+mid c ( p , next day ) 800 0 $ 87 . 00
+mid c ( p , bal month ) 3 , 600 0 $ 80 . 00
+mid c ( p , juno 2 ) 10 , 000 0 $ 68 . 00
+np - 15 ( p , next day ) 400 0 $ 85 . 00
+palo ( p , next day ) 400 0 $ 93 . 50
+palo ( p , bal month ) 14 , 400 0 $ 92 . 88
+palo ( p , julol ) 70 , 000 0 $ 124 . 96
+palo ( p , sepol ) 9 , 600 0 $ 105 . 00
+palo ( p , octol ) 10 , 800 0 $ 77 . 50
+sp - 15 ( p , next day ) 4 , 400 0 $ 94 . 64
+sp - 15 ( p , bal month ) 18 , 000 0 $ 83 . 80
+sp - 15 ( p , sepol ) 19 , 200 0 $ 103 . 75
+grand total 162 , 000 200 $ 1 , 178 . 03

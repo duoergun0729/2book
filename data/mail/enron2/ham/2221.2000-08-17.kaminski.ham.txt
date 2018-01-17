@@ -1,0 +1,124 @@
+Subject: re : full version
+i read the chapter . generally ,
+i like it , and find it non - controversial
+and well written . of course , this is
+a huge topic and there are things
+that you haven ' t discussed .
+i thought the amount of attention
+paid to ols and mle estimation
+was a bit overboard , given that you
+didn ' t really exploit it in your
+results . if you were to state
+the likelihood function for
+the garch model , it might justify
+the amount of attention to
+gave to estimation for
+simple iid processes , which could then
+be thought of as a simple lead - in
+and intuition builder to
+the more interesting models that
+you do actually use .
+by the way , in your discussion of
+smiles , you discuss fat tails
+extensively . at least for equity markets ,
+while fat tails contribute , they don ' t do very
+much at all compared to the effect
+of risk premia , which you allude to briefly ,
+using supply - demand language , at the
+end of that section .
+for the impact of risk premia , see
+jun pan ' s paper , which is available
+from her web page . but she covers
+only sp 500 , ( as do most studies ) ,
+and your markets are obviously much different .
+the chapter will be a good service to your readers !
+best , darrell
+> x - lotus - fromdomain : ect
+> from : " vince j kaminski "
+> to : darrell duffie
+> cc : " grant masson " , " vince j kaminski "
+> date : wed , 16 aug 2000 16 : 37 : 53 - 0500
+> subject : re : full version
+> mime - version : 1 . 0
+> content - disposition : inline
+> x - uidl : 00453 eda 98 c 82 d 709 e 6123 af 537 e 4 f 63
+> x - keywords :
+>
+>
+>
+> darrell ,
+>
+> thanks a lot . i really appreciate it . the text is below our usual
+> standards but we are completely swamped with work here .
+>
+> vince
+>
+>
+>
+>
+>
+>
+>
+> darrell duffie on 08 / 15 / 2000 04 : 54 : 23 pm
+>
+> please respond to darrell duffie
+>
+> to : vince . j . kaminski @ enron . com
+> cc :
+> subject : re : full version
+>
+>
+> i ' ll have a look !
+>
+> i haven ' t much time , but can certainly
+> get you a quick reaction , at least !
+>
+> best , darrell
+>
+>
+> > x - lotus - fromdomain : ect
+> > from : " vince j kaminski "
+> > to : duffie @ stanford . edu
+> > date : thu , 10 aug 2000 14 : 04 : 47 - 0500
+> > subject : full version
+> > mime - version : 1 . 0
+> > content - disposition : inline
+> > x - uidl : 9 fef 7462 afa 5 d 4 ee 6 co 4 c 9 co 2 df 71 b 25
+> > x - keywords :
+> >
+> >
+> >
+> > darrell ,
+> >
+> > grant just alerted me that i sent you only part of the text .
+> >
+> > here is the full chapter with an aged version of gran ' t part .
+> > what i sent you represents an update of his contribution .
+> >
+> > sorry for that .
+> >
+> > vince
+> >
+> > ( see attached file : volo 720 . doc )
+>
+> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+> darrell duffie
+> mail gsb stanford ca 94305 - 5015 usa
+> phone 650 723 1976
+> fax 650 725 7979
+> email duffie @ stanford . edu
+> web http : / / www . stanford . edu / ~ duffie /
+> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+>
+>
+>
+>
+>
+>
+>
+darrell duffie
+mail gsb stanford ca 94305 - 5015 usa
+phone 650 723 1976
+fax 650 725 7979
+email duffie @ stanford . edu
+web http : / / www . stanford . edu / ~ duffie /

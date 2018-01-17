@@ -1,0 +1,27 @@
+Subject: option hedging for ees
+eugene ,
+bob and i had a discussion about your question you raised yesterday .
+for an option writer , he has the obligation to deliver , so he hedges it with
+the underlying by adjesting delta positions . the hedging cost , theoretically ,
+should be equal to the fair value of the option premium .
+on the other hand , for the option holder , he has no obligation , by delta
+heging ,
+he would pay double for the option , with no upside . so he should not hedge
+it at all .
+if the option holder wants to protect the time value of the option , he should
+sell
+the option to the market or some equivalent options to create a theta - neutral
+portfolio .
+this may require trading in both the orginal and the equivalent option
+underlyings .
+our question to you , if the call options you mentioned are embedded in the
+ees
+contracts , say fixed price sale contracts , what makes it possible to just
+separate those options
+and sell them to the market to retain the full values of the options ? we
+conjecture that these
+options are meant to hedge the original contract . by selling those options
+you eliminate the upside of the
+original contract .
+give one of us a call if you want to discuss this further .
+zimin

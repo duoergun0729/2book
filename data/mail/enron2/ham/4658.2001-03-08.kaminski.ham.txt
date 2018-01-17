@@ -1,0 +1,19 @@
+Subject: eol data mining
+vince ,
+here are four graphs i came up with yesterday afternoon that may be of
+interest :
+the first one shows what percentage of our trades are done with different
+counterparties -
+( note the large part that aquila plays ! )
+the other three graphs look at how trading volume varies during the week
+between the hours of 8 : 00 am and 4 : 00 pm for different categories of product .
+natural gas and power have their own graphs , as they have the largest traded
+volumes . " products " is for the remaining categories .
+there are still some things i would like to take a look at . the databeacon
+software is now available , and can be reached at the following url :
+do you have any specific questions that you would like me to try answering
+regarding eol ?
+i have also started doing some research on automated trading platforms . are
+there any websites and / or papers you would recommend i read ?
+thanks ,
+tom

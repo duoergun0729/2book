@@ -1,0 +1,22 @@
+Subject: uk ppi curve generator with smoothing
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 03 / 31 / 2000 01 : 43 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+anjam ahmad
+03 / 28 / 2000 02 : 08 pm
+to : martina angelova / lon / ect @ ect , trena mcfarland / lon / ect @ ect
+cc : dale surbey / lon / ect @ ect , mary thambiah / lon / ect @ ect , zimin lu / hou / ect @ ect ,
+stinson gibner / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : uk ppi curve generator with smoothing
+hi martina & trena ,
+i think this is a reasonable smoothing method between the short and long - term
+models - let me know if you need me to explain it . i also included the
+short - term models so this is now a self - standing spreadsheet , but probably
+still needs cleaning up a bit .
+zimin & stinson :
+we agreed on short - term and long - term models for dzcv and pllu ppi indices in
+a meeting with dale and trena and a simple smoothing is employed to give the
+results as follows . blue and red curves are the proposed dzcv and pllu ppi
+index forward curves whilst rpi is the market - derived black curve .
+regards ,
+anjam
+x 35383

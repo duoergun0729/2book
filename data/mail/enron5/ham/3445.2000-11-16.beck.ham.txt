@@ -1,0 +1,9 @@
+Subject: request submitted : access request for victoria . storey @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000007589
+request create date : 11 / 16 / 00 11 : 18 : 52 am
+requested for : victoria . storey @ enron . com
+resource name : eol us backoffice data manager
+resource type : applications

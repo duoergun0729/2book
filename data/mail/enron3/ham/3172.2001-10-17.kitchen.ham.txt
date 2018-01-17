@@ -1,0 +1,27 @@
+Subject: fw : rto week - - summary of congestion management panel
+fyi .
+claudette and tj - - please forward to your groups . thanks .
+- - - - - original message - - - - -
+from : novosel , sarah
+sent : tuesday , october 16 , 2001 10 : 46 pm
+to : novosel , sarah ; presto , kevin m . ; davis , mark dana ; may , tom ; will , lloyd ; lindberg , susan ; gupta , gautam ; misra , narsimha ; scheuer , janelle ; baughman , edward d . ; herndon , rogers
+cc : nicolay , christi l .
+subject : re : rto week - - summary of congestion management panel
+rto week
+day 2 - - october 16 , 2001
+congestion management and transmission rights
+the morning panel discussion was on congestion management . the panelists were : nancy brockway , commissioner new hampshire psc ; reem fahey , edison mission ; carol guthrie , chevron / texaco ; shmuel oren , university of california - berkley and advises texas puc ; andy ott , pjm ; michael schnitzer , northbridge group .
+general observations
+the commissioners were again all present ( wood left mid - morning to give testimony on capitol hill ) . today , however , ferc staff was much more active in the discussion and the commissioners asked very few questions . the topics are so interrelated that many of the same issues already discussed are being rehashed again . this will probably continue for the rest of the week . what i have found most encouraging so far has been the widespread support for some of the basic concepts , most notably the need for a real time energy market based using lmp . very few panelists have opposed this ; at most , a couple of panelists have argued that the real time market should not be standardized - - basically conceding that pjm ' s system will be implemented in the northeast but urging that it not be mandated everywhere else .
+locational marginal pricing
+the panelists all agreed that lmp in the real time market is necessary ( schmuel oren does not oppose it ) . most of the panelists think this needs to be standardized across rtos . andy ott says the seams will remain a problem and a barrier to trading if the real time market is not standardized . carol guthrie does not favor standardization and urged ferc to not standardize the pjm system throughout the eastern interconnect . she said ferc should try a couple of different systems and see what works .
+ftrs versus flowgates
+the panelists agreed that transmission rights should be financial , not physical . schmuel conceded this point for the discussion but this may not be his preference - unclear . most of the panelists , including the psc commissioner , prefer ftrs rather than flowgates . schmuel is a flowgate advocate . after some discussion , the panelists agreed that ftrs and flowgates could work together , provided that the definition of flowgate is understood . andy ott said flowgates could work with ftrs if the purpose of having flowgates is the same purpose of having hubs ( liquidity , standard product ) , and if a flowgate is defined as a grouping of point - to - point rights , then ftrs and flowgates can coexist . if a flowgate is a hub for transmission rights , it ' s okay . however , if flowgate is defined as a physical boundary requiring scheduling , the two cannot coexist . schmuel seemed to agree with this premise , although this is not his preference . he seems to prefer only flowgates without ftrs . brockway seems to prefer ftrs rather than flowgates for fear that flowgates will result in excess socialization of costs .
+the panelists also agreed generally that revenues generated from ftrs or flowgates should be allocated to load , but the method of allocation was not agreed upon .
+ferc staff asked the panelists to discuss commercially significant flowgates . many of the panelists discussed the problem with deciding what constitutes a commercially significant flowgate , and what happens when circumstances change over time , resulting in different flowgates being commercially significant . schmuel said you could use either a system that relies only on commercially significant flowgates or one that uses all flowgates , but if participants are willing to accept a system where they are not perfectly hedged , use of commercially significant flowgates is acceptable .
+the panelists agreed that these financial rights ( either ftrs or flowgates ) should be tradable in the secondary market . the panelists disagreed on which instrument - - ftrs or flowgates - - are more tradable . andy thinks ftrs are more tradable ; schmuel thinks flowgates are more tradable .
+options versus obligations
+the panelists discussed the benefits of having ftrs be options but also discussed the additional problems presented to the system operator if ftrs are only options and the ftr holder is not required to flow or pay if it does not flow . andy ott said options will most likely result in fewer ftrs being allocated . schnitzer says the issue must be resolved up front .
+the afternoon panel was on transmission planning and expansion . steve walton was a panelist and will be providing a summary of the discussion shortly .
+let me know if you have any questions .
+sarah

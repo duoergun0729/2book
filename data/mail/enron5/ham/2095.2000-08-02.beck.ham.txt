@@ -1,0 +1,38 @@
+Subject: unify performance issues are priority number one
+most of you are aware that unify experienced some major performance issues as
+we tried to close out the month of july . not to go into any details but
+there seemed to be a lot of smaller issues which when combined caused the
+issues we saw on monday and to a lesser degree on tuesday . almost all of the
+issues relate to the quirkiness of the current version of sybase which is
+used for unify ' s database . jeff johnson and his team are putting together a
+plan that will address most of these issues and hopefully result in
+acceptable performance as we go through next bidweek and try to close for
+august . the short term tactical plans include the following :
+enhancing certain programs which seem to have become resource hogs as the
+amount of data grows .
+test and hopefully migrate to the latest version of sybase which will address
+some of the issues . this may also require some hardware changes as to where
+we store certain data . we will also need some user help in stress testing
+prior to moving to production .
+addressing with the users billing transactions that have never been finaled .
+i have been told that we still have transactions going back to jan of 99 that
+have not been finaled or closed out . this puts quite a load on the pma and
+accrual process since it has to go back to those open transactions to see
+what if any action should be taken with these transactions .
+once these changes have been implemented and hopefully bought us a little
+time to absorb the tremendous growth we ' ve been seeing via eol then we will
+focus on delivering more intermediate and longer term solutions . these
+include the following :
+rewriting most of the code and moving to a 3 tier environment which will be
+much more scalable .
+moving off of sybase and on to microsoft sql server or oracle . it will be
+easier to move microsoft sql server but we have to be sure it is the right
+solution in the long term .
+jeff will be following up with some of you to go over a much more detailed
+plan . needless to say that this is his groups highest priority and his best
+people are working on these efforts . this will slow down major enhancement
+efforts such as enhancing the gas applications to handle hourly trades and
+nominations . we will keep you informed as we start to roll out the tactical
+solutions . in the mean time feel free to contact me at x - 36858 or jeff at
+x - 39694 if you have any questions or require additional detail . thanks ! -
+tommy

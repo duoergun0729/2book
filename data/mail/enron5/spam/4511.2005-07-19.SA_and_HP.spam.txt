@@ -1,0 +1,12 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 19 : 57 : 17 + 0900
+from [ 219 . 128 . 179 . 71 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+labra - 610 m @ docomo . ne . jp
+( reason : 550 unknown user labra - 610 m @ docomo . ne . jp )
+( expanded from : )
+- - - - - transcript of session follows - - - - -
+. . . while talking to mfsmax . docomo . ne . jp . :
+> > > data
+< < < 550 unknown user labra - 610 m @ docomo . ne . jp
+554 5 . 0 . 0 service unavailable

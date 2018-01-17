@@ -1,0 +1,60 @@
+Subject: requests for new curves , new books , porfolio changes
+in the past few months , the procedures for setting up new curves and books
+have not been followed by everyone .
+the following memo documents the procedures to 1 ) set up a new curve , 2 ) set
+up a new book , and 3 ) change a portfolio hierarchy . please note that risk
+management ( for each commodity group ) , " risk management " is responsible for
+ensuring that information is flowing appropriately between the valuation
+systems and risktrac ( risk analysis and reporting can help , but do not have
+all of the erms information to be able to ensure the completeness of
+risktrac ) .
+i have attached the request form for each of these changes at the bottom of
+this memo . please ensure that everyone in your group obtains a copy .
+the procedure to set up a new curve is as follows :
+trader starts trading at a new location or a new commodity and needs a new
+curve set up
+trader communicates this to risk management
+risk management constructs new curve in erms ( with the help of the it
+department )
+risk management completes a curve set up request form to set up curve in
+risktrac
+curve form is forwarded to risk analysis and reporting
+risk analysis and reporting sets up curve in risktrac
+a system generated message is sent to people on the " curve list " indicating a
+change in the risktrac curves has been made
+if the curve is not set up in risktrac the positions are not captured in the
+var or engine , thereby making var inaccurate . as a side note , risk analysis
+and reporting has implemented a new process in which on a weekly basis new
+curves set up in erms are reviewed to ensure that these have been set up in
+risktrac . we did this for the first time today and noted numerous curves in
+erms that are not in risktrac - which we are working with you to resolve .
+the procedure to set up a new book in risktrac is as follows :
+trader / risk management determines new book is needed
+new book request form ( for risktrac ) is completed by risk management
+new book request form is forwarded to risk analysis and reporting
+risk analysis and reporting sets up book in risktrac
+risk analysis and reporting forwards request to erms administrator and global
+counterparty group to request that book is set up in valuation and
+counterparty systems
+once all groups have completed their individual set ups , a final e - mail is
+sent to personnel on the " books list " and the book administrator in the risk
+management department who requested the book
+it is important that there is a one to one link between the erms and risktrac
+books , or not all positions will be captured in risktrac ( two commodities per
+erms book does not flow properly into risktrac ) .
+the above two processes have formally existed for a number of months .
+additionally , we are formalizing the procedure for changing portfolio
+hierarchies . the procedure now is :
+risk management is responsible for requesting all portfolio hierarchy
+changes . previously , changes could be made through a request by risk
+analysis and reporting or rac . these two groups are no longer allowed to
+submit change requests . all requests must come through risk management .
+risk management completes a request , including the reason for the requested
+change in structure
+risk management forwards the request to risk analysis and reporting
+risk analysis and reporting makes the change and notifies risk management
+that the change has been made .
+if you have any questions , comments or concerns , please call : me x 39123 ,
+chris abel x 33012 , burton mcintyre x 57197 , or susan trevino x 31462 .
+thanks ,
+shona

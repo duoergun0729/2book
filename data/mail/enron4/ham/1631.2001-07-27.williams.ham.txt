@@ -1,0 +1,25 @@
+Subject: path confirmation testing of latest release
+good afternoon :
+i am looking at version 1 . 0 . 0 . 47 the day i was checking was initally june 23 , but switched over to june 20 th ( new data )
+text wrapping :
+the text wraps in the following fields :
+counterparty
+tag
+comments
+the text does not consistently wrap in the path field , which is the most critical field to have wrap .
+missing transmission information : ( june 20 th re - ran to check this )
+the transmission information from transl , transloasis seems to be coming thru ( inconsistently ) ; and i still do not see the transmission information from trans 2 , trans 2 oasis represented . i re - ran my data from the 20 th to check it but when . i went to delete my data for the 20 th , and there was none there . do you all know if this data was purposefully removed , or did it just go away ? the only data that seems to have survived to this version is the data from 6 / 23 .
+sorting :
+by tag - i see how to make it sort in the strip , but cannot just look at tag numbers . right now in lotus , if i activate the sort by tag i get a list , and if i just start typing a tag number , it takes me to the one i want . can we have that capability duplicated ?
+by global id - this needs to be able to be done in the upper sort area .
+expanded view :
+will the path size in the expanded view be fixed in the next release ? i still cannot see the whole path .
+the delivery point is blank when i pull this up , but i populated border 1 and 2 . what drives this ?
+path cut : ( working in june 20 th data )
+i was able to sucessfully cut a path - but with the following problems
+1 . region still needs to be the forced choice that i mentioned in earlier e - mails
+2 . after a path is cut , and i go into the original path , i can ' t see any way to easily find the cut associated with the path . maybe a - go to cut - button
+3 . i would like to be able to add incremental hours to a cut , as hourly cuts can go on for several hours but one hour at a time . a new tag might have to be made each hour of the cut .
+question : in the expanded view of the path under counterparty ; i see a name of a person kind of greyed out . who is this person ? it does not match the trader name on the deal . i looked at williams deal # 633037 . 1 . janelle barsness shows in the path expanded view , but no trader is visible in the trade ( done on eol ) . i looked at wapa deal # 622350 . 1 , kathy crane is in the path expanded view , and penny casey is their trader .
+that ' s all for now , catch you all on monday
+cara

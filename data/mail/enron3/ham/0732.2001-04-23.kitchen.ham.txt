@@ -1,0 +1,28 @@
+Subject: gtv weekly status update
+please find below the gtv project status update for this week . please see the attached file for the project timeline update in microsoft project .
+gtv status meeting attendees : dave nommensen , karima husain , francis lim , jeremy wong , bill fortney , nayan dattani , russ severson , narasim kasaru , mike swaim , chuck ames , geoff storey , jay krish .
+accomplishments :
+? incorporating physcial deal positions in tds :
+o changes to cpr reader process & its unit testing have been completed .
+o loading prior - day curves into position manager - in test .
+o changes for the view aggregation - in development ( please see the attached project timeline ) .
+? single point of deal entry for term deals :
+o single point of deal entry is now in user testing .
+? gas daily deals :
+o changes to portcalc application to create gdi calc in erms are complete and ready for testing .
+o it development items are in progress and on schedule ( please see the attached project timeline ) .
+? live feeds for gas daily / intra - month curves :
+o development of live feeds has been completed , tested , user - approved and already in production .
+? option grid ( phase 2 ) :
+o conversion from motif into powerbuilder has commenced .
+? gas daily options :
+o changes to portcalc application have been completed and ready for testing .
+? completed inception document and timeline for gtv phase 2
+plans for the week ending 4 / 27 / 01 :
+? continue it development of phase i items .
+? complete sign - off for gtv - ii , phase 2 issues and timeline .
+? continue it development of phase 2 issues .
+issues / open items :
+? implement " group of groups " for cash positions just as they are in position manager .
+? verify with users if gdi calc in erms should be done via 1 or 2 portcalcs .
+thanks , dave n

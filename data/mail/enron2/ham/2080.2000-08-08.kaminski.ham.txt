@@ -1,0 +1,45 @@
+Subject: software license
+ms . geman ,
+i am just following up to see if you had received my previous message
+forwarded below and whether you have a response so that we can move forward
+with this contract ?
+thank you ,
+karla feldman
+- - - - - forwarded by karla feldman / hou / ect on 08 / 08 / 2000 09 : 23 am - - - - -
+karla feldman
+07 / 28 / 2000 01 : 41 pm
+to : geman @ dauphine . fr
+cc :
+subject : software license
+dear ms . geman ,
+i met with vince kaminski yesterday regarding picking back up with the
+license agreement we were working on back in march . he relayed some
+additional requirements which need to be added to the agreement , which
+include the following :
+1 . the price agreed upon is $ 90 , 000 .
+2 . d - g will provide system support .
+3 . no later than 12 months of execution of the agreement , d - g will provide
+the source code to enron . in the meantime , the source code is to be in
+escrow . additionally , the source code would be released sooner than the 12
+months if any of the following conditions occur : ( i ) d - g goes out of
+business ; ( ii ) d - g is unable to provide effective technical support ; or ( iii )
+if d - g agrees to release it sooner .
+before i have our attorney add these things to the agreement , we need to
+discuss the escrow situation . vince mentioned that you had suggested that
+your attorney keep the software in escrow . is your attorney a u . s .
+attorney ? it seems like i may have recalled that way back in march you might
+have said you had a friend or relative that was an attorney . is that the
+same person ? does this attorney work for a large firm , small firm , or solo
+practitioner ? basically , if you could just provides some additional
+information about your attorney , i would appreciate it .
+we normally would use an escrow company to put the software in escrow . we
+have dealt with a company here in the u . s . called dsi technology . i will
+check into that pending your answer regarding your attorney .
+once we decide what we want to do regarding placing the software in escrow ,
+we will red - line the agreement to reflect such changes and e - mail it back to
+you for your review .
+i look forward to hearing from you .
+karla feldman
+enron corp .
+contract administration
+( 713 ) 646 - 7554

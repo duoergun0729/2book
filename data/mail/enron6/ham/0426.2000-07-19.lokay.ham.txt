@@ -1,0 +1,48 @@
+Subject: re : interactive open season test packages
+thanks ! also , i ' m forwarding this to michelle .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by lindy donoho / et & s / enron on 07 / 19 / 2000
+02 : 50 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : toby kuehl 07 / 19 / 2000 01 : 41 pm
+to : lindy donoho / et & s / enron @ enron
+cc :
+subject : re : interactive open season test packages
+oops ! forgot you on the list !
+- - - - - - - - - - - - - - - - - - - - - - forwarded by toby kuehl / et & s / enron on 07 / 19 / 2000 01 : 42
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : toby kuehl 07 / 19 / 2000 01 : 40 pm
+to : lorraine lindberg / et & s / enron @ enron , tk lohman / et & s / enron @ enron , christine
+stokes / et & s / enron @ enron , jeffery fawcett / et & s / enron @ enron
+cc : richard abramowicz / et & s / enron @ enron , girish kaimal / ots / enron @ enron ,
+sheila nacey / et & s / enron @ enron
+subject : re : interactive open season test packages
+does your testing seem to be going ok ? i haven ' t heard from anyone yet .
+let rich or myself know . . . .
+toby
+richard abramowicz
+07 / 19 / 2000 08 : 27 am
+to : jeffery fawcett / et & s / enron @ enron , tk lohman / et & s / enron @ enron , christine
+stokes / et & s / enron @ enron , lorraine lindberg / et & s / enron @ enron , girish
+kaimal / ots / enron @ enron
+cc :
+subject : interactive open season test packages
+the interactive open season test packages are loaded on ios . ets . enron . com .
+we put in the change where shippers must bid on the full capacity of the
+package , no partial capacities are allowed . even though the package with the
+3 month term has been loaded , we can remove it if we need to . the following
+test user have been set up for testing .
+user id password package 15 volume package 16 volume
+testl userl 20000 0
+test 2 user 2 20000 0
+test 3 user 3 20000 0
+test 4 user 4 20000 0
+test 5 user 5 20000 49000
+test 6 user 6 20000 49000
+test 7 user 7 0 49000
+test 8 user 8 0 49000
+test 9 user 9 0 49000
+testl 0 userl 0 0 49000
+this iosadmin password is k 97 hyt 86
+because the ios application hasn ' t been thoroughly used since february of
+1999 , it is very important to do this testing . i you need us to reset the
+bids or the end time , or if you notice any problems while testing , please
+page us at ( 877 ) 497 - 3254 .

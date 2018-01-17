@@ -1,0 +1,17 @@
+Subject: fw : fsp milestone complete
+jeez this gets old
+- - - - - original message - - - - -
+from : poston , david
+sent : thursday , june 28 , 2001 3 : 38 pm
+to : nat , steve ; belden , tim ; richter , jeff ; o ' neil , murray p . ; mallory , chris ; williams , bill ; platter , phillip
+subject : fsp milestone complete
+good afternoon ,
+i am pleased to announce that we have finally completed the 10 day parallel test milestone for fsp . we were also seeing solid performance for our key metrics during the parallel ( template writing 1 : 30 - 2 : 30 , finals processing 5 - 7 minutes ) . lastly , based on my understanding of our go - live bet , my total debt owed to tim belden = $ 13 . 00 . tim , i gave the money to debra .
+what next ?
+user training
+i will be working with the da & real time guys to make sure everyone is up - to - speed with the new system . we are also in the process of developing some user documentation cheat sheets to help in the transition .
+production parallel
+we have already begun using fsp in parallel in production by writing templates in fsp & comparing them to caps . we will continue doing this until we are getting consistent results between the two systems . this production parallel has necessitated some changes to the existing enpower _ to _ caps report that we have already started modifying .
+how long ?
+once bit , twice shy . no money on this one , but i don ' t think it should take over a week to train the users . the production parallel may take a little longer . i am really relying on the users to wrap this one up . kysa alport has already volunteered for this duty and i spent a good part of today training her .
+thanks , david poston

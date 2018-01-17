@@ -1,0 +1,71 @@
+Subject: re : perry gas - sap override issue
+the cause of this was the timing of when sap went down . sap had a major
+system crash the day willie finaled his supply verification in unify . before
+willie went into sap to net the payable ( same day ) , sap crashed . by the time
+sap came up , the treasury run had already picked up the payable and wired the
+cash . when we issued the recall , the money was already out the door .
+as a result , we put a policy in place that all supply verifications for
+netout customers must be overridden as soon as they are finaled in unify .
+this causes them to be blocked in sap and not picked up by treasury until the
+payment block is removed . this policy went into effect at the beginning of
+september .
+however , this still relies on human intervention to ensure the procedure
+works . to ensure we don ' t " accidentally " release cash , i have asked unify it
+to change the interface to send all purchases for ena to sap blocked , which
+will require the coordinator to release funds . this is an added step , but is
+worth it considering the stakes . this change will go into effect on monday ,
+9 / 25 . if you have any questions , please let me know .
+bryce
+enron north america corp .
+from : sally beck 09 / 22 / 2000 04 : 33 pm
+to : bryce baxter / hou / ect @ ect , leslie reeves / hou / ect @ ect
+cc :
+subject : re : perry gas - sap override issue
+i have read this series of e : mails but i am not sure that i fully understand
+the issue . did willie not do his job ? are there problems with how sap
+works ? are both of these an issue ? please let me know if we have a far
+reaching problem with sap and netting . thanks . - - sally
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sally beck / hou / ect on 09 / 22 / 2000 04 : 29 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : william s bradford 09 / 22 / 2000 04 : 04 pm
+to : sally beck / hou / ect @ ect
+cc : debbie r brackett / hou / ect @ ect
+subject : re : perry gas - sap override issue
+sally ,
+are you aware of the problems with sap ? this error caused an incremental
+$ 600 , 000 credit loss to perry gas companies that could have been prevented .
+let me know if you have any questions .
+bill
+- - - - - - - - - - - - - - - - - - - - - - forwarded by william s bradford / hou / ect on 09 / 22 / 2000
+04 : 02 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : russell diamond
+09 / 22 / 2000 03 : 01 pm
+to : william s bradford / hou / ect @ ect , debbie r brackett / hou / ect @ ect
+cc :
+subject : re : perry gas - sap override issue
+fyi -
+- - - - - - - - - - - - - - - - - - - - - - forwarded by russell diamond / hou / ect on 09 / 22 / 2000
+03 : 01 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : bryce baxter 09 / 22 / 2000 02 : 47 pm
+to : russell diamond / hou / ect @ ect
+cc :
+subject : re : perry gas - sap override issue
+russell - as i remember , willie finaled the supply verification and it was
+interfaced to sap . this is fine , and then willie was going to net the a / p
+and a / r . sap went down after the statement was interfaced , but before willie
+was able to block or net the payment . when sap came back up the next day ,
+the payment had already gone out and we were unable to recall the wire . if
+you have any further questions about this , call me . thanks .
+from : russell diamond
+09 / 22 / 2000 01 : 46 pm
+to : willie stewart / hou / ect @ ect
+cc : audrey cook / hou / ect @ ect , bryce baxter / hou / ect @ ect
+subject : perry gas - sap override issue
+willie ,
+per our earlier conversation , can you or audrey or bryce , please give further
+explain to me as to why the funds were wired to perry gas for purchases from
+the counterparty instead on netting the amounts between purchases and sales .
+you mentioned to me the process of overriding the counterparty ' s that net on
+sap , although because of timing , the override did not take place .
+thank you ,
+russell

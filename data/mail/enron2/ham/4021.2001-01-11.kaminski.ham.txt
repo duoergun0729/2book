@@ -1,0 +1,50 @@
+Subject: re : enron , india database
+sandeep ,
+?
+we ' ve ? completed a review ? this morning to try to fill in missing pieces ? of
+information on hourly load shapes , hydro dispatch history , and transactions
+for india and have not come up with anything yet . would you know of any of
+the above information which would ? assist us in our efforts ?
+?
+thanks ,
+?
+david yomogida
+?
+- - - - - original message - - - - -
+from : david
+to : sandeep kohli
+cc : robert schenck - australia ; vince j kaminski ; stinson gibner
+sent : wednesday , january 10 , 2001 6 : 20 pm
+subject : enron , india database
+sandeep ,
+?
+below , i have summarized henwood ' s work on the india database to date .
+?
+the " inter _ regional links . ppt " file shows the topology and links between
+bubbles in the our model and " expand _ india _ data _ 011000 . xls " details the
+existing station information that we have compiled to date . ? total resources
+closely match reported resources as shown in " l & r _ 0110 . xls " . reported india
+total in 1997 is 86 , 000 mw and that in the henwood database is 84 , 000 mw
+through 1997 .
+?
+region
+emss database
+reported [ 1 ]
+difference
+india total
+84 , 103
+86 , 120
+2 , 017
+?
+?
+we are currently working on the development of hourly load shaping , seasonal
+hydro energy allocation , and the gathering of transaction information .
+sandeep , we will try to contact you tomorrow ( thursday - - australia ? or
+wednesday - - united states ) to answer any questions that you may have on
+this information .
+?
+sincerely ,
+?
+david yomogida
+?
+?

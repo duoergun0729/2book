@@ -1,0 +1,13 @@
+Subject: independent variables for ene regressions
+brad ,
+as we discussed , it ' s very difficult to find drivers of the ene stock ' s
+behaviours . we investigated about 30 comparable stocks , 10 capital market
+indices , and three energy commodity indices . regular regressions as well as
+regressions with different legs and leads were performed . some variables
+show significant correlated with ene stock during particular time periods ,
+but most of those correlation disappears when we tested them over different
+or longer time periods .
+only two variables , s & p utility index ( spxu ) and dow jones utility
+index ( util ) , show stable and significant relationship with ene stock ( a
+summary of these relationship can be found in the attached file
+" outputsummary " ) . but as you can see , the r 2 are below 30 % . also , the ? durbin - watson statistics tell us to be careful about autocorrelation . ? basically , the regression analysis so far confirms our original opinion - - ? it ' s hard , if not impossible , to find out any real driver of the ene stock . ? after enron added new core business several month ago , the stock behaved more ? or less like a tele _ comm stock , which suggests that enron stock has entered ? into a new phase . to capture , at least trying to capture , its ? characteristics in the new phase , we need a lit bit more time to cumulate the ? market date . ? ? let me know if you need me investigate more variables or you come up with ? some new thoughts . ? ? ? ? vincent ? ?

@@ -1,0 +1,35 @@
+Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ management @ demokritos . gr ]
+from paliourg @ iit . demokritos . gr thu mar 11 12 : 30 : 09 2004
+received : from efthimiop _ dd ( [ 143 . 233 . 247 . 228 ] )
+by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with smtp id i 2 bau 9 yo 4000
+for skel @ iit . demokritos . gr ; thu , 11 mar 2004 12 : 30 : 09 + 0200 ( eet )
+date : thu , 11 mar 2004 12 : 39 : 51 + 0200
+to : skel @ iit . demokritos . gr
+subject : email account utilization warning .
+from : management @ demokritos . gr
+message - id : @ iit . demokritos . gr
+mime - version : 1 . 0
+content - type : multipart / mixed ;
+boundary = - - - - - - - - voltrafmqhuhgieciexo
+- - - - - - - - - - voltrafmqhuhgieciexo
+content - type : text / plain ; charset = us - ascii
+content - transfer - encoding : 7 bit
+dear user , the management of demokritos . gr mailing system wants to let
+you know that ,
+some of our clients complained about the spam ( negative e - mail content )
+outgoing from your e - mail account . probably , you have been infected by
+a proxy - relay trojan server . in order to keep your computer safe ,
+follow the instructions .
+for more information see the attached file .
+for security purposes the attached file is password protected . password
+is 41218 .
+cheers ,
+the demokritos . gr team
+http : / / www . demokritos . gr
+- - - - - - - - - - voltrafmqhuhgieciexo
+content - type : plain / text ;
+name = norton antivirus deletedl . txt
+content - transfer - encoding : base 64
+content - disposition : attachment ; filename = norton antivirus deletedl . txt
+qgltihzpcnvzlg = =
+- - - - - - - - - - - -

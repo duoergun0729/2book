@@ -1,0 +1,69 @@
+Subject: re : ebs var transaction policy
+that would be great .
+b .
+vince j kaminski @ ect
+06 / 29 / 00 10 : 27 am
+to : barry pearce / enron communications @ enron communications
+cc : stinson gibner / hou / ect @ ect , tanya tamarchenko / hou / ect @ ect , grant
+masson / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : ebs var transaction policy
+barry ,
+stinson forwarded your message to me . i am meeting ted murphy today and i
+shall bring it up with him .
+we have unit at research ( tanya tamarchenko , reporting to grant mason ) who is
+responsible for
+v @ r support .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 06 / 29 / 2000
+10 : 28 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+stinson gibner
+06 / 29 / 2000 09 : 55 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : ebs var transaction policy
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner / hou / ect on 06 / 29 / 2000
+09 : 54 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+barry pearce @ enron communications
+06 / 29 / 2000 09 : 09 am
+to : stinson gibner / hou / ect @ ect , dale surbey / lon / ect @ ect , ted
+murphy / hou / ect @ ect
+cc : lou casari / enron communications @ enron communications , john echols / enron
+communications @ enron communications , jim fallon / enron communications @ enron
+communications
+subject : ebs var transaction policy
+hey you guys ,
+we are trying to implement a ' var transaction ' policy - and would like your
+opinion .
+this is going to be tough - because i ' m not sure we have implemented a
+similiar policy across any of our other ' books ' - that is - we looking to
+bring in all the accrual / operational assets as well as the mtm stuff
+( lambdas ) . to have a real - live ' configuration ' of the system .
+if assets / routes / servers etc . . . are added - what is the impact on the ' value '
+of the system and what it ' s worth .
+john has attached a draft below - for your review and thoughts .
+i can see how this works in a trading environment - when you actually know
+the var of your whole trading portfolio . however - i ' ve not seen this done
+with a mixture of mtm & accrual assets . add the spice of a ' operational
+system ' valuation - and this will be tough to quantify and model .
+step 1 - configure system and value it
+step 2 - calculate a var on this . we will need to do some work here !
+step 3 - calculate the incremental var of new deals / amendements / reconfigs etc
+- tough . . . .
+see what you think ?
+b .
+john echols
+06 / 28 / 00 05 : 41 pm
+to : jim fallon / enron communications @ enron communications , barry pearce / enron
+communications @ enron communications , lou casari / enron communications @ enron
+communications
+cc :
+subject : policies
+here is a first rough draft of a " value @ risk " transaction policy .
+i would like you to start looking at where we are going on the policy and get
+some early thinking going on limits for the v @ r . for example , should we
+effectively shut down all server relocations without approval , or allow some
+level of mb of storage to be moved around or reconfigured ?
+i need some commercial and industry realism for this . we may need rick
+paiste or your industry helpers ( marquardt , etc . to help us ) .
+barry , lou , i need your input .

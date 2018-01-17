@@ -1,0 +1,40 @@
+Subject: re : options model
+jeff ,
+i got 20 cents for the swith option per dth . my assumptions are as follows :
+price curve assumption :
+waha - - - if - waha
+la plata pool and tw ( ignacio ) - - if - epso / sj
+california border - - ngi - socal
+correlation assumption :
+waha - sj 95 %
+socal - sj 90 %
+see the attached spreadsheet for more info . call me for questions .
+zimin
+jeffery fawcett @ enron
+10 / 11 / 2000 02 : 56 pm
+to : zimin lu / hou / ect @ ect
+cc :
+subject : options model
+zimin ,
+we ' re trying to price out a " live " options deal . here are the parameters :
+volume : 32 , 000 dth / d
+term : jan . 1 , 2002 through oct . 31 , 2006 ( 58 mos . )
+price : one part rate , $ 0 . 2175 / dth , plus applicable fuel
+primary receipt / delivery points : ( east - to - east transport )
+receipt : la plata pool ( use san juan , blanco price equivalent )
+delivery : waha area
+option :
+alternate delivery pnt . : california border ( east - to - west transport )
+price :
+floor - $ 0 . 2175 / dth , plus 4 . 75 % pipeline fuel , plus 50 % of the difference
+between the california border index
+price and the san juan basin index price . specifically , we ' ll use :
+( socalgas large pkgs . minus tw ( ignacio , pts . south ) )
+an important things to consider :
+this option is only for alternate firm deliveries . alternate firm is really
+just a glorified version of interruptible .
+can you run the option model and tell me what is the dollar value of this
+rather " unpure " option ?
+i appreciate it . give me a call at 3 - 1521 if you have any questions . also ,
+can you get us an answer by friday , 10 / 13 / 00 ? we ' re looking to get the
+proposal out to the customer by the end of the week if possible . thanks .

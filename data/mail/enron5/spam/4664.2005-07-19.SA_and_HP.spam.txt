@@ -1,0 +1,26 @@
+Subject: undeliverable mail
+user mailbox exceeds allowed message count : junkmail @ elmr - electronic - medical - records - emr . com
+original message follows .
+received : from mailwisconsin . com [ 211 . 201 . 107 . 90 ] by mail . hexagon . net
+( smtpd 32 - 8 . 05 ) id a 6 b 41 f 7003 e ; tue , 19 jul 2005 03 : 32 : 20 - 0700
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 09360559 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : junkmail @ elmr - electronic - medical - records - emr . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbelivabie !

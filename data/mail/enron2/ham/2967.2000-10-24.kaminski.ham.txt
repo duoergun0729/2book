@@ -1,0 +1,27 @@
+Subject: re : the newvatrfacs program and testing data
+jin & winston ,
+i will look at the results of 2 runs ,
+but i will not look at the code unless it is in our version control system
+sccs .
+please , put all your version under this system , as we used to do , and as we
+discussed with you .
+thank you ,
+tanya
+from : jin yu 10 / 24 / 2000 12 : 31 am
+to : tanya tamarchenko / hou / ect @ ect
+cc : wenyao jia / hou / ect @ ect
+subject : the newvatrfacs program and testing data
+hi , tanya :
+two versions of the newvatrfacs program : with ( v 2 ) and without ( vl ) weight
+are listed in the location :
+/ rms / prod / bin / tmp / vl and / rms / prod / bin / tmp / v 2 along with testing result for
+the effdate = ' 20 - oct - 2000 ' .
+the testing results of the factors for a given ng - cluster ( a constant list :
+clust . dat ) are listed in
+/ rms / prod / bin / tmp . ( the files with name like s * are the results of a test
+run without " weight " , while the files with name like t * are the results of a
+test run with " weight " ) .
+all source codes are listed there , including the makefile and the
+excuteables . should you find any problem with the program , please let me
+know .
+jin

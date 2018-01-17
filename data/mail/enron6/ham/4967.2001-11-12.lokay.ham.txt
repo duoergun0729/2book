@@ -1,0 +1,33 @@
+Subject: gas 200
+structuring natural gas transactions
+this course builds on the applied energy derivatives program , focusing on deal structuring opportunities particular to the natural gas markets . participants will develop insights into the economic inter - relationships between the physical operations ( pipelines , storage , generation , etc . ) and their synthetic financial counterparts ( basis , time spread and multi - fuel derivatives ) . emphasis is directed at identifying marketing opportunities that follow from these concepts . this is not an introduction to natural gas markets . accordingly participants are expected be familiar with the basic concepts of both the gas industry and derivatives .
+participants attending this seminar will be able to :
+* quantify the cash liquidity risk of futures margin requirements
+* specify the terms of the futures contracts on nymex and kcbot
+* structure a fixed price hedge using a futures contract
+* take into account the implications of cash - futures basis in hedge design
+* compare the benefits / risks of futures versus swaps
+* decide between an efp or an efs to manage risk .
+* recognize the advantages and risks of stack - and - roll hedges
+* identify time spreads as a risk and opportunity and their relation to storage .
+* arbitrage storage costs and create storage synthetically with time spreads .
+* employ swing swaps / options to manage short term storage / transport risks
+* profit from trading seasonal spreads and price curve shifts
+* identify the options on time spreads embedded in storage
+* coordinate injection / withdrawal timing with the price curve .
+* identify the risks of locational basis and its relationship to transport costs .
+* create synthetic transportation
+* interpret basis quotes off the benchmark and derive non - benchmark basis
+* recognize the optionality embedded in pipeline capacity
+* utilize intentional imbalances to extract value
+* use " park - and - loan " programs to make money
+* sell " gas - by - wire " through tolling mechanisms
+* buy or sell gas indexed to power or other energy prices
+* calculate spark spreads using generating heat rates
+* structure multiple - fuel hedges
+* understand the optionality on spark spreads in gas - fired generation
+* offer gas / power dispatch options to gas generators
+michelle lokay
+account director
+transwestern commercial group
+713 - 345 - 7932

@@ -1,0 +1,56 @@
+Subject: re : var calibration issues
+we are proposing the following changes to the calculation of ng correlations :
+1 . weight the data set ( 3 calendar months ) used in calculating correlations
+( most recent data weighed heavier )
+2 . use respective contract prices , instead of prompt month prices ( i . e . for
+nov - 00 correlations use nov contract prices for the last 3 months , as opposed
+to prompt month prices for the last three months .
+tanya ,
+i have confirmed with ted and he gave us green light to make both changes .
+did we get an opinion from vince ?
+winston ,
+it is my understanding , that this changes apply to ng correlations only , not
+the correlations between commodities . we will test the changes in gas and
+then decide on world - wide implementation . any estimate on timing of this
+implementation ?
+cassandra ,
+ted suggested that you and veronica should document this as a change in var
+parameters and inform all commercial desk heads of these changes . we intend
+to make them for na gas first , but ultimately make these changes consistent
+across all commodity groups . let me know if you have questions .
+thanks , vlady .
+wenyao jia
+10 / 13 / 2000 03 : 43 pm
+to : vladimir gorny / hou / ect @ ect
+cc : tanya tamarchenko / hou / ect @ ect , jin yu / hou / ect @ ect
+subject : re : var calibration issues
+vlady ,
+also in the meeting , we identified that there are still some issures
+regarding to the correlation matrix calculations .
+since different commodity has different expiration dates . when calculate
+correlation between two commodities , the two may have different prompt
+months . are we going to use prices on two different prompt months or are we
+going to use the prices on the same month disregarding prompt months .
+because above issues , jin is not going do any changes on the correlation
+matrix calculation until above issures can be solved .
+thanks !
+winston
+tanya tamarchenko
+10 / 13 / 2000 03 : 16 pm
+to : vladimir gorny / hou / ect @ ect
+cc : wenyao jia / hou / ect @ ect , jin yu / hou / ect @ ect , jin yu / hou / ect @ ect
+subject : re : var calibration issues
+vlady , we met with winston and jin today regarding var calibration issues .
+the outcome on this discussion is :
+1 . jin will put weights into calculation of factor loadings ;
+2 . jin will change the way factor loading are calculated . for each commodity
+the prompt month contract will be selected for the effective date of vatrfacs
+run .
+then the historical prices will be collected for 3 month for all forward
+contracts starting from
+selected prompt month contract . the variance - covariance matrix will be
+calculated
+based on these data , it will be converted into correlation matrix , then
+factor loadings
+analysis will be performed on the correlation matrix .
+tanya .

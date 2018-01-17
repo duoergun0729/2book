@@ -1,0 +1,20 @@
+Subject: request submitted : access request for stewart . range @ enron . com
+stinson ,
+he is looking for blanket approach to our disk , both read and write .
+is it legitimate ?
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 11 / 20 / 2000
+03 : 35 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+arsystem @ mailman . enron . com on 11 / 20 / 2000 02 : 37 : 25 pm
+to : vince . j . kaminski @ enron . com
+cc :
+subject : request submitted : access request for stewart . range @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000007876
+approver : stinson . gibner @ enron . com
+request create date : 11 / 20 / 00 2 : 36 : 29 pm
+requested for : stewart . range @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

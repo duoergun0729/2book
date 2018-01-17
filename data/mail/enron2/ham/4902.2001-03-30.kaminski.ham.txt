@@ -1,0 +1,89 @@
+Subject: re : visual numerics cnl licensing issues
+anita ,
+could you please arrange for the purchase of the following software by
+coordinating with mike ?
+thanks .
+rakesh
+- - - - - - - - - - - - - - - - - - - - - - forwarded by rakesh bharati / na / enron on 03 / 30 / 2001
+10 : 10 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mike bothwell on 03 / 30 / 2001 08 : 58 : 20 am
+to : rakesh . bharati @ enron . com
+cc :
+subject : re : visual numerics cnl licensing issues
+rakesh ,
+thank you very much for selecting visual numeric ' s imsl cnl . attached is a
+revision of the quote i previously sent , reflecting a change in the
+quantity . if you have any quesitons , please contact me .
+thank you ,
+mike bothwell
+account manager
+visual numerics inc .
+phone : 713 - 954 - 6423
+fax : 713 - 781 - 9260
+cell : 713 - 417 - 9069
+mbothwell @ houston . vni . com
+visual numerics celebrates 30 years
+as an independent software vendor
+- - - - - original message - - - - -
+from : rakesh . bharati @ enron . com [ mailto : rakesh . bharati @ enron . com ]
+sent : thursday , march 29 , 2001 6 : 05 pm
+to : mike bothwell
+subject : re : visual numerics cnl licensing issues
+mike ,
+we have decided to go ahead with the purchase of a single license of imsl
+libraries ( c / c + + ) for pc . i believe that would be cnl 4 . 0 forpc . let me
+check the cost for the license before we finalize it as i have mislaid your
+previous e - mail about the cost . it is my recollection that it is less than
+$ 1500 . please e - mail to confirm with the precise number so we can proceed
+wih that .
+thanks ,
+rakesh
+mike bothwell on 03 / 29 / 2001 12 : 56 : 03 pm
+to : " ' rakesh . bharati @ enron . com ' "
+cc :
+subject : visual numerics cnl licensing issues
+rakesh , i ' m just following up to see how things looked on this . any change
+in status ? let me know i can furhter help you .
+best regards ,
+mike bothwell
+account manager
+visual numerics inc .
+phone : 713 - 954 - 6423
+fax : 713 - 781 - 9260
+cell : 713 - 417 - 9069
+mbothwell @ houston . vni . com
+visual numerics celebrates 30 years
+as an independent software vendor
+rakesh ,
+as we discussed , the cnl 4 . 0 pc libraries are not license managed . version
+5 will be . the pc version 4 . 0 can be installed on a network drive and
+called from networked pcs . as expected , we would ask that enron honor the
+license agreement by allowing only the number of simultaneous uses
+permitted
+by the license . version 5 . 0 will be license managed and can be licensed as
+node locked or floating .
+with regard to unix licensing , the current version of cnl for unix is
+license managed . it can be licensed as node locked or floating . if you
+install the libraries on a unix server as node locked , the number of
+simultaneous sessions on that server is not limited except by the
+capabilities of the machine . a floating unix license would be checked out
+by the individual user to be executed on a local machine .
+also as mentioned , your investment is protected by allowing you to upgrade
+in the future by paying only the price difference between your current and
+desired platforms . this upgrade option only applies to licenses covered
+under support .
+if you have any additional questions , please let me know . i look forward
+to
+providing you the best math and statistical libraries available today to
+help you solve your problems and understand your data .
+best regards ,
+mike bothwell
+account manager
+visual numerics inc .
+phone : 713 - 954 - 6423
+fax : 713 - 781 - 9260
+cell : 713 - 417 - 9069
+mbothwell @ houston . vni . com
+visual numerics celebrates 30 years
+as an independent software vendor
+- vni - mb - enro - 014 - 1 03 - 30 - 2001 . doc

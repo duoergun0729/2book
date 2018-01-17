@@ -1,0 +1,40 @@
+Subject: gaming of neta prices - constraints on the mccoy strategy
+fyi ( bm = balancing market in his email ) .
+i ' m still on eklavya ' s back to produce a white paper analysis of possible
+trading stretagies under neta and their likely implications for prices and
+volatilities . i ' ll forward it on as soon as ( if ever ) i receive it .
+steve
+- - - - - - - - - - - - - - - - - - - - - - forwarded by steven leppard / lon / ect on 02 / 09 / 2000
+03 : 10 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+eklavya sareen 09 / 02 / 2000 14 : 43
+to : ect london uk power trading , enron london power analytics , ect london uk
+gas and power origination , paul dawson / lon / ect @ ect
+cc :
+subject : gaming of neta prices - constraints on the mccoy strategy
+i believe most people are now familiar with the mccoy strategy for
+manipulating imbalance prices in a favourable direction :
+1 ) take a massive long or short position in forward trading
+2 ) choose physical production decisions to drive system
+i ) long if forward market postion is long
+ii ) short if forward market postion is short
+3 ) if system is long it needs to accept bids , if system is short it needs to
+accept offers
+4 ) if forward market postion is long submit very large postive bids to the bm
+to drive ssp high - ssp is price received for spilling power to the bm ( going
+into bm long )
+5 ) if forward market postion is short submit very small ( even negative )
+offers to the bm to drive sbp low - sbp is price paid for purchasing power
+from bm ( going into bm short )
+the neta programme intends to tag transmission cosntraint related trades in
+the bm . according to disg 24 " tagging constraint trades " ( 21 dec 99 ) option
+3 ( a ) [ the option that is proposed to be adopted ] , paragraph 2 . 3 ( p . 4 ) :
+" in the relevant settlement period , all accepted offers and bids volumes that
+can be arbitraged , i . e . where a volume has been bid higher than the price at
+which a volume has been offered , are eliminated ; "
+one of the implications of the above procedure is that the highest bids ( the
+mccoy bids ) and the lowest offers ( the mccoy offers ) are likely to be
+eliminated from the calculation of imbalance prices . this will make it harder
+to pursue the mccoy strategy successfully .
+thoughts and comments welcome .
+thanks ,
+eklavya .

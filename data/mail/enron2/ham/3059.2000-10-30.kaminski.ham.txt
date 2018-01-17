@@ -1,0 +1,31 @@
+Subject: re : jcc
+kevin ,
+thanks for the heads - up . i ' m doing face - time with a customer on wednesday ,
+but i ' m in all day tomorrow , thursday and friday ( i ' ve a got a deadline to
+meet this pm ) . when would it be convenient to meet , and could we do it early
+in the morning so as to be able to conference ansguman srivastav ( enron
+india ) into the meeting ?
+regards ,
+marc
+kevin kindall @ enron
+10 / 30 / 2000 10 : 55 am
+to : marc de la roche / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect
+subject : jcc
+good morning . i apologize for the response delay . i ' ve gone back through
+the analysis that i did back in april , and have thrown around some ideas with
+vince and stinson . the issue may be summarized as follows .
+the hedge relationship was derived using jcc and prompt brent , and is valid
+for jcc and prompt brent . no problems here . however , it will not be valid
+for points far out on the forward curve . intuitively , this hedge
+relationship will approach one as we move far out on the curve , but since
+there is no data , i can not statistically determine this . one can imagine a
+term structure of heding ratios that start at 0 . 67 and move to 1 . 0 , so that
+the back end of the curves would move together , but how fast it converges to
+one is anyone ' s guess .
+if there is a way of determining the historical jcc forward curve , then the
+hedge relationships may be estimated . however , i have been unable to
+determine a rigorous approach to building the jcc curve .
+i can explain this far better in person , and would like to talk as soon as
+possible at your convenience .
+- kevin kindall

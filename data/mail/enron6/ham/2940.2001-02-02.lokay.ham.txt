@@ -1,0 +1,25 @@
+Subject: ets intranet project update
+ets intranet consolidation project updates ( www . ets . enron . com )
+what is the status of the consolidation ?
+completed sites :
+the core ets intranet site , www . ets . enron . com
+ets solution center
+self - directed task force http : / / www . ets . enron . com / services / sdwt / default . htm
+sites in progress :
+safety site http : / / www . ots . enron . com / safety / default . htm
+design and records management
+engineering standards http : / / www . ots . enron . com / docs / stds / 0000 - 1 . htm
+how will this consolidation affect me as a user ? as we roll out new sites ,
+any bookmarks to the old sites will need to
+be modified . if you navigate to an old site , you will see a redirect message
+requesting that you update your bookmarks and a link to the new site .
+what are the next steps ?
+the intranet team will be contacting webmasters with content or applications
+on the current ets website ( www . ots . enron . com )
+to discuss the migration . all content and applications on this web server
+will be moved to the new ets intranet before the end of the 2 nd quarter .
+questions
+ladonna dervin is the project manager for the project and can be reached at
+713 . 853 . 7103 if you have any questions regarding the project .
+ets solution center - houston , at 713 - 345 - 4745
+ets solution center - omaha , at 402 - 398 - 7454

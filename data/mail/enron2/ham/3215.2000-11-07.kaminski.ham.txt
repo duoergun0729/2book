@@ -1,0 +1,27 @@
+Subject: ethylene margin collar simulation model
+i set up the simulation model . the margin follows a mean - reverting process .
+i seperarted the data into two category , margin > 0 . 04 and margin < 0 . 04 .
+then i estimate the mean reverting speed seperately for these two data sets .
+i got higher mean reverting speed than that i estimated using the whole data
+set .
+the high mr speed surpresses the probability at high payout side .
+since the mr speed is sensitive to where i divide the data , so bob will run
+a few senarios .
+i put the overal settlement cap and floor into the montly premium
+calculation , so the
+the result in el 8 on the summary page is the ultimate answer to the deal
+pricing .
+i also calculate the undiscounted payout distribution and overall collar
+worth .
+relax the overall cap and floor will have a direct comparison with the spread
+option
+approach that bob and lee set up .
+look like we got a reasonable model .
+stinson :
+i ' d like to have you check my set up for the simulation model .
+lee and douglas :
+you can play with the model , and let me know what do you think .
+bob :
+we need run different price curve senarios using the simulation model .
+plus different mr speed .
+zimin

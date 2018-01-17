@@ -1,0 +1,57 @@
+Subject: re : it was nice meeting you at the informs meeting .
+i enjoyed talking to you in the slc conference . thank you for the reference
+to your recent publication . let me find out about rice seminars and any
+interest within our group and get back to you .
+regards ,
+krishna .
+uryasev @ aol . com on 06 / 18 / 2000 05 : 58 : 38 am
+to :
+cc :
+subject : it was nice meeting you at the informs meeting .
+dear dr . krishnarao ,
+it was nice meeting you at the informs meeting . if it is of interest , you can
+download my recent papers and reports in the area of risk management and
+financial engineering from
+further , i give the list of recent downloadable publications related to the
+risk management and financial engineering .
+1 . uryasev , s . conditional value - at - risk : optimization algorithms and
+applications . financial engineering news , no . 14 , february , 2000 .
+2 . uryasev , s . introduction to the theory of probabilistic functions and
+percentiles ( value - at - risk ) . research report 2000 - 7 . ise dept . , university of
+florida , may 2000 .
+3 . chekhlov , a . , uryasev , s . , and m . zabarankin . portfolio optimization with
+drawdown constraints . research report 2000 - 5 . ise dept . , university of
+florida , april 2000 .
+4 . palmquist , j . , uryasev , s . , and p . krokhmal . portfolio optimization with
+conditional value - at - risk objective and constraints . research report 99 - 14 .
+ise dept . , university of florida , november 1999 .
+5 . andersson , f . and s . uryasev . credit risk optimization with conditional
+value - at - risk criterion . research report 99 - 9 . ise dept . , university of
+florida , august 1999 .
+6 . uryasev , s . and r . t . rockafellar . optimization of conditional
+value - at - risk . research report 99 - 4 . ise dept . , university of florida , june
+1999 .
+i am e - mailing to you from japan . i am for three month at the center for
+research in advanced financial technology , tokyo institute of technology .
+here in japan , i am collaborating with my colleges on new classification
+techniques . suppose you have some data set ( e . g . , a data set of financial
+records of companies ) and you want to rate the companies based on this ( or
+some other information ) . linear programming and semi - definite programming
+methods are used for this purpose . with these techniques we are able to
+calculate credit rating of investment companies ( aaa , bbb ,  ( ) . similar
+techniques can be used for scoring of credit card applications and other
+classification problems .
+i am interested in applied projects in energy , risk management , and financial
+engineering area . i will be happy to collaborate with you on this subject . i
+am looking for financial support for phd students who may work on your
+applications . also , i will be interested in to give a presentation at your
+company or at the rice university , as we discussed .
+best regards ,
+stan uryasev
+prof . stanislav uryasev
+university of florida , ise
+po box 116595
+303 weil hall
+gainesville , fl 32611 - 6595
+e - mail : uryasev @ ise . ufl . edu
+url : www . ise . ufl . edu / uryasev

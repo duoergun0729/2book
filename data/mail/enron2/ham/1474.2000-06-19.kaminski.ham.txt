@@ -1,0 +1,26 @@
+Subject: network design optimization .
+fyi ,
+attached document is a specification of the network design optimization
+program . just in case you want to see how it looks like .
+- chonawee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by chonawee supatgiat / corp / enron on
+06 / 19 / 2000 02 : 55 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+chonawee supatgiat
+06 / 19 / 2000 02 : 34 pm
+to : phil markwart / enron communications @ enron communications
+cc : samer _ takriti @ enron . net
+subject : network design optimization .
+phil ,
+the optimization engine is ready and the graphical user interface is almost
+done . attached please find the updated network design optimization
+specification . it contains some additions and modifications to the old
+specification i sent you a while ago . the major changes are :
+1 . the program now also supports ring design . and it can solve to optimality
+2 . the graphical user interface is handled by visual basic on a pc . ( not on
+the web browser as in the previous spec . ) .
+please take a look at the specification document and let me know if there is
+anything you want to add / change / remove . . . etc .
+moreover , please do not forget to send us a test example .
+we are buying cplex and will install it on our network . hopefully our it
+teams can configure your machine to run it in a few weeks .
+- chonawee

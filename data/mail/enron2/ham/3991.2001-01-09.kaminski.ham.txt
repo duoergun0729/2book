@@ -1,0 +1,18 @@
+Subject: hc costless collar
+andrea ,
+we finished the the costless collar valuation . see the spreadsheets for
+details .
+we checked the bloomberg for volatility assumption . the 100 days volatility is
+around 50 % . since the option is for 3 years , the volatility should be
+somewhat smaller .
+so we put an array of calculations , with the volatility ranges from 20 % to
+60 % .
+if you have any questions , please call me or bob lee .
+zimin
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 01 / 09 / 2001 09 : 02 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+bob lee @ enron
+01 / 09 / 2001 08 : 48 am
+to : zimin lu / hou / ect @ ect
+cc :
+subject : hc costless collar

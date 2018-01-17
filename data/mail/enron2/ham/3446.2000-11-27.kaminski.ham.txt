@@ -1,0 +1,18 @@
+Subject: arthur andersen model validation request
+vince ,
+our goal is to validate that the enron global market book
+administrators are accurately using the " spread option model " as developed by
+the research group . to determine this , we would like to provide you with
+the inputs for a particular deal ( as provided by a global markets book
+administrator ) and have you recalculate the deal value . we will then
+compare your results to the values calculated by global markets .
+two koch deals have been chosen due to their substantial p / l effect . i have
+attached the deal data in two forms : ( 1 ) the spread option model that kara
+boudreau , book administrator egm , provided and ( 2 ) an excel spreadsheet that
+isolates the 2 deals .
+if there is anything more that we could provide , please don ' t hesitate to
+call me at x 30968 .
+thank you so much for all of your help .
+gillian
+1 .
+2 .

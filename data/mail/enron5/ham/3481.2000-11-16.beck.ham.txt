@@ -1,0 +1,9 @@
+Subject: request submitted : access request for shona . wilson @ enron . com
+you have received this email because the requester specified you as their
+manager . please click
+approval to review and act upon this request .
+request id : 000000000007568
+request create date : 11 / 16 / 00 10 : 07 : 41 am
+requested for : shona . wilson @ enron . com
+resource name : ms project
+resource type : applications

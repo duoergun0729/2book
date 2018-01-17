@@ -1,0 +1,9 @@
+Subject: request submitted : access request for iris . mack @ enron . com
+you have received this email because the requester specified you as their
+manager . please click
+approval to review and act upon this request .
+request id : 000000000024099
+request create date : 3 / 16 / 01 5 : 39 : 34 pm
+requested for : iris . mack @ enron . com
+resource name : visual studio enterprise
+resource type : applications

@@ -1,0 +1,171 @@
+Subject: fw : california ' s desperate attempts to avoid a rate increase - cera
+alert
+fyi
+- - - - - original message - - - - -
+from : webmaster @ cera . com @ enron
+sent : monday , february 05 , 2001 4 : 38 pm
+to : insights @ cera . com
+subject : california ' s desperate attempts to avoid a rate increase - cera alert
+title : california ' s desperate attempts to avoid a rate increase
+url : http : / / www 20 . cera . com / eprofile ? u = 35 & m = 2241
+california  , s desperate attempts to avoid a rate increase
+on february 1 , 2001 , the california assembly approved and the california
+governor signed a new law intended to secure power supplies for california .
+the
+legislature has been meeting since early january in a  & special extraordinary
+session  8 to address the power market crisis in the state , and the new law
+represents their first significant piece of legislation . the bill , ab 1 ,
+establishes a new mechanism for purchasing power for the state  , s businesses
+and
+consumers . whether the mechanism works will depend chiefly on whether the
+limited revenue source used to pay for the power  * collected by the state  , s
+investor - owned utilities ( ious ) under current retail rates  * will cover
+wholesale
+power market costs incurred by the state . the law reflects the obsession by
+california lawmakers with avoiding a rate increase rather than focusing on the
+underlying flaws in california  , s market structure .
+ab 1 ushers in several important changes to the california market structure .
+it
+also contains several key provisions that capture the political mood in the
+state . highlights of the bill include
+* power buying authority transferred . the responsibility for purchasing power
+for the customers of california  , s ious has been transferred to the california
+department of water resources ( cdwr ) . the california utilities will continue
+to
+operate and schedule their remaining generating facilities and contracts . the
+difference between the utilities  , total load and the sum of their resources
+( referred to as the utilities  ,  & net short  8 amount ) will be supplied by cdwr ,
+an
+amount of energy that varies between 5 , 000 and 25 , 000 megawatts ( mw ) ,
+depending
+on the time of year , time of day , and utility plant availability . the
+utilities
+most recently performed this function themselves , buying energy from the
+california power exchange ( px ) . however , cdwr has been buying electricity on
+behalf of the ious since mid - january , when the near - bankruptcy of southern
+california edison ( sce ) and pacific gas & electric ( pg & e ) threatened to
+disrupt
+supplies to their customers . cdwr is a state agency that manages water
+reservoirs and transportation systems in the state . cdwr uses an enormous
+amount of electricity to transport water across california and provides
+critical load - shedding capability to the independent system operator ( iso ) . in
+addition , cdwr  , s reservoirs generate power . the cdwr is thus well integrated
+in
+the state  , s electric grid but in the past has not executed large , complicated
+energy purchase arrangements to supply the customers of california  , s
+utilities .
+* portfolio of transactions . the intent of ab 1 is to allow cdwr to execute a
+portfolio of contracts to stabilize the cost of power for the utilities and
+their customers . cdwr has until january 2 , 2003 , to execute contracts . cdwr
+will take title to power and is thereby not just acting as a clearinghouse . it
+has issued a request for bids and seeks a variety of terms , including monthly ,
+annual , two - year , three - year , and longer . cdwr may also enter into options .
+thus , although cdwr  , s role is intended to be temporary , the contracts that it
+executes could extend many years .
+* power for munis . cdwr may purchase power on behalf of some california
+municipal utilities at the municipal utilities  , election .
+* new payment scheme . cdwr will be entitled to a portion of existing utility
+rates to pay for the cost of purchased power , interest on bonds , and
+administrative expenses . this payment stream will be equal to the difference
+between the generation component currently embedded in utility retail rates
+( averaging about $ 0 . 07 per kilowatt - hour kwh ) and the utilities  ,
+costs to run
+their own generation plants , costs of bilateral and qualifying facility
+contracts , and the costs of ancillary services . the cdwr share of retail rates
+is referred to as the california purchase adjustment ( cpa ) . it is not clear
+whether the cpa will cover wholesale power market costs . current prices for
+multiyear power contracts may lie above the cpa . in addition , if investors
+believe that the cpa is inadequate to cover costs , the entire program may be
+abandoned .
+* new bonds . bonds will be issued to secure power . the total amount of bonds
+issued may not exceed four times the cpa . the state will transfer $ 500 million
+from the general fund to jump - start the program , which begins immediately .
+this
+seed money and all bond proceeds must be recovered by cdwr from the california
+utilities  , customers ( and municipal utilities if they opt in ) .
+* new residential rate freeze . the california public utilities commission
+( cpuc ) is prohibited from increasing residential customer rates until it has
+completed paying all outstanding obligations . this locks in the recent 9
+percent residential rate increase indefinitely . governor gray davis thus keeps
+his pledge not to increase rates further .
+* retail competition . to help secure a stable payment stream for the new
+bonds ,
+ab 1 enables the cpuc to prohibit the utilities  , retail customers from
+choosing
+an alternative electricity provider until cdwr  , s obligations are paid .
+although
+the cpuc has yet to act on this , the action would effectively halt the
+competitive retail markets in the state for the duration of the cdwr program .
+* taxpayer protection . ab 1 directs that the new bonds clearly state  &
+neither
+the faith and credit nor the taxing power of the state of california is
+pledged
+to the payment of the principal of or interest on this bond .  8 thus , the bonds
+are secured only by the payment stream from utility rates .
+* no assets affected . the cdwr is granted neither ownership nor control of
+utility assets .
+ironically , the authority now granted cdwr is what california utilities had
+essentially requested last summer when they sought to stabilize electricity
+prices by executing a portfolio of transactions . the utilities were never
+provided sufficient authority to execute term contracts . in addition , the
+utilities have more experience to perform this function than cdwr .
+rather than aligning retail rates with wholesale electricity prices ,
+california
+has sidestepped the issue by simply transferring the electricity purchasing
+function . sce and pg & e are still left to contend with uncollected costs from
+past energy purchases , although they will no longer incur costs associated
+with
+buying power in the current wholesale market while charging frozen retail
+rates . the utility liquidity crisis has not been resolved .
+it is not clear whether the law  , s prohibition on rate increases for
+residential
+customers can be achieved . the law is silent on rate increases for commercial
+and industrial customers , providing a potential path for recovering
+higher - than -
+expected costs . alternatively , cdwr could conceivably find contracts of
+sufficient duration and low enough price that the rate pledge is met . these
+contracts would lock in today  , s retail rates for a long period of time .
+ab 1 is just one of the steps that state officials hope will restore the power
+system in california to a more stable footing . key tasks remain .
+* california  , s wholesale market structure , which helped cause the supply
+crisis
+by ensuring that it was not profitable or possible to build generation in
+california , remains unchanged . the term contracts cdwr is likely to sign will
+provide a mechanism for mainly existing generators to lay off risk but will
+not
+be sufficient to encourage the build of sufficient new facilities . in
+addition ,
+california  , s siting and permitting process remains largely unchanged .
+* the state must still address the need to expedite the development of new
+power plants .
+* ab 1 does not provide for the recovery of uncollected past wholesale energy
+costs of california  , s utilities . the state has been negotiating a deal with
+the
+utilities that may involve the transfer of generation or transmission assets
+to
+the state . however , the utilities have achieved recent court victories that
+may
+pave the way to a court - directed recovery of these costs . recent audits
+indicate that sce and pg & e recovered their stranded costs early in 2000 , which
+should have triggered an end to their respective rate freezes . a legal
+showdown
+between the utilities and the state on this issue may be inevitable .
+* * end * *
+follow above url for full report .
+come shoot the rapids with us at ceraweek 2001 , " shooting the rapids :
+strategies and risks for the energy future " in houston , february 12 - 16 , 2001 !
+for more information and to register , please visit
+http : / / www 20 . cera . com / ceraweek /
+e - mail category : alert
+cera knowledge area ( s ) : western energy ,
+to make changes to your cera . com account go to :
+forgot your username and password ? go to :
+http : / / www 20 . cera . com / client / forgot
+this electronic message and attachments , if any , contain information
+from cambridge energy research associates , inc . ( cera ) which is
+confidential and may be privileged . unauthorized disclosure , copying ,
+distribution or use of the contents of this message or any attachments ,
+in whole or in part , is strictly prohibited .
+terms of use : http : / / www 20 . cera . com / tos
+questions / comments : webmaster @ cera . com
+copyright 2001 . cambridge energy research associates

@@ -1,0 +1,41 @@
+Subject: failure notice
+hi . this is the qmail - send program at mail 21 . voicenet . com .
+i ' m afraid i wasn ' t able to deliver your message to the following addresses .
+this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
+:
+sorry , no mailbox here by that name . ( # 5 . 1 . 1 )
+- - - below this line is a copy of the message .
+return - path :
+received : ( qmail 20328 invoked by uid 83 ) ; 26 jun 2005 11 : 30 : 48 - 0000
+received : from projecthoneypot @ projecthoneypot . org by mail 21 by uid 11 with qmail - scanner - 1 . 20 - vn
+( clamuko : 0 . 86 . 1 . clear : rc : 0 ( 67 . 171 . 94 . 76 ) : .
+processed in 0 . 55162 secs ) ; 26 jun 2005 11 : 30 : 48 - 0000
+received : from c - 67 - 171 - 94 - 76 . hsdl . pa . comcast . net ( 67 . 171 . 94 . 76 )
+by mail 21 . voicenet . com with smtp ; 26 jun 2005 11 : 30 : 48 - 0000
+x - matched : c - 67 - 171 - 94 - 76 . hsdl . pa . comcast . net [ 67 . 171 . 94 . 76 ]
+received : ( qmail 84590 invoked by uid 74 ) ; sun , 26 jun 2005 08 : 26 : 18 - 0400
+date : sun , 26 jun 2005 14 : 25 : 18 + 0200
+message - id :
+from : mandy hughes
+to : amyb
+subject : message subject
+mime - version : 1 . 0 ( produced by drudgeryearthmove 8 . 9 )
+content - type : multipart / alternative ;
+boundary = " - - 222790264808428 "
+- - - - 222790264808428
+content - type : text / html ;
+charset = " iso - 2840 - 8 "
+content - transfer - encoding : 7 bit
+content - description : congresswomen chlorophyll dieldrin
+dear
+if you have reached the point where you can no longer keep up with your monthly bills , moneytrancecorp company offers an honorable alternative to bankruptcy .
+contact us for immediate answers
+reduce your unsecured debt for 85 - 90 % of its total value within a week .
+stop harassing creditor phone calls
+start making money with us .
+best regards .
+register and say " good bye " to your debts !
+life without debts !
+want to know more ? email us !
+http : / / uscard - debt . com / index . php ? ref = wrw
+- - - - 222790264808428 - -

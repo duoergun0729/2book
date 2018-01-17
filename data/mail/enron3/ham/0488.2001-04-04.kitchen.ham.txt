@@ -1,0 +1,120 @@
+Subject: fw : argonne collaboratory research
+here ' s some more . . .
+- - - - - original message - - - - -
+from : " lake , stephan " @ enron [ mailto : imceanotes - + 22 lake + 2 c + 20 stephan + 22 + 20 + 3 cslake + 40 anl + 2 egov + 3 e + 40 enron @ enron . com ]
+sent : wednesday , april 04 , 2001 4 : 48 pm
+to : perlman , beth
+cc : betten , paul r .
+subject : fw : argonne collaboratory research
+beth ,
+per my other note , see enclosed the computational science related projects .
+the point here was to explore the possible development and marketing of very
+high bandwidth services such as teleimmersion , telepresence , and various
+collaboratory techniques . computational power on demand from large
+computational grids which could be bought and sold like electricity is
+another project under development at the lab . again both ideas involve
+collaborations between our organizations to develop new approaches that
+enron could transform into new commodity items that could be traded .
+i also am interested in exploring new approaches in energy storage via new
+generation flywheel energy storage systems that would be installed at
+substations . these units would allow companies to store power at night while
+rates and demand are lower and then use it during peak periods . the idea
+here is that this would provide more power as needed without new electrical
+infrastructures . these systems could be used again as a new commodity ,
+electric power storage space .
+all of these items are in the development stage , but with sufficient
+additional funding and technical collaboration from enron and its partner
+companies , new value from new services could be generated .
+we also are a leader in developing high temperature superconductivity wire
+for use in electric power cables which will enable considerably more power
+to move through the same " space " . this will enable areas that are power
+strapped ( and space constrained such as in large urban areas ) to push more
+electricity without very expensive upgrades to the related infrastructure
+such as roads , sidewalks , buildings , etc .
+i have provided a few urls below for your associates review . our homepage is
+at http : / / www . anl . gov which is the launch site for much of the information
+on the labs capabilities . we also have a software shop under the technology
+transfer button on the top row , middle section which might be of interest to
+you .
+regards ,
+stephan lake
+manager , business development and marketing
+argonne national laboratory
+- - - - - original message - - - - -
+from : lake , stephan
+sent : thursday , march 22 , 2001 9 : 19 am
+to : ' ross . mesquita @ enron . com '
+subject : re : argonne collaboratory research
+ross ,
+my eyes must have crossed when i was typing the url ' s . i ' ll give you the
+corrected urls below :
+i ' ve also added one additional url below .
+you also may want to go to the mathematics and computer science home page at
+http : / / www - fp . mcs . anl . gov . select either the research or collaboration
+buttons and take a very quick tour through the topics of your interest .
+thanks again ,
+steve lake
+- - - - - original message - - - - -
+from : ross . mesquita @ enron . com [ mailto : ross . mesquita @ enron . com ]
+sent : wednesday , march 21 , 2001 5 : 08 pm
+to : lake , stephan
+subject : re : argonne collaboratory research
+stephan - -
+thanks for the message and i enjoyed our discussion yesterday - - i do want
+to investigate your collaboratories a bit , but the links you bring me to a
+page that cannot be displayed . do you have an alternative url address ?
+thanks
+ross
+- - - - - original message - - - - -
+from : " lake , stephan " @ enron
+@ enron . com ]
+sent : tuesday , march 20 , 2001 5 : 23 pm
+to : mesquita , ross
+subject : argonne collaboratory research
+ross ,
+i enjoyed talking with you today regarding your business . as we
+discussed
+i ' m attaching a few url ' s that describe our research in various
+collaboratory and immersive environments .
+the goal of this work is develop technology to assist collaboratory
+actions
+over high bandwidth environments . scientists , engineers , designers , and
+probably bankers , lawyers , accountants and other professional staff will
+have significant new tools in forming and working a collaboration forum .
+the
+bulk of this research is done in our mathematics and computer science
+division .
+you may also notice an additional collaboratory activity which is
+telepresence . in this case scientists can remotely manipulate scientific
+equipment such as electronic microscopes as well as discuss the results
+with
+others as the experiment is underway . this approach actually allows
+collaborating parties to reach out and control machines safely over the
+internet . this is far beyond just changing a camera angle or moving a
+microscope stage .
+i ' ve also included a url on the computational grid concept which
+provides
+heavy computational power on demand in a way not dissimiliar to the
+electric
+generation and distribution business .
+http : / / globus . org
+if your clients are faced with the need to access enormous files of hard
+copy information that needs to be put in a manner that can used easily
+over
+the internet , we have developed an interesting approach . doe has over
+250 , 000 pages of hard copy documents from various sources on the human
+radiation experiments conducted over many years . these documents can
+easily
+be accessed and manipulated through an special search engine . our other
+information research division , the decision information sciences
+division
+built and operated this application . you can view it at :
+http : / / www . dis . anl . gov / disweb / datt
+as a side note , this division has unique skills in developing technology
+to
+solve problems that have enormous amounts of date . the division also has
+developed energy planning software , and trained many foreign government
+energy planners on the use of that software .
+regards ,
+steve lake
+argonne national laboratory

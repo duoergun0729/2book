@@ -1,0 +1,13 @@
+Subject: debt trading losses
+we have discovered two positions in the debt trading book which were not
+being marked to market . the current mark of the 2 positions results in
+approximately $ 4 . 7 million loss . the details are in :
+the primary control issues are :
+? trader did not adjust price to reflect the effect of market movements
+? operations did not perform monthly price verification processes
+? desk management failed to recognize that the marks on these two trades had
+not moved over the term of the transactions ( ql ' 00 - nov 15 th )
+the losses have been recognized and a full review of the book is ongoing by
+operations . the trader has been relieved of his responsibilities and we will
+implement the steps agreed with operations to ensure that we have a robust
+approach to controls for the debt trading book going forward .

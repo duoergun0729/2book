@@ -1,0 +1,32 @@
+Subject: concur expense ( xms ) common questions
+concur expense ( xms )
+common questions
+1 . where can i find online documentation on concur expense ?
+answer : documentation on concur expense is stored in the isc document library . go to the following link :
+http : / / isc . enron . com / site / doclibrary / user / default . asp and click on the xms - concur expense folder on the left .
+2 . how can i sign up for concur expense training and how much does it cost ?
+answer : go to the following link : http : / / iscedcenter . enron . com / docentlm / login . htm . log in using your enron email address . enter your birth date as the password in the following format : mmddyyyy . under the courses section , select concur expense ( xms ) . this will show the training schedule . click the enroll button to sign up for a class . the cost is $ 250 .
+3 . will old xms expense reports be converted to the new concur expense system ?
+answer : no . history data was not converted to the new system because of our move to an application service provider ( asp ) solution for concur expense .
+4 . how can i view my old expense reports ?
+answer : call the isc customer care group at 713 - 345 - 4727 . the isc will be responsible for printing out old expense reports and forwarding them to you . other options are being reviewed to allow you to view old expense reports .
+5 . are there any enron specific help instructions for concur expense ?
+answer : yes . if you log into concur expense , you will see a link to enron help on the concur expense home page under the company links section . also you will see a button for enron help at the top of the screen when entering expense reports .
+6 . is enron ' s travel policy available in concur expense ?
+answer : yes . if you log into concur expense , you will see a link to travel policy on the concur expense home page under the company links section . also you will see a button for travel policy at the very top of the screen when entering expense reports
+7 . what if i am unable to see any of my credit card charges in concur expense ?
+answer : since there are a number of factors that could cause this problem , it is best to call the isc customer care group first . the isc will research the problem and get back to you with an answer .
+8 . does concur expense have a time - out feature ?
+answer : yes . concur expense will automatically time out after 20 minutes of inactivity .
+9 . how do i enter foreign currency into concur expense ?
+answer : go to the isc document library described in # 1 above . go to the xms - concur expense folder . next go to the special procedures folder and following the directions stated in the document called add a foreign currency expense to an expense report .
+10 . are there any other sources to quickly get me started using concur expense ?
+answer : yes . concur expense provides a quick tour for new users . log into concur expense and click the help button in the top right corner of the screen . then click the button labeled quick tour at the top of the help screen . the isc intranet home page also contains some helpful information . the following link summarizes some of the topics discussed above : http : / / isc . dev . corp . enron . com / site / xmschange . htm .
+11 . can you quickly describe some of the internal changes in the new concur expense system ?
+answer : there are minimal changes in the new upgrade . here is a list :
+? the first screen only has one tab instead of two
+? new expense types were added
+? attendees and approvers will now be printed on the expense reports
+? manager and receipt dunning notices will be sent out
+? the statistical order and statistical wbs element fields have been separated out
+please direct all other questions to the isc customer care group at 713 - 345 - 4727 .

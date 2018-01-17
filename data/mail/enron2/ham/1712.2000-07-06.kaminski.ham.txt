@@ -1,0 +1,13 @@
+Subject: re : oracle tables which contain the position and curves information
+for enron ' s var system
+andreas ,
+as we discussed today , i am sending you some information on how the positions
+and curves
+are stored in our database . in the enclosed file you ' ll find the list of
+columns for 4 tables and
+2 quarries as an example . 3 of these tables contain the positions
+information , 1 table has the curves information .
+ramesh ( who supports our var model from it side ) will send you the
+description of these tables .
+regards ,
+tanya .

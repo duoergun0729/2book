@@ -1,0 +1,85 @@
+Subject: fw : pigging from p - 2 to p - 3
+morgan ,
+since eric has already booked eb 4180 , should we just plan on meeting there at 8 : 30 since the meeting may already be in progress .
+thanks , kim .
+- - - - - original message - - - - -
+from : faucheaux , eric
+sent : monday , june 18 , 2001 3 : 27 pm
+to : watson , kimberly ; burleson , bob ; lokay , michelle ; schoolcraft , darrell ; spraggins , gary ; gottsponer , morgan ; rice , randy
+subject : fw : pigging from p - 2 to p - 3
+importance : high
+houston participants interested in attending the conference call regarding the following subject can attend at conference room eb 4180 . the call will begin at 8 : 00 am and has been extended 1 / 2 hr to 10 : 00 am to account for those arriving late from morning market services meeting same date . again the bridge number is 877 / 795 - 3687 , cc # 992301 .
+eric faucheaux 06 / 14 / 2001 07 : 02 pm
+to : rich jolly / et & s / enron @ enron , randy lebeau / et & s / enron @ enron , walt williams / et & s / enron @ enron , arnie bailey / et & s / enron @ enron
+cc : randy rice / ots / enron , morgan gottsponer / et & s / enron , darrell schoolcraft / et & s / enron , gary spraggins / et in this case , i used a 50 / 20 / 30 % split of hexane plus . using this split of c 6 + in a process model allows a closer approximation of how the gas characteristics will behave at various conditions . for the purpose of this analysis , the following is considered 1 ) agave red bluff on - line gc data is used as pipeline quality of gas in panhandle lateral because gs report from owens corning delivery point is quite similar to agave gc , 2 ) gas temperatures will become nearly the same as ground temperatures which is provided on scada at p - 1 and p 2 3 ) pressure and temperature profiles on the panhandle lateral at 6 / 14 , 9 : 00 am flowing conditions are listed below
+the following graph ( attached in ms word ) is a phase envelope using the agave red bluff gas analysis . by mapping the above relative pressure / temperature points it is clearly observed that pipeline pressure and temperature conditions approach and cross the hydrocarbon dewpoint line indicating that liquids would exist .
+the graph clearly shows that as the pressure and temperatures move further into the envelope the more liquids will be produced . that explains why more liquids are produced by pigging sections between cs p - 2 and cs p - 3 . furthermore , using the process model used to generate the phase envelope , the model indicates that gas at 800 psig and 65 degf would exist in both vapor and liquid phases . using a flow rate of 100 mmcfd the liquid phase fraction would be approximately 80 bbls . per day that could amount to approximately 2400 bbls . per month . this liquid volume compares closely to some of the recovery volumes reported by randy and walt below .
+lets get together on a conference call to further discuss findings and possible solutions . for a first stab , how about tuesday , 6 / 19 , at 8 : 00 am ( cst ) ? reply with availability and number of ports required . ef 713 / 853 - 3395
+- - - - - - - - - - - - - - - - - - - - - - forwarded by eric faucheaux / et & s / enron on 06 / 14 / 2001 05 : 23 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+rich jolly
+06 / 13 / 2001 11 : 11 pm
+to : randy lebeau / et & s / enron @ enron , darrell schoolcraft / et & s / enron @ enron , arnie bailey / et & s / enron @ enron
+cc : gary spraggins / et & s / enron @ enron , eric faucheaux / et & s / enron @ enron
+subject : re : pigging from p - 2 to p - 3
+thanks randy . along with the things you have stated we have a delivery point to gas company of new mexico near portales , nm . we do have a small scrubber there that we usually have to have hauled once a week and sometimes a couple of times . the ( owens - corning ) delivery can and will get us in trouble sooner or later if we don ' t get a handle on liquids . i have ask eric faucheaux to take a look at the system and give us some ideas on where most of the liquid is falling out .
+i have talked with ( agave ) the producer about this and we ' re working together to try and figure out what ' s going on . we can pick up water on our instruments but there ' s not anything that we know of that will show condensate . this has to be carrying through in the gas because there ' s not a large amount of liquids at the delivery point . the best solution at this time is to get enough gas to pig the line more often . after getting the liquid in at p - 3 we ran a pig from roswell to p - 1 and it came in dry . as soon as the volumes come up we ' ll run from p - 1 to p - 2 then into p - 3 . thanks for everyone ' s help in this . if we need a conference call to discuss let me know .
+it had been about six weeks between pig runs this time . total received on the system was about three thousand barrels this time . the time before this run we received about six thousand barrels .
+thanks
+rj
+randy lebeau
+06 / 12 / 2001 04 : 46 pm
+to : gary spraggins / et & s / enron @ enron
+cc : rich jolly / et & s / enron @ enron
+subject : pigging from p - 2 to p - 3
+gary , we recently had to run a pig from p - 2 to p - 3 in order to push about 2200 barrels of condensate out of the line . we had started developing problems with some deliveries off that line . apparently , in order to run a pig , some volume has to be routed to that line . i understand that there are some marketing and gas control issues when we do this , but here are some operational concerns when we have to put this off or postpone it :
+the condensate and fluids tend to build up to the point that they carry over to a delivery point with energas . this point feeds some domestic customers . we don ' t want condensate getting into this point .
+there is a customer on this line ( owens - corning ) who gets fuel from us . their process is very sensitive to pressure and volume changes . at any given time , i am told that they have about a million dollars worth of material in production . if they lose fuel , the product is lost and we could be liable . i am also told that once the plant goes down , it could take a long time ( even weeks ) to get it back up .
+the owens - corning plant does not have an agreement with anyone for alternate fuel . when the line has large amounts of condensate , we have been asking energas to supply the plant until the pig passes the point . this is in order to prevent a slug of liquid from affecting the fuel pressure . the gas from energas is not measured . they used to have the contract , but when we got it , they removed their meter setting . apparently they agreed ( verbally ) to supply gas to the plant in march , for a few hours , when a pig was run . the plant uses about 3 mmcf / d and energas was on for about 3 hours . i was notified today that energas sent us a bill for the march pig run when we used their gas for fuel . . . . . $ 21 , 000 ! obviously we will negotiate that amount , but they have us at a disadvantage . i can only assume that we will receive a similar bill for using them last weekend for about 3 hours .
+everyone feels that if we run a pig on a regular schedule , we would not get large condensate amounts into p - 3 ( which shuts us down , by the way ) , we would not have to use energas , we would not risk pushing condensate into a delivery point , and we would not incur the overtime when this happens .
+i ' m sure rich has some concerns also for the portion of the line in his region .
+we would like to run another pig as soon as possible to see what is left in the line and then ( depending on what we push into p - 3 ) get on a regular schedule . . . possibly once a month .
+what do you think we can do to work something out ?
+thanks for any help you can give us .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by eric faucheaux / et & s / enron on 06 / 14 / 2001 05 : 23 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+walt williams
+06 / 14 / 2001 09 : 56 am
+to : randy lebeau / et & s / enron @ enron , rich jolly / et & s / enron @ enron , darrell schoolcraft / et & s / enron @ enron , gary spraggins / et & s / enron @ enron , eric faucheaux / et & s / enron @ enron , arnie bailey / et & s / enron @ enron
+cc : pampa pipeline team / et & s / enron @ enron , team pampa / et & s / enron @ enron
+subject : re : pigging from p - 2 to p - 3
+just for your information the liquids that we received at p 3 is was very hot and high in btu . clear and evaporated quickly .
+we would like to run a pig once a week until we clear all the liquids in this line , then back off as liquids decrease .
+your help in this matter will solve many customer issues and concerns and our pipeline efficiency . we had a 180 pound spread in pressure last week due to about 2180 bbls of liquid in this line . we received about 1650 bbls on the run before .
+thanks and know you are appreciated !
+ww
+- - - - - - - - - - - - - - - - - - - - - - forwarded by walt williams / et & s / enron on 06 / 14 / 2001 09 : 40 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+randy lebeau
+06 / 14 / 2001 09 : 25 am
+to : team pampa / et & s / enron @ enron , team pampa pipeline / et & s / enron @ enron
+cc : walt williams / et & s / enron @ enron
+subject : re : pigging from p - 2 to p - 3
+fyi rich added more thoughts .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by randy lebeau / et & s / enron on 06 / 14 / 2001 09 : 23 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+rich jolly
+06 / 13 / 2001 11 : 11 pm
+to : randy lebeau / et & s / enron @ enron , darrell schoolcraft / et & s / enron @ enron , arnie bailey / et & s / enron @ enron
+cc : gary spraggins / et & s / enron @ enron , eric faucheaux / et & s / enron @ enron
+subject : re : pigging from p - 2 to p - 3
+thanks randy . along with the things you have stated we have a delivery point to gas company of new mexico near portales , nm . we do have a small scrubber there that we usually have to have hauled once a week and sometimes a couple of times . the ( owens - corning ) delivery can and will get us in trouble sooner or later if we don ' t get a handle on liquids . i have ask eric faucheaux to take a look at the system and give us some ideas on where most of the liquid is falling out .
+i have talked with ( agave ) the producer about this and we ' re working together to try and figure out what ' s going on . we can pick up water on our instruments but there ' s not anything that we know of that will show condensate . this has to be carrying through in the gas because there ' s not a large amount of liquids at the delivery point . the best solution at this time is to get enough gas to pig the line more often . after getting the liquid in at p - 3 we ran a pig from roswell to p - 1 and it came in dry . as soon as the volumes come up we ' ll run from p - 1 to p - 2 then into p - 3 . thanks for everyone ' s help in this . if we need a conference call to discuss let me know .
+it had been about six weeks between pig runs this time . total received on the system was about three thousand barrels this time . the time before this run we received about six thousand barrels .
+thanks
+rj
+randy lebeau
+06 / 12 / 2001 04 : 46 pm
+to : gary spraggins / et & s / enron @ enron
+cc : rich jolly / et & s / enron @ enron
+subject : pigging from p - 2 to p - 3
+gary , we recently had to run a pig from p - 2 to p - 3 in order to push about 2200 barrels of condensate out of the line . we had started developing problems with some deliveries off that line . apparently , in order to run a pig , some volume has to be routed to that line . i understand that there are some marketing and gas control issues when we do this , but here are some operational concerns when we have to put this off or postpone it :
+the condensate and fluids tend to build up to the point that they carry over to a delivery point with energas . this point feeds some domestic customers . we don ' t want condensate getting into this point .
+there is a customer on this line ( owens - corning ) who gets fuel from us . their process is very sensitive to pressure and volume changes . at any given time , i am told that they have about a million dollars worth of material in production . if they lose fuel , the product is lost and we could be liable . i am also told that once the plant goes down , it could take a long time ( even weeks ) to get it back up .
+the owens - corning plant does not have an agreement with anyone for alternate fuel . when the line has large amounts of condensate , we have been asking energas to supply the plant until the pig passes the point . this is in order to prevent a slug of liquid from affecting the fuel pressure . the gas from energas is not measured . they used to have the contract , but when we got it , they removed their meter setting . apparently they agreed ( verbally ) to supply gas to the plant in march , for a few hours , when a pig was run . the plant uses about 3 mmcf / d and energas was on for about 3 hours . i was notified today that energas sent us a bill for the march pig run when we used their gas for fuel . . . . . $ 21 , 000 ! obviously we will negotiate that amount , but they have us at a disadvantage . i can only assume that we will receive a similar bill for using them last weekend for about 3 hours .
+everyone feels that if we run a pig on a regular schedule , we would not get large condensate amounts into p - 3 ( which shuts us down , by the way ) , we would not have to use energas , we would not risk pushing condensate into a delivery point , and we would not incur the overtime when this happens .
+i ' m sure rich has some concerns also for the portion of the line in his region .
+we would like to run another pig as soon as possible to see what is left in the line and then ( depending on what we push into p - 3 ) get on a regular schedule . . . possibly once a month .
+what do you think we can do to work something out ?
+thanks for any help you can give us .

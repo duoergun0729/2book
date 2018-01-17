@@ -1,0 +1,74 @@
+Subject: re : fw : eprm article
+chris ,
+i have read the paper . it reads very well . two comments .
+1 . it probably makes sense to include a note on the standard gbm simulation
+equation and
+the way it ' s typically discretized .
+2 . it will help the reader who did not read the earlier articles to explain
+what ct is ( perhaps a footnote ) .
+i am also including a message i sent to julie today .
+* * * * * * * * * * * * * * *
+1 . i would like to register 2 members of my group for both courses ( in
+houston ) :
+a . paulo issler
+b . alex huang
+i shall attend the course on weather only .
+2 . i have started the process to issue a check for 5 , 000 aud for lacima .
+shirley sent you an update on this . the 2 nd installment comes from the budget
+of our
+office in australia . i shall talk to paul quilkey today about it . please , let
+me know if there is any delay .
+3 . the book will be used as textbook for the class i shall be teaching at
+rice .
+rice univ bookshop is placing an order .
+4 . i would like to order 50 copies for my group . what is the best
+way to place the order ? can we pay in us dollars ?
+* * * * * * * * * * * * * * *
+best regards .
+vince
+" chris strickland " on 12 / 12 / 2000 05 : 21 : 22 pm
+please respond to " chris strickland "
+to :
+cc : " julie "
+subject : fw : eprm article
+hi vince ,
+i ' m wondering if you got this last week ? if you could have a quick look and
+get back to me with any comments that would be great - robin is chasing me
+on this one !
+best regards .
+chris .
+- - - - - original message - - - - -
+from : chris strickland
+to :
+sent : wednesday , december 06 , 2000 4 : 16 am
+subject : eprm article
+> hi vince ,
+>
+> hope things are fine with you . i ' m sorry that i only ever write to you
+when
+> i ' m after something , but could you look at this simulation article - the
+> next installment in the eprm articles .
+>
+> many thanks and best regards .
+>
+> chris .
+>
+>
+>
+> - - - - - original message - - - - -
+> from :
+> to : ; ;
+;
+>
+> sent : friday , september 08 , 2000 4 : 23 am
+> subject : re : var article
+>
+>
+> > les ,
+> >
+> > the revised version of the var article looks fine .
+> >
+> > vince
+> >
+>
+- eprm _ 04 _ sim _ mr . zip

@@ -1,0 +1,26 @@
+Subject: mg metals : additional areas to look at
+dear lloyd & richard ,
+i have been discussing with eric gadd about two particular areas of concern
+that will affect the london research group . i believe there are a number of
+issues to address to ensure that the integration goes smoothly from a risk
+management and quantitative analysis perspective , and i have put together a
+( by no means exhaustive ) list : -
+i ) seamless transfer of front and middle office systems from an exotic
+options linking perspective ( e . g . their spreadsheets link to different option
+pricing add - ins )
+ii ) development of volatility curves and factor analysis to ensure that we
+can capture metals risk in our var system ( we will require historical data
+for this ) . i am sure bjorn will be looking to the research group to assist
+in this matter .
+iii ) ensure that mg staff on quant and risk side become familiar with our
+methods and systems and vice versa
+these tasks will involve a significant degree of cross - communication with
+relevant contacts within mg metals , and so i look forward to starting on the
+process as soon as possible - i hope to play a full part from a quantitative
+research and risk management perspective to ensure that everything goes
+smoothly in this exciting new development , so please do not hesitate to
+involve me .
+best regards ,
+anjam ahmad
+research
+x 35383

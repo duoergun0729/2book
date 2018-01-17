@@ -1,0 +1,34 @@
+Subject: officials study grid ' s close call
+dave , kim :
+i think we should reference this article as an example of how price controls degrade reliability .
+bill ,
+if you have any further insights on what happened that day , let dave perrino or sue mara know .
+thanks ,
+alan
+officials study grid ' s close call
+published friday , aug . 10 , 2001 , in the san jose mercury news
+by steve johnson , john woolfolk and glennda chui
+mercury news
+two energy agencies announced thursday that they are investigating charges some california generators have disregarded orders to provide electricity , and atlanta - based mirant admitted it had a role in last week ' s incident that briefly imperiled the western power grid .
+california officials said two companies failed to deliver expected power on aug . 2 and pushed the grid dangerously close to collapse , threatening outages on the electrical lifeline to 65 million people .
+but it could take state and federal officials some time to sort through conflicting accounts of what led to the power shortfall and how to prevent it from happening again .
+some generators and a federal official questioned the california independent system operator ' s handling of the emergency and said the rules governing how power plants must respond to state orders for supplying electricity need to be clarified .
+but stephanie mccorkle with the california agency said the incident was just the latest in a series in which generators didn ' t follow orders . and she said state officials are particularly troubled at the reasons some of the firms involved have offered for falling short on delivering promised electricity .
+` ` we asked them over and over why they ' re not following our dispatch instructions , ' ' she said , adding that some have provided ` ` explanations that don ' t add up . it makes us suspicious . ' '
+mccorkle said the aug . 2 incident occurred when two power companies balked at state orders to provide power . that left the western grid - - a vast network of high - voltage lines , transformers and other electrical gear that spans 14 states and parts of canada and mexico - - with a sudden and severe electrical shortage . if uncorrected , she and others said , it could have led to widespread power outages .
+although officials need to keep the grid ' s electrical frequency at 60 hertz , the aug . 2 shortage lowered it to 59 . 93 hertz . state officials said blackouts could occur at 59 . 65 hertz .
+mccorkle declined to name the companies involved . but patrick dorinson , a spokesman for mirant , which has three plants in the bay area , said it was partly responsible . while offering few details about what happened , he blamed the incident on an inadvertent error by a company employee ` ` not making a timely call ' ' and ` ` some software problems with our computers . ' '
+` ` it happens , ' ' dorinson said . ` ` people make mistakes . ' '
+an official with the federal energy regulatory commission , one of the agencies investigating the matter , said it views the aug . 2 incident with alarm and wants to ensure the problem doesn ' t happen again . the agency also intends to look into whether penalties are in order . but at this point , the official said , it ' s unclear whether the problem stemmed from confusion , incompetence or attempts to manipulate market prices .
+the official said the agency also wants to know why the california independent system operator didn ' t declare a statewide emergency on aug . 2 when the promised electricity wasn ' t delivered . had it done so , he said , the agency would have had more leverage over the generators .
+some power company representatives complained that the iso doesn ' t always give generators enough time to get their plants warmed up sufficiently to provide the power it needs . for many plants , ` ` it takes a lot longer than 10 minutes to ramp up , ' ' said richard wheatley , a spokesman with reliant energy of houston . ` ` you physically can ' t do it . ' '
+but iso officials defended their procedures , and spokesman gregg fishman said issuing an emergency declaration on aug . 2 wouldn ' t have been feasible .
+` ` this was so quick , ' ' he said . ` ` it was less than half an hour total from start to finish , and we were able to deal with it appropriately ' ' without suffering blackouts .
+the incident also is being looked into by the western systems coordinating council , a voluntary confederation of energy suppliers and utility officials , which sets rules for managing grids in the region ' s nearly 1 . 8 million square miles .
+robert dintelman , the agency ' s assistant executive director , said brief electricity fluctuations , such as the one that hit california or worse , occur once or twice a month across the west . on aug . 1 , for example , the frequency dipped to 59 . 75 in montana when an electrical disturbance forced a large power plant offline there , dintelman said .
+but he said california ' s claim that generators aren ' t following orders is unusual . ` ` that is alarming , ' ' he added .
+the council can issue fines for some rule violations . but dintelman said he ' s not sure if they can be levied for defying orders to deliver power .
+nationally , such violators typically get away with little more than a slap on the wrist because penalties are so weak , said ellen vancko of the north american electric reliability council . her group has been pushing congress to make the system tougher , but the legislation has stalled . meanwhile , she said , grid rule violations appear to be on the rise nationwide .
+although the motivation for these incidents varies , she said , sometimes those responsible break the rules for no other reason than to benefit themselves , ` ` even if it means dragging down the frequency on the entire grid and putting everybody at risk . ' '
+contact steve johnson at sjohnson @ sjmercury . com or ( 408 ) 920 - 5043 .
+# # #

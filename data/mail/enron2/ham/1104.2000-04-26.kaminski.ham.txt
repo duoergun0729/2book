@@ -1,0 +1,9 @@
+Subject: e & p model
+vince - attached is the most recent e & p version of the old corporate cash
+flow model that i could find . note that " most recent " still dates it back a
+few years . a couple caveats : i did try to clean it up somewhat from old
+macros , but no guarntees offered . also , some of the underlying methodology
+is not what we would probably currently use , such as for pricing , stochastic
+processes , and perhaps decline rates .
+please let me know if i can provide any additional help .
+mark

@@ -1,0 +1,32 @@
+Subject: following is the text of an email announcing the simulation , which i intend to send out first thing in the morning to all ubs warburg energy employees ( i . e . houston - based ubs employees ) , as per john lavorato ' s request . if you have any comments , please email me by 8 : 00 am cst .
+thanks ,
+dave
+we are continuing work to ensure our new online trading system , ubswenergy , is ready for launch on the week of feb . 11 , which is the week following the anticipated enron / ubs closing date of friday , feb . 8 .
+to assist in this process , we are planning an online trading simulation for thursday , february 7 from 0900 to 1100 ( cst ) . it is planned to include all traders , originators , mid / back - office staff and it teams who would normally be involved with electronic trading .
+purpose of the simulation - the simulation will test our " live " trading environment ( restricted to internal access only ) and will :
+test the integrity and functionality of the system and related processes ( including credit , risk , legal , operations , etc . )
+provide an opportunity for traders to verify their products and product setup
+demonstrate how the trading system and processes work to ubs staff visiting next week
+nature of the simulation - the simulation will include testing of all processes related to trading and mid / back - office functions :
+credit , legal , risk , operations , and other groups :
+profile tests for " external " customers ( role - played by originators )
+profile tests for internal users ( traders , back - office , etc . )
+data and process checking as completed transactions flow through mid / back - office systems
+traders and originators :
+traders will be managing their individual books and associated products . although we may be restricted to certain financial products on launch day , both physical and financial will be available during the simulation . each trader will be asked to manage their individual position and profitability goals for the simulation .
+originators and others will be asked to play the roles of counterparties . credit limits , etc . will be tested during the simulation .
+information technology :
+will assist in preparing data on the system for the simulation .
+after the simulation is over , will work with the relevant groups to test the trade - data in various systems and risk books
+will ensure all simulation data is removed from the system after the simulation is complete .
+next steps
+traders and originators will be contacted prior to simulation day to ensure they have appropriate access to the system .
+originators will be assigned specific roles . you should expect to receive an email and / or handout on or before wednesday , feb . 6 .
+ubswenergy personnel will be meeting with back office personnel over the next several days to ensure everything is in place for the simulation .
+summary
+this simulation is an important step towards re - launching our trading business . we appreciate the participation of everyone involved as we prepare for the public launch of ubs warburg energy and the ubswenergy trading platform .
+if you have any questions , comments , suggestions , or ideas regarding this simulation , please feel free to contact bob shults ( 30397 ) or myself ( 31861 ) .
+regards ,
+dave forster
+713 . 853 . 1861
+e - mail : david . forster @ enron . com

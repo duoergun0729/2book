@@ -1,0 +1,7 @@
+Subject: wti simulation model 30 , 000 bbl / trade
+john ,
+attached are updated results of zimin ' s model assuming each trade is on a
+total notional of 30 , 000 bbls . note that i have re - scaled the results to be
+in $ mm .
+- - stinson
+open - close prices continuous prices

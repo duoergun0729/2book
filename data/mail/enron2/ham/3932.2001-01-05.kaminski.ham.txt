@@ -1,0 +1,16 @@
+Subject: power plant model
+jeff ,
+a few comments on the model :
+1 . we have a few reservations about some features of the model but would like
+to
+discuss it internally and make the improvements without giving the benefit of
+our insights to the consultant .
+in general , the model is not unreasonable but the devil is always in the
+details and in the inputs and
+calibration . the same model may produce drastically different results
+depending
+on the quality of inputs .
+2 . we don ' t have a separate pool of programmers in the research group . we
+were told that you
+would provide an it resource . alex would supervise this person .
+vince

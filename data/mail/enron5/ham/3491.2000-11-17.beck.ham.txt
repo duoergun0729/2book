@@ -1,0 +1,9 @@
+Subject: request submitted : access request for manfred . roenz @ enron . com
+you have received this email because you are listed as a data approver .
+please click
+approval to review and act upon this request .
+request id : 000000000007666
+request create date : 11 / 17 / 00 8 : 40 : 57 am
+requested for : manfred . roenz @ enron . com
+resource name : eol us risk management application product data manager
+resource type : applications

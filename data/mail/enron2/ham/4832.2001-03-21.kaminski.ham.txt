@@ -1,0 +1,42 @@
+Subject: re : estimating tail of distribution and additional risk measures
+naveen ,
+the " analytical var " approach is working for equity portfolio .
+it gives us the tool to examine the tails ' behavior for this portfolio and
+calculate " expected tail loss " .
+the same should be done for commodities portfolio as well .
+meanwhile , as we discussed , we can give some rough estimates of the losses
+corresponding to percentiles other than 5 th .
+look at the figure below . you can see var numbers for 5 % , 1 % , 0 . 5 % and 0 . 1 %
+calculated with
+1 ) simulations ( 100 thousand simulations ) ;
+2 ) analytical var ( gamma - delta positions representation )
+1 ) and 2 ) are very close because there are not many options in equity
+portfolio .
+3 ) simulations ( 1000 simulations ) to calculate 5 % var . then in order to
+approximately estimate var for 1 % , 0 . 5 % and 0 . 1 %
+i scaled 5 % var with factors corresponding to normal distribution ( for
+example : norminv ( 0 . 001 , 0 , 1 ) / norminv ( 0 . 05 , 0 , 1 ) for 0 . 1 % ) .
+the result of such extrapolation in this case is quite good ( just 5 %
+different from the correct number ) .
+we probably can use such rough estimates of tail for commodities portfolio
+until we have proper methods implemented .
+tanya tamarchenko
+02 / 28 / 2001 01 : 17 pm
+to : wenyao jia / hou / ect , debbie r brackett / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect
+subject : re : " analytical " var implementation in risktrac
+debbie ,
+i am forwarding to you a 2 page document describing implementation of
+" analytical " var in risktrac .
+here is why this effort is very important :
+1 . we need to calculate var for other percentile but 5 ( 1 % or even 0 . 2 % as
+mentioned by rick buy )
+and our simulation model can not handle required number of simulations ;
+2 . we need to present additional risk measures ( such as mean tail loss ) to
+the board .
+the analytical approach is implemented in a spreadsheet and fully tested
+already so there will be no problems
+with the algorithm itself .
+we need to get together and discuss it implementation .
+what do you think ?
+tanya

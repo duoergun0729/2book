@@ -1,0 +1,46 @@
+Subject: class proposal by yannis
+hi vince ,
+yannis of the weather desk is planning to develop relationship with prof
+rene carmona in doing weather analysis . to start this off , they are planning
+to pay prof carmona to give a training class as outlined below , and they
+want to know if research is willing to send people and bear part of the costs .
+we can talk more at 4 : 00 pm , but while there is no doubt that getting people
+from outside to present new ideas is always important and interesting , i
+think research group members can easily give most of these talks .
+apparently , people are interested in these topics and are willing to pay to
+listen . my thought is that if the intent is to develop relationships , that
+is fine , but the research group should also be given the opportunity to
+provide more training and get more visibility . i have already communicated
+this to joe and to yannis .
+vasant
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vasant shanbhogue / hou / ect on 03 / 05 / 2001
+10 : 40 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : yannis tzamouranis / enron @ enronxgate on 03 / 05 / 2001 10 : 01 am
+to : vasant shanbhogue / hou / ect @ ect
+cc :
+subject :
+here is a tentative course description .
+day 1 : extreme value distriutions and copulas
+1 . heavy tail distributions : exploratory data analysis and detection .
+extreme value distributions and generalized pareto distributions .
+estimation and simulation . practical examples .
+2 . notions of dependence and copulas . estimation and simulation .
+experiments with the program evanece .
+day 2 : principal component analysis and modern regression
+1 . principal component analysis and applications to the yield curve and
+the detection of contagion in financial markets .
+2 . nonlinear regression and the construction of yield curves .
+3 . nonparametric regression ( kernel and projection pursuit methods ) and
+alternatives to the black - scholes formula to option pricing .
+day 3 : time series analysis
+examples of temperature time series will be used to introduce and
+illustrate the following concepts and techniques :
+1 . removing trends and seasonal components , and stationarity .
+2 . fitting the classical autoregressive and moving average models .
+3 . discretization of stochastic differential equations
+4 . multivariate time series
+day 4 : nonlinear systems and filtering
+1 . arch , garch and stochastic volatility models
+2 . linear state space models and the classical kalman filter
+3 . nonlinear systems and particle filtering .
+4 . applications

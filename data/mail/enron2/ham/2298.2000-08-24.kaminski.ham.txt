@@ -1,0 +1,54 @@
+Subject: re : henwood query
+hi karolina ,
+yes , it might be more productive to talk on the phone . given our time
+difference , why don ' t we plan on tomorrow ( friday ) 8 : 00 am pdt , 4 : 00 pm bdt ? my
+number in the states is 503 - 464 - 8430 . give me your number , too , so that i can
+call back if i get hung up in a meeting or something .
+the situation is complicated by the fact that the marginal cost is set by the
+capacity increment of a plant that is on the margin in a particular hour , but
+in constructing the stack , increments of a plant may be scattered throughout
+the stack , based on their respective incremental heat rates . ( this is why
+increment heat rates must be strictly increasing in this model . ) results for
+the capacity increments , however , are not available as output ; only each
+plant ' s aggregate values are reported .
+i had to construct the stack for a particular hour to answer question about a
+homer city , ny plant we were studying a few years ago . attached is the sql
+query you can import into ms access to do the same thing for you ( making
+appropriate modifications to the year , hour , etc . ) unfortunately , no henwood
+documentation on the output variables existed when i created this query , so i
+can not really tell you what they represent anymore . an acquaintance of mine
+at entergy and i were lobbying to get henwood to provide some documentation ,
+so it may be available now .
+let ' s talk and maybe we can help you out ,
+michael
+> > > karolina potter / lon / ect @ enron 08 / 24 / 00 07 : 08 am > > >
+michael ,
+i am an analyst in paul mead ' s continental power trading group in london . i am
+currently working on the project , which requires the use of emss , and
+experience some difficulties interpreting the output results . steven leppard
+from our research group gave me your name as an expert in this system and
+consequently the person to contact in case of problems .
+i have been running simulations for the dutch market and was asked to provide
+the traders with some front - end screen graphs in order to interpret the
+numerical results . one of the graphs is to show an hourly generation stack and
+system ' s marginal cost , as we only run cost based scenarios . to sort each
+station ' s hourly generation i need its marginal cost . to my knowledge though ,
+marginal cost is only generated for a systems marginal unit ( transarea
+marginal units query , marg _ cost unit ) . therefore i was sorting the stations
+according to the cost which i calculated based on the outputs from station
+detail by hour query . the calculation was as follows :
+for each hour , for each generating station :
+" marginal cost " [ o / mwh ] = ( generation _ cost [ oo 00 ] * 1000 ) / generation [ mwh ] -
+vom _ cost [ o / mwh ]
+this i thought would include fuel cost and start up costs . however , a marginal
+station which i get on the stack as a result of the above calculation is not a
+station given in marginal station field in transarea marginal units query . i
+have also looked into transarea _ data _ hr table and transarea _ data table but non
+of the costs there match my results .
+do you happen to know what formula is used to determine marg _ cost and which
+outputs i should be using to obtain the right results ?
+it might be easier if we could discuss this issue on the phone . in this case
+could you please send me your direct telephone number . i am struggling
+understanding what is going on and would appreciate your help very much .
+regards
+karolina

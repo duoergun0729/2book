@@ -1,0 +1,20 @@
+Subject: adaptive trade
+vince , zimin ,
+i participated in a telephone conference on this company this morning . there
+was a possibility enron would invest in it .
+their product appears to be a gui interface over the top of ilog solver ( and
+possibly ilog cplex ) which allows problems to be expressed in high level
+terms . i do not see any immediate application at enron , but i am interested
+in the concepts used so expressed an interest in a demo . maybe it would be
+useful for general modelling projects here .
+they do not even have a user manual for their software , so it will be
+difficult to figure out what it does unless a demo is arranged . the
+possibility for growth in the company seems small as the ilog software is a
+modest size market and their product is aimed at only a small part of that
+market . i think the scheduling tools in sap , i 2 , etc are more likely to
+succeed than this one as they are already integrated into an information
+system .
+because of the small market for this software , the many competitors , the
+absence of any clear use for it at enron and the early stage of development ,
+there is very little prospect of us funding this company .
+tom

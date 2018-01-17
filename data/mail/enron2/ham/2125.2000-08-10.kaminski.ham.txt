@@ -1,0 +1,34 @@
+Subject: risk bucketing for p / l
+ken and greg ,
+what we have been doing is absoutely fine under the assumption that the market
+conditions move relatively small ( where taylor series has fast convergence ) .
+however , we could run into troubles when the market has a big move .
+in order to have a error proof bucketing , we can use the following
+method ( finite - difference ) , let me
+know what you guys think how to implement it to the transport book .
+sensitivity to risk parameters , or p / l attribution by risk bucket :
+today ' s premium = premium based on today ' s curves
+last day ' s premium = premium based on last day ' s curves
+change due to
+deliverycurveshift = [ premium based on today ' s delivery price and last day ' s
+receipt price , volatilities , interest rate , last ' s time to expiration etc ] -
+last day ' s premium - today ' s change due to gammal
+receiptcurveshift = [ premium based on today ' s receipt price and last day ' s
+everything else ] - last day ' s premium - today ' s change due to gamma 2
+vegal = [ premium based on today ' s delivery volatility and last day ' s
+everything else ] - last day ' s premium
+vega 2 = as above for gas volatility
+rho = as above for interest rate
+eta = as above for correlation
+theta = { [ premium based on today ' s days to expiration and last day ' s
+everything else ] - drift - last day ' s premium } / 365 . 25
+[ this is a daily theta . the sprdopt function returns an annualised theta . ]
+gammal = 0 . 5 last day ' s gammal ' * priceshiftl 2 ? ? gamma 2 = 0 . 5 last day ' s gamma 2 ' * priceshift 2 2
+drift = [ ( exp ( last day ' s interest rate * ( today - last days ) / 365 . 25 ) ) - 1 ] *
+last day ' s premium
+priceshiftl = today ' s delivery price - last day ' s delivery price
+priceshift 2 = today ' s receipt price - last day ' s receipt price
+gammal ' = theoretical gammal , i . e . gamma from spread option
+gamma 2 ' = theoretical gamma 2 , i . e . gamma from spread option calculation
+liquidation = premium of option which expired the day before , i . e . intrinsic
+value .

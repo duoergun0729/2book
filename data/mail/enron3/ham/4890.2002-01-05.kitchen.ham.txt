@@ -1,0 +1,126 @@
+Subject: fw : service bureau prohibitions
+hi louise / jay
+if you can help shed any light on your vendor relationship with legato
+and rational , and whether you believe there is scope for reviewing
+these licenses with a view to changing the relevant license agreements ,
+that would be extremely helpful . we understand that both these
+products would be critical components to running the netco systems .
+thx
+ursula
+- - - - - original message - - - - -
+from : roger . ross
+sent : 05 january 2002 18 : 07
+to : bwells
+cc : roger . ross ; stephen . kahn ; mills , ursula
+subject : re : service bureau prohibitions
+thanks bert . as promised , i am following up with e company on the
+various
+assigned agreements that prohibit providing service to a third party .
+feel
+free to have ursula pursue the question simultaneously . i am also
+looking
+into what services the parties intend fire to provide for transition as
+this is not a part of the transaction that i have been following
+closely to
+date .
+roger
+" wells , bert " on 01 / 05 / 2002 01 : 46 : 31 pm
+cc : " ' ursula . mills @ ubsw . com ' "
+subject : re : service bureau prohibitions
+> this message is from a law firm and may contain information that
+> is confidential or legally privileged . if you are not the
+> intended recipient , please immediately advise the sender by
+> reply e - mail that this message has been inadvertently
+> transmitted to you and delete this e - mail from your system .
+> thank you for your cooperation .
+>
+>
+> steve and roger ,
+>
+> we are reviewing a sampling of third party software licenses e
+> company entered and seem to have found two licenses not
+> previously noted by e company as containing an express
+> prohibition on use as part of a service bureau . as i discussed
+> with roger briefly yesterday , this we assume is as much an issue
+> for you as it would be for us because operation of the it on a
+> service bureau basis initially is a key mutual expectation .
+> both licenses are listed on your draft schedule 2 . 1 ( f ) ( i ) to the
+> contribution agreement so i ' m guessing they are material to the
+> business and the relevant software would have to be operated for
+> u company ' s benefit . u company hasn ' t spoken to any e company
+> it personnel to learn the significance of the affected software ,
+> but ursula mills is planning to raise the question with jay webb
+> or another appropriate person .
+>
+the two licenses are :
+1 . enterprise software license agreement between legato
+systems , inc . and [ e ] corp , dated as of sept . 27 , 2001 , respecting
+numerous software products generally branded with the names
+networker , gems , celestra , octopus and others . section 2 . 2
+provides : " restrictions on use . licensee shall not , and shall
+not aid , abet or permit any third party to : . . . ( iii ) . . . use
+for timesharing or service bureau purposes or otherwise use . . .
+the software . . . for the benefit of third parties . . . . "
+2 . products license agreement # 3185 modified for [ e ]
+corp , issued by ration software corp . , dated as of feb . 17 , 1998 ,
+respecting various software products branded clearcase , rational ,
+purify , and quantify and others . section 1 . 1 provides : " general
+grant of license . . . . you may not rent , lease or use the product
+in a service bureau capacity . . . . . "
+we continue to review the agreements for the service
+bureau issue as it is the most pressing from a time perspective .
+we have already found several ambiguous licenses and will bring
+those to your attention as a group later .
+if other express provisions such as the above turn up , i
+will let you know on a case by case basis as this issue is one our
+it personnel are taking seriously .
+bert
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> bert wells
+> covington sat , 5 jan 2002 23 : 20 : 19 gmt
+from : roger . ross @ weil . com
+received : from virscan 3 . swissbank . com ( virscan 3 . swissbank . com [ 192 . 168 . 0 . 6 ] )
+by ln 4 pl 013 pos . ldn . swissbank . com ( 8 . 8 . 8 / 8 . 8 . 8 ) with esmtp id xaa 26152
+for ; sat , 5 jan 2002 23 : 20 : 17 gmt
+received : from gate 2 . ldn . ubswarburg . com ( virscan 3 [ 192 . 168 . 0 . 6 ] )
+by virscan 3 . swissbank . com ( 8 . 8 . 8 / 8 . 8 . 8 ) with esmtp id xaa 29144
+for ; sat , 5 jan 2002 23 : 18 : 45 gmt
+received : ( from smap @ localhost )
+by gate 2 . ldn . ubswarburg . com ( 8 . 8 . 8 / 8 . 8 . 8 ) id xaa 27124
+for ; sat , 5 jan 2002 23 : 20 : 16 gmt
+received : from ( mail . nycl . twtelecom . net [ 216 . 54 . 204 . 190 ] ) by gate 2 via smap ( v 2 . 0 )
+id xmao 27112 ; sat , 5 jan 2002 23 : 20 : 07 gmt
+received : from ip 201 . weil . com ( ip 201 . weil . com [ 64 . 132 . 60 . 201 ] )
+by mail . nycl . twtelecom . net ( postfix ) with smtp
+id 956 b 6331 d 5 ; sat , 5 jan 2002 17 : 14 : 56 - 0600 ( cst )
+received : from no . name . available by ip 201 . weil . com
+via smtpd ( for mail . nycl . twtelecom . net [ 216 . 54 . 204 . 190 ] ) with smtp ; 5 jan 2002 23 : 05 : 30 ut
+received : from 115 . 1 . 100 . 5 by wtalk - nyol . weil . com with esmtp ( tumbleweed
+mms smtp relay ( mms v 4 . 7 ) ) ; sat , 05 jan 2002 18 : 13 : 11 - 0500
+x - server - uuid : 009 el 43 c - f 45 b - 11 d 3 - abof - 00508 ba 380 d 8
+subject : re : service bureau prohibitions
+to : " wells , bert "
+cc : stephen . kahn @ weil . com , " ' ursula . mills @ ubsw . com ' "
+date : sat , 5 jan 2002 15 : 07 : 05 - 0800
+message - id :
+x - mimetrack : serialize by router on smtp - nyol / ls / wgm / us ( release 5 . 0 . 8
+| june 18 , 2001 ) at 01 / 05 / 2002 06 : 11 : 04 pm
+mime - version : 1 . 0
+x - wss - id : 1029570 d 440368 - 01 - 01
+content - type : text / plain ; charset = " us - ascii "
+content - transfer - encoding : 7 bit
+visit our website at http : / / www . ubswarburg . com
+this message contains confidential information and is intended only
+for the individual named . if you are not the named addressee you
+should not disseminate , distribute or copy this e - mail . please
+notify the sender immediately by e - mail if you have received this
+e - mail by mistake and delete this e - mail from your system .
+e - mail transmission cannot be guaranteed to be secure or error - free
+as information could be intercepted , corrupted , lost , destroyed ,
+arrive late or incomplete , or contain viruses . the sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e - mail transmission . if
+verification is required please request a hard - copy version . this
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments .

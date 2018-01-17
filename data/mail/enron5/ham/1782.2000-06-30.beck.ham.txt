@@ -1,0 +1,30 @@
+Subject: clickpaper . com confirming entity
+discussions over the last several days with legal and tax have resulted in a
+change to the legal entity we ' ll use for the " trading " portion of
+clickpaper . com activity .
+as long as our business model is a one to many model the decision is . . . . . .
+a . for click match activity clickpaper . com can still be used as planned .
+simply , we ' ll only be invoicing for transaction fees .
+b . for click trade activity the following will happen .
+1 . physical trading that occurs at any north american hub developed by
+clickpaper . com , enron north america , corp . ( ena ) will be the
+confirming entity . i have asked legal to develop a simple recital statement
+for the physical confirmation to indicate that the transaction originated as
+a " clickpaper . com on - line transaction " .
+2 . physical trading that occurs at any hub developed for the u . k . , latin
+america , or asia , has not yet been finalized for legal entity purposes . my
+desire is that we follow the legal entity structure used by eol on - line
+trading for hubs in similar countries . we ' ll work that out soon .
+strictly from an operational point of view the benefits are many but the most
+significant is a much simplified mid / back - office effort in order to support
+clickpaper on - line business . we no longer need to be concerned about setting
+up more portfolio / book i . d . ' s for risk books as on - line deals can go into the
+same risk books used today for pulp and paper . intercompany transactions
+between clickpaper . com and ena are now eliminated for on - line trades which
+simplifies the confirmation support as well as the downstream financial
+reporting / reconcilation activity that would be required by using
+clickpaper . com as the entity .
+if our one to many model is successful , we move to a many to many model . at
+that point , all of this changes . so for now , enjoy !
+for now ,
+jeff harbert

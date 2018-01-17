@@ -1,0 +1,47 @@
+Subject: ees operational risk
+per our conversation , here is the model that i have for simon . the notes
+that i gave you were from some work i did back in september as i was looking
+for volume numbers . the notes show what drives the final cash flow numbers .
+briefly , the issue surrounds exactly what is meant by nonmarket and
+noncredit risk . ideally , this would be anything that effects npv of the
+deal . however , i think that we should limit ourselves to those things that
+effect the time and amount of the eam volumes . even here , such a problem set
+is quite large . if you glance at the spreadsheet model , you will notice that
+there exists a large number of possible items that effect the eam volumes .
+if we are to do this rigorously , then it is necessary to tear apart ees ' s
+business model , and although such an attempt to do so would be noble , the
+scope of such an excercise may be too large . we need a clear definition of
+ees operational risk .
+briefly , from the ees deals that i have looked at , two things drive their
+profit : a long term bet that power prices will go down , and that we can
+improve the facility through various enhancements . each of these may be
+gleaned from the spreadsheet , as well as the assumptions regarding the
+funding of the facility improvements and so on . 95 % of the savings is
+assumed to come from power , and 5 % from gas . ( the effeciency gain may not be
+explicitly given ) . if we have data that show the realized efficiency gains ,
+then it would be simple [ in principle ] to determine a distribution , and hence
+a distribution of eam volumes , npv ' s , etc . at this time , i understand that
+rac has determined some of the realized efficiency gains , but my knowledge is
+quite sketchy . jay hachen may have more info .
+if i get a chance , i will try to see if i can do a " proof of concept "
+excercise , but i have a late january deadline on something else .
+another point : even if we are successful in doing this for the spreadsheet
+model , ees has chosen to book things differently . i do not have a thorough
+understanding of their it systems , but at least in principle , if we can do
+this for the spreadsheet model , then we can do it in their it environment
+( data are data are data ) . they may book efficiency gains through improvement
+type , such as gains due to compressors , chillers , boilers , etc . if this is
+indeed the case , then we need to have distributions for each type of
+improvement .
+if we are successful on the spreadsheet and not successful with their it
+systems , then the other alternative is to build our own reporting system . it
+would be similar to a database where the recordsets are replaced by excel
+workbooks . it can be constructed in such a way as to enable us to run
+simulations and queries , but this would probably take me about five or six
+weeks .
+finally , don hawkins does operational audits for enron ' s physical assets .
+he sends out teams to audit our pipelines and strategic assets . i don ' t
+think that he does it for ees , but you might want to give him a call anyway .
+- kevin k .
+ps : the ees lunch meeting has been moved to wednesdays . jay hachen will
+know more .

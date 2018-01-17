@@ -1,0 +1,74 @@
+Subject: exmar purchase decision
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by rick buy / hou / ect on 05 / 22 / 2000 01 : 34 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+john sherriff
+05 / 22 / 2000 01 : 21 pm
+to : rick buy / hou / ect @ ect , joe gold / lon / ect @ ect , david
+haug / enron _ development @ enron _ development , doug
+rotenberg / enron _ development @ enron _ development , rick
+bergsieker / enron _ development @ enron _ development , vince j kaminski / hou / ect @ ect
+cc :
+subject : exmar purchase decision
+i just got off the phone with jeff skilling to make my pitch for doing the
+exmar deal . he said that he generally understands the logic of the deal but
+simply
+wants the risk management discipine applied to analzing the position ( a
+reiteration of what rick buy had said in our meeting today ) . i would simply
+ask vince ' s team to take a quick look tommorow at valuing the ships as stand
+alone positions with a guess at the volatility based on historical price
+movements . this would
+be much easier than the rainbow option approach and would allow us to roughly
+look at the value of the options on the other two ships . in other words we
+could look at two ship long positions with some implied volatilities and
+also estimate daily vars on the ships as if they were mark to market
+( although i agree with david that we will not likely be able to mark the
+ships because they will be treated as leases ) .
+john
+john
+- - - - - - - - - - - - - - - - - - - - - - forwarded by john sherriff / lon / ect on 22 / 05 / 2000 19 : 05
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+joe gold
+22 / 05 / 2000 18 : 58
+to : john sherriff / lon / ect @ ect
+cc :
+subject : exmar purchase decision
+john ,
+after spending a few minutes with our shipping experts in the coal and oil
+groups , i have a slightly different angle on the exmar lng vessel decision .
+i would ideally like to spend the time to analyse this purchase as we do
+power and gas positions . unfortunately , we do not have that luxury and
+sometimes , in absence of true analytics , the most rudimentary measures can
+provide the best decision tools . here is how we would make the decision :
+1 ) our shipping expert confirms that $ 140 million for a 135 , 000 ton ship
+represents a good price relative to new build costs over the last three years
+and that quotes have been trending up past that number recently . he also
+confirms that the current trough is the result of the default of several far
+east buyers and that new lng orders and other ship building ( cruise liners )
+have reduced the over capacity . his experience and historic analysis has
+suggested that the pricing cycle for lng ships lasts for a significant
+period . new efficiency measures should reduce new build prices ( and allow
+for a lower trough ) , but not by an extreme amount versus the $ 140 million
+cost of this vessel .
+pierre normally likes to roll time charters ; however , this is difficult in an
+illiquid shipping market like lng . he would purchase this ship if the lng
+shipping book were his to manage . he estimates the ship could be sold in a
+distressed sale for $ 110 million and could be potentially time chartered on a
+long term basis at a value of up to $ 200 million .
+2 ) our development teams in spain , italy and turkey have been trying to
+solve the big question - gas . in each country , the key to developing a
+merchant plant is securing gas flexibility or at least securing negotiating
+leverage with the monopoly gas supplier . it is questionable whether or not
+this decision will have an immediate impact on arcos . the plant ' s time line
+and the realities of the lng supply market may require that we commit to gas
+natural before any source of 3 to 5 year gas can be secured . the shear
+threat of being able to bring spot or term lng to these markets will improve
+our negotiating leverage and / or allow us to create flexibility . going
+forward , however , other potential plant opportunities in spain , and elsewhere
+in the med region , may have the capacity to utilise these vessels . i think
+that this flexibility is worth at least $ 25 million to me .
+3 ) i would summarise : upside $ 60 + $ 25 = $ 85 million
+downside ( $ 30 ) + $ 25 = ( $ 5 ) million
+i would do it .
+i will leave the rest to you .
+joe

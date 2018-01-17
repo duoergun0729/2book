@@ -1,0 +1,39 @@
+Subject: re : stressing correlations
+hi , everybody ,
+following up on our discussions on stressing correlations i made a
+spreadsheet and a dll .
+here is what it does :
+in the input ( " main " sheet ) the user has to specify :
+- the size of the correlation matrix ;
+- the row and column for the element he wants to stress ( row = 1 and col = 3 in
+the example )
+- the integer number n _ iter ;
+- the original correlation matrix .
+in the output ( see sheet " results " ) we see 2 columns :
+- the first column contains possible correlation values ( from - 1 to 1 ,
+n _ iter + 1 numbers ) for the element ( 1 , 3 ) ,
+- the second column contains the smallest eigenvalue for the " stressed "
+correlation matrix
+( which is the same as the original matrix except the elements ( 1 , 3 ) and ( 3 , 1 )
+which take values from - 1 to 1 ) .
+thus , the user can see which values for the chosen element ( 1 , 3 ) are
+permitted
+( those for which the smallest eigenvalue is positive ( marked green in the
+example ) .
+the user might decide that he wants to assign the correlation which is " not
+permitted " to this particular element
+( the smallest eigenvalue is negative ) . then the user might have a few options :
+1 . all the elements of the correlation matrix will be modified so that the
+chosen element has the
+desired correlation in it , but the change in the correlation matrix is the
+" smallest " possible
+( in the sense of matrix norm ) ( this is my next step to do for this
+spreadsheet ) .
+2 . just one column ( and the corresponding row , of course ) will change , while
+the rest of the matrix
+will stay unchanged ( kevin ' s suggestion ) . in this case the user have to
+choose which column ( and row )
+he prefers to modify ( in my example - column - row 1 or column - row 3 ) .
+we can discuss this approach with risk control and see how they like it . i
+send you only the spreadsheet with an example now .
+tanya .

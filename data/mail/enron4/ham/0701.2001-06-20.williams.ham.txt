@@ -1,0 +1,10 @@
+Subject: midc schedule going real time heavy load june 21
+heavy load for 6 / 21
+our upstream bpa deal # 504537 . 1
+our downstream ipco deal # 655127 . 1
+the path 5 mw
+bpa c # 24008 - epmi - ipc - snpd ( t ) bpa ( t ) bpap / pacw - ipc - pacw ( t ) pacw / enterprise - ipc - ipc ( t ) enterprise / ipco sys - ipco sink
+all parties are aware that this schedule will exist in real time , and ipco is taking responsibility to make sure it is tagged .
+please call bpa and ipco before heo 700 to make sure this schedule is still going to work .
+see me if you have any questions .
+cara

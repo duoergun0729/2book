@@ -1,0 +1,34 @@
+Subject: re : erms resources
+sally ,
+as i told you last week , i laid a big egg and " put the cat amongst the
+pigeons " as steve stock put it . phillipe called a meeting with rick ( and
+me ) , debbie brackett and steve yesterday to " clear the air " . while he
+pledged to be attentive to the problem ( as i articulated ) , he still focused
+on fixing process which i fear gets us to where we thought we were as opposed
+to where we need to be . i continue to believe that not only are there things
+just plain broken , but what we have gotten used to as " acceptable " is now
+inadequate . this includes the ability for " human " systems and processes to
+be automated to avoid stupid downstream data problems as well as improve
+analytics . you will be cordially invited to be ( another ) weekly meeting that
+both rick and phillipe plan to attend to monitor and guide progress .
+ted
+enron north america corp .
+from : sally beck 08 / 28 / 2000 06 : 48 pm
+to : stephen stock / hou / ect @ ect , beth perlman / hou / ect @ ect
+cc : ( bcc : ted murphy / hou / ect )
+subject : erms resources
+i heard today that curtis smith has resigned . i am sure that both ot you
+know that curtis and jeremy wong were viewed by users as critical resources
+for erms support . even at a stand still , my team had great concern over the
+rumored loss of curtis and / or jeremy . and with the assumption that sitara
+will not go forward for valuation , then erms really has become repositioned
+as one of our key , strategic systems . there is much to do to " catch up " , if
+you will , with changes and enhancements that were put on hold for several
+years during the sitara development stage . and our business continues to
+grow and change rapidly , requiring responsive enhancements on an on - going
+basis .
+i would like to get together to discuss the staffing plan for support of erms
+as soon as possible . we need to understand how day - to - day production
+support will be managed and how development work will be effectively
+handled .
+i will ask my assistant to set up a meeting as soon as possible .

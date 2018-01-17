@@ -1,0 +1,15 @@
+Subject: blackberry security
+louise ,
+jenny rub asked me to follow - up with you and pass on a summary of security / encryption on the blackberry wireless devices . sorry it took a couple of days to get this back to you , but i wanted to absolutely re - confirm some of the information before i got a response to you .
+we selected the blackberry service over other wireless email services for two reasons :
+it uses a " push " technology - - mail and calendar information is pushed to your blackberry device without having to connect to a network , logon and " pull " the information .
+it is the most secure of the alternatives we evaluated .
+all outlook / exchange email that is synchronized with the blackberry device is encrypted - - including attachments - - using triple - des encryption . triple - des ( data encryption standard ) is the most secure encryption standard available today for civilian / commercial use . each blackberry device has a digital certificate , which is used in conjunction with our blackberry enterprise server to encrypt and decrypt exchange mail . the blackberry enterprise server is the interface server to our exchange environment and resides inside our firewall . therefore , all enron exchange mail is encrypted before it leaves the enron environment and is not decrypted until it reaches each blackberry device .
+there are some limitations , however . there are three ways to communicate with a blackberry device - - not all are encrypted .
+your exchange mail is synchronized with your blackberry through the blackberry enterprise server - - this form of communication is encrypted using the triple - des standard .
+you can communicate between blackberry devices using " pin - to - pin " paging - - this form of communication does not pass through the blackberry enterprise server and is not encrypted . however , it is scrambled - - but not using a sophisticated algorithm and it can be decoded easily by a sophisticated hacker .
+you can communicate with blackberry users via skytel ' s paging service by mailing to username @ skytel . com ( e . g . bobmcauliffe @ skytel . com ) - - this form of communication is sent via clear text , so it is not encrypted or scrambled .
+the bottom line is that all mail sent from / to outlook / exchange or internet mail sent to an @ enron . com mail address is encrypted .
+if you want a little more information on triple - des encryption , a good overview is at http : / / www . tropsoft . com / strongenc / des 3 . htm or if you want more information on our blackberry service , please let me know .
+thanks ,
+bob

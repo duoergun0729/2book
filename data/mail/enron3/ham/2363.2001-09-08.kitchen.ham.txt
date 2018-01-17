@@ -1,0 +1,91 @@
+Subject: e nymex : market forces - enymex still on launchpad .
+market forces - enymex still on launchpad .
+09 / 07 / 2001
+energy compass
+( c ) 2001 energy intelligence group . all rights reserved
+the new york mercantile exchange has been thinking about shifting some of its
+business online since early last year - - and possibly before that - when it
+was invited to join the electronic ( ice ) . it rejected
+the offer - which rival international petroleum exchange has since gladly
+accepted - instead unveiling plans last may to build its own electronic
+trading platform for over - the - counter and smaller futures contracts . but its
+cyberspace initiative is still on the launchpad .
+called enymex , the online system was supposed to launch in october 2000 , at
+the same time as the big oil - backed ice . but october came and went , and while
+ice appeared , enymex failed to show . its start date was pushed back to late
+2000 - and then to the first quarter of 2001 , and then to the second quarter
+of this year . nymex held to that second - quarter target for months , before
+again failing to deliver . it ' s now given up on the third quarter as well , and
+exchange executives have stopped trying to predict when the electronic trading
+platform will be ready to go .
+that ' s not the only blow to nymex ' s e - trade strategy . delays are also plaguing
+an internet version of its existing access after - hours electronic trading
+system , although it remains available as a proprietary , dial - up system to
+existing customers .
+late last month , nymex announced plans to make access available over the
+internet - at www . nymexaccess . com - in a move designed to widen its customer
+base . but just a few days before the planned sep . 3 start date , the exchange
+pulled back ( ec aug . 31 , p 3 ) . as with enymex , a new date has yet to be
+scheduled . launched in 1993 , the dial - up version of access handled 2 . 1 million
+contracts last year , equal to 2 % of nymex ' s total trading volume . nymex
+executives say that putting access on the web could triple the volume of
+business completed on the platform . the exchange ' s new brent crude oil futures
+contract and other existing pit - traded contracts are available on access .
+compared with ice - which is steadily unveiling new services and products on
+its e - trade system - the new york exchange ' s path to building an electronic
+platform has been bumpy . earlier this year , nymex ended its relationship with
+accenture ( formerly andersen consulting ) , which had been involved in managing
+the exchange ' s transition to an electronic trading platform almost from the
+start . some observers characterized the move as a cost - cutting measure ; nymex
+says accenture was dismissed because its work was done .
+nymex blames many of the delays on globalview software , one of its technology
+partners , with which it is involved in a bitter legal dispute . in april , nymex
+filed a breach of contract lawsuit in a new york court against globalview ,
+alleging that the chicago - based software firm had stopped work on enymex , and
+seeking unspecified damages . globalview chief executive jon olson admits that
+his company did indeed stop work , but says it was because nymex stopped
+paying . it is countersuing , seeking around $ 26 million for fees and damages .
+nymex president bo collins is also claiming that globalview has gone bankrupt .
+but olson says business is good for the 20 - year - old company , which has around
+150 clients in the energy industry .
+with globalview off the project , nymex has decided it will build the
+" front - end " piece of enymex - the part that globalview was working on .
+when it ' s all complete , nymex will have an e - trade platform for derivatives
+and smaller futures contracts , and a separate e - trade service for its
+after - hours customers . it will also have its existing pit - traded contracts ,
+which it has no intention of ditching .
+with so many different pieces , some observers wonder what nymex is up to .
+collins , a one - time natural gas trader at us - based el paso , responds that
+nymex aims to build an " electronic cloud " around its successful pit contracts .
+rather than disrupt a successful business , collins says the exchange is
+creating new , electronic trading opportunities around its pit - traded products .
+" the reality is we have a system of pit trading that provides immense
+liquidity to the market , " he says . " so i have got to figure out a way to marry
+the technology to the humanness of the process . "
+for example , nymex ' s henry hub natural gas futures contract is successful , and
+several types of contracts trade on other exchanges based on the henry hub
+price . that ' s where enymex will come in , collins says : the e - trade platform
+will offer spread and basis swaps contracts based on prices of nymex ' s pit
+contracts - thus marrying technology and the trading pit .
+some observers suggest that the enymex roll - out has taken a back seat to the
+exchange ' s newest product , a brent crude oil futures contract challenging the
+ipe . the new contract , which started trading on sep . 5 , was joined the
+following day by a new brent options contract . on sep . 7 , the new york
+exchange started offering a brent - wti spread options contract .
+the battle for the hearts and minds of brent traders will rage in the
+traditional trading pits of new york and london for another year , at least .
+but over the next 12 - 18 months , all of the ipe ' s business will be shifted
+online to a futures trading platform being built by ice .
+the ipe ' s strategy is clear . by agreeing to be acquired by ice , the london
+exchange obviously sees a future where commodities trading takes place in
+cyberspace - not in a trading pit . nymex is betting that its " electronic
+cloud " strategy - whereby e - trade is married with pit trading - will pay off .
+in the end , though , the e - trade versus pit trade battle being waged by the
+world ' s two biggest oil futures exchanges may become secondary to the battle
+for brent . if nymex can create liquidity in its new brent contract , its bumpy
+path toward e - trade may be forgotten .
+by jeff gosmano , houston .
+folder name : e nymex
+relevance score on scale of 100 : 95
+to review or revise your folder , visit or contact dow jones customer service by e - mail at custom . news @ bis . dowjones . com or by phone at 800 - 369 - 7466 . ( outside the u . s . and canada , call 609 - 452 - 1511 or contact your local sales representative . )
+copyright ( c ) 2001 dow jones & company , inc . all rights reserved

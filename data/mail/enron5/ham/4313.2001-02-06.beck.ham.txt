@@ -1,0 +1,19 @@
+Subject: sec var
+in december we entered two swaps on enron stock to hedge out the exposure we
+created by granting options . we consider them trading securities , so i have
+included them in the spreadsheet accordingly .
+gail tholen explained to me that we have long term contracts to remove the
+variability of revenues in bammel looper and mid texas . i have changed the
+total return swap model to use the volatility of prices in 2013 ( when the
+contracts expire ) , rather than spot volatilities . as a result , december var
+for total return swaps fell from $ 34 to $ 28 million .
+with the partly offsetting effects of the new enron stock and total return
+swaps , december var for trading securities therefore fell from $ 70 to $ 68
+million .
+i recalculated total return swap var for the rest of 2000 using volatilities
+for 2013 . nevertheless , the impact is small , since spot volatilities were
+not as high throughout the year as in december . as a matter of fact , the
+average , high , and low trading securities vars for 2000 remain largely
+unchanged .
+regards ,
+eugenio

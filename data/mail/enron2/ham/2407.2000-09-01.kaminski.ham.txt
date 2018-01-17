@@ -1,0 +1,10 @@
+Subject: re : vol model
+from : pavel zadorozhny on 08 / 31 / 2000 06 : 45 pm
+to : grant masson / hou / ect @ ect , tanya tamarchenko / hou / ect @ ect , naveen
+andrews / corp / enron @ enron
+cc :
+subject : vol model
+it ' s been a while since i put this together . some assumptions , such as those
+about the current var methodology may not be correct . but my ideas and the
+math involved are hopefully reasonable . let me know if you have any questions .
+pavel , x 34778

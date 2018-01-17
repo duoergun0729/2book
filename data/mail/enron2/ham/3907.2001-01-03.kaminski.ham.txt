@@ -1,0 +1,20 @@
+Subject: re : uk portfolios and books setup in risktrac
+naveen and matthew ,
+i started looking systematically through uk positions and corresponding var
+numbers in the risckrac .
+i found a few inconsistencies so far .
+1 . the portfolio elsb 1 - nbp has a book elsb 1 under it . the sum of delta
+positions for this book is
+239 , 021 , 655 , the sum of gamma positions is - 211 , 031 , 450 . var for the
+portfolio elsb 1 - nbp is zero .
+the same refers to a few other portfolios , for example elsb 2 - nbp , elsb 3 - nbp ,
+e 2 xxl - nbp .
+2 . the portfolio elsbp 1 - ppp also has the book elsb 1 under it . this book
+contains the positions on pppwdl
+through pppwd 6 and pppwel through pppwe 4 .
+the same refers to the other books , for example elsb 2 .
+this looks messy . can someone in rac go over all the portfolios , all the
+corresponding books and curves
+in risktrac and make sure they are set up properly ?
+thank you ,
+tanya .

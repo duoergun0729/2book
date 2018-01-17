@@ -1,0 +1,21 @@
+Subject: re : windows 2000 - alcar
+brenda ,
+what test are we supposed to carry out ?
+is monday next week ok ?
+vince
+from : brenda cassel @ enron on 07 / 05 / 2000 10 : 28 am
+to : dan feather / sa / enron @ enron , vince j kaminski / hou / ect @ ect , hector
+campos / hou / ect @ ect
+cc :
+subject : windows 2000 - alcar
+hello ,
+i am on the qa team for the win 2 k roll - out . we need your help in testing
+" alcar " in a windows 2000 environment .
+this testing is crucial to the success of converting all pc ' s from nt 4 to
+windows 2000 . we ask that you make an appointment to come to our offices
+( eb 2224 b ) to preform the test . it should not take more than 15 minutes .
+please e - mail me as soon as possible .
+thanks ,
+brenda cassel
+qa - w 2 k
+x 36226

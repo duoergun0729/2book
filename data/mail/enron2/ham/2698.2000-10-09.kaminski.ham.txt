@@ -1,0 +1,30 @@
+Subject: recent projects
+hi vince ,
+i have been working on and / or planning to work on the following projects :
+1 . finished a gas daily swing option model for commodity structuring
+group ( sanjeev khanna ) . the model uses american monte carlo
+simulation and dynamic programming techniques .
+2 . continue working on psim model . this includes reading power generation
+and operation books as well as thinking about ways to model power plant and
+its operation . the standard approach ( i . e . turn the plant on if power
+price > total
+generation cost , else turn the plant off ) is not particularly good if the
+regional
+demand is very high and the plant still has some un - utilized generation
+capacity .
+that is , the generation criteria is quite different depending on we model
+power
+plant from regional point view or from plant point of view . plan to have
+meetings
+with tom and lance .
+3 . started working on stochastic process parameter estimation . i will
+concentrate
+on four processes : gbm , mean reverting , jump diffusion , and jump diffusion
+with
+mean reverting . i have looked at tanya ' s earlier work and decided to
+discretize
+the processes slightly differently . it is hoped that this will give a more
+stable
+estimation .
+best ,
+alex

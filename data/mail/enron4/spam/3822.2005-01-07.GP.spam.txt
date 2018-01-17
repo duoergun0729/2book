@@ -1,0 +1,14 @@
+Subject: 
+to _ cc _ default _ handler
+subject : mary , so nice and cute !
+date : rnd _ date _ time
+mime - version : 1 . 0
+content - type : multipart / alternative ;
+boundary = - - 26812012976618739093
+x - priority : priority _ number
+x - ip : rnd _ number [ 0 - 255 ] . rnd _ number [ 0 - 255 ] . rnd _ number [ 0 - 255 ] . rnd _ number [ 0 - 255 ]
+- - - - 26812012976618739093
+content - type : content _ type ;
+content - transfer - encoding : content _ encoding
+message _ body
+- - - - - -

@@ -1,0 +1,50 @@
+Subject: global / ees status
+sally , as per your request here is global outsourcing ' s current status in
+regard to ees :
+global counterparty -
+priority # 1 counterparties ( ees counterparties that have $ 100 , 000 or more
+ar or ap exposure ) - 506
+counterparties entered in gcp 506 - 100 % complete
+these priority # 1 cp ' s were completed in 55 days .
+priority # 2 counterparties ( ees counterparties that have $ 75 , 000 or more ar
+or ap exposure ) - 703
+counterparties entered in gcp to date - 35 - 5 % complete
+all priority # 2 cp ' s will be completed within 45 days ( march 23 , 2001 ) .
+ees has approximately 14 , 000 counterparties to be entered into the gcp
+database . we have been dealing with ees ' karin williams and scott mills on
+the gcp set up .
+we have quoted ees a rate of $ 20 . 00 per counterparty entered into the gcp
+database . we currently have 4 people working full time on the research ,
+calling and entering of ees ' s cp ' s . beginning in january 2002 , we anticipate
+utilizing a mutually agreed upon monthly fee .
+jason moore and i are the designated global contacts for ees in regard to gcp .
+global contracts and global facilities -
+in a february 16 th meeting with wanda curry , scott mills , mark evans , and
+other ees personnel , ees indicated that they were leaning towards utilizing
+the global contracts database . we briefly discussed the global facilities
+database , but we all have agreed to concentrate on the feasibility of the
+contracts database first and leave the facilities implementation question for
+a later date .
+as a result of the above mentioned meeting , we have an ees demo set up for
+tomorrow morning from 9 a . m . - 12 p . m . in order to give ees personnel a
+" hands on " demonstration of the functionality of global contracts . a
+portion of ees ' s contracts include multiple commodities and staggering
+agreement terms that global contracts is now unable to capture . therefore ,
+we will need to institute numerous system enhancements , with the co - operation
+of global it , in order to process ees ' contracts . the timing and it manpower
+needs of these system enhancements will be discussed at our demo by global it
+personnel .
+if ees does agree to utilize global contracts and facilities we will need to
+set up a separate ees maintenance group within global .
+ees has informed us that they would like to do all of their contracts data
+input . therefore , we anticipate the use of 3 global contracts personnel for
+the training of ees ' personnel . two global employees would be assigned to
+work directly with ees ' s personnel on a daily basis . the remaining global
+contracts person would act as a " help desk " here on 37 to answer any global
+contracts questions .
+in regard to billing ees for the global contracts database assistance , we are
+proposing the use of a " flat rate " monthly fee structure , similar to the one
+utilized for bridgeline gas pipeline . we would also include a " start up "
+fee to cover the cost of the initial it system enhancements .
+donna consemiu and i will be the designated global contacts for ees in regard
+to global contracts and facilities .

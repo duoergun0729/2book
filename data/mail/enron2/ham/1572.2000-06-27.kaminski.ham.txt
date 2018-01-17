@@ -1,0 +1,55 @@
+Subject: re : chapter 3 revisions
+grant ,
+sorry for the silence . it ' s definately not a commentary on your work - i ' ve
+been travelling back and forward between sydney and london like a yo - yo and
+trying to tidy up things on our end . i ' ve been working on incoporating your
+material and will spend all of tomorrow on this ( hopefully ! ) so that i can
+ask for the last few amendments before the w / end .
+many thanks and best regards .
+chris .
+- - - - - original message - - - - -
+from : grant masson
+to : chris strickland
+sent : tuesday , june 27 , 2000 8 : 54 am
+subject : re : chapter 3 revisions
+>
+>
+>
+> chris :
+>
+> i can ' t decide if i should take your silence over the past several weeks
+to mean
+> that you are getting stuck into finishing up the book or you are just so
+> thoroughly disgusted with our work that you would like to wash your hands
+of us .
+>
+> i ' ve been stuck on trying to get the last figure mentioned in the chapter
+into a
+> format that i like . the problem is the volatility found in the
+regressions is
+> on the order of several hundred percent , and so when i plot the historical
+data
+> next to a simulated curve over the course of the year , the simulated curve
+tends
+> to drift up or down stupidly both in the jump diffusion and garch + jump
+diffusion
+> model . any suggestions would be accepted with pleasure . i wonder if i
+should
+> skip the figure . it seems a pity to do so however , because otherwise the
+last
+> section comes off as a bit of an afterthought , and i would like to present
+a
+> practical example . again any guidance would be appreciated .
+>
+> anyway , i am sending you a somewhat improved draft now ( minus only the
+last
+> figure ) , rather than sit on the whole thing while i stew on this bit , i
+hope
+> this will be useful to you . because i am leaving for holidays at the end
+of the
+> week , i can guarantee you that you will have a final draft before then .
+>
+> regards ,
+> grant .
+> ( see attached file : cs 260600 . doc )
+>

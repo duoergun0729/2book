@@ -1,0 +1,7 @@
+Subject: restore address book in notes
+i did not restore your personal notes address book .
+you can restore the address file quickly via :
+close notes .
+copy the c : \ notesold \ data \ names . nsf file to c : \ notes \ data \ names . nsf .
+if you do not understand this - email or call me .
+mark kostinec - ext . 402 - 398 - 7294

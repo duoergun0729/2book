@@ -1,0 +1,12 @@
+Subject: wininstall will run on friday
+wininstall will run on friday
+a wininstall screen will appear during your login on friday , january 12 ,
+2001 .
+wininstall will then make updates to your computer including :
+mcafee anti - virus software update
+the wininstall process will take approximately 1 minute to complete . a bar
+showing percentage of completion is displayed during the process . please
+note that during the update , you should not disturb the machine . doing so
+will only slow the update .
+if you have any questions , please call the gpg solution center
+et & s help desk - 713 - 345 - gpg 5

@@ -1,0 +1,73 @@
+Subject: re : eol revenues
+call with any questions or comments . georganne has reviewed my model and
+assumptions and on the service agrees to the computation . in addition she
+has asked for volumes associated with the revenues for 1999 . i have enhanced
+the model to calculate volumes associated with the revenues .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by bob shults / hou / ect on 01 / 25 / 2000 01 : 01 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : georgeanne hodges 01 / 25 / 2000 09 : 10 am
+to : melissa white / hou / ect @ ect , evelyn aucoin / hou / ect @ ect , scott
+earnest / hou / ect @ ect , laura e scott / cal / ect @ ect , beth apollo / lon / ect @ ect ,
+scott mills / hou / ect @ ect , kristin albrecht / hou / ect @ ect
+cc : wanda curry / hou / ect @ ect , bob shults / hou / ect @ ect , jan
+johnson / gpgfin / enron @ enron , gary peng / gpgfin / enron @ enron , mary lynne
+ruffer / hou / ect @ ect , faith killen / hou / ect @ ect , troy klussmann / hou / ect @ ect
+subject : re : eol revenues
+i believe that troy klussman had contacted many of you to get this process
+rolling but i just wanted to reiterate that we need to get this done as
+quickly as possible . the questions about eol revenues and volumes are really
+starting to roll in . troy will continue to follow up on the ena front and i
+will be checking up on london and global liquids . please call us with any
+questions . i have attached a file created by bob shults that shows 1999
+revenues by product for use as a reasonableness check . bob can provide more
+detail if you need it
+.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by georgeanne hodges / hou / ect on 01 / 25 / 2000
+08 : 58 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : georgeanne hodges on 01 / 25 / 2000 08 : 54 am
+to : jason barra / lon / ect @ ect
+cc : bob shults / hou / ect @ ect , donnah blake / lon / ect @ ect , beth apollo / lon / ect @ ect
+subject : re : eol revenues
+jason ,
+we are looking for a way to extract enron on - line revenues and sales volumes
+out of your regular upstream invoicing system that presumably feeds sap .
+for the first quarter of 2000 ( and thereafter ) enron corp . in seriously
+contemplating disclosing in press releases , eol volumes and revenues separate
+from traditional volumes and revenues . they need to be able to get these
+numbers out of our regular accounting records . the numbers that the eol team
+calculates out of their systems ( which is not a financial system ) can be used
+to verify that the accounting numbers are being extracted correctly .
+currently for ena , the eol trade system feeds sitara ( deal capture ) and
+passes over an eol deal number . sitara assigns it ' s own deal number but
+passes both numbers when it feeds our settlement & logistics system ( unify ) .
+unify currently feeds our general ledger but it is not set up to book based
+upon the eol tag , we are designing that into our sap design . in the
+meantime , we will query unify and extract the portion of unify revenues and
+volumes that are eol . we will then book a reclass into hyperion to separate
+eol revenues from traditional revenues . we are currently using numbers
+provided by bob shults for 1999 to verify that everything is working
+correctly . we are finding valid timing differences due to assumptions that
+bob is making .
+unfortunately , a few of the products that are being traded or will be traded
+on eol do not feed into settlement systems like unify but rather are invoiced
+manually . we are having to identify a way to accurately capture those
+numbers as well , so that they can also be reclassified in hyperion .
+this project has a pretty short fuse as there is much outside interest in eol
+and thus a great need to be able to accurately calculate sales revenues and
+sales volumes .
+please call me with any questions that you have and keep me updated on your
+progress .
+jason barra
+01 / 24 / 2000 06 : 33 am
+to : georgeanne hodges / hou / ect @ ect
+cc : bob shults / hou / ect @ ect , donnah blake / lon / ect @ ect
+subject : eol revenues
+hi georgeanne ,
+donnah mentioned that bob shults has the statistical information you required
+for london eol transactions but you require more supporting documentation to
+back them up .
+would you be able to send me the reports and let me know the information you
+are looking for . i will then be able to ask around the relevant people and
+see what we can dig out for you .
+thanks ,
+jason

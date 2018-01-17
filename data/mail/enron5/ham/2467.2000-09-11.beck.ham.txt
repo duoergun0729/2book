@@ -1,0 +1,64 @@
+Subject: re : risk metrics
+i completely agree with you .
+nevertheless , i am sorry if i did not make myself clear when we talked about
+this last tuesday : i am not advocating penalizing business units because of
+their lweek rovars or sharpes . i would certainly not set traders ' bonuses
+based on these numbers ( nor do i think anyone at enron would consider doing
+that ) .
+enron focuses on long term profit and risk . however , the long term is made
+up of many short terms , and catastrophes can occur if a company ' s management
+does not pay close attention to the latter . indeed , enron management is very
+interested in short term profitability ( they want to be notified of very
+large 1 and 5 day losses ) and short term risk ( we report daily var limit
+violations ) . in this spirit , i am simply offering 1 and 4 week rovars and
+sharpes as something interesting and useful that we can now produce from the
+dpr database , and i will let upper management use or ignore them as they see
+fit .
+regards ,
+eugenio
+naveen andrews @ enron
+09 / 08 / 2000 11 : 13 am
+to : eugenio perez / hou / ect @ ect
+cc : ted murphy / hou / ect @ ect
+subject : risk metrics
+eugenio ,
+in regard to your recent e - mail concerning rovar , sharpe and other
+risk metrics , and our meeting on tuesday , it is imperative to understand that
+( 1 ) while p & l is a number one can aggregate on a daily basis , var numbers on
+1 - week or 4 - week basis , and consequently rovar numbers , are not meaningful
+operationally ( ie , trading activity and senior management decision - making )
+and statistically . rovar and sharpe were designed to measure business unit
+performance over extended time periods ( preferably a year ) . specifically ,
+you cannot penalize , or make reasonable business decisions about a unit ,
+because of their 1 - week rovar or sharpe .
+( 2 ) significant trading activity at ene is composed of long - term strategic
+trades ( seasonal plays with durations of over 6 months , perhaps ) , wherein
+desk heads and senior management have an intuitive feeling for their rovar
+( over 6 months ) . a 1 - week or 4 - week " interim " number in this case is not
+useful . traders might purposefully want to make a certain 1 - week or 4 - week
+rovar low in their trading activity if they believe their 6 - month number can
+be high . in such a case , a 1 - week number might send dangerous messages to
+senior management .
+( 3 ) conceptually , p & l and var , in isolation , are numbers which are sound and
+rigourously calculated . the ratio , however , one has to be careful about .
+the numerator ( cumulative p & l over a certain period ) can be aggregated by
+simple arithmetic summation , no problems . however , the denominator ( average
+daily var over a certain period ) relies on the underlying assumption that
+each point in your time series is independent and correlationless . to get a
+sufficient statistic for the denominator , one would have to take a large
+sample in your series ( 6 months or more ) , for a daily average var number to
+be meaningful , statistically .
+( 4 ) the rac group has instituted similar metrics which have been in usage
+for over two years . the numbers are shown to the b . o . d with the express
+intent of comaring business unit performance on a 6 - month or yearly tenor .
+please contact matthew adams ( rac ) or myself to make sure that we are on the
+same footing regarding the actual calculation of such metrics . also , in the
+future , just to be consistent and on - the - same - page , please contact me or mr .
+adams if any risk - related numbers are to be showcased in a public forum .
+( 5 ) finally , as you can probably corroborate , senior management might not
+be fully versed on the nuances of var , let alone 1 - week var ratios .
+therefore , one has to be wary of the misuse of ratios and risk metrics .
+i liked your presentation of your database on tuesday . i think it is a nice
+step in aggregating and dissecting p & l from disparate sources .
+best regards
+naveen

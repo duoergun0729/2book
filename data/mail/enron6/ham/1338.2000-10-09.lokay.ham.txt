@@ -1,0 +1,14 @@
+Subject: sap system outage notifications
+the following servers will be coming down , please click on the icon for more
+details and scheduled times :
+system outage notification
+for : pr 4 - apollo b 2 b production ( spr 4 dbo 0 )
+outage start : ( cst ) 10 / 9 / 2000 at 08 : 00 : 00 pm
+outage end : ( cst ) 10 / 9 / 2000 at 08 : 30 : 00 pm
+outage abstract : the production b 2 b system will be shut down and restarted
+at 8 pm to resolve errors relating to dropped sessions .
+outage description : the production b 2 b system will be shut down and restarted
+at 8 pm to resolve errors relating to dropped sessions .
+outage implication : production b 2 b activities will not be possible during the
+outage .
+contact name : paul calvino # : 800 - 383 - 3929

@@ -1,0 +1,23 @@
+Subject: re : eott options
+tracy ,
+attached is a spreadsheet model which contains both black - scholes and
+american option valuation models . these are the generally accepted methods
+for valuation of options on equity . the " european " option prices assume
+that the option holder can exercise his options only at maturity , while the
+" american " style options can be exercised at any time during their life .
+i have assumed in the examples that the underlying equity units have a market
+value of $ 13 . 00 and that the options are struck at this level . the
+volatility input is the other main assumption . eott has been trading
+recently with a volatility ranging between 30 % to 40 % although looking
+further back , the range is much wider .
+to run the model , you must be linked with the options library . i am not
+sure what lan you are connected with , but you can coordinate with zimin lu
+( x 36388 ) for help with loading the option library add - in module . on the ena
+lan it is located under o : \ research \ exotica \ xll \ exotica . xll . this is
+loaded in excel using the tools / add - ins and browse to reach the add - in
+location .
+- - stinson
+x 34748
+p . s . i will mail you a hard - copy of a plot showing recent eott volatility
+as well . if you would like us to help you in running specific examples ,
+please let me , vince , or zimin know .

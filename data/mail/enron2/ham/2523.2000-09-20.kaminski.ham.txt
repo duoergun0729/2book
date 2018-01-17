@@ -1,0 +1,34 @@
+Subject: sacramento weather station
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike a roberts / hou / ect on 09 / 20 / 2000
+09 : 06 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+scott tholan @ enron
+09 / 19 / 2000 07 : 57 pm
+to : mark tawney / hou / ect @ ect , gary taylor / hou / ect @ ect , mike a
+roberts / hou / ect @ ect
+cc : chris clark / na / enron @ enron
+subject : sacramento weather station
+hey guys ,
+we ' re talking to a contractor ( s ) that can build us a weather station
+( hopefully very quickly ) for placement in sacramento , california . for a
+variety of legal , contractor , and operational reasons , i need to confirm some
+of the following requirements as soon as possible so we can proceed :
+a ) you need rainfall , snowfall , and temperature measurement from one ,
+high - accuracy commercially available weather station .
+b ) you need a daily feed of this data to enron ' s weather desk : does this
+mean one data dump at a set time per day ? alternatively , will you need to
+check the data real - time , perhaps at varying and multiple times during the
+day ?
+c ) we will be installing this station near sacramento , california : we will
+need to know exactly what areas in / near sacramento are suitable for the site
+of the weather station . ( what again was the name of the town that you
+mentioned mark ? ) in the interest of time , i recommend that your weather
+expert accompany our landman to select the site , which will allow our landman
+to more quickly lease and install the station .
+d ) you desire to have some independent security measures to deter or detect
+tampering . i suggest given the very short time fuse , that we first install
+the station and then develop security measures .
+e ) we will feed the data directly to the enron weather desk . will any other
+parties require real - time access to this data ?
+please forward responses directly to : chris clark / na / enron and myself .
+thanks , scott

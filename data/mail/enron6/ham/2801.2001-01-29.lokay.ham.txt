@@ -1,0 +1,7 @@
+Subject: sempra ( daily firm )
+shipper : sempra energy trading corp .
+contract : 27491 daily firm
+term : 02 / 01 / 01 thru 02 / 28 / 01
+rec . pt / volume : poi 56498 ( bloomfield compressor ) 10 , 000 dth / d
+rec . pt / volume poi 58646 ( west texas pool ) 5 , 000 dth / d
+del . pt / volume poi 10487 ( socal needles ) 15 , 000 dth / d

@@ -1,0 +1,27 @@
+Subject: confidential - - re : august 24 tw conference call minutes
+following up on my " to do " from our conference call , the information below
+may be useful as we attempt to justify capital / operational expenditures on
+the tw system :
+objective : try and quantify in revenue terms the lost value of decreased
+west throughput to tw
+first a few assumptions :
+fuel prices used were : permian = $ 4 . 785 / mmbtu and san juan = $ 4 . 14 / mmbtu
+baseload volume flowing west was assumed to be 1 , 090 , 000 mmbtu / d
+fuel consumed = 2 %
+revenue impact is based upon current contracts and assumes lost fuel and
+commodity charges only . tw continues to collect the reservation charges .
+result :
+based on current gas fuel prices , for every 1000 mmbtu / d delivery we lose on
+the west end , this translates to approximately $ 150 / day of lost revenue . if
+we assume the pressure drop at station 1 is preventing us from delivering
+25 , 000 mmbtu / d into socal , then the lost revenue for tw would be $ 3 , 305 per
+day or $ 1 , 206 , 000 per year . to give you an idea of the significance of the
+fuel value , of the $ 3 , 305 daily revenue , approximately $ 3 , 072 of it is fuel
+related .
+one more thing :
+we assume here that tw continues to collect the reservation charges .
+however , on a long term basis , if the west condition continues , we run the
+risk of losing the reservation as well . based on 25 , 000 mmbtu / d , this value
+equals $ 2 , 500 , 000 per year .
+let me know if you have questions . i can be reached at 713 - 853 - 5559
+kh

@@ -1,0 +1,50 @@
+Subject: gtv project status weekly update
+please see below for the gtv project status weekly update and the attached file for the updated project timelines . changes are underlined .
+gtv status meeting attendees : thu dang , nayan dattani , bill fortney , george grant , jeff gossett , jay krish , francis lim , russ severson , michael swaim , zhiyong wei , jeremy wong , steve stock , narasim kasaru .
+accomplishments :
+? gtv 2 phase 1 items
+o released to production .
+? saving different views in tds :
+o released to production .
+? capability for desk roll - ups on an ad hoc basis ( phase 2 , on hold since 7 / 9 / 01 ) :
+o new process for roll - up aggregators has been completed .
+? option grid ( phase 2 ) :
+o released to production .
+? gas daily options ( phase 2 ) :
+o released to production .
+? basis options ( phase 2 ) :
+o development of deal entry type for basis options has been completed in tagg .
+o development of loading correlation curves has been completed .
+o changes to the translator have been completed .
+? transport deal capture & valuation ( phase 2 ) :
+o creation of new deal entry type & database changes has been completed .
+o changes to the translator have been completed .
+? add more information to the drill - down deal details .
+o released to production .
+? new flexible deal viewer .
+o database schema design completed .
+o initial load of active deals from sitara completed .
+o tibco work completed .
+o units of measure conversions completed .
+o update of active deals from sitara completed .
+o development of query engine completed .
+o development of delphi feed to excel completed .
+plans for the week ending 08 / 17 / 01 :
+? continue it development of phase ii issues .
+o change portcalc to value basis spread options .
+o option reports ( pl reports ) .
+o complete testing of changes to the translator for transport deals .
+? new flexible deal viewer .
+o complete initial loading of active deals from tagg .
+o complete development of excel vb .
+o continue schema mapping .
+o start development of update of active deals from tagg .
+o continue development of update server .
+issues :
+? none .
+notes
+? the issue with the new gdi calc for calgary has not been resolved yet . we are planning to resolve it by this friday .
+? gtv 2 phase 1 items have been in production since monday . there have been a few minor issues with the production release . the it team has been working with chuck to resolve them .
+? a couple of developers have been in training this week , which has some impact on the development .
+thanks
+zhiyong

@@ -1,0 +1,35 @@
+Subject: re : transport model
+ken and greg ,
+the gamma and cross gamma from our spread option appear to be correct .
+one anomaly i found is the price change as function of maturity , see attached
+figure .
+it is odd , isn ' t it ? and the seeming gamma anomaly is largely because of
+this .
+zimin
+enron north america corp .
+from : kenneth shulklapper 08 / 07 / 2000 11 : 40 am
+to : zimin lu / hou / ect @ ect
+cc :
+subject : transport model
+zimin ,
+i have been looking at the new transport model and there are some returns in
+the greek calculations that i am not comfortable with . i have looked through
+the formulas and do not see inconsistencies , but we are getting significantly
+higher gamma values in ' out years ' than in the ' near months / years ' . rho also
+seems to be very high throughout the curve . we are prepared to release this
+model to be used on the floor , but would like you to sign off on the
+calculations . i know that you have a meeting on this on wednesday , and
+wanted to get you the model to review early .
+a good example that i am talking about is on the tab " longterm 9 " . this is
+the kingsgate to malin deal that we worked on previously .
+please give me ( or greg couch ) a call with any questions .
+thanks .
+ken
+3 - 7009
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kenneth shulklapper / hou / ect on 08 / 07 / 2000
+10 : 58 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : victor guggenheim 08 / 07 / 2000 10 : 54 am
+to : kenneth shulklapper / hou / ect @ ect
+cc :
+subject : transport model

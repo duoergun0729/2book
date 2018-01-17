@@ -1,0 +1,34 @@
+Subject: xpress and cplex runtime comparison results
+vince ,
+fyi
+below is the comparison of the computation time results from cplex and xpress
+optimization softwares .
+- chonawee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by chonawee supatgiat / corp / enron on
+05 / 19 / 2000 03 : 26 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+chonawee supatgiat
+05 / 17 / 2000 05 : 48 pm
+to : samer _ takriti @ enron . net , stinson gibner / hou / ect @ ect , ravi
+thuraisingham / enron communications @ enron communications
+cc : tom halliburton / corp / enron @ enron , pinnamaneni krishnarao / hou / ect @ ect ,
+ming - lung . lee @ sycamorenet . com , ming 888 lee @ aol . com
+subject : xpress and cplex runtime comparison results
+hi ,
+i have tested both cplex and xpress - mp optimization software in solving our
+network design problem .
+xpress is more user friendly hence it takes less developing time . however ,
+cplex performs significantly better
+in term of computation time , especially in integer programming .
+as a result , eventhougth xpress is easier to use and cheaper , i would
+recommend our ebs group to use cplex .
+please let me know what do you think . . .
+the test problem has 10 nodes , 77 cables , 5 cable speed .
+the table below represents the computation time in seconds for solving this
+problem .
+the second column indicates if the general integer variables are relaxed ( but
+still keep the binary variables ) .
+the " lp " column represents the computational time when solving relaxed
+problem ( no binary & integer variable constraints ) .
+xpress took too much time in solving case 4 and 6 so i had to stop the
+process and report the best solutions it found .
+below are the graph .

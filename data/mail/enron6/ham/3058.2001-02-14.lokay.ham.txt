@@ -1,0 +1,14 @@
+Subject: sap changes due to migration to windows 2000
+enron is currently in the process of migrating to windows 2000 , and the entire
+roll - out is expected to take several months .
+if you are a sap user and have migrated to windows 2000 , you  , ll notice some
+changes in the buttons ( or icons ) on the sap screens . the attached document
+summarizes the changes you  , ll see from sap  , s " old " to " new " looks , and it
+will be a valuable reference tool for you as you familiarize yourself with
+the new look in sap .
+if you have not yet been migrated to windows 2000 , please retain this message
+and attachment for future reference .
+questions regarding the above - mentioned changes may be directed to the isc
+call center at 713 . 345 . 4727 . if you have questions about the windows 2000
+migration , please contact the enron resolution center at 713 . 853 . 1411 .
+thank you .

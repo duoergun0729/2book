@@ -1,0 +1,49 @@
+Subject: gcp / sap / mid office systems master data issues
+hello everyone ,
+please find below the issues , action taken , and action plan / proposed
+resolution for gcp / sap / mid office systems interface .
+if you have further questions / comments , please feel free to contact me .
+regards ,
+janet
+issues :
+brazil and argentina tax code - counterparty tax code for these countries are
+required in sap but not in gcp .
+bank partner type changes - partner bank type changes for counterparties - -
+triggered by master data changes in gcp - - while bank data remains the same ,
+resulting in invoices being paid to the incorrect bank and / or bank account .
+ownership - who owns what ?
+action taken :
+brazil and argentina tax code
+meeting took place . agreed upon plan is for mid office user to provide tax
+requirements and / or codes to bill . sap is waiting for tax requirements
+and / or codes to determine whether user exits should be disable ( these are
+custom user exits sap has implemented to accommodate the brazil and argentina
+tax requirements back from 1 / 01 / 00 go - live )
+bank partner type
+our understanding is gcp has agreed to modify the gcp program to keep bank
+partner type static . gcp technical team is developing this solution .
+ownership
+mid office users own data
+gcp maintains counterparty master data
+gcp and sap ensure that solution in place to move master data from gcp to sap
+satisfy invoicing and cash processing business requirements .
+summary :
+many meetings have taken place . major progress has been made . now we need
+to evaluate gcp reengineering initiative to see whether it affects scope and
+requirements regarding current solution in place for this 3 - way interface .
+proposed resolution :
+swat team representing both houston and london to be formed and meet in
+london week of sep . 11 - 15 th to :
+address all issues evolving around this interface .
+develop solutions to issues , workplan , ownership , and timeline .
+swat team members :
+janet tran - sap trapar
+pamela lebrane - sap trapar
+diem pham - sap technical - - will already be in london that week for eel
+bill hare - gcp functional ( houston )
+mary solmonson - gcp functional ( global ) - - will already be in london that
+week for other business
+energy operations reprentative ( s ) - with brazil / argentina tax knowledge
+bhautik patel - gcp functional ( london )
+brian hunter - lindsay - gcp functional ( london )
+john paskin - sap london

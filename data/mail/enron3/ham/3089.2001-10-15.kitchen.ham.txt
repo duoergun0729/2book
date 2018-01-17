@@ -1,0 +1,7 @@
+Subject: ats warrants
+louise ,
+i do not think it is possible to begin selling the ats warrants at this time .
+per the ats warrant certificate , the ats common shares issuable on exercise of the warrants may not be sold , transferred or otherwise traded until march 20 , 2002 . the warrants are also non - transferable except to an affiliate .
+in addition , the ats warrants are valued daily using a black - scholes model . the spreadsheet with the result of the evaluation is attached . the current value of the warrants is $ 762 , 600 usd using the evaluation model . however , the current ats stock price on the canadian venture exchange is $ 0 . 97 c with an warrant exercise price of $ 0 . 85 c for the first 2 , 000 , 000 share tranche . the second 1 , 000 , 000 share tranche has an exercise price of $ 1 . 10 c . thus , the current value is considerably less than the black - scholes evaluation model is calculating .
+if you have any questions please give me a call at extension 33541 .
+kevin miller

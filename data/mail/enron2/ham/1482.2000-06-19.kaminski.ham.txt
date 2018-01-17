@@ -1,0 +1,41 @@
+Subject: mg metals : quant analysis & risk
+hi eric ,
+thanks for getting back to me - i believe there are a number of issues to
+address to ensure that the integration goes smoothly from a risk management
+and quantitative analysis perspective , and i have put together a ( by no means
+exhaustive ) list : -
+i ) seamless transfer of front and middle office systems from an exotic
+options linking perspective ( e . g . their spreadsheets link to different option
+pricing add - ins )
+ii ) development of volatility curves and factor analysis to ensure that we
+can capture metals risk in our var system ( we will require historical data
+for this ) .
+iii ) ensure that mg staff on quant and risk side become familiar with our
+methods and systems and vice versa
+these tasks will involve a significant degree of cross - communication with
+relevant contacts within mg metals , and so i look forward to starting on the
+process as soon as possible - i hope to play a full part from a quantitative
+research and risk management perspective to ensure that everything goes
+smoothly in this exciting new development , so please do not hesitate to
+involve me .
+best regards ,
+anjam ahmad
+research
+x 35383
+enron europe
+from : anjam ahmad 15 / 06 / 2000 16 : 18
+to : eric gadd / lon / ect @ ect
+cc : dale surbey / lon / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : quant analysis & structuring for metals business
+dear eric ,
+i understand from dale that you are co - ordinating the integration of mg
+metals into enron europe . dale and i thought it would be a good idea to
+ensure that we are fully prepared from a quantitative research and
+structuring perspective so that we can " hit the ground running " when they do
+arrive . i would be grateful if you could provide a contact person in mg
+metals that may look after this area , or someone who may find it useful to
+discuss and identify their possible future modelling requirements .
+thanks & regards ,
+anjam ahmad
+research
+x 35383

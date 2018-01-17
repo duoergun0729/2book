@@ -1,0 +1,22 @@
+Subject: re : using ling - spam for discourse analysis
+many thanks for letting me know . sounds interesting !
+ion
+- - -
+ion androutsopoulos - - http : / / www . aueb . gr / users / ion /
+lecturer , dept . of informatics , athens univ . of economics and business
+- - - - - original message - - - - -
+from : d . lohmann [ mailto : dlohmann @ gmx . de ]
+sent : wednesday , july 14 , 2004 12 : 16 am
+to : ion @ aueb . gr
+subject : using ling - spam for discourse analysis
+dear mr . androutsopoulos ,
+i just wanted to let you know i found the ling - spam corpus on your
+website and wanted to notify you that i am using several spam e - mail
+examples taken from your corpus for a final paper . i am a student of
+computational linguistics at the university of potsdam in germany
+( www . ling . uni - potsdam . de / cl ) and i ' m currently writing about the
+discourse structure of spam e - mails for a seminar on discourse and
+dialogue structure .
+thanks for the corpus ( even though i don ' t do any spam filtering with
+it ) - - best regards ,
+dorothee lohmann

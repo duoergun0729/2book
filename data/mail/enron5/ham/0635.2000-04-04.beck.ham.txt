@@ -1,0 +1,19 @@
+Subject: prudency
+wes ,
+as we discussed on friday , i think that there is merit to your arguments
+regarding the release in prudency in north america . however , this may alter
+the way we articulate the relative liquidity of our positions to banks and
+ratings agencies . de facto , we will be saying that our balance sheet and
+income statement reflect an ability to liquidate gas and power in north
+america at the mid with no adverse effects . while this may be true ,
+typically these types of institutions see the result of liquidating much more
+liquid portfolios , i . e . , they will not believe that we have perfect
+liquidity . i believe that we can satisfy both accounting and credit
+considerations if we maintain an ability to calculate an " orderly
+liquidation " under a negative pricing scenario ( basically , multiple horizon
+var against a liquidating position ) . this is what we showed moody ' s last
+month . the main difference is that the resulting number will be a hit to p & l
+as opposed to having reserves against it . this is a long way of saying that
+i think it would be a good idea to discuss prudency methodology with both rac
+and treasury once you have finalized a course of action .
+ted

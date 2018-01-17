@@ -1,0 +1,17 @@
+Subject: weather
+todd ,
+per our discussion on moving forward with the development of a weather
+trading and valuation engine . i have discussed the high level requirements
+with joseph koothrappaly and have identified an it lead to manage the
+project . as discussed , the project will have the same project formula as the
+" thunderball " project with 3 - 6 month deliverables . also , the need to have
+co - operative development between houston and london will be established for
+global roll out of the weather system . the main focus will be a intranet
+trade capture and position with a callable valuation engine . the plan calls
+for phase i roll out for january 1 , 2001 . next steps will need to be
+discuss as soon as possible . topics that need to be addressed are definition
+of phase i , joint development between houston and london , and duel
+development between steve stock ' s valuation team and my trading team . keep in
+mind that though multiple teams will have development assignments , one person
+will manage the effort across teams .
+richard

@@ -1,0 +1,30 @@
+Subject: re : wholesale and retail power systems
+i will fix this .
+mark pickering
+chief technology officer
+enron net works , llc
+_ _ _ _ _
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : 07 november 2001 09 : 47
+to : pickering , mark
+subject : fw : wholesale and retail power systems
+- - - - - original message - - - - -
+from : belden , tim
+sent : wednesday , november 07 , 2001 9 : 06 am
+to : lavorato , john ; kitchen , louise
+subject : wholesale and retail power systems
+about a month ago i held a meeting in houston to bring together the systems , operations , and commercial people who were responsible for designing and building our wholesale and retail systems . there were probably twenty people there , including beth perlman , anthony dayao , beth appollo , bob hall , leslie reeves , lloyd will , todd busby , greg woulfe , rogers herndon , murray o ' neil , steve nat , jeff richter , thresa allen , pablo ? , mark pickering , dale furrow , and many more .
+two of my suspicions were confirmed in this meeting . first , it was clear that there were a bunch of people working in silos . beth ' s group was just starting to talk to anthony ' s group . the site profile team wasn ' t on the same page as richter who wasn ' t necessarily in sync with herndon . ees and ena ( and for that matter east ena and west ena ) volume management and rto settlements people weren ' t talking to one another . second , it was clear that nobody had tried to map out what all of the necessary functions are and how they should fit together . we tasked todd busby , debra bailey , and lloyd will to spend a month talking to each group and " drawing the picture " of all of the systems that were being worked on and how they should fit together . they brought in a couple of people from accenture to assist with this project .
+the powerpoint presentation below documents their findings . i would encourage you to look at pages 11 through 15 which summarize the issues and recommendations . here are the highlights :
+power it and operations remain organizationally divided between wholesale and retail
+settlements development efforts are not global
+create one power it & one operations organization for retail and wholesale power
+create power program management team to coordinate business requirements for trading , risk , settlements busby , todd ; richter , jeff
+subject : version 5 - small tweaks only ( not required )
+tim ,
+i made the following changes to the presentation which are not required for your distribution if you have already sent it out :
+1 . page 10 first bullet - changed " one power and operations organization " to " one power and one operations organization " .
+2 . page 11 - modified colors to clarify point
+debra
+>

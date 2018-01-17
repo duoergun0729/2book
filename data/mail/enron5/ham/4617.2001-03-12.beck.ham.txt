@@ -1,0 +1,57 @@
+Subject: fw : minutes from back office services meeting held morning of 3 - 12
+fyi - - just so you can see what went on this week , when you return .
+beth
+- - - - - original message - - - - -
+from : philipson , fred
+sent : monday , march 12 , 2001 1 : 57 pm
+to : apollo , beth ; neuner , dale ; thomas , sheri ; ' jdenny @ enron . com '
+cc : scribner , james ; jafry , rahil
+subject : minutes from back office services meeting held morning of 3 - 12
+all :
+here ' s a summary of our meeting this morning . as we begin to lay the
+groundwork for this project , i think it ' s important to summarize our thoughts
+and activities in writing . if any of you have comments or corrections ,
+please feel free .
+thanks ,
+fred philipson
+5 - 9323
+minutes from back office services meeting held morning of 3 - 12
+attending :
+james scribner trans support sheri thomas trans support
+beth apollo trans support dale neuner trans support
+jennifer de boisblanc trans support fred philipson enw origination
+objective
+enron is sizing up the opportunity to offer internal back office processing
+services to external clients . objective of this meeting was to understand the
+spreadsheet meant to estimate the potential p & l for this offering .
+overview
+looked at spreadsheet for validation :
+? need to better determine the actual market for this service .
+? need to better understand the current revenue and expense projections and
+assumptions , expanding on them to include customers not currently with enron .
+ongoing :
+defining the size of the market :
+? there may be three  + levels  , of markets for these services - one for energy
+risk mgt . ops ( attack first ) , a larger market if we include global market
+offerings , and yet a larger market if we think of our offering as transaction
+processing , ala adp .
+? there are a number of ways to derive the potential market size . the
+current spreadsheet identifies existing customers . some may be seeking our
+services based on their current and projected deal volumes .
+? fred will continue to analyze the market size ( s ) , adding customers outside
+of current eol spectrum .
+? fred will analyze the offerings and pricing structures used by competitors .
+? sheri will get with internal data owners to ( in ) validate current
+spreadsheet numbers and identify customers with high year - over - year increases
+in eol transaction volume .
+expenses
+? james will take a harder look at the expenses . we wonder if number of
+transactions is the best method to use . what is the real cost driver ? where
+are the  + breaking points  , , or transaction levels where we must invest further
+to offer services to additional customers ?
+strategy
+? beth apollo will schedule a meeting with beth perlman , jenny rub , rahil , et
+al to discuss ongoing big picture .
+? beth will also schedule a meeting with mark taylor , to include rahil and
+dale . they will discuss points on the service level agreement that we will
+use with our external customers .

@@ -1,0 +1,12 @@
+Subject: eol reporting database
+dear sally :
+i am a new member of jay webb ' s enrononline technical team . in my role , i
+have had the opportunity to review the eol reporting database created by
+eugenio perez . eugenio has demonstrated good technical and problem solving
+skills in the development of the reporting database . he was able to apply
+his knowledge of microsoft access and expand his programming skills . he
+quickly developed an application that served the immediate needs of eol .
+eugenio should be commended for growing his technical skills to develop his
+first access application .
+sincerely ,
+chris

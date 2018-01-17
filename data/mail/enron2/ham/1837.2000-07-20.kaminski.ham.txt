@@ -1,0 +1,87 @@
+Subject: re : status
+clayton ,
+we can discuss your request when i come back to the office on monday .
+regarding the trip to portland . such a trip requires an explicit prior
+permission from your boss ,
+myself in his absence , or stinson in my and vasant ' s absence .
+in case you did not ask for such a permission before , the request is denied .
+vince
+clayton vernon @ enron
+07 / 20 / 2000 03 : 12 pm
+to : vasant shanbhogue / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect
+subject : status
+vasant -
+i hope you had a wonderful vacation back home , and are rested and recovered
+from the long flight back .
+i wanted to give you an update of the eol project , the gas model , and of my
+intentions here at enron .
+software ( in compiled c on the unix platform ) has been developed and debugged
+to listen to the eol trades , process them , book them , and file them away . in
+addition , software has been developed and debugged to mark these to market on
+a continual basis , and to store the entirety of open positions on eol in a
+dynamic matrix facilitating analysis . it has yet to get back with me on how
+the software can be informed of those trades ultimately rejected for credit
+purposes .
+these data files are stored in a format for reading by excel or by sas , for
+which i have written the data step program and basic tabulation routines
+elucidating the structure of the data .
+i am in the process of documenting all of this for you .
+with regards the gas model and its slow performance on the compaq , dell has
+agreed to loan me one of their competing machines to the compaq , to see if
+the performance issue of the lp is related to the compaq . i have been
+researching this issue with it here and with compaq and dell . the new machine
+will be here any day now ( no financial obligation to anyone ) , and i will be
+able to immediately ascertain whether the problem the model is having is
+compaq - specific .
+i am also in the process of documenting the gas model for you .
+i ' ve tried to do my best for you , vasant , but i have been frustrated by not
+only the death of my mother but some internal systems in it here . just the
+other day , sas could not open a full query of the eol database because there
+wasn ' t enough free space on the server ' s hard drive for the workfiles . in
+discussing some of these issues with some good friends of mine in power
+trading , people whom i have known for over 10 years , they indicated they were
+ubiquitous here . the power traders have similar pc ' s to my new one , and they
+have complained from day 1 that theirs are slower than their old ones . also ,
+there remains a large frustration with the development of data warehouses ;
+during my brief tenure here it has gone through two differing proposals as to
+how to address this . when i have been told of tools available for real - time
+data harvesting , my requests for such have typically been met with " well , we
+have it , but we haven ' t really tested it yet . " an example is the weather : we
+still do not record to disk the hourly nws observations from the goes
+satellite .
+my interests here are to help enron to do well , because i will do well only
+if enron does well . these aren ' t empty words - my ira is 100 % invested in the
+enron stock fund . i believe my best contributions to enron will be in the
+areas of systems as well as modeling , and the difficulty working in the
+research group , in terms of systems development , is that , frankly , few people
+at enron seem to care what a researcher thinks about our systems . we aren ' t
+directly generating revenues for enron , and we aren ' t really their customers ,
+except in our relatively small deparrtmental infrastructure expenses .
+as it happens , power trading posted an opening for a modeling and forecasting
+person , and i spoke with them and they asked me to take the job , reporting to
+george hopley . it is a wonderful opportunity for me , vasant , as they are
+interested in large system modelng of power grids as well as improving their
+traders ' access to real - time fundamentals data . i was completely candid with
+kevin presto regarding my shortcomings here in research - i told him you were
+disgusted with me because i repeatedly failed to meet time deadlines . they
+also understand i have yet to be at enron for 1 year , and thus may only bid
+on a job with your permission . we agree the move is good for enron ; we all
+work for enron , and your acquiescence to the move does not endorse it but
+merely permit it . they are comfortable with me - they have known me for years
+as a hard worker , honest and unpretensive . they have already ordered a
+state - of - the - art unix workstation and server for me , and they have told me
+they will commit whatever resources are necessary for me to be successful ,
+including hiring an analyst to work for me . and , i have already been able to
+teach their analysts improved techniques for data harvesting and analysis i
+have learned here .
+so , i am requesting your permission to bid for this job opening . it would be
+a lateral move in position and salary , and i would commit to you to help you
+in any way possible in the future with regards the gas model or the eol
+database . i will continue to work on their improvement , and complete their
+documentation .
+as it happens , i am away on enron business in portland monday and tuesday ,
+and will be back wednesday . i had wanted to talk face - to - face instead of by
+email , but enron business supercedes - i am on a team designing the data
+warehouse for floor trader support .
+clayton .

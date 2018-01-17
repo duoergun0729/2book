@@ -1,0 +1,24 @@
+Subject: load forecasting project schedule
+based on the discussions we had on monday , august 14 th , the preliminary
+project timeline shown below , and your request that some gas supply planning
+personnel be available to review and assist with the work :
+data collection : august 15 to september 14
+model design and building : september 15 to october 14
+interface design and building : october 15 to november 15
+gas supply planning proposes the following schedule for visits to houston :
+ketra schmitt : september 18 , 19 , 20 ( model structure )
+john wirick : october 23 , 24 , 25 ( model test and interface basics )
+jake norment : november 6 , 7 , 8 ( interface refinement )
+we understand that we should fly into houston international and stay at
+either the hyatt downtown or the doubletree to be near the enron office at
+1400 smith street .
+looking forward to an interesting and successful project .
+john p . wirick , jr .
+ext . 4910
+the information transmitted is intended only for the person
+or entity to which it is addressed and may contain confidential
+and / or privileged material . any review , retransmission ,
+dissemination or other use of , or taking of any action in
+reliance upon , this information by persons or entities other than the
+intended recipient is prohibited . if you received this in error , please
+contact the sender and delete the material from any computer .

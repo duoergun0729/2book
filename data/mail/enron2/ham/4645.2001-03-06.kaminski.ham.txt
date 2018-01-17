@@ -1,0 +1,40 @@
+Subject: re : a request
+vince ,
+i will supply a generic example .
+zimin
+vince j kaminski
+03 / 06 / 2001 09 : 31 am
+to : zimin lu / hou / ect @ ect
+cc :
+subject : a request
+zimin ,
+it seems that the academia is catching up .
+do you have a realistic case we can show them ?
+something generic .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 03 / 06 / 2001
+09 : 31 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ds 64 @ cyrus . andrew . cmu . edu on 03 / 02 / 2001 09 : 39 : 43 am
+to : " vince j kaminski "
+cc :
+subject : a request
+vince ,
+i am writing to ask for your help with some research i am doing with john
+lehoczky and a phd student . we trying to apply recent advances in monte
+carlo for american options to value swing and other options with multiple
+early exercise decisions that are important in energy markets . i know in
+general that early exercise shows up in a wide range of energy contracts ,
+both real as welll as financial . would it be possible for you , either via
+email or on the phone , to give us some examples of typical terms for such
+instruments ? we would like our examples to look realistic . we also want to
+make sure we are focusing on the right sorts of optionality .
+thanks in advance ,
+duane
+* * * * * * * *
+duane seppi
+graduate school of industrial administration
+carnegie mellon university
+pittsburgh pa 15213 - 3890
+tel . ( 412 ) 268 - 2298
+fax ( 412 ) 268 - 8896
+email ds 64 + @ andrew . cmu . edu

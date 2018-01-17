@@ -1,0 +1,44 @@
+Subject: changes in option valuation in enpower
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 03 / 21 / 2001 08 : 33 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : harry arora / enron @ enronxgate on 03 / 21 / 2001 07 : 26 am
+to : sanjay gupta / enron @ enronxgate , steve nat / enron @ enronxgate
+cc : zimin lu / hou / ect @ ect
+subject : changes in option valuation in enpower
+sanjay
+wanted to confirm the changes to the option valuations in the enpower we
+discussed yesterday evening .
+1 . currently the trader volatility inputs are the daily vol curve and the
+intra - monthly vol curve . the monthly options get marked directly to the
+monthly curve ( plus the smile ) and the monthlies get marked to a time blend
+of monthly and intra - month vol ( plus the skew ) .
+we want to change the valuation ( for the eastern books ) so that the dailies
+get marked to the intramonth curve ( which we want to call the daily curve )
+and the monthly gets marked to the monthly curved . there will be not vol
+blending done by the enpower system for the daily and monthly option
+valuations . we want to make this change very soon ( by early next week )
+2 . currently there exists one smile for every region , which is specified in
+terms of volatility additive for specified dollar difference from the
+underlying . since different months in a region can trade in a large range
+( $ 35 - $ 150 ) - this cannot result in accurate skew for all terms . what we
+need is a system which has skew per month .
+we suggest , for the short term , the skew should apply only to the summer
+daily expiration options . we need to make this change by early next week .
+however , we need to start modifing the system so that for every region we
+can enter a grid which has a percentage scale and specifies the skew
+differently for each month . research , has implemented this in our pricing
+model , and we would like this grid to be input into the valuation system . i
+am enclosing the pricing model ( which we both discussed yesterday ) for
+reference . this model is however , work under construction , so pls call alex
+huang for clarifications .
+3 . the vol input system is complex and confusing .
+i would very much be interested in moving to a direct database interface ,
+which accomodates the skew inputs per region as in . we should implement a
+ui which can input the dailies and monthlies at the moneys and the skew grid
+directly - so that we do not need to go through multiple iterations .
+i am very much interested in what we currently are releasing in delphi and
+would love an early implementation for options .
+on all these issues , i am speaking for the east desk . i am going to touch
+base with west guys and see if they are on board with these changes .
+thanks
+harry

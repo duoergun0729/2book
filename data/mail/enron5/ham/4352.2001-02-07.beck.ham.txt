@@ -1,0 +1,44 @@
+Subject: active / inactive books website
+we are currently in the process of creating a website for each of the book
+administrators to maintain the active / inactive status of their books . this
+website will also will allow the book administrators to check their post id ' s
+against active books . all books will be identified by book administrator and
+trading group . the attached spreadsheet lists every book in risktrac ,
+provides what we currently believe the status ( active / inactive ) to be for
+most books and some commodity codes associated with those books .
+additionally , there are two columns for book administrators and trading
+groups , which are both empty .
+in order for us to load the website with the most accurate data , we need for
+each of you , as heads of your respective groups , to identify which books
+belong to your book administrators and update the respective fields
+associated with those books . refer to the following rules for updating
+certain fields :
+1 ) the book status should be active , inactive or archive . if a book has any
+deals / positions that should be officialized , might affect var , and / or might
+affect credit exposure then the book should have an active status . if the
+book has no deals / positions , but the intent is to use the book sometime in
+the near future , then the book should have an inactive status . if there are
+no plans to continue using the book then it should have an archive status .
+periodically , books marked as archive will be removed from the website and
+archived . a request can be made to the risk controls group to have the book
+unarchived and placed back on the website .
+any books that do not have a status updated will default to active . any new
+books set up and placed on the website will default to active .
+2 ) the last officialized and commodity code columns are provided to help you
+and your group identify which books are yours and the book ' s status .
+3 ) the trading group column should have your name next to each of the books
+that your book administrators own . this will allow you to query all books in
+your trading group to check if all active books have post id ' s or if an
+inactive book has a post id .
+4 ) the book administrator column should have the name of the book
+administrator responsible for the book . this will allow you and the book
+administrator to look at individual book administrator ' s books and post id ' s .
+once this website is up and running , each book administrator will be required
+to update the status of each of their books on a daily basis and the book
+administrator on an as needed basis . all of these changes will be made
+directly on the website .
+we are trying to get this process in place as quickly as possible , so please
+return this information at your earliest convenience to my attention . you
+may call me at x 33102 with any questions .
+thanks ,
+chris abel

@@ -1,0 +1,15 @@
+Subject: here ' s a reminder . . .
+dear traders ,
+here are a couple of things i ' ve thought of that will make it easier for me to research deals when there is a dispute . please discuss whatever necessary with the traders to help me improve the speed and accuracy of my research .
+1 . ) all notebooks need to have clear and accurate dates in them . notebooks with no dates at all or random dates are useless for me without the traders ' interpretation .
+2 . ) can we have the traders leave their notebooks here at all times ? i often find notebooks and logs missing for whatever reason .
+3 . ) one thing that is getting better is the accuracy of the inc sheets , however , i still sometimes find that the trader ' s notes and the inc sheets or the el paso model don ' t match . at that point , i don ' t know which one to go by . i need to be sure that i can trust the accuracy of the inc sheets as the end - all .
+4 . ) please make sure that all real - time deals or real - time extended deals are getting routed . i ' ve come across a number of deals that are not routed and this makes it hard for me to know if my research is accurate . it also makes it hard for me to change the other side of a deal that requires changes .
+5 . ) please make sure that all deals get recorded and scheduled . i ' ve seen a few deals that are in the traders ' notebooks , but that haven ' t been entered in enpower . you know the result .
+6 . ) cuts ( need i say more ) . . . are a mess . i really really need to see notes on every cut ! ! ! ! ! this means notes on the cut sheets or in the lotus notes database and notes in deal scheduling !
+when a schedule is cut and the trader has been informed of the cut , i need to see this cut made in deal scheduling with a note . many of my dms ' s could have been avoided if the trader had made the cut in enpower ( this means i found a note regarding the cut but no further action had been taken to record this in enpower ) . i specifically need to see the following for every cut schedule : where did resupply come from ( deal # too ) ? was it a bookout ( deal # too ) ? what ' s the resupply price ? who at the counterparty did our trader talk to ? what is the reason for the cut ? and please initial your notes so that if i have a question about them , i know who to ask .
+you can never make too many notes ! !
+one thing to remember is that deal entry , deal scheduling , and lotus notes do not communicate with each other , so though it is a grueling task , every transaction and all notes have to be entered in at least 2 places . ( it ' s called copy and paste )
+if we can keep these things in mind , i think we will have fewer disputes in the future . and when we do have disputes , i ' ll be able to figure them out in a more timely manner .
+thanks for your attention to these things . i look forward to bugging you less in the future .
+virginia

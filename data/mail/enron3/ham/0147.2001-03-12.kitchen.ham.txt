@@ -1,0 +1,6 @@
+Subject: pastoria update - revised power asset development dash
+the pastoria dash each of you signed last week has been modified at the request of jeff skilling and rebecca carter . late friday afternoon , west power was advised to value the gas transportation on a pvl 0 rather than var basis . the impact of this change was to increase the cost of the gas transportation from $ 34 mm to $ 102 . 3 mm . the $ 102 . 3 mm is a worst - case scenario in that it assumes none of the capacity can be resold .
+also , rac has advised that no new signatures will be required for the revised dash .
+the revised dash will be considered by the enron executive committee this afternoon in a special meeting along with other projects .
+attached for you convenience are ( 1 ) the original dash ( dash dev final dg . doc ) , ( 2 ) the final dash before the executive committee ( dash _ pastoria 4 _ 030901 ) and ( 3 ) a redlined comparision of the final to the original ( dash _ pastoria 4 _ 0309091 _ redlined ) . most all highlighted changes reflect the substitution pv for var . a few minor changes were also made .
+should you have any questions , please do not hesitate to call me at 713 . 345 . 8992 .

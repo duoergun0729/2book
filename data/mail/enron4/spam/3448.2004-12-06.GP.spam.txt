@@ -1,0 +1,11 @@
+Subject: returned mail : see transcript for details
+the original message was received at mon , 6 dec 2004 13 : 02 : 57 + 0900 ( kst )
+from bzgakxfu @ [ 165 . 194 . 27 . 111 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+bill @ epfl . ch
+( reason : 550 bill @ epfl . ch unknown mailbox )
+- - - - - transcript of session follows - - - - -
+. . . while talking to smtp 2 . epfl . ch . :
+rcpt to : bill @ epfl . ch
+550 bill @ epfl . ch unknown mailbox
+550 5 . 1 . 1 bill @ epfl . ch . . . user unknown

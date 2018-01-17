@@ -1,0 +1,17 @@
+Subject: message 4
+dear dr . kaminski ,
+this is a message of discussing the problem in lacima ' s paper . i think that
+glen dixon has told you there is a fault in the paper written by dr . clewlow
+and dr . strickland . it is understandable to have some errors in their work .
+people always make mistakes .
+actually , i found the problem in appendix a of their paper . they can ' t prove
+the eq . a 4 rigorously . there is something wrong in mathematical
+interpretation . if you like , i can give you a full analysis of this problem .
+ps : attached with their paper .
+best regard
+quentin
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+quentin kerr , email : qkerr @ maths . uq . edu . au
+room : 67 - 622 tel : ( 07 ) 33461428
+department of mathematics , the university of queensland
+- energy _ single _ factor . zip

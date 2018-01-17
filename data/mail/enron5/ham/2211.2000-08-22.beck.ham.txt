@@ -1,0 +1,74 @@
+Subject: enron japan commercial support model
+sally
+i just want to summarize / clarify our discussions so far on the commercial
+support model for enron japan .
+my background :
+in europe the commercial support function was divided into a middle office
+( mo ) and a back office ( bo ) part , with a european controller ( fearnley dyson )
+responsible for both functions . for scandinavia , the only trading office in
+europe outside of london , i was responsible for both functions , as local
+office controller , reporting into barry pearce , who reported to fearnley . in
+japan i also have this local office controller function , as being responsible
+for mo / bo activities in this region . the mo would consist of the trading
+related functions : documentation ( capture & confirmation ) , risk management ,
+settlement and trade accounting . the bo would consist of g & a ' s , salaries &
+wages , tax , management reporting , statutory reporting and vat .
+back office :
+i report directly to cassandra scultz ( vp & cao of enron apachi ) . as much as
+possible are to be outsourced to our sydney office ( heidi mason , who also
+reports to cassandra ) , but some work has to be done in tokyo . the reasons for
+this outsourcing decision is enclosed in the power point presentation
+enclosed below . for payments we use houston treasury , as they are the only
+ones that can exercise a payment in the banking systems .
+middle office :
+mandate
+what i have in writing is a section from joe hirl ' s memo ( request for japan
+power trading positions ( draft ) ) to rick buy and greg whalley dated april 19
+this year ( please find enclosed )
+back office operations : jan erland bekeng in cooperation with sally beck
+will look to establish the local risk books in tokyo and define any
+system modifications necessary given the characteristics of the japanese
+electricity market . enron japan will handle trade capture and risk
+management while confirmations and settlements will occur in houston under
+sally beck  , s supervision . it support and system modification will be
+overseen by anthony dayao and performed in houston .
+discussion - current & future situation
+i see more commodities than power . metals will arrive september 25 , weather
+is on the way from sydney , and garry hickerson will from september 1 have a
+guy here doing irfx , agri and maybe equity . we are also looking into oil
+deals , and have plans for gas , coal , pulp & paper , credit and emissions . also
+ebs is on the way . i only see metals , irfx and weather as active desks this
+year , maybe oil . power will take some more time to get active , due to the
+very closed market situation here right now . on the origination side we might
+see some structures / cross commidity / finance deals go through . thus we have a
+mix of activites from enron apachi , enron global markets , ebs and enron
+metals . basically everyone wants to do some business in japan .
+to coordinate all these activities we need to build the most cost efficient ,
+independent , segregated , automised and service minded japanese commercial
+support function possible . to accomplish these objectives , outsourcing to
+sydney is an alternative that has been discussed extensive lately , and is
+highly recommended from our side . labour costs in sydney is 25 % of the costs
+in tokyo . due to sydney ' s experience and size they are ready to expand and
+take on this project . they already have the segregation and independence in
+place , and would give us an extra layer of segregation in the sense of being
+an intermideary between tokyo and houston . bilingual staff would be hired to
+perform japanese services , which is widely available in sydney . and there is
+only one hour in difference between us . outsourcing these activities from
+japan to australia is a growing trend , and many large corporations have done
+it this way .
+there will be some time from the first trades until functions and commodities
+are moved to sydney . tokyo want and needs to learn , understand all details ,
+automise , make routines and calibrate systems first . on the confirmation side
+our legal department would be heavily involved in th start , compared to later
+stages .
+proposed mo structure for enron japan
+a ) responsibility for all commercial support activities in japan to be
+sourced to enron japan , under enron japan ' s cfo .
+b ) outsource programmable tasks to sydney :
+- documentation ( capture & confirmation )
+- settlement
+- trade accounting
+c ) risk management in tokyo .
+i look forward to hear from you .
+regards
+jan - erland

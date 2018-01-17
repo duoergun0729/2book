@@ -1,0 +1,52 @@
+Subject: canadian outsourcing deals
+good summary of canadian process .
+once george , bob and i meet , i will give the group and update .
+thansk
+bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by bob m hall / na / enron on 04 / 02 / 2001 03 : 47
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : george f smith @ ect 04 / 02 / 2001 02 : 34 pm
+to : robert superty / hou / ect @ ect , bob m hall / na / enron @ enron
+cc :
+subject : canadian outsourcing deals
+i met with peggy hedstrom and to some extent with laura scott in calgary
+regarding how they handle the day to day activity of their producer
+outsourcing deals .
+the producer provides to ec their projected production schedule for the year
+by month by plant outlet . this information is entered into sitara by ec on a
+single ticket with no meter information . for the prompt month ec confirms
+back to the producer their expected production volumes by point by day . this
+includes any maintenance or scheduled down time that would affect their daily
+flows . this information is contained within a excel spreadsheet which can be
+viewed by the producer via a common network drive .
+the producer communicates to ec their sales for the month and on a daily
+basis . ec enters these trades in sitara . the sitara position by producer is
+balanced to zero daily . the producer does not have access to sitara .
+ec acts as agent for the downstream transportation owned by producer . they
+have no diversion rights on this transport , it is utilised at the direction
+of the producer . ec nominates producers transport . all transport expense
+estimates are maintained by ec . ec is invoiced and pays the pipeline .
+ec monitors estimated hourly flows from the plant outlets as provided by
+nova . it is the responsibility of ec to inform the producer of significant
+variances in their scheduled versus estimated flows . nova requires that
+shippers be balanced on a daily basis or face penalties if variances are out
+of tolerance . it is ec ' s responsibility to keep the producer out of penalty
+situations . the producer , at the direction of ec , either sells or buys on an
+intraday basis to balance their position on the pipeline . final estimated
+flows are then downloaded by ec into the excel spreadsheet . this final
+estimate is than used as the expected volume for the upcoming day . and
+sitara is updated accordingly .
+at months end the spreadsheet information is transferred to an accounting
+system referred to as solomon . actual volumes as provided by the pipeline are
+also entered into the system for settlement . i didn ' t have a lot of time to
+devote to the accounting process , but i doubt ena would take this approach .
+ec utilises a single point of contact with each producer from a logistics and
+origination standpoint . peggy said they did not hire people specifically from
+the producer / customers but did seek out people with extensive producer
+experience to assist with these customers . peggy feels that their success is
+due in a large part to the very strong relationships they have developed with
+their customers through this point of contact approach .
+it is of note that unify is not utilised in managing these customers
+business . peggy feels that unify is not designed to handle it and response
+time is too slow for their purposes given the time constraints they are
+working under on a daily basis .

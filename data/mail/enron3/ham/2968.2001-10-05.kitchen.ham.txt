@@ -1,0 +1,9 @@
+Subject: email retention policy
+this is a reminder of enron ' s email retention policy . the email retention policy provides as follows :
+message location - maximum retention
+inbox - 30 days
+sent mail folder - 30 days
+trash / deleted items - rollover from inbox for one day
+folders - all email messages placed in folders will be destroyed after one calendar year . this includes public folders in outlook .
+furthermore , it is against policy to store email outside of your outlook mailbox and / or your public folders . please do not copy email onto floppy disks , zip disks , cds or the network . such actions are prohibited and will not be supported by the it department .
+there will be no exceptions to this policy .

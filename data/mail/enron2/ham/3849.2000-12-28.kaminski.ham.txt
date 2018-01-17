@@ -1,0 +1,40 @@
+Subject: combinatorial auction - jan 11 mtg background
+- - - - - forwarded by greg woulfe / enron communications on 12 / 28 / 00 09 : 58 am - - - - -
+chonawee supatgiat @ enron
+12 / 22 / 00 05 : 08 pm
+to : stinson gibner / hou / ect @ ect , greg woulfe / enron communications @ enron
+communications
+cc :
+subject : combinatorial auction
+stinson and greg ,
+i have read the paper " combinatorial auction with multiple winners for
+universal service " from richard steinberg and frank kelly . they propose a
+combinatorial auction which is an auction for multiple items that allows
+bidders to realize their synergies on combinations of items . the
+combinatorial auction is appropriated for bandwidth commodity because most
+bidders in the market have synergies on the combination of items . for
+example , if we want to get bandwidth between boston and dc , we would bid for
+boston - ny and ny - dc . it will be valuable to us only if we won both links . if
+we won only one link , it will be useless .
+in the paper , they propose the auctioning method but their method has not
+been tested or validated yet . i have not checked their proposition
+mathematically but their paper was published in management science so i think
+it should be all right . i will look at it in more details and let you know .
+anyhow , there are also other combinatorial auctions that are actually used ,
+for example , the alberta government ' s ppa auction that enron canada was
+participated 3 - 4 months ago .
+based on our long position on bandwidth , auction and exchange might be a good
+channel to dispose our unused ( or unsold ) bandwidth . i know there is not much
+demand in the market . but if we open a combinatorial auction or exchange , we
+might be able to increase our market share . ( by taking demand from our
+competitors ) . i believe , at the moment , there are no bandwidth exchanges that
+allow " combinatorial " bids . if we are the first one to do it , we might
+improve our sale channel and gain some market share . ( note : auction - > one
+seller and many buyers : exchange - > many sellers and many buyers . )
+moreover , i think auctioning the unsold bandwidth will not hurt us because we
+cannot sell them anyway . in addition , we ourselves can be a dummy bidder in
+the system and bid in the auction . if the current wining bid is too low , we
+can just over - bid it and keep the product . this way , we can indirectly put a
+reserve price on the products .
+let ' s meet sometime in the first week of january .
+- chonawee

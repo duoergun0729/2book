@@ -1,0 +1,29 @@
+Subject: 3 - urgent - to avoid loss of information
+read very carefully :
+these applications ( buttons ) must be run as close as possible to your
+scheduled date and time of migration .
+your migration date is : february 21 st at 4 : 45 pm
+please make sure you are connected to the network before you launch these
+applications .
+do not click all the buttons at once and do not click each button more than
+once !
+when ready , please click the first button below to run the " personal address
+book converter " application . you will get a message once the application is
+finished . depending on how many entries you have , this application may take
+up to 10 minutes to run . lotus notes may seem to hang or act as if it is not
+responding during this process . please be patient and allow it to complete .
+follow the same procedure for the other two buttons .
+if a pop - up box appears , prompting you to " abort , cancel or trust signer "
+please select trust signer . this box may appear multiple times . please
+select trust signer for every instance .
+1 .
+2 .
+3 .
+please note : you will not notice any change to your existing personal
+address book , journal entries or private folder structure after running these
+applications . failure to run these applications means your notes address
+book ( s ) , journal items and folder structure will not be migrated and will not
+be available to you in outlook once you are migrated .
+this is the only notification you will receive .
+thank you for your cooperation ,
+outlook 2000 migration team

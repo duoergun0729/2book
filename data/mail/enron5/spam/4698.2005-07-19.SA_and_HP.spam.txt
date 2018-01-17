@@ -1,0 +1,37 @@
+Subject: failure notice
+hi . this is the qmail - send program at correo . viabcp . com .
+i ' m afraid i wasn ' t able to deliver your message to the following addresses .
+this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
+:
+sorry , no mailbox here by that name . ( # 5 . 1 . 1 )
+- - - below this line is a copy of the message .
+return - path :
+received : ( qmail 17585 invoked by uid 0 ) ; 19 jul 2005 10 : 57 : 33 - 0000
+received : from unknown ( helo smtpgwol . tic . com . pe ) ( [ 192 . 168 . 5 . 181 ] )
+( envelope - sender )
+by correo . viabcp . com ( qmail - ldap - 1 . 03 ) with smtp
+for ; 19 jul 2005 10 : 57 : 33 - 0000
+received : from mailwisconsin . com ( dialpool - 210 - 214 - 17 - 228 . maa . sify . net [ 210 . 214 . 17 . 228 ] )
+by smtpgwol . tic . com . pe ( postfix ) with smtp id 8 dd 86197457
+for ; tue , 19 jul 2005 05 : 45 : 58 - 0500 ( pet )
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 30518182 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : antoniogarcia @ viabcp . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivabie !

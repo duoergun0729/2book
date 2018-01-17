@@ -1,0 +1,73 @@
+Subject: re : debt trading losses
+sally , brent and gary ,
+in a meeting with bryan , jeff , gary and markus on monday , november 20 th , i
+showed bryan a copy of the monthly price verification procedures and the book
+administrator ' s price verification comparison spreadsheet . i also showed
+brent this information later in the day , as he had to leave before we all
+left .
+therefore , i find bryan ' s operations ' bullet wrong and misleading . this is
+not the statement that was made and agreed to on monday when we all met .
+this statement is also not consistent with what is actually in the
+attachment . you will receive a copy of the price verifcation spreadsheet for
+the last six months on monday .
+please call me or theresa with questions .
+sheila
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheila glover / hou / ect on 11 / 24 / 2000 05 : 14
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+bryan seyfried
+11 / 24 / 2000 12 : 24 pm
+to : sheila glover / hou / ect @ ect
+cc : sally beck / hou / ect @ ect , brent a price / hou / ect @ ect , gary
+hickerson / hou / ect @ ect , jeff kinneman / hou / ect @ ect , tom doukas / na / enron @ enron ,
+theresa t brogan / hou / ect @ ect
+subject : re : debt trading losses
+ok , sorry for the miscommunication , can i get copies of the price
+verification memo for the debt book for the last 6 months pls .
+from : sheila glover 24 / 11 / 2000 17 : 06
+to : bryan seyfried / lon / ect @ ect
+cc : sally beck / hou / ect @ ect , brent a price / hou / ect @ ect , gary
+hickerson / hou / ect @ ect , jeff kinneman / hou / ect @ ect , tom doukas / na / enron @ enron ,
+theresa t brogan / hou / ect @ ect
+subject : debt trading losses
+bryan ,
+i think the second bullet is misleading . the bullet is not reflective of
+what is actually stated in the attached document .
+there is a month - end price verification process on the credit book .
+trader pricing is compared to prime broker pricing . where the mark is
+greater that 2 points , the difference is discussed with the trader . trader
+must then amend the mark or provide third party substantiation for the
+illiquid position .
+the price verifiaction comparison spreadsheet with broker quotes is filed and
+maintained by risk management .
+the operations break - down in the process relates to :
+triplets excluded from the monthly price verification process and not
+escalated , prioritized to management
+telewest pricing relied on a price from the prime broker which was manually
+sourced and not current
+price verification comparison results should be formalized and distributed
+to senior management .
+thanks . sheila
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheila glover / hou / ect on 11 / 24 / 2000
+10 : 13 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+bryan seyfried
+11 / 23 / 2000 01 : 31 am
+to : richard causey / corp / enron @ enron , rick buy / hou / ect @ ect , john
+sherriff / lon / ect @ ect
+cc : michael r brown / lon / ect @ ect , fernley dyson / lon / ect @ ect , sally
+beck / hou / ect @ ect , ted murphy / hou / ect @ ect , mike jordan / lon / ect @ ect , david a
+wall / risk mgmt / lon / ect @ ect , jeff kinneman / hou / ect @ ect , gary
+hickerson / hou / ect @ ect , sheila glover / hou / ect @ ect , brent a price / hou / ect @ ect ,
+richard sage / lon / ect @ ect , bryan seyfried / lon / ect @ ect
+subject : debt trading losses
+we have discovered two positions in the debt trading book which were not
+being marked to market . the current mark of the 2 positions results in
+approximately $ 4 . 7 million loss . the details are in :
+the primary control issues are :
+? trader did not adjust price to reflect the effect of market movements
+? operations did not perform monthly price verification processes
+? desk management failed to recognize that the marks on these two trades had
+not moved over the term of the transactions ( ql ' 00 - nov 15 th )
+the losses have been recognized and a full review of the book is ongoing by
+operations . the trader has been relieved of his responsibilities and we will
+implement the steps agreed with operations to ensure that we have a robust
+approach to controls for the debt trading book going forward .

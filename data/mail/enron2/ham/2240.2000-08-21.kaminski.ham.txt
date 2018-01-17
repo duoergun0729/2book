@@ -1,0 +1,15 @@
+Subject: sas online tutorial
+hi -
+we have access to the sas online tutorial for the next 30 days . point your
+browser to
+and use the username " enron " and password " enron " to enter .
+the way this product works is designed for a single user ( it sets a " cookie "
+allowing you to " resume " your place in the tutorial when you re - enter . )
+since several of us may use it , we ' ll need to work around this , each of us
+remembering where we were before and recreating any sample data sets , etc
+necessary for the lesson in progress .
+clayton
+ps the module eis / olap will be a part of our installation next month , but is
+not currently available
+pps please remember to use your local browser to browse the sas online
+documentation . invoking a browser on the unix server is inefficient .

@@ -1,0 +1,22 @@
+Subject: alert : spam prevention
+r 3 move
+- - = = = = = _ 109958888429414 = _
+content - type : text / html ; charset = us - ascii
+! doctype html public - / / w 3 c / / dtd html 4 . 0 transitional / / en
+htmlhead
+meta http - equiv = content - type content = text / html ; charset = iso - 8859 - 1
+meta content = mshtml 6 . 00 . 2800 . 1476 name = generator / head
+body style = font - family : arial text = # 000000 bgcolor = # ffffff
+div align = centerfont size = 2 a href = http : / / us 2 you . biz / mbfimg alt =
+hspace = 0 src = cid : 200411041221230843 . 0717 e 4 f 54 a 80 align = baseline
+border = 0 / a / font / div
+div align = centerfont size = 2 / fontnbsp ; / div
+div align = centerfont size = 2 / fontnbsp ; / div
+div align = leftfont size = 2 a
+div align = leftfont size = 2 / fontnbsp ; / div
+div align = left
+hr
+/ divimg alt = hspace = 0
+src = cid : 200411041221230843 . 0717 e 4 f 55 e 8 d align = baseline
+border = 0 / body / html
+- - = = = = = _ 109958888429414 = _ - -

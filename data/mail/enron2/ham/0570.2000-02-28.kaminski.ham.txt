@@ -1,0 +1,8 @@
+Subject: tips
+fyi - us inflation - linked bond
+i can not replicate the nominal yield and inflation adjected cash flow
+calculation from bloomberg . so i called the bond analytics group .
+i got to the point that they admit that they have made mistakes in their
+calculation , and promised to fix it .
+once i got the issues settled , there will be a better us inflation model .
+zimin

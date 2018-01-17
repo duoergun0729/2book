@@ -1,0 +1,6 @@
+Subject: max :
+i would like to organize a vitro project review meeting during the next several weeks focusing on the technical risk in the deal and the mitigation measures we taking . the objective of the meeting is to ensure all related enron entities are supportive of the transaction and have had the opportunity to ask questions . this will reduce the chance that we will run into objections down the road on " technical risks " as we begin to ramp up our capital commitments . we had a similar meeting with the electrobolt team in enron s . america , that was very productive and accomplished the above objectives .
+do you have a project presentation that you ( and / or the lead developer ) could discuss with the above team ? we could do it by phone - or better yet - the next time you are in houston . as many of the technical risk issues are also tied to commercial aspects of the deal we should also cover these areas as well ( e . g . , commercial objectives and obligations driving the technical design and implementation strategy ) .
+i don ' t mean to be sticking my nose into your deal , other than to ensure that everyone is moving in the same direction so that we can get this implemented successfully .
+let me know as to your availability ,
+brian

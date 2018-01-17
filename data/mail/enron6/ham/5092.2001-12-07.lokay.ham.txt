@@ -1,0 +1,14 @@
+Subject: attention remote access users
+* * * * * attention remote access users - important update * * * * *
+there is now an interim solution in place for your remote access needs .
+please use 713 - 440 - 4221 or 866 - 295 - 3813 for dial - up access .
+windows 2000 :
+vpn access for windows 2000 is fully operational . either the vpn without ipass option can be used , or a connection may be created manually using the same settings as vpn without ipass . for users who are dialing in , creating a dial - up connection using either number listed above with the default settings will work . you must be sure to append the domain name to the user id ( i . e . . corp \ rbarker ) for the connection to be successful .
+windows 9 x :
+dial - up access is working provided that dial - up networking version 1 . 4 is installed on the system . dial - up networking version 1 . 4 can be downloaded from http : / / support . microsoft . com / default . aspx ? scid = kb ; en - us ; q 285189 . follow the instructions for installation . vpn access for windows 9 x has not yet been verified . dial - up connections using either number listed above should be setup using the default settings .
+windows nt :
+dial - up access for windows nt 4 is working provided that service pack 6 a has been installed on the system . service pack 6 a may be obtained from http : / / www . microsoft . com / ntserver / nts / downloads / recommended / sp 6 / 128 bitx 86 / default . asp . follow the instructions for installation . vpn access for windows nt 4 has not yet been verified . dial - up connections using either number listed above should be setup using the default settings .
+this information is also available on the ets solution center website at http : / / www . ets . enron . com / services / solution _ center / default . asp under quick reference - remote access with additional information about setting up a dial - up connection .
+please keep in mind that the remote access situation is changing rapidly . you will be notified as additional information or updates become available .
+ets solution center - houston 713 - 345 - 4745
+ets solution center - omaha 402 - 398 - 7454

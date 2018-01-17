@@ -1,0 +1,12 @@
+Subject: one - part vs two - part flag on tw contracts
+the following contracts were truly negotiated as one - part rates ( inclusive of reservation , commodity and surcharges ) :
+k # 24194 pnm $ 0 . 1100 / dth
+k # 24568 enervest $ 0 . 2200 / dth
+k # 24654 ena $ 0 . 2175 / dth
+the way the invoice system is designed , all contracts identified as one - part automatically generate ' credits for commodity ' on the reservation invoice . however , this causes us to underbill the shippers because these rates bump up against the max tariff demand rate . in the past , we switched the flag to be two - part to minimize the amount of manual invoice corrections for the schedulers .
+because we are briefing contracts and beginning our data conversion review / process for the new ets contracts system , we will correctly reflect the contract as negotiated . therefore , effective with september 2001 invoices , schedulers must remember to delete the credits for commodity on these invoices . also , the marketers will need to ensure the input of any discounts ( commodity and / or demand gri surcharges ) , if necessary , to guarantee that tw does not overbill these shippers .
+bottom line , make sure that the total amount invoiced on the reservation and commodity invoices combined for these contracts =
+rate listed above * contract maxdtq * number of days in month
+if you have any questions about this process , please contact me .
+thanks ,
+elizabeth

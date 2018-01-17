@@ -1,0 +1,38 @@
+Subject: email / voice mail retention policy change
+e - mail / voice mail retention policy change notice
+we have just received notice of a change to the e - mail and voice mail
+retention policy . the change will go into effect friday , december 15 , 2000 .
+the greatest impact will be to your " sent mail , " which will be retained only
+30 days as compared to the current 365 days .
+as a reminder , you should not use the email system to store important
+documents .
+they should be saved to your network directory which is regularly backed up .
+however , for ' sent ' messages you want to keep longer than 30 days in the
+email system , you should move the messages from the sent mail to a specific
+folder where the messages can be kept 365 days .
+the scope of the e - mail retention policy includes all forms of electronic
+mail , for example , lotus notes mail , internet e - mail , outlook e - mail , and
+voice mail .
+enron supports a work environment in which information is freely exchanged
+and encourages employees , contractors , and agents working on behalf of enron
+to use its computers and related electronic resources in accomplishing their
+work . computers , systems , and networks and the work products they contain
+are enron property and subject to enron review and control . all enron
+employees , contractors , and agents are responsible for using the computing
+resources provided to them by enron in an appropriate manner .
+the revised retention schedule follows :
+message location maximum retention
+inbox 30 days
+message log / sent mail 30 days
+trash rollover from inbox for 15 days
+bulletin boards 30 days
+folders / archives e - mails placed in folders or archives  ) one year
+voice mail 90 days
+the corp it group responsible for maintaining compliance with this
+e - mail / voice mail policy will automatically purge e - mail and voice mail older
+than the allowed maximum retention age . any exception to this policy
+requires approval from mark haedicke or richard sanders .
+if you need assistance in creating folders and saving documents to them ,
+please call the ets solution center at 713 - 345 - 4745 . we will be glad to
+assist you .
+ets solution center

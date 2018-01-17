@@ -1,0 +1,70 @@
+Subject: re :
+joe ,
+i have written to pal quilkey to invite christian werner to houston
+for a week to discuss how much of his research we can use .
+vince
+joseph hrgovcic
+08 / 01 / 2000 06 : 51 pm
+to : vince j kaminski / hou / ect @ ect , mike a roberts / hou / ect @ ect
+cc :
+subject :
+vince ,
+i have inquired into christian ' s climate models . it seems to me like a long
+term project . chiristian says that his model might be able to do better than
+the australian met given that they ignore some of the variables he uses and
+that they are an " old boy ' s network " resistant to new developments , but i
+don ' t think the same can be said of most other weather services . as far as
+the nws goes , they run their model on a cray , they have several very talented
+phd ' s working on it full - time , and even then , they can only get a dozen or
+so runs per night . in other words , it ' s a huge system . replicating something
+even close to that will not be an easy task .
+that being said , i think there are related applications that we could look
+into . since i ' ve already promised the rac group and the weather desk ' s pjm
+traders to put together a vector autoregressive model of daily temperatures ,
+i think it makes sense to see if something better than a var model can be put
+together , perhaps a very stripped down version of the kind of model christian
+has . what i have in mind is something that would give us say , up to several
+dozens of " possible " temperature forecasts every morning , which would be
+calculated using actual climate models ( as opposed to time series models ) . i
+would not use this as a forecasting tool ( the nws model results would make a
+far better " best guess " ) , but our ensemble could still be used to provide a
+distribution of temperature scenarios . this ensemble would have several uses :
+1 ) we could price the book for the ensemble of runs and thereby obtain a
+more realistic daily v @ r for the weather book ( and eventually interface that
+with the power desk ' s v @ r calculations )
+2 ) we could use the ensemble of forecasts to relate temperature forecasts to
+week - ahead cdd and hdd distributions ( for use in our demand swaps )
+3 ) if freese - notis were to give us one of their qualitative forecasts ,
+e . g . , " expect the trough to recede " we could sort through the different monte
+carlo scenarions , find one in which the trough in question is receding , and
+use corresponding output statistics to download the actual temperatures
+corresponding to that scenario . up till now , we haven ' t found a good way of
+getting a numerical fix on what different forecasts actually mean
+temperature - wise
+4 ) we could use the associated visualization routines that come with such
+models to get animations of the evolution of historical weather patterns . the
+traders could use these in order to look for historical periods which roughly
+match current weather conditions and get an idea of what could happen ;
+although these meteorological models would not be good for simulating
+month - ahead or season - ahead weather ( trust me on this ) we could still use the
+visualization technology to do to analogous seasonal animations .
+just today , i ' ve spoken with dr . jacobsen of stanford university , who has
+written one of the more recent textbooks on climate forecasting , and who
+worked with ucla ' s general circulation model . he says that getting a
+simplified version of mm 5 ( which is itself a simplified , limited - area version
+of the gcm models that nws , cola , and ucla use ) would take several months to
+implement , assuming the people involved are already well versed in the
+technology . also , i have contacted aer , a massachusetts - based weather
+consulting firm , and they tell me that they have a mm 5 model running daily
+( only one run per night ) , and also some smaller pc models up and running .
+they are of course willing to work with us for a fee . their mm 5 version runs
+on a $ 200 , 000 parallel processor .
+i am open to your suggestions ( or objections as the case may be ) . i ' m not
+sure how the costs would be apportioned given that this would benefit all of
+enron , and not just the weather desk .
+i am scheduled to go to boston next week anyway , and would like to use the
+opportunity to visit with aer . i will of course coordinate any projects with
+christian ( if we get something like this up and running it will be more
+likely that he can get the computing power he needs to run his own australian
+model ) .
+joe

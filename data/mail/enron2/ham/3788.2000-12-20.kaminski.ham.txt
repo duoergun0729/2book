@@ -1,0 +1,109 @@
+Subject: access on the block : international transmission auctions - cera a
+lert - december 20 , 2000
+title : access on the block : international transmission auctions are opening
+european power markets
+e - mail category : cera insight
+cera knowledge area : european power
+despite an apparent impasse in negotiations among european transmission
+system operators , regulators , and the european commission in florence ,
+auctions of international transmission capacity ( itc ) in france , the united
+kingdom , denmark , belgium , italy , austria , switzerland , slovenia , and the
+netherlands are opening access between countries and paving the way for the
+single european marketplace .
+however , the patchwork auctioning of access to itc leaves important issues
+unresolved . the most significant of these include the potential for gaming ,
+third - party transit , and the allocation of auction proceeds . as they stand ,
+these issues , cera believes , are likely to lead to action at the european
+level and the eventual imposition of a more integrated scheme .
+nevertheless , current plans to open most of europe ' s itc represent a
+watershed of activity that will hasten transparency in the market and
+determine trade flows and signal transmission investment in 2001 .
+international auctions are opening markets
+a major portion of international transmission capacity on the continent will
+be allocated by auction in 2001 ( see table 1 ) . in cera ' s view auctions for
+itc are likely to have the greatest impact during 2001 in the following areas :
+* increasing market transparency . the posting of available transmission
+capacity on yearly , monthly , and daily bases will facilitate the market ' s
+efficient usage of scarce interconnector capacity . for the first time ,
+signals for new transmission investment , power flows , and transmission asset
+valuation will come from the market .
+* increasing cross - border trade . although auctions may not reduce uncertainty
+in the marketplace initially , the effect of heightened transparency in access
+rules and prices will soon work to increase trade . secondary markets for
+interconnector capacity will add to the number of actively traded power
+products and work to increase the overall level of trade . ?
+* increasing price correlation . auctions will replace nonmarket - based
+allocation methods such as long - term capacity reservation . the dynamic
+character of shorter - term auctions , combined with an expected secondary
+market for capacity , should bring access to international capacity in line
+with the needs of the market . in this way the market will be able to adjust
+more rapidly to changes in local conditions and thereby work to correlate
+pricing points .
+* increasing competition . once players have secured access to itc at a given
+price , they will be looking to sign supply contracts or integrate the
+capacity into structured deals . the result could be more aggressive
+maneuvering on the part of incumbents and new entrants alike , resulting in
+greater competition at the national level .
+* reducing the competitiveness of imports . the results of international
+transmission capacity auctions will determine the competitiveness of imported
+power into domestic markets . final prices offered for itc will reflect the
+relative cost of power between markets and work to make cheaper power more
+expensive to import .
+* spurring investment in transmission . the money raised through auction could
+provide transmission companies with the financial capability to invest in
+upgrading international transmission links . access to international
+transmission capacity between the netherlands , germany , and belgium in 2001
+was auctioned for 63 million euros ( see http : / / www . tso - auction . org for
+details ) . ? auctions for access into spain , france , and italy are expected to
+realize a premium for access to highly coveted markets .
+connecting rather than integrating markets
+auctions between national grids , or more accurately commercial grids , are a
+pragmatic approach to the problem of granting access to scarce international
+transmission capacity on an open and transparent basis . the auctions will
+open access to interconnectors and at the same time reward transmission
+system operators .
+even so , the proposed approaches are not likely to satisfy market players or
+the stated objectives of european policymakers . in cera ' s view the following
+issues may eventually bring down the hammer on itc auctions :
+* third - party transit . the bilateral nature of itc auctions perpetrates the
+problem of tariff pancaking and discriminates against trade involving transit
+through a third grid . this is ultimately inconsistent with the european
+commission ' s objective of a single european power market . the fact that
+physical power flows do not follow contractual flows and almost always
+transit third - party grids further weakens the legitimacy of the approach .
+* transaction - based scheme . although still transactional in nature ( tied to a
+specific deal ) , auctions fall within the european commission ' s stated
+preference for market - based mechanisms for allocating international
+transmission capacity . it remains to be seen how successful this approach is
+in achieving integration of national markets . action at the european level
+could move allocation of itc in the direction of nontransactional mechanisms
+such as market splitting , counter trading , or redispatching .
+* gaming of auctions . auctions will in theory allocate access to transmission
+on a nondiscriminatory market basis to those that value it most . in practice
+it remains to be seen if gaming can be avoided . even though most of the
+auctions have placed limits on ownership of transmission capacity , tactical
+maneuvers could bid up transmission prices as players act to raise the price
+of imported power .
+* allocating auction proceeds . one likely outcome of auctions will be the
+transfer of profits between players as transmission owners recoup some of the
+rents currently reaped by other players . this will works to raise the value
+of transmission assets relative to generation , suppliers , or traders . it
+remains to be seen how funds from auctions will be allocated among
+transmission companies and the grid , as transmission is still currently
+subject to monopoly regulation .
+* * end * *
+come shoot the rapids with us at ceraweek 2001 , " shooting the rapids :
+strategies and risks for the energy future " in houston , february 12 - 16 ,
+2001 ! ? for more information and to register , please visit
+http : / / www 20 . cera . com / ceraweek /
+to make changes to your cera . com account go to :
+forgot your username and password ? go to :
+http : / / www 20 . cera . com / client / forgot
+this electronic message and attachments , if any , contain information from
+cambridge energy research associates , inc . ( cera ) which is confidential and
+may be privileged . unauthorized disclosure , copying , distribution or use of
+the contents of this message or any attachments , in whole or in part , is
+strictly prohibited .
+terms of use : http : / / www 20 . cera . com / tos
+questions / comments : webmaster @ cera . com
+copyright 2000 . cambridge energy research associates

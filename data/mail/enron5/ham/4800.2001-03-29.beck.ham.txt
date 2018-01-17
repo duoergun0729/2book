@@ -1,0 +1,12 @@
+Subject: new profit centers
+we may be creating another problem .
+i ' ll have heather set up a meeting for next week .
+thanks
+bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by bob m hall / na / enron on 03 / 29 / 2001 11 : 34 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp . from : rita wynne @ ect 03 / 29 / 2001 11 : 05 am
+to : bob m hall / na / enron @ enron
+cc :
+subject : new profit centers
+bob ,
+per our conversation - on this past tuesday , a group met from vm , gas acctg . and east risk to discuss the recording of the 12 east desks and 7 central desks to sap . effective with march flow , each desks for central and east will record to its own profit center in sap ( the wellhead desks and texas were done in feb . ' s g / l ) . according to gas acct . , they will calculate ua for each of the profit centers ( 19 in total ) . as we discussed , vm does not have the appropriate unify reports or manpower to support this level of accounting at this time and for this month will continue to tie ua 4 out as we have in the past using our same reports - gas acct . will have to sum their side of the ua 4 calc . to match us . with the foresight of eventually going to profit center level accouting and reporting , there will need to be significant changes to our current back end systems and processes to handle this lower level of reporting . i believe the flash is already being done at the different profit centers , but all the downstream groups are still performing their analysis at a more consolidated level . there were discussions in the meeting that oa would not go to this lower level , but i am of the opinion that we all need to be consistent in our analysis and reporting across the organization - so if this is the path we take , then everyone ' s process will need to be able to handle this level of detail . of course , no decisions were made in our meeting , and as i stated , for now , vm ' s process will remain unchanged for this month . please let me know if you want to discuss further . thanks !

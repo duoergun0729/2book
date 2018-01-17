@@ -1,0 +1,47 @@
+Subject: fw : meeting follow - up
+dan sent this information as a follow up to our meeting this week . if there
+is any additional information you would like to see , please let me know .
+in the absense of any objections , i would like to begin having our analysts
+use the financial stress score to underwrite small exposures where financial
+statements are not received . in addtion to saving some expense , this will
+allow greater consistentency . and moving forward , i believe we can map
+expected defaults from fstress score ranges to those implied in credit
+spreads , and in doing so map to e - ratings for use in credit reserve
+analytics . i ' ve had prelimiary discussions with rabi and amititava regarding
+this .
+any additional insights would be helpful , and thanks for your help .
+- - - - - original message - - - - -
+from : " barry , dan " @ enron
+on . com ]
+sent : thursday , march 15 , 2001 10 : 26 am
+to : mark _ wilson @ enron . com
+cc : marcom , karen ; johnson , judy
+subject : meeting follow - up
+mark ,
+attached are a presentation on the financial stress score and the countries
+that have risk scores available today . please let me know if you have any
+questions .
+in response vince ' s question regarding false positives from the model , that
+is a little difficult to answer . the model is predicting the likelihood of
+a company experiencing financial distress . we are not saying that all
+companies with a high risk score will experience financial distress . in
+other words , it is not really a yes or no proposition . it ' not like a drug
+test where the test either comes back positive or negative and ocassionally ,
+you get a false positive test result . we are identifying companies that are
+at high risk for failure . some of those high risk companies will fail and
+some will not fail . how many in each classification that will ultimately
+fail is addressed in the performance charts attached below .
+please let me know if you have any other questions or need any additional
+information .
+dan barry
+dun & bradstreet
+analytical services
+barryd @ dnb . com
+phone ( 713 ) 953 - 5458
+fax ( 713 ) 953 - 5454
+> > >
+>
+- enron fss . ppt
+- globalfailure . ppt
+- fin stress understanding . doc
+- fss performance . doc

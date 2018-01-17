@@ -1,0 +1,22 @@
+Subject: production migration guidelines
+mike & mark ,
+due to it created production issues in enron ' s mission critical applications
+since the first of 2001 the following guidelines will need to be adhered with
+several exceptions .
+guidelines :
+in the houston application environment there will be no production
+migrations + - 5 days of the end on month .
+development teams will be moving to a more standard production migration
+schedule . schedule to be rolled out in march 2001 .
+it will be removed from production access with the exception of 1 or 2
+senior developers per team .
+exceptions :
+production fixes will move into production as they do today .
+application enhancements that have been formally approved by the business
+and it .
+new applications that are in their start - up phase .
+current processes that require it intervention in order for it to be
+successful . processes will be reviewed in order to replace in the future
+with automation .
+all the houston it leads are aware of these guidelines and exceptions .
+richard

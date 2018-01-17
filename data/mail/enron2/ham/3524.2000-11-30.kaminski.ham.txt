@@ -1,0 +1,52 @@
+Subject: re : project tracking database access
+hi sandy :
+yes he does . actually in our group meeting today , vince kaminski said
+that he wants most of his group to have access . i believe stinson gibner
+is working on the list . is there a way we could submit a request to
+incorporate
+a list of people to give them access ? they would need writing access also .
+thanks !
+shirley
+from : enron messaging security @ enron 11 / 30 / 2000
+03 : 26 pm
+to : shirley crenshaw / hou / ect @ ect
+cc :
+subject : project tracking database access
+shirley ,
+the default access is read only . does this person need more rights , i . e .
+editor ?
+thanks ,
+sandy
+- - - - - - - - - - - - - - - - - - - - - - forwarded by enron messaging security / corp / enron on
+11 / 30 / 2000 03 : 24 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+security resource request system
+application line item pending provider processing
+application name : unlisted lotus notes appliction how to process this request . . .
+for : kenneth parkhill / na / enron
+request type : grant
+comments : efc \ research \ projtrak . nsf - needs access to project tracking database click
+.
+if you wish to approve this request , select " approve " in the dialog box .
+otherwise , select " reject " .
+enter comments ( if any ) .
+provider approval section
+provider ( s ) : enron messaging security / corp / enron status :
+e - mail message :
+comments : sr
+general request : scrw - 4 rjl 94
+requested by : shirley crenshaw / hou / ect phone : 3 - 5290
+company : 0413 rc # : 107043
+priority : normal
+application
+icons added : expiration date :
+unix db required : no
+network login id : kparkhil unix login id :
+required information :
+general comments kenneth parkhill is a new research employee that needs access
+to the project tracking database
+editing history ( only the last five ( 5 ) are shown )
+edit # past authors edit dates
+1
+2 information risk management
+enron messaging security 11 / 29 / 2000 02 : 47 : 37 pm
+11 / 30 / 2000 10 : 00 : 43 am

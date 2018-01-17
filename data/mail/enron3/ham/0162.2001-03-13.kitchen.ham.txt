@@ -1,0 +1,10 @@
+Subject: fw : avoidable overtime hours
+- - - - - original message - - - - -
+from : belden , tim
+sent : tuesday , march 13 , 2001 12 : 54 pm
+to : beth perlman / hou / ect @ enron
+cc : white , stacey ; nat , steve
+subject : avoidable overtime hours
+we have had 100 percent turnover in our risk group in the last 9 months , including two people leaving in the last week . one of the main frustrations comes from many overtime hours spent working through technology issues .
+last friday is a typical example . the three members of our risk group were here until about 10 pm friday night working through a problem caused by technology . for some reason , our futures position was dropping out of our positions . they noticed this and stayed until it was fixed . it turns out that a dba somewhere made a change that caused the mapping of our futures positions to change . had this person communicated to people what he / she was doing , it is my understanding that the problem could have been avoided . stated another way , lack of communication by someone in technology caused our risk group to work an extra 15 hours on friday night . i should add that one or more people in technology had to work extra on friday as well .
+it is so frustrating to see this sort of thing happen over and over . the list of little things that cause lots of extra work is so long that it is not funny . it kills morale and burns out smart , hard working people . what do you think we can do to change this situation ?

@@ -1,0 +1,84 @@
+Subject: re : pre - submitted question on espeak
+erin ,
+a book by martha amram and nalin kulatilaka is an excellent
+non - technical introduction to real options and it contains all the most
+important
+references to more advanced books and papers .
+the book has an endorsement by jeff skilling on the cover page .
+the research group offered several one - day seminars on real options
+and applications to the energy industry . we still have a few binders with
+the presentation materials available if you are interested .
+we plan to repeat the seminar sometimes in the fall .
+the first part of the seminar ( about 4 hours in the morning ) covers general
+concept of real options
+and their applicability to the energy business .
+the second , more technical afternoon session , covers stochastic processes used
+to model price uncertainty in the energy markets and specific case
+studies ( valuation of natural gas storage facilities and of peaking gas - fired
+power plants ) .
+the real options approach has been developed specifically to address the
+problem of making
+investment decisions under uncertainty . nobody in this field claims that this
+is a
+perfect tool , but it represents a significant progress compared to other
+techniques developed
+earlier .
+discounted cash flow analysis that tries to incorporate uncertainty through
+analysis of several , in most cases , arbitrary scenarios ( most likely ,
+optimistic ,
+pessimistic ) . these scenarios don ' t identify explicitly the risk drivers
+and don ' t specify the future proactive management decisions .
+the real , option approach is very powerful because it allows to ( 1 ) capture
+uncertainty in an explicit way and ( 2 ) to design investment projects that
+allow to exploit future positive developments and reduce future exposures to
+downside risk .
+this approach allows also create a link between investment decisions and
+future
+operational decisions . forward - looking investment decisions create options
+that are exercised
+in the future through active management of a project .
+the real options technology relies heavily on advanced statistical tools to
+come
+up with the representation of future possible states of the world . the real
+challenge is
+to use these tools in a sensible way . i have seen in my career ( almost 30
+years
+of applying mathematical tools to business and economic problems ) many quants
+armed with
+powerful computers who reminded me of monkeys armed with hammers . the
+challenge is not
+to run mechanically thousands of simulations based on arbitrary assumptions
+but to translate in a creative way the insights of people who understand
+specific businesses
+into parsimonious quantitative models . it is especially critical to
+stress - test the assumptions
+of any model and to ask the question if the outcome of a model depends
+critically on any set of assumptions .
+if this is the case one should use common sense to examine the underlying
+assumptions .
+i remember that in the early eighties quite a few models simulated the
+dynamics of oil prices ,
+but all the stochastic scenarios represented fluctuations around a very
+optimistic upward trend .
+one would have been better off stepping back and asking a simple question
+what economics 101
+teaches about cartels and the dynamics of supply and demand .
+enron north america corp .
+from : erin rice @ enron 06 / 27 / 2000 03 : 52 pm
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : pre - submitted question on espeak
+good news ! there is already a question waiting for your july 12 espeak
+session . i have pasted it below , although you don ' t have to respond until
+the actual event . don ' t forget to send a bulleted list of discussion topics
+if you would still like us to advertise the event on the elevator screens .
+thanks .
+- er
+submitted by breineck
+i was doing some reading about the application of real options in the
+evaluation of non - financial assets . would you recommend any texts or articles
+for a
+more in - depth study of this area ? is quantification of risk or uncertainty
+the major challenge in using this concept ? can statistical tools be used with
+this to do
+a sort of sensitivity analysis ?

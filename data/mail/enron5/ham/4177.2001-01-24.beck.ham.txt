@@ -1,0 +1,89 @@
+Subject: re : metals
+brenda
+it strikes me that the planning documentation could be enormously useful to
+us in backtesting our existing processes and determining any potential
+overlaps
+is there any obstacle to access to this information ?
+enron capital & trade resources corp .
+from : brenda f herod 23 / 01 / 2001 23 : 40
+to : andrew cornfield / lon / ect @ ect
+cc : mike jordan / lon / ect @ ect , paul wallace / lon / ect @ ect , john
+jacobsen / hou / ect @ ect , roy lipsett / hou / ect @ ect , michael e moscoso / hou / ect @ ect ,
+kristen j hanson / hou / ect @ ect , yvette g connevey / corp / enron @ enron , jill
+lafave / enron @ enronxgate , delmar davis / enron @ enronxgate , daniel
+hamilton / enron @ enronxgate
+subject : re : metals
+andy ,
+thanks so much for your message . i had you on my " to do " list today to
+follow - up from our conversation last week . i appreciate your responses , and
+will follow - up as needed .
+just to recap eim ' s current inititives .
+ ( pwc ) was engaged in 10 / 00 to develop a business plan
+for tactical and strategic solutions for the projected growth in the physical
+business . in 11 / 00 , aa was engaged to develop a " blueprint " of eim major
+processes ( deal execution , deal capture , risk management , logistics ,
+settlements and financial reporting ) , down to level 2 processes . the
+initiatives have been combined into one team focused on delivering the
+" blueprint " , a gap analysis of enron systems to business needs and
+recommended systems . a complete " roadmap " should be laid out with a
+0 - 3 months , 4 - 6 months , 7 - 9 months and 10 - 12 months timeline . the plan
+addresses tactical also .
+our overall objective : build an infrastructure ( people , processes and
+systems ) that is scalable and supports the trading business of eim . the
+current industries are forest products and steel . however , additional
+industries may be added . the targeted infrastructure would require little
+change to support new industries .
+the delieverable is expected by the end of 2 / 01 . we ' d be happy to visit with
+you all ( video conference or houston , . . . . ) to give you more information . let
+me know how to proceed .
+thanks again for your time . since i wasn ' t able to attend the controllers '
+conference last 10 / 00 , i ' m glad i got to meet you last week . stay in touch .
+brenda
+to : brenda f herod / hou / ect @ ect
+cc : mike jordan / lon / ect @ ect , paul wallace / lon / ect @ ect
+subject : metals
+brenda
+as discussed at our meeting last week there are a few areas of commonality
+between enron metals and eim that should allow leverage off common goals .
+in particular i promised info on a few areas :
+project q assessment
+a lot of the issues raised in the report are particular to enron metals
+( being to do with interfaces with our as 400 ysstem ) however high level issues
+which formed part of the decision to not develop this for enron metals were :
+q is over specified for metals . traffic / logistics for metals is less
+complex than oil & coal .
+metals process tends towards buy > store > sell whereas for liquids the storage
+is not as prevelant
+metals logistics typically involves trucks whereas liquids is ship / barge
+2 . inventory controls
+again the reports produced here have been very specific to enron metals . paul
+wallace a manager in the co - ordination function is working extensively on
+developing the controls in this area . i would suggest that you contact paul
+directly if you wish to discuss specific areas or inventory controls in
+general .
+3 . funding of inventory
+we have a structured finance facility here in london . the deal is specific to
+enron metals markets in that it works by reference to lme prices as these are
+the base index for all the positions placed in the facility . if structured
+financing is sort for eim then it would be appropriate to talk to either
+david tregar ( metals commercial ) or bill appleby ( global finance ) as an intro
+to the issues faced .
+4 . curve management process
+the markets in which our merchanting division trades are based on the lme
+curves but are linked to a large number of basis curves for quality and
+location . given the vast number we have opted to break down the markets by
+brand group and port location . e . g . for copper this means we have a grid with
+5 brand groups and 3 sets of port groups ( 13 for europe , 7 for the us and 6
+for the far east ) . the maintaince & price testing of the grids is made
+manageable by the fact the premiums only need be entered for brand and port
+groups by the traders yet prices can be tested by reference to node points
+i . e . price of specific brand at a given location which can be checked to a
+market quote .
+5 . re recruitment of paper traders
+i haven ' t been able to contact him but i recall that the brother of david
+rosenblum , one of the metals traders in chicago , is a trader of recylced
+paper .
+i ' ll keep you posted on long term system development plans here in london .
+i ' d appreciate same for eim .
+regards
+andy

@@ -1,0 +1,18 @@
+Subject: presentation - integrating market risk and credit risk
+all ,
+i will be giving a 40 min presentation on the above topic at the eprm energy
+2000 conference in april . the bulletpoints are :
+balancing market risk and credit risk to achieve a reliable estimation of
+total risk
+incorporating market risk into a credit risk model
+calculating probability of default using credit risk and market risk
+refining business practice to reflect credit risk and market risk evaluations
+my proposed approach is to quickly step through the practical process of
+modelling credit risk , resulting in measures for expected loss and
+credit - var ; then show how default probs can be calculated using bond and
+equity data . finally i ' ll describe how credit risk can be mitigated using
+credit derivatives - plugging enroncredit . com of course .
+any other ideas for broad topics and / or specific points to mention will be
+appreciated . the presentation has to be submitted next week .
+many thanks ,
+ben

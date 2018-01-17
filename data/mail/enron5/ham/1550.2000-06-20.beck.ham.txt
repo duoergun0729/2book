@@ -1,0 +1,40 @@
+Subject: follow up to my voice mail
+as we discussed in rick ' s staff meeting , you can help your 7 / 1 / 00 go - live go
+more smoothly , whether you are implementing financials and hr or hr only .
+here is one way .
+timekeeping , though it seems mundane on the surface , is a focal point of the
+sap integration . entry and coding of time populates not just payroll , but
+projects and cost centers , real time . we will now have more flexibility to
+charge employee and contractor time to the areas they actually work ( where
+people work on more than one area at a time ) . this will only happen to the
+extent that the business and cost center owners drive it . this capability is
+customizable not just by business unit or company , but by cost center within
+a company .
+to make this work how you want it to on 7 / 1 , each " organizational unit " ( as i
+said above , you can drive this in your cost center ( s ) only or across your bu )
+needs to be clear on questions such as :
+1 . whether or not they want contractors to enter time in sap
+2 . whether you want positive timekeeping ( each pay period specifying the cost
+center or projects one worked on ) or " exceptions " only ( e . g . , vacation , sick
+time , etc )
+3 . whether an approval process is desired and if so , what it is
+4 . whether people will record their own time using the self service
+capability ehronline ( typically more precise and less handoffs ) or whether
+they will continue to use a timekeeper ( typically a little more convenient
+for people who ( a ) rarely have access to a computer or ( b ) work in many
+different areas and are not willing / able to identify and use cost center
+numbers or project codes
+5 . whether people know the projects and cost center codes they should
+charge to
+your leadership in clarifying this within your cost center and / or bu will be
+instrumental in driviing the level of change you desire , as well as
+minimizing the noise related to the 7 / 1 go - live . we have been using a
+variety of methods to communicate and drive much of this change , but the
+business drive for how much to utilize the tool is determined by you .
+the deadline for the first sap time entry period is 3 pm houston time on
+friday , june 30 .
+despite all our collective efforts , i expect that it will be a few pay
+periods before we get each individual clear on what level of acitivity is
+desired from him by his cost center or company . thanks for your help in
+getting through the transition period . please call me or andrea yowman if
+you have any questions .

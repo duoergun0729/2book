@@ -1,0 +1,19 @@
+Subject: research re - org
+please let me know of any corrections .
+- - stinson
+teams reporting to krishna , tanya , mike , and maureen have no changes .
+ena / egm / eim support to be primarily organized by type of support rather than
+by business line under stinson and vasant :
+stinson
+( ebs )
+martin lin ( * ) , shalesh ganjoo , chonawee supatgiat , iris mack
+( option pricing )
+zimin lu , alex huang , tom halliburton , bob lee , paulo issler , ken
+parkhill , tom barkley , hector campos
+vasant
+( power )
+martin lin ( * ) , lance cunningham , sevil yaman
+( risk and market analysis )
+amitava dhar , joe hrgovcic , nelson neale , kate lucas
+( * ) martin to have the option of maintaining ties to ebs or to gradually move
+to mainly power fundamentals .

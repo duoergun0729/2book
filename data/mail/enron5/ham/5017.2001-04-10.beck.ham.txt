@@ -1,0 +1,25 @@
+Subject: confidential folder to safely pass information to arthur andersen
+we have become increasingly concerned about confidential information
+( dpr / position info , curves , validations / stress tests , etc ) being passed to
+arthur andersen for audit purposes over the web to their arthur andersen
+email addresses . ( necessary now they no longer have access to enron ' s
+internal email system )
+please use the folder described below when passing any info ( that you would
+have concerns about if it was picked up by a third party ) via the shared
+drive that has been set up for this specific purpose .
+note : aa should also use the shared drive to pass info back if there are
+questions , or the data needs updating . we should also consider the
+sensitivity of audit findings and special presentations if they are being
+distributed electronically .
+please pass this note to others in your groups who have the need to pass info
+back and forth .
+details on how to access for those who will use this method to pass info :
+a secured folder has been set up on the " o " drive under corporate called
+arthur _ andersen ( o : \ corporate \ arthur _ anderson ) . please post all confidential
+files in this folder rather than emailing the files to their company email
+address . if you need access to this folder , submit an erequest through the
+it central site : http : / / itcentral . enron . com / data / services / securityrequests / .
+arthur andersen will be able to retrieve these files for review with their
+terminal server access at the three allen center location .
+please contact vanessa schulte if you have any problems or questions
+beth apollo

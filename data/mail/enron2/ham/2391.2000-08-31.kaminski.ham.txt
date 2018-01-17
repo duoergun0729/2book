@@ -1,0 +1,35 @@
+Subject: gpcm modeler news : august 31 , 2000
+new gpcm pipeline schematics available on the web
+you can now view gpcm pipeline schematics on the web by going to the gpcm
+website , clicking " gpcm pipelines " and then clicking the code for the
+pipeline you want . you can also go to that pipeline ' s website by clicking
+it ' s url . finally , by " right - clicking " the code you can copy the pipeline
+schematic ( a powerpoint file ) down to your local computer and use it there .
+once you copy it down , if you put it into your gpcm 8 \ maps sub - folder , you
+can view it directly from your user interface in the data / pipelines form
+( click the has map box on ) . if you are a gpcm licensee and would like a
+zip file of the current set of maps , you can pick it up from the customer
+support area of the gpcm website ( http : / / gpcm . rbac . com ) .
+from http : / / www . enerfax . com :
+natural gas markets in mexico
+natural gas demand in mexico in the coming years could grow by up to 8 %
+annually . such demand could lead to natural gas imports approaching 2 bcf
+per day , according to government forecasts . in response , pemex proposes two
+actions : the first consists of measures to increase cross - border pipeline
+infrastructure and capacity such as a new pipeline being built by coral
+energy into pemex ' s supply hub at reynosa . the possibility of a new
+pipeline to monterrey is still an option . a second measure is to implement
+a gas - centric exploration and production program focused on five areas , two
+of which are dry natural gas basins , burgos and macuspana . this second
+measure is intended to reduce projected imports by up to 80 % . at present ,
+pemex ' s 10 - year strategic plan does not contemplate a role for private
+production companies in capacities other than that of technical assistance .
+storage report
+week prev
+ending prev prev year
+| region | 8 / 25 / 00 | week | diff | % full | year | % full
+| prod | 529 | 517 | 12 | 55 % | 749 | 78 %
+| east | 1254 | 1209 | 45 | 68 % | 1382 | 75 %
+| west | 361 | 366 | - 5 | 71 % | 390 | 77 %
+| | | | | | |
+| total | 2144 | 2092 | 52 | 65 % | 2521 | 76 %

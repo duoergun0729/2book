@@ -1,0 +1,20 @@
+Subject: re : tw unsubscribed capacity
+toby , i think nng ' s looks great . i agree , let ' s do the same for tw .
+this is an fyi to the tw mktg rep ' s that the tw unsubscribed report will look a little different ( see how nng ' s is below ) .
+- - - - - original message - - - - -
+from : kuehl , toby
+sent : tuesday , july 17 , 2001 7 : 52 am
+to : donoho , lindy ; frazier , perry
+cc : licciardo , jeanne ; abramowicz , richard
+subject : re : tw unsubscribed capacity
+importance : high
+lindy , perry
+when we go into production , i think we would want to be similar across the pipes in look and feel for the unsubscribed capacity . we can set up the criteria to in several different ways . please see nng ' s unsubscribed site http : / / www . nng . enron . com / dob / etfr _ avcap . html and click on unsubscribed to view the dropdowns . i would suggest this is the way to go for the tw unsubscribed page . unlike today where the user has to pull the complete page up on tw ' s unsubscribed , this will give the user capability to define what they are looking for . please let me know as soon as possible so rich can set up the format for tw ' s unsubscribed . if you have any questions please let me give me a call 31527 .
+toby
+- - - - - original message - - - - -
+from : abramowicz , richard
+sent : monday , july 16 , 2001 2 : 22 pm
+to : kuehl , toby
+cc : licciardo , jeanne
+subject : tw unsubscribed capacity
+we will soon be posting tw ' s unsubscribed capacity to the internet from the new cas system . the cas and edi requirements have been defined ; but we don ' t yet know how the data should be displayed on the internet . should we copy the format from nng ' s long term unsubscribed capacity or from tw ' s current unsubscribed capacity ?

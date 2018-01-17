@@ -1,0 +1,3 @@
+Subject: trade counts for october
+this spreadsheet shows trade counts by counterparty for the month of october . each column represents a date , starting from today going back to october 1 . only counterparties with at least 500 trades in all of october are shown . the yellow highlighted rows are those counterparties that appear to be off their typical trading pace .
+- - jay

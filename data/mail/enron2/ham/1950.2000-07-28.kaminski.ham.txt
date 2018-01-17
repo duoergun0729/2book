@@ -1,0 +1,42 @@
+Subject: var numbers for the 26 th
+hi vince ,
+i apologise that i did not send you the following mail . . .
+kirsteee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kirstee hewitt / lon / ect on 28 / 07 / 2000
+20 : 21 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron europe
+from : kirstee hewitt 27 / 07 / 2000 20 : 33
+to : andreas . barschkis @ mgusa . com
+cc : bjorn hagelmann / hou / ect @ ect , grant masson / hou / ect @ ect
+subject : var numbers for the 26 th
+hi andreas ,
+i have run the var model for the 26 th july and have attached a zip file of
+the results :
+the total var is $ 4 , 170 , 653 and the cu position is $ 1 , 852 , 876 .
+i have had trouble getting hold of you so i thought i would summarised what i
+wanted to talk about ( also i thought
+i would give your ears a rest ! )
+basically it is wrt the second point in your mail yesterday ( we briefly
+discussed it earlier ) .
+the fax you sent me to explain the risk calculation suggested that you use a
+5 day period of adjustment to calculate
+the risk ( in this case it is called capital at risk ) . the var calculation for
+our model is for a one day holding period which means that your risk factor
+will be reduced by a factor equal the sqrt ( 5 ) or 2 . 24 .
+since :
+old risk factor ( % ) = 1 . 65 * ( std of the price movement ) = 3 . 99 %
+new daily risk factor = 3 . 99 / 2 . 24 = 1 . 78 % which actually equates to std
+of approx 1 . 1 % a day .
+i am happy with this as a estimate of the vol as the annualized spot vol we
+are showing for cu is approx 19 % which equates to approx 1 . 2 % daily .
+using this new risk factor for the daily var the cu positions would give a
+var ( for the 19 th ) of approx $ 2 m which is less that the
+figure we estimated ( $ 3 , 100 , 568 ) .
+the other thing is that by taking net numbers we are disregarding the term
+structure of the price curve / vol curve and position
+curve and are hence collapsing everything into a one factor model which means
+that it is difficult to compare the numbers .
+i hope that this helps to explain our number .
+hopefully we can talk tomorrow ,
+cheers
+kirstee

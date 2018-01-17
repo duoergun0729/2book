@@ -1,0 +1,27 @@
+Subject: risk focus group
+i ' ve created a project in livelink called " risk issues focus group " , in an
+attempt to centralise the communication between our groups .
+to access it enter this in your browser address line
+edms . livelink . enron . com / ena
+when the page loads , there will a drop down box in the top - right corner with
+the words " go to . . . . "
+select that and then select personal workspace .
+at this point its a good idea to add the browser page to your favorites as
+you can then get back to your personal workspace directly
+you will see a row of tabs just under the header bar and one in particular
+called " projects " . if you select it a page will be displayed showing all the
+projects that you are currently a member of , own , or a guest of .
+in that list of projects you should see " risk issues focus group "
+select that and you will be presented with the project page . . . . . there is a
+search bar and a scrolling news header plus the following
+an issues discussion forum
+a news channel
+an it and business task list
+folders for documentation and process maps
+this was my first stab at a layout . . . but it ' s free - format , so we can do what
+we like with it
+. . . . i ' ve started adding documentation already and there are some news items
+and a few it tasks identified .
+i would welcome comments !
+regards
+steve

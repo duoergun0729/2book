@@ -1,0 +1,50 @@
+Subject: re : mg middle office integration issues and timetable
+good summary . tim , does your draft plan now require a new iteration ?
+mike jordan
+24 / 07 / 2000 10 : 38
+to : tim poullain - patterson / lon / ect @ ect , richard sage / lon / ect @ ect , fernley
+dyson / lon / ect @ ect , phil redman / lon / ect @ ect , andrew cornfield / lon / ect @ ect ,
+alex holland / lon / ect @ ect , ralph jaeger / fra / ect @ ect , naomi
+connell / lon / ect @ ect , shona wilson / na / enron @ enron , brent a price / hou / ect @ ect ,
+sally beck / hou / ect @ ect , " kevin rhodes " @ enron , beth
+apollo / lon / ect @ ect , stephen wood / lon / ect @ ect
+cc :
+subject : mg middle office integration issues and timetable
+to all
+tim has delivered the initial microsoft project plan for the mo integration -
+this is available to all via the integration project ' office ' - i . e . richard
+and phil .
+i summarise the key themes as : -
+summary operational risk assessment across all mg entities and functional
+groups ( as defined within the dpr )
+defining mo organisational structure and fit with enron ' s control model -
+particularly logistics and co - ordination
+interaction with fin ops processes
+month end consolidation process
+sap implementation
+working capital and revenue forecasting
+interaction with rac re var / trading limits ( market and credit )
+awaiting notice of trading limits
+credit counterparty review and set up within gcp
+var methodology implementation
+interaction with it re systems development / maintenance
+as 400 development timetable and roll out to ny for wang replacement
+mits / eol migration
+use of enlighten in application architecture
+defined it resource requirement
+interaction with legal re enron metals name change and related documentation
+issues
+mo integration planning for settlements and trade accounting
+the focus and objectives relating to the above for this week are as follows : -
+review of london processes and define boundaries for segregation of duties
+implementation ( action tpp ) - also discuss extension to ny ( swilson )
+review of wolff activities in germany ( action kr / ac )
+continuing review of new recycling yards ( project cook ) in germany ( action
+ah / rj )
+review interdependencies between mo / fin ops / rac / systems integration plans (
+action mj / rs )
+document current assessment of operational risk with particular emphasis on
+wolff and recycling businesses ( action mj with kr / ac / ah / rj / tpp / sw )
+brainstorm month end accounting close and potential earnings election for
+consolidation ( action tpp / mj / ba / swood )
+mike

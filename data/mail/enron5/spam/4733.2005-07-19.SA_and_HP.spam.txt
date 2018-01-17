@@ -1,0 +1,34 @@
+Subject: mail delivery failed : returning message to sender
+this message was created automatically by mail delivery software .
+a message that you sent could not be delivered to one or more of its
+recipients . this is a permanent error . the following address ( es ) failed :
+antonio _ schiavon @ artac . com
+smtp error from remote mailer after rcpt to : :
+host a . mx . intamail . com [ 62 . 3 . 206 . 135 ] : 553 sorry , unknown email address ( # 5 . 7 . 1 )
+- - - - - - this is a copy of the message , including all the headers . - - - - - -
+return - path :
+received : from [ 210 . 78 . 83 . 23 ] ( helo = mailwisconsin . com )
+by smtp . keme . net with smtp ( exim 4 . 30 )
+id ldupqz - 0001 go - 6 b
+for antonio _ schiavon @ artac . com ; tue , 19 jul 2005 12 : 01 : 12 + 0100
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 30516474 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : antonio _ schiavon @ artac . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivabie !

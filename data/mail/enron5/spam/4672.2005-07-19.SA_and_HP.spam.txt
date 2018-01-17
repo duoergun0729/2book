@@ -1,0 +1,10 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 13 : 00 : 00 + 0200
+from mail . openit . de [ 217 . 69 . 65 . 2 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 550 - mailbox unknown . either there is no mailbox associated with this )
+- - - - - transcript of session follows - - - - -
+. . . while talking to localhost :
+> > > data
+. . . user unknown
+< < < 503 5 . 5 . 1 no recipients

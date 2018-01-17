@@ -1,0 +1,6 @@
+Subject: fw : ercot prices
+georganne -
+attached is a brief presentation demonstrating 3 methods of correlating gas and power prices in texas . all show a high correlation ( > 85 % ) . this is to show arthur andersen that john ' s nymex swap is a good hedge for the coal plant build option .
+the spreadsheet provides the raw data .
+my recommendation is to use the " liquidated price " method since it uses historical mw daily and gas daily indexes and does not rely on internal curves .
+mitch

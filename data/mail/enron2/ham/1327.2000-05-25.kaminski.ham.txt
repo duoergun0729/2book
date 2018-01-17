@@ -1,0 +1,30 @@
+Subject: cplex
+- - - - - - - - - - - - - - - - - - - - - - forwarded by tom halliburton / corp / enron on 05 / 25 / 2000
+09 : 05 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+chonawee supatgiat
+05 / 22 / 2000 11 : 56 am
+to : grant masson / hou / ect @ ect , pinnamaneni krishnarao / hou / ect @ ect , tom
+halliburton / corp / enron @ enron
+cc :
+subject : cplex
+- - - - - - - - - - - - - - - - - - - - - - forwarded by chonawee supatgiat / corp / enron on
+05 / 22 / 2000 11 : 55 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : samer takriti @ enron communications on 05 / 22 / 2000 11 : 46 am
+to : stinson gibner / hou / ect @ ect
+cc : chonawee supatgiat / corp / enron @ enron , ravi thuraisingham / enron
+communications @ enron communications
+subject : cplex
+stinson ,
+krishna mentioned that tom wants to buy ( may have bought ) xpress . tom ' s
+argument is that xpress ' s language allows the user to express special ordered
+sets ( certain types of constraints ) in a convenient fashion . chonawee and i
+just talked to two of cplex ' s consultants ( whom i know personally ) . they both
+mentioned that these sets are recognized and handled implicitly within cplex .
+as a result , there is no need for their modeling language to express these
+constraints explicitly .
+as a result , i feel that we should go with cplex . both chonawee and krishna
+seem to have the same impression . i need to get a final vote on this one so
+that we can order the licenses . this has been dragging on for too long .
+- samer
+[ chonawee , my address book does not recognize ena users . please forward to
+grant , krishna , and tom ]

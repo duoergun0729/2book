@@ -1,0 +1,53 @@
+Subject: global systems review - completion of work , closing meeting
+these are the preliminary results of the global systems audit . not too bad .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary solmonson / hou / ect on 10 / 18 / 2000
+12 : 04 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mary solmonson
+10 / 18 / 2000 12 : 05 pm
+to : stuart reed / na / enron @ enron
+cc :
+subject : global systems review - completion of work , closing meeting
+fyi , my comments are :
+sap interface - we discussed an improved solution for implementation in 4 th
+quarter earlier this week
+inactive employees , etc - in the absence of a corporate process for keeping
+this updated , the global managers do periodically review who has access and
+request changes to access based upon their knowledge of current employee
+assignments . at best , this is a quarterly process .
+passwords - they are right . we probably need something .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary solmonson / hou / ect on 10 / 18 / 2000
+12 : 01 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+russell bouwhuis @ enron
+10 / 18 / 2000 11 : 46 am
+to : stuart reed / na / enron @ enron
+cc : mary solmonson / hou / ect @ ect , stephen stock / hou / ect @ ect , sundar
+chitradurga / hou / ect @ ect , ravi arumbakkam / corp / enron @ enron , cynthia
+davis / aa / corp / enron @ enron , gillian boyer / aa / corp / enron @ enron , sean
+sipko / aa / corp / enron @ enron
+subject : global systems review - completion of work , closing meeting
+stuart ,
+we have completed our work on the global systems ( counterparty , contracts ,
+facilities , and common codes ) in accordance with the enron north america 2000
+audit plan . we met with sundar chitradurga and ravi arumbakkam on the it
+side and mary solmonson on the business side in order to gain an
+understanding of the application and its environment . we were provided the
+documentation we requested and are pleased with the cooperation we received .
+we appreciate them making time to work with us in completing this audit .
+we have closed our preliminary issues with sundar and ravi and we agree on
+the items in the report . i am attaching a copy of the preliminary report for
+your review . at enron ' s request , the reporting date for the currently open
+business audits has been moved to this friday , the 20 th of october . they
+were originally scheduled to report on the 27 th .
+we would like to give you an opportunity to read through this report and meet
+with us to discuss any areas of concern prior to friday ' s reporting . we are
+available today , the 18 th , throughout the afternoon and all day tomorrow ,
+thursday the 19 th . i will also call you this afternoon to discuss meeting to
+go over each of these issues . if you are comfortable with this report and do
+not feel it is necessary for us to meet and discuss it , please let me know .
+after we have agreed on the accuracy of all issues , they will be placed in
+the final reporting format . we will provide you a copy of the final report
+when it is completed .
+we appreciate your cooperation and efforts in this regard .
+thanks ,
+russ bouwhuis
+3 - 3173

@@ -1,0 +1,97 @@
+Subject: re : mg integration : resource requirements
+dear mike ,
+a lot of the needs listed in tim ' s memo will also be needed in ny , but on a
+smaller scale . i ' ll put a resource requirement memo together by the end of
+the week and then we can determine who would fit these requirements and where
+these people should come from ( london / houston ) .
+i think this project would be a great opportunity for some
+analysts / associates ( of course working under experienced personnel ) .
+regards
+shona
+mike jordan @ ect
+08 / 14 / 2000 02 : 56 am
+to : tim poullain - patterson / lon / ect @ ect
+cc : richard sage / lon / ect @ ect , fernley dyson / lon / ect @ ect , andrew
+cornfield / lon / ect @ ect , shona wilson / na / enron @ enron
+subject : re : mg integration : resource requirements
+a good tee up - and one we should regularly reassess - here goes some initial
+feedback which you should push back on : -
+valuation review - resource requirement to be defined in detail by andy in
+his new role - i think the offer from eric of finding some analysts and
+associates for the short term assessment may be the immediate answer .
+balance sheet substantiation - at present i assess the power and gas
+substantiation process as priority - although we should review the resources
+coming free from global ( chris and rashpal ) as they may not be easily
+useable by raewyn - chris is free at present and rashpal promised for
+thunderball . whilst i am as concerned as you are we should reassess level of
+risk because
+aa would have done ( could do more ? ) some substantive / due diligence on
+balance sheet
+the trade accountants at mg had a simplistic entity structure based around an
+infrastructure where the as 400 did both the dpr and account posting - unlike
+our own systems - so inherent risk is lower ( excluding inventory )
+we must make certain our efforts are aligned to fin ops !
+inventory - interesting one this - it should be very accurately controlled
+already ( it is the business ? ? ? ) yet the problem is that it is not
+transparent at the consolidation level . i would like you to get david tregar
+to assess the level of risk with you ( and discuss with me and philip lord
+the current securitisation of inventory ) before we put an action plan in
+place for this balance sheet category
+integration / controls - you should continue your efforts to bring the mg
+priority to the functional stripe leaders ' agenda - after friday ' s meeting
+they know the effort required are that recruitment is key
+sap - we will look to michael heap on this ( but we did identify some key
+business analysis work for kevin rhodes to be done asap - we should track
+this )
+remote offices - continues to be the dog that has not barked ( yet ) -
+richard , you and i need to rethink where we are - particularly with south
+america
+overall - we both agree more resources are required but they have to be
+scoped quite precisely !
+thanks for the note
+tim poullain - patterson
+11 / 08 / 2000 18 : 59
+to : mike jordan / lon / ect @ ect
+cc :
+subject : mg integration : resource requirements
+mike ,
+as you know we still have a very full issues list and we are spreading the
+few resources we have on ground pretty thinly , leaving a residue of partially
+completed tasks that will need to be revisited at some point . also , though we
+are leveraging mg staff where we can , we have already made an assessment that
+their support infrastructure is very lean - this is being stretched to
+breaking point by the rw acquisition and various enron integration
+initiatives , e . g . establishing functional teams .
+at present we have the following resources on the ground :
+we are continuing to identify issues that add to our assessment of
+operational risk . if we are to reduce this risk to an acceptable level we
+need to commit additional resources to the project .
+i assess our current resource needs as follows :
+valuation review : the valuation review that andy and i performed prior to
+" effective control " date identified a number of complex valuation issues that
+require further quantitative analysis . also , there is imbedded optionality in
+a lot of the physical business transacted throughout mg which should be
+modelled to determine the correct valuation and accounting treatment ( and if
+there is any extra value to be extracted - eric gadd has recently prioritised
+this ! ) . requirement - risk manager with developed quantitative / modelling
+skills .
+balance sheet substantiation : a comprehensive validation of balances
+including a review of reconciliation ' s , evidence of account ownership
+( detection of " 88888 " ' s accounts etc . . . ) is overdue . requirement - lead
+accountant plus two juniors .
+inventory : a lot more analysis is required of the global inventory balances
+- see earlier note to eric gadd . requirement - one / two risk manager ( s ) .
+general integration : having now identified the functional leads for mg in
+london , we are now due to involve the " stripe leaders " in the process of
+creating the functional groups , including identifying gaps in resourcing . i
+will not prejudge the outcome beyond saying that each functional group will
+need extra staff that i am expecting the " stripe leaders " to provide .
+requirement - to be determined by " stripe leaders " .
+sap : ? ? ? requirement - to be determined by sap project team .
+remote offices : the above requests relate to the london office only . having
+identified enron controllers for the offices in the far east i do not
+envisage significant issues integrating those offices . however , i have
+minimal understanding of what our requirements in the us and south america
+are , and propose deferring that discussion to another time . . .
+regards ,
+tim

@@ -1,0 +1,51 @@
+Subject: eol average deal count as of 12 - 31 - 00 ( year end edition )
+notes for this week ' s report :
+* north american gas has now decreased its overall average daily eol deal
+count by about 500 trades a day since november . there are now approximately
+2 , 633 trades a day in north american gas alone which are being traded on eol .
+* the financial desk in north american gas has increased its average daily
+eol deal count by about 45 % since october , from 494 to 714 deals per day in
+november . in december , the average daily eol deal count was down 8 % , from
+714 to 658 deals per day . in addition , the average daily eol volume has
+decreased steadily in december .
+* ecc canada west gas has decreased its average daily eol deal count by
+about 46 % since november , from 213 to 113 deals per day . in addition , the
+average daily eol volume has decreased about 40 % since november . however ,
+the average daily non - eol deal count has only decreased by about 10 % since
+november , from 88 to 79 deals per day .
+* us west power has decreased its average daily eol deal count by about 71 %
+since november , from 187 to 54 deals per day . however , the average daily
+non - eol deal count has decreased by only about 21 % since november , from 171
+to 136 deals per day . the average daily combined eol and non - eol volume has
+remained steady .
+* us east power has decreased its average daily eol deal count by about 24 %
+since november , from 167 to 127 deals per day . however , the average daily
+non - eol deal count has actually increased by about 3 % since november , from
+230 to 237 deals per day . the average daily combined eol and non - eol volume
+has increased by about 20 % total . these recent trends in power may indicate
+a shift in on - line power transactions from eol to our competitors .
+* lpg ' s has steadily increased its total monthly eol deal count from 281 in
+september , 398 in october , to 444 in november . in december , lpg ' s appear to
+have levelled off with 449 deals completed in december . the total monthly
+eol volumes have increased similarly as well .
+* coal trades have decreased significantly from the levels seen in october .
+the total monthly eol deal count for november was only about 23 % of the total
+in october . the total monthly eol deal count for december was only about 83 %
+of the total in november .
+* enron metals trades done via eol has risen by approximately 47 % since
+november , from a daily average of 242 to a daily average of 357 for december .
+- - - - - - - - - - - - - - -
+the following files contain a graphical view of the average deal count and
+volumes per month by commodity for eol and otc transactions since the launch
+of enrononline . this information is for comparative analysis only . do not
+update links when opening these files .
+average deal counts for commodities ( excluding global products , which
+displays monthly totals )
+na gas breakout by region ( non - averaged , including volume and notional value )
+if you have any questions regarding this breakout , please contact one of the
+following :
+torrey moorer x 3 - 6218
+matt motsinger x 3 - 5221
+pete berzins x 5 - 7597
+pete
+enrononline

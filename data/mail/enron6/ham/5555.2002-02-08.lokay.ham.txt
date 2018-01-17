@@ -1,0 +1,30 @@
+Subject: re : tw unsubscribed capacity
+i added an extra " printable page " button on the page so that the entire page can be printed out .
+michelle , please let me know if you still have problems to get to the tw unsubscribed capacity page . sorry about the delay .
+thanks .
+jeff
+x 39290
+- - - - - original message - - - - -
+from : kuehl , toby
+sent : thursday , february 07 , 2002 10 : 09 am
+to : frazier , perry ; huo , jeff
+subject : re : tw unsubscribed capacity
+importance : high
+i have an issue with this format . when you print it the header nor disclaimer no longer shows up . we have run into this issue before , and that is why we have not put it in frames . we may need to look at another format to cover the on - line users and the customers that print this report . this has been an on going issue on - line when you scroll down you lose the header . the printing customers won ' t think to highly of this format . my suggestion is lets try look at another format that will cover both sides ( printing and viewing ) . jeff / perry , we may have to get together and discuss this issue .
+toby
+- - - - - original message - - - - -
+from : frazier , perry
+sent : thursday , february 07 , 2002 9 : 56 am
+to : kuehl , toby
+subject : fw : tw unsubscribed capacity
+call me to discuss .
+perry 3 - 0667
+- - - - - original message - - - - -
+from : huo , jeff
+sent : wednesday , february 06 , 2002 4 : 07 pm
+to : frazier , perry
+cc : stacy , don
+subject : tw unsubscribed capacity
+please go to http : / / twdev . ets . enron . com our testing site to view the modified tw unsubscribed capacity web page and see if this is what you guys want . i removed the borders because the table header and records page are in the different frames , it is very hard to adjust them exactly straight into the same columns .
+thanks !
+jeff

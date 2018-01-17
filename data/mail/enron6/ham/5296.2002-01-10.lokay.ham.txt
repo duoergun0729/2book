@@ -1,0 +1,32 @@
+Subject: fw : transwestern capacity release - ena / burlington
+fyi - when january 2002 invoices are run , please be advised that a manual adjustment will need to occur on ena ' s contract 24924 . the deal was structured whereby tw would receive a marketing fee equal to 50 % of the rate negotiated in excess of the original contracted rate between ena and tw ; the other 50 % goes to ena .
+here ' s the basics :
+ena ' s contract with tw is at a daily rate of $ 0 . 0600 ( one - part )
+the release to burlington is at a daily rate of $ 0 . 0650 ( demand only plus applicable commodity and fuel based on usage )
+tw will bill burlington through normal course of business ( reservation of $ 34 , 125 [ $ 0 . 0650 x 25 , 000 x 21 days ] plus applicable commodity fees )
+ena demand invoice will need to be adjusted so that they only receive a capacity release credit of $ 32 , 812 . 50 [ ( $ 0 . 0650 - $ 0 . 0025 ) x 25 , 000 x 21 days ]
+tw will need to book marketing fee revenues of $ 1 , 312 . 50 [ $ 0 . 0025 x 25 , 000 x 21 days ] ( richard - do we need / have a separate account for these revenues ? ? )
+michelle - i know you indicated that ena is looking to get a payment of $ 1 , 312 . 50 for their portion of the incremental fee charged . however , we will need to discuss further . the invoice that will be generated to ena will not represent a credit due them since we would still be billing them for the first 11 days prior to this release .
+we can discuss further when the billing cycle approaches . if you have any questions , please let me know .
+elizabeth
+- - - - - original message - - - - -
+from : brown , elizabeth
+sent : thursday , january 10 , 2002 10 : 27 am
+to : brown , elizabeth ; giambrone , laura ; hernandez , bert ; mcevoy , christine ; miller , beverly ; miller , christopher ; minter , tracy ; mulligan , amy ; ward , linda ; donoho , lindy ; lindberg , lorraine ; lohman , tk ; lokay , michelle ; watson , kimberly ; mcconnell , mark ; y ' barbo , paul ; blair , lynn ; buchanan , john ; kowalke , terry ; cherry , paul ; doll , jeanette
+cc : dietz , rick ; lee , dennis ; eldridge , dale ; williams , john
+subject : re : transwestern capacity release report for the period 1 / 1 / 2002 - 12 / 31 / 2003
+as promised , please find the attached tw capacity release report which has been revised to include a release from ena to burlington effective 1 / 11 / 02 - 1 / 31 / 02 . let me know if you have any questions .
+thanks ,
+elizabeth
+- - - - - original message - - - - -
+from : brown , elizabeth
+sent : monday , december 31 , 2001 12 : 59 pm
+to : giambrone , laura ; hernandez , bert ; mcevoy , christine ; miller , beverly ; miller , chris l ; minter , tracy ; mulligan , amy ; ward , linda ; donoho , lindy ; lindberg , lorraine ; lohman , tk ; lokay , michelle ; watson , kimberly ; mcconnell , mark ; y ' barbo , paul ; blair , lynn ; buchanan , john ; kowalke , terry ; cherry , paul ; bianchi , rita
+cc : dietz , rick ; lee , dennis ; eldridge , dale ; williams , john
+subject : transwestern capacity release report for the period 1 / 1 / 2002 - 12 / 31 / 2003
+attached is the transwestern capacity release report that lists all capacity release transactions for the period effective 1 / 1 / 2002 . all transactions were awarded at 100 % of the applicable maximum tariff rates .
+i have also been advised by marketing that another posting may occur for january 2001 ( partial month ) but nothing has been finalized . i will send an updated file if necessary .
+if you have any questions , please feel free to contact me .
+>
+thanks ,
+elizabeth

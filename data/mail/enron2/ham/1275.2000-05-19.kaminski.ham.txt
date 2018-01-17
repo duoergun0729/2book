@@ -1,0 +1,34 @@
+Subject: virus update : please read
+there are many different variations of the " iloveyou " computer virus still
+being reported . the it infrastructure team is continually updating our virus
+software as new versions become available , but it is extremely important that
+you do not open any attachments that you do not regularly receive from
+business associates . even business associates you are very familiar with
+could be sending you the virus without knowing it , so unless you are
+expecting an email from them with an specified attachment please do not open
+it . if you are unsure whether to open an attachment please do not open it .
+call your helpdesk to ask any questions and to get verification if required .
+we may need you to log out and log back in during the day as new anti virus
+updates become available . we appreciate your cooperation while we all work
+to keep enron ' s computing environment secure .
+please note the following enron policies regarding viruses :
+email
+malicious code ( virus ) screening
+in addition to the enron requirement for email attachments ( received and
+sent ) to be screened for malicious code ( viruses , trojan horses , etc . ) , users
+of enron information resources are required to detach email attachments that
+are received on to their hard drive for local virus screening purposes .
+all executables ( * . bat , * exe , * . com , * . vbs ) files should never be launched
+from email without first consulting with it .
+virus alerts
+the internet is constantly being flooded with information about computer
+viruses and trojan horses . however , within among real virus notices are
+computer virus hoaxes . while these hoaxes do not infect systems , they are
+still time consuming and costly to handle . it only wastes bandwidth and
+unnecessarily alarms other computer users .
+please , do not perpetuate unconfirmed warnings about viruses and trojan
+horses . if you receive an invalidated warning , don ' t pass it to all your
+friends , pass it to your it computer security manager to validate first .
+enron
+information risk management
+713 - 853 - 5536

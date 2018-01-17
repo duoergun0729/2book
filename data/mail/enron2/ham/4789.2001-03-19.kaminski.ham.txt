@@ -1,0 +1,15 @@
+Subject: softs in london
+vince ,
+with regard to the softs curves development , i have been communicating with a
+couple of folks in london . the key contacts include james willis ( cocoa and
+sugar broker ) and nigel majury ( coffee broker ) . we had a conference call on
+thursday ( heather , trena , erin , james , nigel , frank speight , nelson ) to
+discuss data sources , data acquisition , priorities , and timelines . a number
+of data sources were identified ( e . g . , usda , int ' l cocoa organization , ed however , cocoa
+replaces coffee in the softs importance hierarchy . i suppose that this
+results from our physical ( or soon to be ) positions in both markets . the
+timeline hasn ' t changed ; however , adjustments will have to be made since we
+haven ' t yet acquired all of the necessary data for price modeling . moreover ,
+per our discussion this afternoon , additional thought / time will have to be
+devoted to corn modeling to come up with an adequate hedging strategy .
+nelson

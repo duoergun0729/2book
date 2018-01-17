@@ -1,0 +1,12 @@
+Subject: co - integration
+zimin ,
+andrea reed asked for our help in looking for end - users of steel which might
+be used to take a commodity hedge position . she will work on identifying
+potential equities or indices which might be used , and then we will analyze
+them for correlation or co - integration with steel prices . andrea should be
+contacting you next week regarding the project . hector has done
+co - integration analysis in the past and has the tools to do this project .
+thanks ,
+stinson
+anrdrea : we will also need you to identify which steel prices / indices
+should be used in this analysis .

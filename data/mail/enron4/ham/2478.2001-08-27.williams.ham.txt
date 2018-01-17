@@ -1,0 +1,12 @@
+Subject: intra - zonal congestion
+the iso is experiencing increasing loading on the pittsburg - tassaraja 230 kv
+line and requires additional decremental energy bids on the north side of
+the path and incremental energy bids on the south side of the path . to the
+extent that scheduling coordinators do not respond with sufficient energy
+bids to mitigate the anticipated congestion , the iso may invoke the other
+steps of the intra - zonal congestion management procedure . sent by market
+operations .
+the system conditions described in this communication are dynamic and
+subject to change . while the iso has attempted to reflect the most current ,
+accurate information available in preparing this notice , system conditions
+may change suddenly with little or no notice .

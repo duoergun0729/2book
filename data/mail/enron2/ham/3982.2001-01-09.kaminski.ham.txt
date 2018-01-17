@@ -1,0 +1,9 @@
+Subject: power plant model
+ken of rdi and i have gone through his model together and i have a clear idea
+of how it ' s going step by step . i believe we can almost start recoding now .
+i need a c programmer who ' s familiar with access data base .
+i . e . , he ( or she ) knows how to extract data from an access data table ( of
+certain format ) and output the results into an access data table of certain
+format . once the programmer is assigned , i will go through the model
+with him and incorporate his ideas and ken ' s , then we can start coding .
+alex

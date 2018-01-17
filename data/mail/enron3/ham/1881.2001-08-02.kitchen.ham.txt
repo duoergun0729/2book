@@ -1,0 +1,15 @@
+Subject: commoditylogic guest user ids
+hello ,
+per tom ' s request , i am sending you guest ids for commoditylogic . please go to guest . commoditylogic . com to access the guest user environment . on the login page , there is a flash tour of the module functionality .
+if you have any questions , please contact either myself or the call center ( # 713 - 345 - 4521 ) .
+module user id password
+confirmlogic cl 656919 password
+nomlogic cl 476211 password
+invoicelogic cl 782667 password
+banklogic cl 820622 password
+docswaplogic cl 668899 password
+* ids and password are case sensitive
+thank you ,
+andrea
+commoditylogic
+# 713 - 345 - 4420

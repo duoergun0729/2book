@@ -1,0 +1,83 @@
+Subject: limit order usage today
+external orders submitted : 812
+external orders filled : 215
+as a comparison , the numbers for yesterday were :
+external orders submitted : 116
+external orders filled : 13
+here is a list of counterparties that posted prices which became the web prices and were traded :
+aep energy services , inc .
+allegheny energy supply company , llc
+american electric power service corporation
+american municipal power - ohio inc .
+aquila energy marketing corporation
+aquila risk management corporation
+astra power , llc
+bnp paribas
+bp corporation north america inc .
+bp energy company
+cleco marketing and trading , llc
+cms marketing , services and trading company
+calpine energy services , l . p .
+cargill energy , a division of cargill , incorporate
+cargill - alliant , llc
+cinergy marketing & trading , llc
+cinergy services , inc .
+colonial energy inc .
+conagra energy services , inc .
+conectiv energy supply , inc .
+conoco inc .
+consolidated edison solutions , inc .
+constellation power source , inc .
+cook inlet energy supply l . l . c .
+coral energy canada inc .
+coral energy holding l . p .
+coral energy resources , l . p .
+cross timbers energy services , inc .
+dte energy trading , inc .
+duke energy trading and marketing , l . l . c .
+dynegy canada inc .
+dynegy marketing and trade
+dynegy power marketing , inc .
+el paso merchant energy , l . p .
+enron energy services , inc .
+entergy - koch trading , lp
+firstenergy services corp .
+hq energy services ( u . s . ) inc .
+hess energy trading company llc
+j . aron & company
+kinder morgan texas pipeline , l . p .
+louis dreyfus corporation
+marathon oil company
+mieco inc .
+mirant americas energy marketing , l . p .
+njr energy services company
+nrg power marketing inc .
+nexen marketing
+nicor gas company
+northern indiana public service company
+oneok energy marketing and trading company , l . p .
+occidental energy marketing , inc .
+pg & e energy trading - power , l . p .
+pg & e energy trading - gas corporation
+pseg energy resources & trade llc
+pancanadian energy services inc .
+petrocom energy group , ltd .
+power merchants group , llc
+prior energy corporation
+reliant energy services , inc .
+sempra energy trading corp .
+smith barney aaa energy fund l . p .
+txu energy trading company
+tenaska marketing ventures
+texaco natural gas inc .
+texla energy management inc .
+the new power company
+tractebel energy marketing , inc .
+transalta energy marketing corp .
+transcanada energy marketing usa , inc .
+usgt / aquila , l . p .
+virginia electric and power company
+western gas resources , inc .
+williams energy marketing & trading company
+xcel energy inc .
+e prime , inc .

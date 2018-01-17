@@ -1,0 +1,20 @@
+Subject: it security and standards notice
+information risk management  ) it security and standards notice
+passwords
+the key to maintaining information and systems security is the use of
+well - selected and guarded passwords . please remember , your password is our
+first line of defense . it is important that :
+? your password should be unique and only known to you .
+? your password should never be shared with someone else .
+? a password must never be written down ( i . e . post - it notes ) , stored in files
+on personal computers , at workstations , hidden under keyboards , configured on
+terminal hot - keys , etc .
+? passwords must be changed every 60 days .
+strong password selection criteria will soon be automated for all employees .
+for instructions on selecting a good password or to the view the company
+password policy and standards , click here :
+please keep in mind that the enron conduct of business affairs holds
+employees responsible for password security . information risk management
+conducts periodic audits to ensure compliance with company policy .
+for any problems encountered concerning password controls , please call your
+appropriate help desk ( available : 24 hrs . / day , 7 days / week ) .

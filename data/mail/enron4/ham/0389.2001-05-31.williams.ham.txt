@@ -1,0 +1,7 @@
+Subject: schedule going real time for june 1
+this schedule was not called in properly to bpa , and is therefore going real time :
+bpa c # 24243 - gac ( t ) bpa ( t ) bpap / gcpd o # 96107 - gac - bpa - epmi - gcpd
+he 0100 - 0600 and 2300 - 2400
+please call bpa and gcpud prior to this schedule becoming active to insure that it flows
+see me if you have any questions
+cara

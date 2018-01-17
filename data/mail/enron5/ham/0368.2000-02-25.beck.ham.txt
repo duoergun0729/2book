@@ -1,0 +1,21 @@
+Subject: cutoff time for eol gas transactions
+i talked to each of you a couple of weeks ago , and this topic got pushed
+aside due to some other pressing issues . however , each of you agreed that a
+standard cutoff time was acceptable for us gas , power and liquids products .
+the best option will be to agree to cutoff at 4 pm each day ( just to get an
+idea of the numbers we were talking about , i looked at yesterday to determine
+how many deals were traded after 4 pm houston time . we had three us gas
+deals , and two canadian gas deals ) . after 4 pm , the bridges would
+automatically roll new eol deals to the next day . however , for those deals
+that do not bridge after 4 pm , the various risk groups would need to remember
+that these deals are the following day ' s business . i am not sure how the
+procedures in risk would need to be modified for the trader ' s position
+reports , as the official books would not include these late deals . can risk
+run supplemental reports to ensure that the desks have accurate positions
+each morning ?
+i would appreciate any comments that you may have , and regardless , please
+re - confirm that a cutoff of 4 pm works for each of your respective groups .
+sheri
+x 36557
+mike - any potential problems with the dpr ?
+peggy - we discussed briefly a few weeks back . . . any thoughts ?

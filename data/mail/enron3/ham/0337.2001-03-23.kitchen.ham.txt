@@ -1,0 +1,71 @@
+Subject: re : out of interest
+this is more than you ever wanted to know about catalytica ! if there is any point to regurgitating it , that point would be that this deal didn ' t make a dime for enron , ge got a " gift " ( as i would see it ) of $ 10 million from enron , and catalytica got off scot - free .
+the december 1999 dash summarized the eight agreements associated with the transactions to " permit the following : ( 1 ) sale and repurchase of the spark spread option ; ( 2 ) funding xonon development in an amount equal to the proceeds of the option sale ; ( 3 ) funding the turbine prepayment at the pastoria project with the same option sale proceeds ; ( 4 ) obtaining the right of first refusal on the first five commercial 7 fas equipped with xonon ; and ( 5 ) purchase of the turbines on an off = balance sheet basis " enhancing the value of the equity investment in catalytica was mentioned as a strategic benefit and potential upside . turbine overpricing was not mentioned in the dash or the risk matrix .
+when dave added his comments to the may 2000 dash i understood that the $ 10 million cost was intended to be offset by $ 10 million in turbine credits . doing an allocation of the cost seemed logically to mean allocation of the credits once they were recognised . outside of the slim chance that something blew up , the allocated cost would be offset with a subsequently allocated credit , i . e . a wash .
+from an ena perspective the issue is moot . if the decision is to allocate a portion of the turbine overpricing to the merchant portfolio but none of the credits , that clearly was not accounted for in 1999 or 2000 and certainly was not provided for in the 2001 merchant asset management plan .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by richard lydecker / corp / enron on 03 / 23 / 2001 11 : 58 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+richard lydecker
+03 / 23 / 2001 08 : 53 am
+to : christopher f calger / pdx / ect @ ect
+cc :
+subject : re : out of interest
+chris , thanks for the clarification . pat did confirm with sheila that the turbines were overpriced . . . which seems to mean that enron ended up giving ge a gift of $ 10 million . that seems strange . it also still seems to me that the december 1999 dash did not accurately reflect the deal . unless i missed it , i did not find any reference to turbine overpricing .
+my understanding of dave ' s comment on the may 2000 dash was to account for the acceleration period between may and september 30 and the risk that the pastoria project would be cancelled and / or the technology development fail in that period . in may ena gave up the opportunity to stick catalytica with " credits " as payment for the repurchase of the sso rather than cash if either of these events occured before september 30 and thereby lost the optionality of the four months . the may 2000 transaction did not change the economics of the deal in any other way than this acceleration . if the comment was intended to allocate the turbine overpricing which was part of the 1999 original transaction , i agree with you that this should have been handled at that time .
+my concern has been that enron retain the " benefit " of the credits referenced in the xtia which apparently has occurred . however , the fact apparently is that the credits had been rendered valueless from the start by the turbine overpricing .
+my framework had been that as long as enron received the credits in some form , the may 2000 transaction was a wash as far as i was concerned .
+dick .
+christopher f calger @ ect
+03 / 22 / 2001 07 : 58 pm
+to : richard lydecker / corp / enron @ enron
+cc :
+subject : re : out of interest
+dick , ,
+sounds as though this caught you by surprise - sorry for that . your chronology seems correct . this thing makes my head hurt every time it is brought up ! i believe the obligation was incurred dec 1999 , but not properly recognized / accounted for until the may , 2000 dash . delainey ' s hand - written note was the end result of people dissecting the deals with the realization that the west power turbines were overpriced by the $ 9 . 9 mm and the catalytica equity account did not properly account for that in dec 1999 .
+the turbine contract refers to a credit of $ 9 . 9 mm but the gross turbine price was increased by twice that amount so that the net increase was $ 9 . 9 mm . ena agreed to it because piper wanted to help catalytica . despite much protest from dave parquet , i agreed with delainey and ray bowen that west power would be on the hook for $ 3 . 3 mm of the $ 9 . 9 mm because the project got some benefit from catalytica . delainey wanted the payment triggered on sale of pastoria because he did not want my group to recognize any income until the project closed . this was communicated to and acknowledged by accounting and i reminded them of it every month or two since mid - year .
+i understand pat called sheila tweed - i dont think she ( or anyone ) remembers the details , but she should be able to validate the point about turbine overpricing and the delainey fix in may , 2000 .
+regards ,
+chris
+richard lydecker @ enron
+03 / 22 / 2001 05 : 19 pm
+to : christopher f calger / pdx / ect @ ect
+cc :
+subject : re : out of interest
+chris , i couldn ' t agree more about the confusing history of the catalytica xtia and spark spread derivative transactions . my understanding is slightly different from what you outline but you may have better sources . neither of us were present at the creation .
+i am familiar with dave delainey ' s hand - written note on the may 22 , 2000 dash . that dash authorised accelerating repurchase of the sso by three months . my view is that dave could allocate within ena at his discretion . i did not understand the rationale , however , since it was the december 14 , 1999 dash which established the obligation for enron to fund the $ 9 . 9 million . all the may 22 , 2000 dash did was unwind a financing arrangement three months early . it did not have anything to do with the incurrence of the obligation itself .
+the objective of the complex series of agreements was for enron to finance ge ' s development of the xonon technology and in return receive credits on turbine purchases either at pastoria or for other xonon - equiped turbines if pastoria were cancelled .
+original deal
+1 . catalytica agreed to purchase a spark spread option ( sso ) from enron for $ 9 . 9 million payable in four instalments . these instalments exactly matched the funding obligation to ge under the xtia .
+2 . catalytica actually paid enron $ 3 million which represented the first two instalments .
+3 . west lb made $ 3 million milestone payments to ge . the enron / west lp arrangement was an off balance sheet financing deal . at the end of the day , enron was paying ge .
+4 . by september 30 , 2000 enron was obligated to repurchase the sso from catalytica for the amount catalytica had paid enron or for turbine credits if pastoria were cancelled .
+may 2000 sso repurchase
+1 . enron bought back the sso from catalytica for $ 3 million . the three - month acceleration of repurchase was supposed to facilitate an ipo . it did not impact at all enron ' s ultimate obligation which had always been for the full $ 9 . 9 million .
+catalytica was now out of the chain and had no further payment obligations or credit entitlements .
+december 2000 final milestone payment to ge
+1 . enron has paid ge $ 9 . 9 million through the west lb financing arrangement ( now turbo park )
+i am uncertain whether ge increased the price of the pastoria turbines by $ 9 . 9 million as part of these transactions . my understanding was that there was concern about this when the turbine contract was negotiated , but i had thought this concern was to be guarded against in contract negotiation with ge . if in fact ge did increase the cost of the pastoria turbines by $ 9 . 9 million the entire purpose and benefit to enron from these incredibly complex and non - intuitive documents was totally obviated . net , net enron would have paid ge to develop a technology application with no compensatory value . why enron would have done this kind of deal i don ' t know .
+i ' m not sure what internal income transfer would apply . i understand that ge has applied the $ 9 . 9 million credit against a progress payment billing late last year . wouldn ' t this mean that the full credit was taken by pastoria ? it is unclear to me why the sale of pastoria should trigger anything .
+at the end of the day ena did the deal in 1999 and how we account for the consequences now is irrelevant . if the turbines were overpriced , the december 14 , 1999 dash seems to me to be misleading in not disclosing that fact when approval was requested . the dash actually states that the $ 9 . 9 million would " serve as a down payment for the pastoria turbine package . "
+my summary may not be correct but this is the best i have been able to piece together on what happened . dick .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by richard lydecker / corp / enron on 03 / 22 / 2001 04 : 54 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+louise kitchen @ ect
+03 / 22 / 2001 03 : 13 pm
+to : richard lydecker / corp / enron @ enron
+cc :
+subject : re : out of interest
+- - - - - - - - - - - - - - - - - - - - - - forwarded by louise kitchen / hou / ect on 03 / 22 / 2001 03 : 10 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+christopher f calger
+03 / 22 / 2001 02 : 56 pm
+to : louise kitchen / hou / ect @ ect
+cc :
+subject : re : out of interest
+calpine reduced their purchase price because the turbine contract for pastoria was overpriced by $ 9 . 9 mm , the amount of the catalytica credit .
+a brief confusing history as i understand it . . . ena east and west jointly owned the catalytica equity account in 1999 . it was written up based on expectations of an ipo value . at 12 / 99 it transferred to west power because catalytica entered into an agreement with pastoria to provide the project with its zonon technology . this agreement included a commitment from ge to do research / work in order to use the catalytica technology on ge turbines . the cost of this ( $ 9 . 9 mm ) was added to the pastoria turbine contract .
+in feb 2000 , when i arrived in portland , i had the catalytica account transferred to the portfolio because i thought it was overvalued with little synergies with ena west power . in mid - 2000 the agreement was restructured in order to " clean up " catalytica so it could ipo . at that time , enron was credited back the $ 9 . 9 mm from catalytica and it was decided by delainey that that amount should be split 2 / 3 - pastoria and 1 / 3 catalytica equity , with the 2 / 3 going to ena west power upon the sale of pastoria . pastoria did not get the full $ 9 . 9 mm back because we benefited somewhat from favourable publicity and some interest savings .
+at this time , since there is no funds transfer , i believe it simply becomes an internal income transfer from the merchant portfolio to ena west power .
+louise kitchen
+03 / 22 / 2001 08 : 33 am
+to : christopher f calger / pdx / ect @ ect
+cc :
+subject : out of interest
+what happens under the pastoria deal to the catalytica credit - did it go to calpine or are you using it in the other turbine purchases ?

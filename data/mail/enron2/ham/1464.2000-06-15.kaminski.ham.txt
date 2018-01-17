@@ -1,0 +1,32 @@
+Subject: volumetric optionality model changes
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 06 / 15 / 2000 08 : 19 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+natasha danilochkina
+06 / 15 / 2000 05 : 26 am
+to : david gallagher / lon / ect @ ect , peter crilly / lon / ect @ ect , richard
+lewis / lon / ect @ ect , haakon olafsson / lon / ect @ ect , tony fricker / lon / ect @ ect ,
+andrew fairley / lon / ect @ ect , matthew nicholas / lon / ect @ ect , david
+redmond / lon / ect @ ect , steven mccarthy / lon / ect @ ect , dale surbey / lon / ect @ ect ,
+matthew nimmo / lon / ect @ ect , matthew ferguson / lon / ect @ ect
+cc : anjam ahmad / lon / ect @ ect , zimin lu / hou / ect @ ect , steven
+leppard / lon / ect @ ect , stinson gibner / hou / ect @ ect
+subject : volumetric optionality model changes
+as a result of meetings with zimin lu ( houston research ) and anjam ahmad in
+early june , the gas desk together with research will be revising the models
+for pricing options on volume ( swing ) and similar products .
+the idea is to have a consistent method that can be applied to all contracts .
+this will affect :
+flat price gas swing options
+indexed gas swing options
+j - block contract
+modified thermbank contract
+enbank ( virtual storage )
+the new feature that will be introduced into all models is ability for
+real - time mtm ( and prospectively - sensitivities calculations ) .
+the work will be carried out as follows :
+natasha danilochkina : problem definition , contracts / products summary ,
+functional specification
+anjam ahmad : zimin ' s model modifications / implementation and houston / london
+interaction
+start date : june 16 th , 2000
+end date : tbc

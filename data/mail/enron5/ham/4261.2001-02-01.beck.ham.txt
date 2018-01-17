@@ -1,0 +1,69 @@
+Subject: re : back office process definitions
+the major groups are :
+manage risk
+deal clearing & documentation
+logistics
+volume management
+client services or settlements
+global data management
+within each of these major areas there groups of activities . i have some
+charts i can provide to you ( they are slightly dated , but still better than
+not ) . to give you an idea ,
+manage risk is comprised of : value books , identify limit violations , flash
+p & l , trade capture , generate reports , etc .
+deal clearing is comprised of : prepare and distribute confirmations ,
+verify / audit deals , broker checkout , etc .
+logistics is comprised of : gather operational data , communicate with
+pipelines , plan product movement , nominate product movement , balance
+positions , etc .
+volume management : validate transport statements , allocate volumes ,
+reconcile imbalances , etc .
+client services - prepare and generate invoices , generate payment requests ,
+resolve disputes on billing , cash management , reconcile a / r and a / p , etc
+global data management - set up new counterparties , maintain cp data , capture
+and validate settled prices , setup new pipelines and facilities , etc .
+generally , what is thought of as financial reporting at enron is outside of
+back office operations as is any trading or origination activity .
+sally / bob - feel free to make any corrections / additions you see fit .
+lisa petruszka @ enron
+02 / 01 / 2001 10 : 47 am
+to : sally beck / hou / ect @ ect , mary solmonson / hou / ect @ ect , bob m
+hall / na / enron @ enron
+cc :
+subject : back office process definitions
+hello team -
+how does enron define their back office processes ? it seems that every
+organization has their own definition of " back office " and the processes that
+fall within it . so , i was curious to know if we had a consistent breakdown
+for enron . what i ' m wondering is if there is a " common language " across
+enron .
+let me explain where i ' m going with this question - i know that there will be
+participants from many parts of enron at the session so we might have a risk
+of different definitions or assumptions being used during the conversations .
+if the groups define processes differently , even slightly , there could be
+some confusion if we start a conversation at the session around the kinds of
+services to be offered .
+to give you an idea of what i ' ve seen , here are some different breakdowns or
+" models " used :
+in derivatives strategy magazine ' s annual technology assessment , the
+following breakdown is used to evaluate software products :
+deal capture
+special deal entry
+eod mark to market
+p / l calculations
+settlement
+confirmations
+payments
+payment netting
+the bloomberg model , as depicted in wall street & technology , january 2001 ,
+has the following high - level components :
+trade and order management
+electronic trade confirmation
+trade allocation
+settlement instructions
+electronic settlement links
+let me know your thoughts on this . if you think there is a significant risk
+of different groups using different definitions for enron we might be able to
+build in an exercise early on to get us over the hurdle .
+lisa p
+5 - 6352

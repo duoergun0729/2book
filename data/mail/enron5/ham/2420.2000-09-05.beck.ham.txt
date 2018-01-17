@@ -1,0 +1,26 @@
+Subject: cash flows from ei - gns - gas - prc
+sally , brent , shona ,
+this morning we had two problems :
+one related to eis numbers and the other relates to portland . clara talked
+to susan regarging international ' s problem . susan said they should have
+caught the incorrect commodity curve load but did not . clara is forwarding
+an e - mail regarding portland .
+sheila
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheila glover / hou / ect on 09 / 05 / 2000 11 : 46
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+clara carrington
+09 / 05 / 2000 11 : 23 am
+to : sheila glover / hou / ect @ ect
+cc : joyce kuo / na / enron @ enron , scott mills / hou / ect @ ect , susan
+smith / hou / ect @ ect
+subject : cash flows from ei - gns - gas - prc
+infinity showed a $ 19 mm notional curve shift change in the ei - gns - gas - prc
+commodity book for 9 / 1 / 00 . this change caused a ( 10 , 200 ) pvol affect on the
+trader ' s sensitivity report . after talking with susan in ei , it was brought
+to our attention that the bolivian curve was loaded incorrectly on friday ,
+due to a change in ei ' s curve upload process . this change resulted in the
+bolivian curve loading throughout 2012 , when it actually goes out to 2019 .
+the incomplete curve caused infinity to get bad cash flows .
+as a result , we had to re - do pdh reports this morning . final reports were
+given to traders at 9 : 00 am .
+clara

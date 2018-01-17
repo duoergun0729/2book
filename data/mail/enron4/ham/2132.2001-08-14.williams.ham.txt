@@ -1,0 +1,10 @@
+Subject: fw : adjust function
+bill ,
+not sure if this is impacting us now , but i ' m sure it will in the future ! currently only the lca has the adjust function capability , and only until 1 . 7 implementation will the pse ' s have the capability to adjust . until then , i believe we need the lca ' s to co - operate with the pse ' s , otherwise this will create unwanted workload to your group and others alike . please give me some feedback . not sure if you ' ve been added to the discussion email list .
+diana
+- - - - - original message - - - - -
+from : rice , paul [ mailto : paul . rice @ pacificorp . com ]
+sent : wednesday , august 08 , 2001 1 : 00 pm
+to : interchange scheduling & accounting subcommittee ( isas )
+subject : adjust function
+pacificorp real - time has recently been requested several times by pse ' s to use their " adjust " function for changing schedules . this has prompted them to ask for a clarification on the adjust function " rules " . it is real - times belief that the adjust function is for control area use and only for reliability / curtailment issues . if merchants / pse ' s want to change a schedule on an existing tag it should be done through the termination / replaced functions at their control and not ask c / a ' s to use their adjust function . i have found documentation that tells who has control of the adjust function and how it can be used but cannot find any documentation that specifically prohibits or limits it ' s use to c / a and / or their curtailment issues . does anybody have any help here ? ? the main issue is , r / t does not have time to perform adjust functions for other entities merely at their request . we can understand doing it when the tag originator has lost control and is unable to terminate a tag but not on a routine basis .

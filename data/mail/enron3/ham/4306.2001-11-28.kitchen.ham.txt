@@ -1,0 +1,26 @@
+Subject: fw : ice counterparty filter change notice [ dynegy marketing and
+trade ]
+i guess discussions are not going too well .
+- - - - - original message - - - - -
+from : moran , tom
+sent : wednesday , november 28 , 2001 8 : 07 am
+to : bradford , william s .
+subject : fw : ice counterparty filter change notice [ dynegy marketing and
+trade ]
+fyi ,
+dynegy is shutting us down on ice again .
+tm
+- - - - - original message - - - - -
+from : icehelpdesk @ intcx . com [ mailto : icehelpdesk @ intcx . com ]
+sent : wednesday , november 28 , 2001 3 : 04 am
+to : moran , tom
+subject : ice counterparty filter change notice [ dynegy marketing and trade ]
+your firm : enron north america corp .
+counterparty : dynegy marketing and trade
+credit manager : tom white
+date / time : november 28 , 2001 14 : 03 : 34 . 036 gmt
+phone : 713 / 767 - 8483
+e - mail : thomas . white @ dynegy . com
+the counterparty changed the following credit filter data affecting your firm for financial power .
+credit filter attribute previously now
+open or closed open closed

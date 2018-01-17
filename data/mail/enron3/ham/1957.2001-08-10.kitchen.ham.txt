@@ -1,0 +1,29 @@
+Subject: fw : capital book
+capital curve model is complete . we are running several pricing scenarios to validate the mechanics to ensure that the new zero curve does accurately reflect interest expense . we should be ready to go by the end of next week . i would like to implement the week we return from the offsite . as you can see below , while we have priced several deals to date , only two have actually closed and funded .
+- - - - - original message - - - - -
+from : quaintance jr . , alan
+sent : tuesday , august 07 , 2001 4 : 06 pm
+to : deffner , joseph
+subject : fw : capital book
+the only deals in the capital book so far are :
+michigan cons . $ 169 , 459
+nui corp $ 289 , 118
+aq
+- - - - - original message - - - - -
+from : cothran , robert
+sent : tuesday , august 07 , 2001 4 : 00 pm
+to : quaintance jr . , alan
+subject : re : capital book
+alan - since i picked this up from hardy , there has been no activity ( as i have checked each day ) . the only transaction recorded is per the attached spreadsheet used to input the data into sap ( from april , 2001 ) :
+.
+thanks ,
+robert
+- - - - - original message - - - - -
+from : quaintance jr . , alan
+sent : tuesday , august 07 , 2001 3 : 46 pm
+to : cothran , robert
+subject : capital book
+robert :
+do you have a summary of the deals so far that are in the capital book ? do you keep a spreadsheet ? let me know .
+thanks ,
+aq

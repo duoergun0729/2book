@@ -1,0 +1,18 @@
+Subject: mtm value - eol transactions
+just to give you all a heads up . . .
+jeff skilling has asked for a revenue number for eol that represents what
+enron reports on our financial statements ( including the mark - to - market value
+of all of our open positions resulting from eol trading ) . we are
+specifically looking for mtm value as of the close of trading on the 15 th and
+would like to be able to review the results by mid - afternoon ( houston ) on the
+16 th . we will need each desk to calculate their eol - specific mtm value and
+consolidate this information at the commodity group level ( ie . u . s . power ,
+global liquids , n . american gas , etc . ) and return it to the product control
+group ( torrey moorer / carrie southard ) by mid - afternoon on the 16 th ( houston )
+in order to combine the information into a report for delivery on the 17 th .
+we are primarily interested in the total mtm value of our open eol positions ,
+but if it is possible to provide a breakout for the mtm value of eol physical
+sales , this would help us break out the revenue numbers . if you have
+questions , please contact torrey moorer at x 36218 .
+thank you !
+sheri

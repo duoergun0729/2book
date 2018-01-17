@@ -1,0 +1,43 @@
+Subject: re : creditdotcom projects
+amitava ,
+can you schedule a brainstorming session with vasant , tanya , rakesh , myself
+and ben ( if possible ) ?
+what about the trip on monday . has it been scheduled ?
+vince
+amitava dhar @ enron
+01 / 03 / 2001 08 : 30 am
+to : vince j kaminski / hou / ect @ ect , ben parsons / lon / ect @ ect
+cc : vasant shanbhogue / hou / ect @ ect
+subject : creditdotcom projects
+the following is a good summary from vasant about the projects and what is
+ahead of us .
+ben , please let me know when things are ready ; i can plan my trip accordingly .
+thanks ,
+amitava
+enroncredit . com is working on 3 main models - - - the fmc model , the placement
+model , and the movement model .
+fmc model : provides credit default swap price curves for 16 ratings with 33
+industry offsets . each day , this model takes the previous day ' s trader
+curves and adjusts them for the movement in bloomberg yields and observed
+swap prices .
+placement model : uses linear regression to credit default swap prices using
+dummified ranges for market capitalization , liquidity , kmv score , etc . one
+main issue here is that the dataset is biased towards investment grade
+names . alternate approaches looked at developing separate models for
+separate sunsets of names .
+movement model : provides an alert system for news . this is under
+development .
+current involvement of houston research group members is in the
+development / modifications of the placement model , especially in thinking
+through the various single vs multi model approaches . we can help in the
+brainstorming for better models for subsets . one main project right now is
+to get a separate model for subsidiaries , and to exclude subsidiary names
+from the main regression .
+value - at - risk is based on historical variance - covariance approach .
+the portfolio model is under development .
+agenda for houston research group members :
+once sufficient data is collected , start reviewing for potential analytic
+relationships .
+get weekly updates from london , and provide feedback .
+plan on a trip if the work warrants it , once the agenda is fairly well drawn
+out , and data is available for analysis .

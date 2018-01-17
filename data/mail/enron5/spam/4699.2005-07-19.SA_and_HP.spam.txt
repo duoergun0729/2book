@@ -1,0 +1,38 @@
+Subject: erro no envio da mensagem
+o servidor mail . nodel . com . br nao conseguiu enviar seu e - mail
+para um dos destinatarios . segue abaixo a relacao de erros retornados :
+- -
+the server mail . nodel . com . br could not send your email to one of
+recipients . the errors encountered are listed bellow :
+- -
+:
+sorry , no mailbox here by that name . ( # 5 . 1 . 1 )
+- - - abaixo , segue a mensagem original . / the original message is .
+return - path :
+received : ( qmail 322 invoked by uid 514 ) ; 19 jul 2005 10 : 57 : 09 - 0000
+received : from projecthoneypot @ projecthoneypot . org by mail . nodel . com . br by uid 502 with qmail - scanner - 1 . 22
+( clear : rc : 0 ( 221 . 239 . 212 . 243 ) : .
+processed in 1 . 464125 secs ) ; 19 jul 2005 10 : 57 : 09 - 0000
+received : from unknown ( helo mailwisconsin . com ) ( 221 . 239 . 212 . 243 )
+by 0 with smtp ; 19 jul 2005 10 : 57 : 07 - 0000
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 30517038 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : antoniobogaz @ nodel . com . br
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivabie !

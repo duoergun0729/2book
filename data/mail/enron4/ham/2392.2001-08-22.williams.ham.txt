@@ -1,0 +1,5 @@
+Subject: interim solution for real - time eol deals
+good afternoon ,
+with the go - live date for fsp / vms still in question , we have decided that we will build interim solution for caps . there will be a new button added to the main menu of caps called " upload rt eol " . this new function will prompt the user to input a date & an hour . the new function will then select west - hourly , eol , sc trades from enpower for the date & hour selected & insert the rows in caps .
+please let me know immediately if anyone has any concerns or questions , we are starting on this work asap .
+thanks , poston

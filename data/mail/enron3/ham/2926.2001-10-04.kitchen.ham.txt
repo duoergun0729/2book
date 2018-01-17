@@ -1,0 +1,33 @@
+Subject: fw : mapping websites . . .
+louise -
+here are the links to some of the maps put together by keith and his group . please call if you have any questions . . .
+julie : - )
+- - - - - original message - - - - -
+from : fraley , keith
+sent : thursday , october 04 , 2001 12 : 05 pm
+to : gomez , julie a .
+subject : fw : mapping websites . . .
+- - - - - original message - - - - -
+from : fraley , keith
+sent : monday , october 01 , 2001 10 : 59 am
+to : ollerenshaw , carey ; matthews , chris
+cc : hoyt , peter
+subject : mapping websites . . .
+gentleman ,
+the following list details some of the websites that we have developed to aid our traders and originators with mapping support . all the maps have basic gis functionality and have the exact same interfaces . the ability to zoom in and zoom out , identify , query , find . in the event that you have any questions what - so - ever feel free to call me , keith fraley ( 713 . 853 . 0529 )
+" proposed generation webmap "
+this site was developed to support our in - house research of proposed gas - fired generation in north america . it has been met with great delight and is used heavily by our gas and power originators . basic fields in the proposed database include ( company name , pipeline , size , merchant capacity , comments , city , county , state , on - line year , month . . . ) .
+http : / / nahou - wwmapolp / website / proposed
+" pseudo real - time available pipeline capacity map "
+this site was developed as a prototype , we basically took a pipe in the pacific northwest ' pgt ' and have linked to it available pipeline capacity for points along the pipeline . we have further plans to provide this for all the delivery / receipt point in the us . it has been a big hit and the traders are looking forward to having access to the entire system . fields in the database include ( pipe name , point name , total capacity , utilized capacity , available capacity ) the points are displayed by size according to the amount of available capacity that point holds . this one may take a minute to pull up .
+http : / / nahou - wwmapolp / website / pgt
+real - time container available map "
+this site was developed to support our freight capacity traders in " enron global markets " it reads freight capacity off of an external website and then displays that information on our website . again , the point ' s size is determined by the amount of capacity available at the point . if you identify the point you will see that the records are actually broken down by capacity type , the sum of these equals the total capacity of the points .
+http : / / nahou - wwmapolp / website / rezl
+" diesel price map "
+this site was developed for the egs fundamentals group that study volatility of diesel prices in the u . s . the point colors represent the price / gallon of diesel at different locations in the u . s . the webmap is designed to read very similar to a weather map , with the cool colors representing lower prices and so - on and so - forth . the site also includes a delta price ( + or - number in blue ) this delta number is the change is diesel prices since the most recent monday . this allows the traders to analyze relative volatility of prices . i have also included a . pdf file that basically represents the same information .
+http : / / nahou - wwmapolp / website / diesel
+again , these are just some of the sites that we currently have up and running , we are currently developing a prototype for you to look at that has uk based energy related data , look for it in a couple of days . we have several other sites that we can show you at a later date if you are interested in them .
+cheers and we look forward to hearing from you . . .
+keith fraley
+713 . 853 . 0529

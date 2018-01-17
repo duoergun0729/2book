@@ -1,0 +1,8 @@
+Subject: path 15
+internal path flows are now below limits . beep has been returned to normal
+mode ( unsplit operation ) as of 0000 hours . beep will dispatch as one zone .
+sent by market operations , inquiries please call the real time desk .
+the system conditions described in this communication are dynamic and
+subject to change . while the iso has attempted to reflect the most current ,
+accurate information available in preparing this notice , system conditions
+may change suddenly with little or no notice .

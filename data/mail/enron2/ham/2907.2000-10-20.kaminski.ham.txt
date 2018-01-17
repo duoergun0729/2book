@@ -1,0 +1,35 @@
+Subject: transport model
+andy ,
+the scale effect in the transport model can be explained .
+i use a european option to do the illustration .
+i raise the underlying and strike price by the same amount , use the fuel
+percentage to adjust the strike .
+the net result is the intrinsic value decreases as the level goes up .
+if the fuel percentage is not very high , the option premium actually
+increases with the level , although the
+intrinsic value decreases .
+if the fuel percentage is very high ( > 8 % ) , then we see a decreasing option
+price .
+in the transport deal , fuel change is often below 5 % , so you will not see a
+decreasing spread option price
+when nymex moves up . so i think the transport model still does what it
+should do .
+zimin
+in the following exmaple , i used r = 6 % , vol = 20 % , t = 100 days , see spreadsheet
+for details .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 10 / 20 / 2000 01 : 24 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+zimin lu
+10 / 20 / 2000 10 : 45 am
+to : andrew h lewis / hou / ect @ ect
+cc : colleen sullivan / hou / ect @ ect , stinson gibner / hou / ect @ ect
+subject : level effect in transport
+andy ,
+the following spread sheet domenstrates the leve effect in transport
+valuation .
+i add an " nymex add - on " to both delivery and receipt price curve before fuel
+adjustment , keep everything else the same . the transport value ( pv of the
+spread options )
+increases when nymex add - on increases .
+i can visit you at your desk if you have further question .
+zimin

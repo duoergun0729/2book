@@ -1,0 +1,21 @@
+Subject: completion of lng model review
+jeff ,
+fyi . we completed the review of the lng model .
+the copy of the review is available if you want to take a look at it .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 10 / 17 / 2000
+04 : 26 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+bob lee @ enron
+10 / 16 / 2000 01 : 53 pm
+to : vince j kaminski / hou / ect @ ect
+cc : zimin lu / hou / ect @ ect , stinson gibner / hou / ect @ ect
+subject : completion of lng model review
+the review of eric groves ' lng model spreadsheet has been completed . no
+independent model was available for use in the comparison ; however , the model
+appears complete and accurate in representating all important cost and
+revenue elements .
+if this financial model is coupled with a optimization model for planning
+ship usage in the future , additional variables may be needed to represent the
+variability of trip times , weather factors , etc . a reference describing
+these possible additions was provided .
+bob lee

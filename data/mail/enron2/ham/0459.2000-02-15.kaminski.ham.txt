@@ -1,0 +1,80 @@
+Subject: energy book
+hi grant ,
+hope all is well with you . i trust you got my message via the voicemail
+that ileft with vince late friday afternoon about my inability to travel -
+i ' m trying to rearrange my trip for a couple of week ' s time when my ear has
+cleared up , and i look forward to meeting with you one day .
+i wrote to vince last week asking for a favour , but i ' m not sure ifhe is
+there in houston . i know that you guys are probably very busy but i was
+wondering if you can write a few sentences for me . i ' m sending out some
+sample chapters to the people who responded positively ( all of them ! ) to my
+request for some feedback on the book . chapter 1 has an ' overview ' of the
+book with just a couple of sentences on each chapter . could you please
+write a sentence or two for your chapter ?
+i ' m including what i have already written ( although i think it has changed
+slightly from this version ) so that you can see the style .
+many thanks and best regards .
+chris .
+2 overview of this book
+this book aims to provide an in - depth understanding of the pricing and risk
+management of energy derivatives . in the remainder of this chapter we give
+an overview of the fundamental principals needed to model and price energy
+assets , and which underlie the rest of the book . as well as introducing
+the techniques that underlie the black - scholes modelling framework we
+discuss the numerical techniques of trinomial trees and monte carlo
+simulation for derivative pricing which are used extensively later in the
+book .
+in chapter 2 we analyse spot energy prices . apart from describing
+empirical prices we propose a number of processes that can be used to model
+the prices . we look at the well - know process of gbm as well as mean
+reversion , stochastic volatility and jump processes , discussing each , and
+showing how they can be simulated and their parameters estimated .
+chapter 3 , written by vince kaminski and grant masson of enron capital and
+trade .
+chapter 4 examines forward curves in the energy markets . although such
+curves are well understood and straight forward in the world debt markets
+the difficulty of storage in many energy markets leads to less well defined
+curves . what we do in this chapter
+chapter 5 presents an overview of the common and not - so - common derivative
+structures in the energy markets and discusses their uses . examples of
+products analysed in this chapter include a variety of swaps , caps , floors
+and collars , as well as energy swaptions , compound options , asian ( or
+average rate ) options , barriers , lookbacks , and ladder options .
+chapter 6 investigates single and multi - factor models of the energy spot
+price and the pricing of some standard energy derivatives . closed form
+solutions for forward prices , forward volatilities , and european option
+prices are derived and presented for all the models in this chapter
+including a three factor stochastic convenience yield and interest rate
+model with jumps .
+chapter 7 shows how the prices of path dependent and american style options
+can be evaluated for the models in chapter 6 . simulation schemes are
+developed for the evaluation of european style options and applied to a
+variety of path dependent options . in order to price options which
+incorporate early exercise opportunities , a trinomial tree scheme is
+developed . this tree is built to be consistent with the observed forward
+curve and can be used to price exotic as well as standard american style
+options .
+chapter 8 develops a new methodology for valuing energy options based on
+modelling the market observed forward curve . the approach results in a
+multi - factor model that is able to capture realistically the evolution of a
+wide range of energy forward curves and where the user defined volatility
+structures can be of an extremely general form . closed - form solutions are
+developed for pricing standard european options and efficient monte carlo
+schemes for exotic options . the chapter finishes with a discussion of the
+valuation of american style options .
+chapter 9 focuses on the risk management of energy derivative positions .
+in this chapter we discuss the management of price risk for institutions
+that sell options or other derivatives to a client and who is then faced
+with the problem of managing the risk through time . we begin with delta
+hedging a portfolio containing derivatives and look at extensions to gamma
+hedging - using the models from chapters 5 and 7 . the general model of
+chapter 7 ideally suited to multi - factor hedging and this is also
+discussed .
+chapter 10 looks at the key risk - management concept of value at risk
+applied to portfolios containing energy derivative portfolios . after
+discussing the concept of the measure , we look at how the key inputs
+( volatilities , covariances , correlations , etc ) can be estimated . we then
+compare the fours major methodologies for computing var ; delta ,
+delta - gamma , historical simulation and monte - carlo simulation . finally , we
+look at testing the var estimates for various underlying energy market
+variables .

@@ -1,0 +1,54 @@
+Subject: re : texas finance festival ( urgent request )
+peggy ,
+friday ( lunch , supper ) , sat ( breakfast , lunch ) . one person .
+vince kaminski
+peggy davies on 03 / 30 / 2000 04 : 21 : 36 pm
+please respond to peggy davies
+to : andres almazan , murray carlson
+, kent daniel , wayne
+ferson , denis gromb , john hund
+, narasimhan jegadeesh , cindy
+justice , matthias kahl ,
+vince kaminski , anthony lynch
+, thomas noe ,
+robert parrino , manju puri ,
+ehud ronn , laura starks ,
+andrew subra , steathis tompaidis
+cc :
+subject : texas finance festival ( urgent request )
+texas finance festival attendee
+please respond to the below request asap
+in preparing for the texas finance festival , we are needing to finalize the
+meal counts . while we are excited about everyone coming , we do not want to
+pay for meals ( expensive ones by the way when on the riverwalk in san
+antonio ) if someone will not be in attendance . please indicate below the
+meals you will be inattendance . if you have family / significant others coming
+with you , please indicate the total number including yourself . thanks for
+your help . bill petty
+number to attend
+friday lunch friday supper saturday
+breakfast saturday lunch saturday supper
+rfc 822 header
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+return - path :
+received : from ccc _ petty ( ccc - petty . baylor . edu [ 129 . 62 . 162 . 79 ] )
+by ccisol . baylor . edu ( 8 . 9 . 1 / 8 . 9 . 1 ) with smtp id oaa 21931
+for ; thu , 30 mar 2000 14 : 35 : 32 - 0600 ( cst )
+message - id :
+date : 30 mar 00 14 : 34 : 59 - 0600
+from : bill petty
+subject : texas finacne festival ( urgent request )
+to : peggy davies
+x - mailer : quickmail pro 1 . 5 . 4 ( windows 32 )
+x - priority : 3
+mime - version : 1 . 0
+reply - to : bill petty
+content - type : text / plain ; charset = " us - ascii "
+content - transfer - encoding : 8 bit
+x - mime - autoconverted : from quoted - printable to 8 bit by ccisol . baylor . edu id
+oaa 21931
+status :
+peggy davies
+administrative assistant
+department of finance , insurance , fax ( 254 ) 710 - 1092
+peggy _ davies @ baylor . edu

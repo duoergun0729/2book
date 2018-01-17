@@ -1,0 +1,68 @@
+Subject: project " q "
+fyi . . .
+ted ,
+as discussed , please see below an outline of the changes that we are making
+to the logistics set - up in london . i also attach the roles & responsibilities
+document we discussed - i highlight in red the sections that have been agreed
+with the functional groups . . .
+sally ,
+sorry to have missed you this week . i hope to have the opportunity to explain
+to you in greater detail the changes we are making to the logistics function
+in europe . we hope to replicate this model to singapore and possibly houston
+once we have proven the model in london .
+i will also forward you a plan that we have kicked off to migrate trading
+support for the helsinki operation back to london . . .
+regards ,
+tim
+- - - - - - - - - - - - - - - - - - - - - - forwarded by tim poullain - patterson / lon / ect on
+03 / 21 / 2000 11 : 13 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+tim poullain - patterson
+03 / 10 / 2000 05 : 57 pm
+to : graham cane / lon / ect @ ect , rebecca millerchip / lon / ect @ ect , iain
+greig / lon / ect @ ect , david rae / lon / ect @ ect , paul wallace / hel / ect @ ect , cindy
+horn / hou / ect @ ect , sylvie mostura / lon / ect @ ect , andre nicholson / lon / ect @ ect
+cc : fernley dyson / lon / ect @ ect , kevin sweeney / hou / ect @ ect , tani
+nath / lon / ect @ ect , richard sage / lon / ect @ ect , john l nowlan / hou / ect @ ect ,
+richard burchfield / hou / ect @ ect
+subject : project " q "
+hi ,
+i ' d like to summarise the various discussions that have taken place over the
+last few days in relation to our forthcoming logistics project , which i ' ve
+tentatively named " project q " . at some point a prize will be awarded to
+whoever can guess what the " q " stands for . . .
+objective
+project " q " has a twofold objective :
+1 ) implement the co - ordination function for the london and helsinki global
+trading support group - see attached for a definition of this function
+2 ) roll out the products inventory management system ( " pims " ) for the london
+and helsinki global trading support groups .
+target timescale
+completion of both objectives is currently planned for the end of may . david
+and i have hastily put together a timeline which we will refine as a group at
+a kick - off meeting scheduled for next friday , by which time the project team
+will be assembled in london - see attached .
+to meet this tight timeframe , the scope of the project needs to be clearly
+understood especially in relation to rolling out pims . though over time 1 )
+functionality may be added to pims , 2 ) there will ( hopefully ) be a further
+deployment in houston and singapore , 3 ) an interface to rightangle may be
+developed , 4 ) invoicing may be added etc . . . - for the purpose of this project
+the scope of the pims application is limited to replacing manips for the
+helsinki and london operators ( petchems may or may not be included in this
+phase ) . the actual pims specification will be finalised next week by graham
+and david ( it are currently mid - way through a full elaboration for the
+system ) .
+project team
+steering group will comprise me ( also sponsor ) , graham and becky .
+project manager is cindy ( arriving from houston on tuesday ) .
+it lead for pims is david rae ( full time for duration of project ) , managed by
+iain greig .
+a task force comprising three contract accountants is being assembled and
+will be in place by the middle of next week .
+other stakeholders / key participants in this project are logistics in london
+and helsinki . the result of this project should be to leverage our existing
+operators and improve controls by introducing a second tier support around
+the logistics function . however , for this to happen a significant
+contribution will be required from all our operators to ensure a successful
+implementation within our timeframe .
+regards ,
+tim

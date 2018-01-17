@@ -1,0 +1,11 @@
+Subject: undelivered mail returned to sender
+this is the postfix program at host relayl . netspace . net . au .
+i ' m sorry to have to inform you that your message could not be
+be delivered to one or more recipients . it ' s attached below .
+for further assistance , please send mail to
+if you do so , please include this problem report . you can
+delete your own text from the attached returned message .
+the postfix program
+: host mail - in . netspace . net . au [ 210 . 15 . 254 . 248 ] said :
+550 : recipient address rejected :
+gperkes @ netspace . net . au has expired ( in reply to rcpt to command )

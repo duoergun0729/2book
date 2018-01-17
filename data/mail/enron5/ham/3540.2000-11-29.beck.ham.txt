@@ -1,0 +1,18 @@
+Subject: commoditylogic exposure tracker meeting
+sally -
+i ' d like to set up a meeting with you regarding commoditylogic ' s credit
+exposure tracker .
+we are displaying what we call the " exposure tracker " on our site , which will
+provide two benefits : revenue enhancement by providing incentive to visit
+the site every day , and control mechanism to automatically turn off early -
+and pre - pay options if a counterparty exposure reaches unfavorable levels .
+credit has expressed concern that our numbers will not be completely
+accurate . we need your help in evaluating :
+1 ) the accuracy of the numbers displayed
+2 ) how to improve such accuracy if it is not sufficient , whether in credit or
+in the back office
+i would like to meet with you , leslie reeves , bill bradford , and my tech team
+sometime early next week to validate our feature . please respond with your
+availability for monday or tuesday and i will set everything up .
+thanks !
+doug

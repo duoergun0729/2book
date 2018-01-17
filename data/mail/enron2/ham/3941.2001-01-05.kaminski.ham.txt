@@ -1,0 +1,81 @@
+Subject: re : site license for power world
+richard et al
+under the new electricity trading arrangments ( neta ) in the uk and looking
+forward i think it will be increasingly important in modelling market
+behaviour and transmission related costs to have some form of system model
+incorporating opf and atc .
+therefore , in principle i am happy to support option 3 and to pay a 1 / 3 share
+of the cost . however , before i commit to this particular package , i would
+like to be comfortable that the generic powerworld software could be suitably
+customised to capture the special features of neta .
+i understand marco verreschi who initiated interest from our end is pursuing
+this with martin lin ( research , houston ) . however , due to commitments next
+week , and my desire to see powerworld in action etc it is likely to be the
+following week before he and i can say " lets do it " .
+michael wilks
+manager , uk power analytics
+enron europe ltd
+tel : ( 44 ) 207 783 2405
+richard lewis @ ect
+05 / 01 / 2001 15 : 10
+to : michael wilks / eu / enron @ enron
+cc :
+subject : site license for power world
+can you recommend or otherwise this software and whether we should pay a
+third share of the cost ?
+r
+- - - - - - - - - - - - - - - - - - - - - - forwarded by richard lewis / lon / ect on 05 / 01 / 2001 15 : 12
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+lance cunningham @ enron on 20 / 11 / 2000 20 : 02 : 22
+to : vince j kaminski / hou / ect @ ect , richard lewis / lon / ect @ ect , tim
+belden / hou / ect @ ect , tim . heizenrader @ enron . com , kevin m presto / hou / ect @ ect ,
+george hopley / hou / ect @ ect
+cc :
+subject : site license for power world
+gentleman ,
+kevin presto concurred on the purchase of a site license as recommended by
+vince . what are the thoughts of others ? i am available to demo the package
+if others would like to see it .
+thanks ,
+lance
+- - - - - - - - - - - - - - - - - - - - - - forwarded by lance cunningham / na / enron on 11 / 20 / 2000
+01 : 51 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vince j kaminski @ ect
+11 / 10 / 2000 09 : 16 am
+to : vince j kaminski / hou / ect @ ect , richard lewis / lon / ect @ ect , tim
+belden / hou / ect @ ect , tim . heizenrader @ enron . com , kevin m presto / hou / ect @ ect ,
+george hopley / hou / ect @ ect
+cc : lance cunningham / na / enron @ enron
+subject : site license for power world
+gentlemen ,
+i recommend that we purchase this package and split the cost 3 ways between 3
+power trading desks .
+i think that we should go for option 3 ( ~ $ 15 , 000 ) .
+lance cunningham in my group looked at this software package and found it
+very useful for modeling transmission problems .
+please , feel free to ask him for technical details in support of this
+recommendation .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 11 / 10 / 2000
+09 : 17 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+lance cunningham @ enron on 11 / 09 / 2000 06 : 15 : 14 pm
+to : vince j kaminski / hou / ect @ ect
+cc : vasant shanbhogue / hou / ect @ ect
+subject : site license for power world
+vince ,
+we have three options to increase our availability across enron for the power
+world load flow software .
+option 1 , upgrade to a site license for the load flow software only . price
+$ 9 , 990 . 00
+this would give all of enron the ability to perform load flows , but not
+determine marginal cost or available transfer capacity ( atc ) because only the
+optimal power flow ( opf ) version can perform that task .
+option 2 , site license for the load flow and purchase 1 opf package for
+walter coffer ' s group . price $ 11 , 240 .
+this would give all of enron the ability to perform load flows and one other
+group the ability to determine marginal cost and atc .
+option 3 , site license for load flows , opf and atc . price $ 14 , 990 . 00
+this would give all of enron the ability to perform load flows , marginal
+cost , and atc .
+regards ,
+lance

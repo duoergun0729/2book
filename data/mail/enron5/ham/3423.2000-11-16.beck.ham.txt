@@ -1,0 +1,8 @@
+Subject: your approval is overdue : access request for bob . m . hall @ enron . com
+this request has been pending your approval for 3 days . please click
+approval to review and act upon this request .
+request id : 000000000007399
+request create date : 11 / 14 / 00 2 : 57 : 40 pm
+requested for : bob . m . hall @ enron . com
+resource name : vpn
+resource type : applications

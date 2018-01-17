@@ -1,0 +1,14 @@
+Subject: sap / financials / unify interface coordination mtg
+as scheduled , we are planning a quick status check meeting on the sap / unify
+/ financials project at 4 : 00 today .
+key points that will be discussed include :
+current status of any open requirement points ( and resolutions to close them )
+current status of financials development and testing ( hopefully some good
+news here )
+current status of sap interface test ( and we believe some good news here as
+well )
+current status of contingency automated interface to sift ( net - net : it ' s too
+difficult to develop this in the required time but with the good news above
+we may not need it )
+status and action items for fit 4 test planning in june .
+thanks .

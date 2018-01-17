@@ -1,0 +1,132 @@
+Subject: re : summer intern : paulo oliveira
+vince , both matt and april think that this type of research would be
+value - additive to ebs . i will be out all next week in a meeting with john
+griebling and other on a deal that is being worked out . i understand that
+you are following up with hr on all of our summer intern offers . please make
+sure palo is given an offer and that he will work with april and matt ( he did
+talk to matt ) on the topics that april and i suggested .
+regards ,
+ravi .
+- - - - - forwarded by ravi thuraisingham / enron communications on 02 / 20 / 00 12 : 41
+am - - - - -
+matt harris
+02 / 17 / 00 08 : 08 pm
+to : ravi thuraisingham / enron communications @ enron communications
+cc : april hodgson / enron communications @ enron communications
+subject : re : summer intern : paulo oliveira
+looks interesting .
+i would guess that there is a ton of research available ( from @ home , aol ,
+roadrunner , real , microsoft , etc . ) on broadband ' s impact on the strategic
+value of web properties . compiling this would be very helpful .
+mh
+ravi thuraisingham
+02 / 17 / 00 12 : 15 pm
+to : april hodgson / enron communications @ enron communications , matt
+harris / enron communications @ enron communications
+cc :
+subject : summer intern : paulo oliveira
+hi april & matt , here is additional information on the summer intern that
+i ' ve mentioned .
+matt , i know you know nothing about this ! my discussion with april on the
+possible research topic let me ( & april ) to believe that you would provide
+great input on what the student can work on while he is here .
+regards ,
+ravi .
+ebs research
+- - - - - forwarded by ravi thuraisingham / enron communications on 02 / 17 / 00 02 : 09
+pm - - - - -
+stinson gibner @ ect
+02 / 17 / 00 11 : 23 am
+to : vince j kaminski / hou / ect @ ect
+cc : ravi thuraisingham / enron communications @ enron communications , thomas d
+gros / hou / ect @ ect
+subject : summer intern : paulo oliveira
+vince : here is the information that i have on paulo . he would be slated
+to work for the summer with april hodgeson and matt harris on how streaming
+media products may add value to advertising or some related area .
+actually , he would also be a good fit for helping to think ways to analyze
+our enron on - line data . i have asked if he can send a resume . in the
+mean time , most of his relevant information is attached below .
+- - stinson
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner / hou / ect on 02 / 17 / 2000
+11 : 14 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+paulo rocha e oliveira on 02 / 10 / 2000 12 : 04 : 56 pm
+to : " stinson gibner "
+cc :
+subject : re : trip to houston
+stinson ,
+thank you for your e - mail . my phone number is ( 617 ) 492 - 9551 .
+i graduated from princeton university in 1996 ( mathematics ) , and came
+straight to mit for a
+ph . d . in operations management at the sloan schoolof management . in my first
+three years i took all the required coursework in mathematics ,
+optimization , stochastic processes , etc . , as well as a number of courses in
+psychology ( at mit and harvard ) . i am working with prof . gabriel bitran ,
+and i am interested in the mathematical modeling of service operations . in
+particular , i am interested in the interaction between customers and
+companies ( hence the interest in psychology ) . the ( tentative ) title of my
+phd thesis is " pricing substitute products on the internet " , and i am
+sending you the summary which i sent to tom gros a few weeks ago that will
+give you an idea of what this research is about .
+thanks again , and i ' m looking forward to meeting you and your research
+group next week .
+paulo
+pricing substitute products on the internet
+objective :
+to develop new tools to decide pricing policies for goods and services sold
+on
+the internet .
+motivation :
+this research is motivated by the fact that traditional choice and
+optimization
+models are not appropriate for internet - related businesses . the technological
+innovations associated with the internet brought about an overload of
+information
+which inevitably affects the ways in which consumers make choices .
+furthermore ,
+companies have a great deal of influence on how much information consumers can
+have access to .
+the problem of pricing substitute products is an important strategic issue
+faced
+by internet companies . consumers usually search for generic products ( e . g .
+vcrs
+or computers ) without knowing exactly what they will buy . companies can show
+different products and different prices to each consumer . this type of
+flexibility
+was not available until the internet came about .
+the problem of pricing substitute products is not unique to the internet . the
+methodology developed by this research should be transferable to a number of
+other settings , such as pricing services . services are unique , and there are
+many cases where customers will only buy one of many services offered by a
+given company . our model will help companies decide which services to offer
+to which customers and how much to charge for these services .
+research strategy :
+our research strategy is to divide the pricing problem into two components
+which can be combined to generate optimal pricing strategies . these
+components are choice models and optimization models .
+choice models :
+choice models describe how customers make choices . the management literature
+draws on two main sources for these models : psychology and economics . the
+common approach in psychology models is to use what are called heuristic
+elimination methods . these methods consist of the elimination of options
+based on the sequential elimination of features until only one choice
+remains .
+these methods tend to be very context - specific and do not lend themselves very
+easily to mathematical analysis . economists focus on utility - maximing models
+that are significantly more mathematically tractable than psychological
+models .
+the most common economic model of choice is the logit model . the problem with
+these types of models is that they are not very accurate reflections of how
+consumer make choices on the internet . the first step in our research will
+be
+to develop choice models that capture the interactions going on between
+customers
+and companies on the internet .
+optimization :
+traditionally , the optimization problem consists of maximizing revenue over a
+certain planning horizon . on the internet , the problem of maximizing revenue
+still exists , but there is also a need to learn about customers . short term
+profit is based on sales , but long term profit is based on how well you know
+your customers and are able to retain them . the optimization problem must
+therefore include a short term component ( sales ) and a long term component
+( learning ) .

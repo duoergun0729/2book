@@ -1,0 +1,38 @@
+Subject: eol data , july 13 , 2001
+eol deals from : 7 / 1 / 2001 to : 7 / 13 / 2001 eol deals from : 7 / 1 / 2001 to : 7 / 13 / 2001
+desk total mwh total deals desk total mwh total deals
+epmi long term california 1 , 445 , 400 89 epmi long term california 2 , 895 , 920 29
+epmi long term northwest 999 , 425 57 epmi long term northwest 7 , 466 , 194 132
+epmi long term southwest 2 , 193 , 750 153 epmi long term southwest 7 , 262 , 396 154
+epmi short term california 470 , 424 636 epmi short term california 875 , 066 394
+epmi short term northwest 245 , 000 416 epmi short term northwest 214 , 676 242
+epmi short term southwest 469 , 400 489 epmi short term southwest 1 , 104 , 565 416
+grand total 5 , 823 , 399 1 , 840 grand total 19 , 818 , 817 1 , 367
+eol deals from : 7 / 13 / 2001 to : 7 / 13 / 2001 enpower from : 7 / 13 / 2001 to : 7 / 13 / 2001
+desk total mwh total deals desk total mwh total deals
+epmi long term california 0 0 epmi long term california 0 0
+epmi long term northwest 0 0 epmi long term northwest 1 , 250 8
+epmi long term southwest 480 , 400 24 epmi long term southwest 701 , 985 23
+epmi short term california 59 , 680 78 epmi short term california 132 , 612 76
+epmi short term northwest 29 , 200 54 epmi short term northwest 63 , 416 32
+epmi short term southwest 56 , 400 62 epmi short term southwest 156 , 976 62
+grand total 625 , 680 218 grand total 1 , 056 , 239 201
+ice volumes from : 7 / 13 / 2001 to : 7 / 13 / 2001
+delivery point epmi mwh total mwh price
+mid c ( p , next day ) 400 0 $ 47 . 00
+palo ( p , next day ) 2 , 800 800 $ 55 . 39
+palo ( p , bal month ) 46 , 800 10 , 400 $ 71 . 53
+palo ( op , bal month ) 3 , 800 3 , 800 $ 34 . 00
+palo ( p , augol ) 54 , 000 0 $ 85 . 30
+palo ( p , ql 03 ) 30 , 400 0 $ 38 . 00
+palo ( p , sepol ) 19 , 200 0 $ 73 . 50
+sp - 15 ( op , next day ) 2 , 400 0 $ 32 . 50
+sp - 15 ( p , next day ) 4 , 400 0 $ 46 . 96
+sp - 15 ( p , bal month ) 5 , 200 5 , 200 $ 63 . 00
+sp - 15 ( op , bal month ) 7 , 600 3 , 800 $ 33 . 88
+sp - 15 ( op , augol ) 7 , 800 7 , 800 $ 44 . 00
+sp - 15 ( p , augol ) 10 , 800 0 $ 76 . 00
+sp - 15 ( p , cal 04 ) 123 , 200 0 $ 43 . 50
+np - 15 ( op , next day ) 800 0 $ 33 . 00
+np - 15 ( p , next day ) 400 0 $ 45 . 00
+grand total 320 , 000 31 , 800 $ 822 . 56

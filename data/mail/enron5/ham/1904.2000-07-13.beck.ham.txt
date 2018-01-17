@@ -1,0 +1,30 @@
+Subject: dear sally ,
+since we may not be able to have our bi - weekly meeting , i thought i ' d let you
+know what ' s going on :
+dpr
+i ' m working with london to determine how to report the mg dpr to us . nothing
+has been decided yet as we are waiting on the risk management policies & risk
+limits from our guys in london .
+as you know , plenty of v @ r questions have been coming our way , and are
+somewhat difficult for mike ' s team to answer . i talked with eugenio and he
+is in the process of putting together some v @ r analytics / graphs mike ' s guys
+can easily create to answer simpler v @ r questions .
+burton , a book analyst in brent ' s group is coming back to mike ' s dpr group to
+support gary stadler and work on the benchmark reports and curve
+validations . jenifer bagwell has taken burton ' s place in brent ' s group .
+a while back , eugenio created a database to capture information and allows
+book & commodity analysis . he has been showing this to business unit
+controllers & the rac group , but has not distributed it yet , due to security
+issues . currently , the database does not restrict different users to
+different commodities ( power people can see gas and vice versa ) . it will
+slow down the database considerably if these restrictions are put in , but it
+may be necessary . i think the business controllers would not share the
+information with commercial , but i ' m not sure about the analysts in the rac
+group . i ' d like to get your opinion on this .
+doorstep
+i ' ve updated the presentation to include places and planned visits for
+offices previously not visited and second offices visits for the next year
+donna , ted , richard l . and i have a meeting scheduled to go over the follow
+up of the first visits - i ' ll update you after the meeting .
+hope you had a good vacation !
+regards

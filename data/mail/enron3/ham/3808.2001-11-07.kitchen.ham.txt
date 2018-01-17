@@ -1,0 +1,30 @@
+Subject: re : fw : update on srp margin call
+i talked with despain . they are still in committee . tim has told them we need a response before early houston time for the market to digest any announcement .
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : wednesday , november 07 , 2001 8 : 25 pm
+to : bradford , william s .
+subject : re : fw : update on srp margin call
+importance : high
+any news from despain ?
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+sent from my blackberry wireless handheld
+- - - - - original message - - - - -
+from : bradford , william s .
+to : kitchen , louise
+sent : wed nov 07 19 : 35 : 07 2001
+subject : fw : update on srp margin call
+- - - - - original message - - - - -
+from : hall , steve c . ( legal )
+sent : wednesday , november 07 , 2001 7 : 30 pm
+to : belden , tim
+cc : sager , elizabeth ; bradford , william s . ; ngo , tracy
+subject : update on srp margin call
+importance : high
+tim ,
+as you know , srp made a margin call to epmi on monday , by letter , seeking $ 5 . 5 million in margin under a " one - off " contract . tracy and i sent a letter back on tuesday , arguing that the contract does not permit srp to call for additional margin unless ene is downgraded to junk status . srp responded to our letter this afternoon . predictably , srp disagrees with our view of the contract and demands its margin . srp says that it will treat our failure to post $ 5 . 5 million by monday , november 12 , in either cash or an irrevocable letter of credit , as an event of default and will terminate the contract . if this happens , epmi would have to make a payment of $ 5 . 5 million within 10 days of receipt of an invoice from srp .
+as you know , tracy and i strongly believe that the contract does not support srp ' s right to call for margin at this time . however , the contract is not perfect ( they drafted it , after all ) and there is a sentence fragment that supports their position .
+i recommend that we treat the srp - epmi dispute regarding the margining criteria under this agreement as a " dispute " under section 17 . disputes are first submitted to authorized representatives ( each company designates an authorized representative ) to resolve . if the authorized representatives cannot reach agreement within 30 days , then the dispute is forwarded to you and your equivalent at srp ( the " executives " ) . the executives have to meet within 30 days to resolve the issue . if the executives cannot resolve the issue within 30 days , then both parties can choose arbitration , or either party can take the matter to court . in summary , best case , this option gets us up to 90 days before we have to arbitrate / litigate the issue . otherwise , we better prepare to post collateral monday .
+if you want to handle this matter by taking the " dispute " route , i should send a letter out tomorrow to srp giving notice that we wish to try to resolve this through the contract ' s " dispute " provisions .
+steve
+( i should also mention that tracy has informed me that srp plans to issue a margin call on our wspp contracts ( approximately $ 4 . 5 million ) as soon as it calculates the amount due . )

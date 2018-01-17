@@ -1,0 +1,40 @@
+Subject: re : mg integration support - daily update # 6
+hi richard ,
+lloyd fleming introduced me to the key personnel on the trading and risk side
+at mg today ; i spent most of today discussing forward curves and option
+volatilities with tim jones , russell plackett and jon barrett . i hope to be
+able to get historical data from david thompson to facilitate forward curve
+analysis for our var models . also discussed valuation issues ( e . g . option on
+calendar spread that they need a model for ) . also was able to get a good
+understanding of trading strategies and nuances of aluminum , copper and
+nickel markets .
+regards ,
+anjam
+x 35383
+richard sage
+04 / 07 / 2000 02 : 37
+to : stop : mike jordan / lon / ect @ ect , andrew cornfield / lon / ect @ ect , naomi
+connell / lon / ect @ ect , stephen wood / lon / ect @ ect , tim
+poullain - patterson / lon / ect @ ect , andrea m kerch / lon / ect @ ect , janine
+juggins / lon / ect @ ect , lloyd fleming / lon / ect @ ect , tim davies / lon / ect @ ect , david
+hardy / lon / ect @ ect , barry sangster / lon / ect @ ect , robert campbell / lon / ect @ ect ,
+alex holland / lon / ect @ ect , michael heap / lon / ect @ ect , phil redman / lon / ect @ ect ,
+fiona grant / lon / ect @ ect , toby knight / lon / ect @ ect , melissa laing / lon / ect @ ect ,
+jeanie slone / lon / ect @ ect , beth apollo / lon / ect @ ect , mark
+pickering / lon / ect @ ect , suzanne lane / lon / ect @ ect , stephen evans / lon / ect @ ect ,
+niamh o ' regan / lon / ect @ ect , anjam ahmad / lon / ect @ ect , fernley
+dyson / lon / ect @ ect , eric gadd / lon / ect @ ect
+cc :
+subject : re : mg integration support - daily update # 6
+deal entry
+the need for 3 data - entry clerks becomes clearer when we understand that
+between 200 and 2000 manual deal tickets are written each day which then have
+to be keyed in .
+romulus
+the trading assets of rudolf wolff in london and new york were bought after
+close of play on friday .
+included with the metals trading is a proprietary fx desk , and a softs desk ,
+trading coffee , cocoa , and sugar .
+the softs people are expected to arrive in enron house at the end of july .
+eol
+two metals trades have been executed on eol .

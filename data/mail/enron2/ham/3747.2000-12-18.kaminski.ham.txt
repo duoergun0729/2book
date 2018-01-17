@@ -1,0 +1,10 @@
+Subject: request submitted : access request for
+pinnamaneni . krishnarao @ enron . com
+you have received this email because the requester specified you as their vp .
+please click
+approval to review and act upon this request .
+request id : 000000000010552
+request create date : 12 / 18 / 00 8 : 53 : 23 am
+requested for : pinnamaneni . krishnarao @ enron . com
+resource name : vpn
+resource type : applications

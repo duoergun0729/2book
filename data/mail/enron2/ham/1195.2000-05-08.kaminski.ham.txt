@@ -1,0 +1,24 @@
+Subject: enron storage analysis model audit
+professor darrel duffie
+450 miramonte avenue
+palo alto , ca 94306
+may 8 , 2000
+dear professor duffie ,
+i enclosed with this e - mail enron storage analysis model ( sam ) for your
+review . the attached files include :
+1 ) a brief documentation of the model ( sam . doc ) , 2 ) c - code of the main
+routines , 3 ) excel spreadsheet interface ,
+4 ) sam _ audit . dll .
+dr . vince kaminski , dr . stinson gibner and myself have spent about one year
+in developing this model .
+with traders  , feedback incorporated , the model results are close to reality .
+although there are features to be included ,
+we believe the model is ready for your review . we look forward to your
+comments and suggestions .
+please feel free to contact me should you need additional detail .
+sincerely ,
+zimin lu
+director , enron research
+zlu @ enron . com
+713 - 853 - 6388
+enclosures

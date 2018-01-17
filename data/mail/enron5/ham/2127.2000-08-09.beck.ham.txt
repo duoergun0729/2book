@@ -1,0 +1,29 @@
+Subject: var priorities
+vlady . .
+this was the list john referenced the other day .
+ted
+- - - - - - - - - - - - - - - - - - - - - - forwarded by ted murphy / hou / ect on 08 / 09 / 2000 02 : 30 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : ted murphy
+06 / 28 / 2000 07 : 45 am
+to : rick buy
+cc :
+subject : var priorities
+rick ,
+this is my initial attempt to summarize our meeting with john . the next
+steps would be to solicit feedback from other interested parties and scope
+the resources and responsibilities .
+ted
+rick buy , john lavorato and i met to discuss priorities as it relates to the
+calculation of var . we are making the following recommendations
+1 ) inclusion of monthly index positions into var calculations as the
+indicies set in north american natural gas
+2 ) development of a methodology to re - run correlations ( factor loadings )
+including criteria , responsibilities and acceptance / rejection criteria
+3 ) development of process by which to analyze the output of factor loading
+process . database to store output and management reports .
+4 ) finalize debate on the calculation of forward / forward volatility
+5 ) scope a project to analyze the possibility of calculating hourly
+volatility for power .
+it was further recommended that we continue to not include unpriced index
+positions in var calculation .

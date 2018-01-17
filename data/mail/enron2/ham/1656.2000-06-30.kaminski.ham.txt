@@ -1,0 +1,109 @@
+Subject: re : ebs var transaction policy
+i have two things biting me .
+first is time . i need to turn a draft for hannon and rice asap . so , the
+value of a deliberative approach to coming up with a v @ r policy will quickly
+evaporate if we take 2 weeks to study what the policy should say .
+second , i have a unique situation . our concept of v @ r is really unlike the
+rest of enron ' s today . what happens today is that network engineers
+unilaterally make decisions about deployment , configuration and other matters
+which effect the longs and shorts of our asset / contract portfolio that they
+view strictly from a network operating standpoint .
+a good example was a decision to move our primary terapop ( three large
+servers storing 165 gigabytes each ) from portland to la . the servers are
+already in place and purchased , so no capital was involved . but the
+decision has huge ramifications on the future la / new york and other bandwidth
+usage , and that cost money . now it could be that the la / new york cost is
+cheaper than the portland / new york cost , the whole point is no one knows .
+what our " value - at - risk " policy attempt to corral is these types of decisions
+and put them into the hands of the risk management group , where the decision
+will be made with at least some economic work behind it .
+i really see the ebs v @ r policy to be misnamed , since we don ' t really have
+the math done to calc v @ r . it really is a volumetric - based control policy
+that says you can ' t make network changes over xx amount of megabytes ( a
+storage measure ) or oc - 3 equivalents ( a bandwidth measure ) without risk
+management making or approving the decision . i do believe that with
+research ' s help , we can in time actually calculate the v @ r impact of such
+decisions . at that time , the policy should be modified to set metrics based
+on the v @ r calculations .
+so if you have an open enough mind to let us co - op your word for a minute ,
+we need to start turning the minds of the network industry people into
+thinking about their decisions as having value effects . said directly ,
+kevin hannon has given me authority to write a policy to move control over
+significant network changes from the field to the trading floor , and i am
+going to issue something now to effectuate that . . . . . .
+so . . . i really want your views on what we are doing , but thought you needed
+some flavor and an sense of the urgency . if you can weigh in , do so
+quickly . . . . .
+barry pearce
+06 / 30 / 00 04 : 47 am
+to : john echols / enron communications @ enron communications , lou casari / enron
+communications @ enron communications
+cc :
+subject : re : ebs var transaction policy
+positive . . . .
+- - - - - forwarded by barry pearce / enron communications on 06 / 30 / 00 04 : 49 am
+- - - - -
+ted murphy @ ect
+06 / 29 / 00 11 : 33 am
+to : barry pearce / enron communications @ enron communications @ enron
+cc :
+subject : re : ebs var transaction policy
+barry ,
+conceptually , i see no reason that a process like this can not be
+implemented . in some way we have attempted to do so through the enron corp
+transaction approval process ( tap ) . i have forwarded to john a copy of this ,
+along with the risk management policy . i ' ll let him share with you if ok ( i
+really don ' t want to act as the firm ' s in - house kinko ' s ! ! ) . we have taken
+the first step and done poorly on follow - up steps to create a very easy to
+follow process for anything other than direct funded capital . however , some
+process around a greater number of assets / deals is better than none . i
+agree that i have not seen a really good fully baked one implemented , but i
+think it is wrong not to try .
+the only concerns i have is that , given that we want to have " standard "
+metrics and approval processes around the firm , ebs creates a process / metric
+which is complementary to and integrates with processes / metrics that the
+other business units are subjected to .
+ted
+barry pearce @ enron communications
+06 / 29 / 2000 09 : 09 am
+to : stinson gibner / hou / ect @ ect , dale surbey / lon / ect @ ect , ted
+murphy / hou / ect @ ect
+cc : lou casari / enron communications @ enron communications , john echols / enron
+communications @ enron communications , jim fallon / enron communications @ enron
+communications
+subject : ebs var transaction policy
+hey you guys ,
+we are trying to implement a ' var transaction ' policy - and would like your
+opinion .
+this is going to be tough - because i ' m not sure we have implemented a
+similiar policy across any of our other ' books ' - that is - we looking to
+bring in all the accrual / operational assets as well as the mtm stuff
+( lambdas ) . to have a real - live ' configuration ' of the system .
+if assets / routes / servers etc . . . are added - what is the impact on the ' value '
+of the system and what it ' s worth .
+john has attached a draft below - for your review and thoughts .
+i can see how this works in a trading environment - when you actually know
+the var of your whole trading portfolio . however - i ' ve not seen this done
+with a mixture of mtm & accrual assets . add the spice of a ' operational
+system ' valuation - and this will be tough to quantify and model .
+step 1 - configure system and value it
+step 2 - calculate a var on this . we will need to do some work here !
+step 3 - calculate the incremental var of new deals / amendements / reconfigs etc
+- tough . . . .
+see what you think ?
+b .
+john echols
+06 / 28 / 00 05 : 41 pm
+to : jim fallon / enron communications @ enron communications , barry pearce / enron
+communications @ enron communications , lou casari / enron communications @ enron
+communications
+cc :
+subject : policies
+here is a first rough draft of a " value @ risk " transaction policy .
+i would like you to start looking at where we are going on the policy and get
+some early thinking going on limits for the v @ r . for example , should we
+effectively shut down all server relocations without approval , or allow some
+level of mb of storage to be moved around or reconfigured ?
+i need some commercial and industry realism for this . we may need rick
+paiste or your industry helpers ( marquardt , etc . to help us ) .
+barry , lou , i need your input .

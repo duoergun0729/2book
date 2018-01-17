@@ -1,0 +1,109 @@
+Subject: o : \ research \ exotica access
+our records indicate that you are the owners / approvers for the
+o : \ research \ exotica folder . if this is correct , please reply back with your
+confirmation to information risk management .
+in an effort to update our files as well as to do some cleanup on the
+directory membership , we are including the current membership list for the
+following nt groups . please review the membership list and advise if any
+deletions are required .
+group name group description
+data _ exotica change access to o : \ reasearch \ exotica , ohara , scarlet
+data _ exotica _ ro read - only access to o : \ reasearch \ exotica , ohara , scarlet
+datapwr _ exoticarw change access to m : \ exotica
+data _ exotica
+user id full name
+adhar amitava dhar / hou / ees
+btiner brent tiner / corp / enron
+clandry chad landry / hou / ect
+cuus charles uus / hou / ect
+dmaxwel david maxwell / hou / ect
+dvitrel david vitrella
+gmasson grant masson / hou / ect
+jbuss jd buss / hou / ect
+khopper kevin hopper / hou / ect
+mlay mark lay / hou / ect
+mvasque miguel vasquez / hou / ect
+pkrishn pinnamaneni krishnarao / hou / ect
+pzadoro pavel zadorozhny / hou / ect
+sgibner stinson gibner / hou / ect
+thall d todd hall / hou / ect
+ttamarc tanya tamarchenko / hou / ect
+vguggen victor guggenheim / hou / ect
+vkamins vince j kaminski / hou / ect
+vngo van t ngo
+vshanbh vasant shanbhogue / hou / ect
+zlu zimin lu / hou / ect
+data _ exotica _ ro
+user id full name
+adhar amitava dhar / hou / ees
+aseveru allan severude / hou / ect
+bchan betty chan / hou / ect
+bdavis 6 brian davis / corp / enron
+cconsta chris constantine / hou / ect
+cgarci 2 christine garcia / enron _ development
+clandry chad landry / hou / ect
+cliverm carl livermore / hou / ect
+cschwab clarence schwab / ny / ect
+ctricol carl tricoli / corp / enron
+cuus charles uus / hou / ect
+danders derek anderson / hou / ect
+dbillot david billot / hou / ect
+dumbowe denae umbower / hou / ect
+epao eva pao / hou / ect
+fkarbar frank karbarz / hou / ect
+icaplan ilan caplan / hou / ect
+jgreene john greene / hou / ect
+jkinnem jeff kinneman / hou / ect
+jkrishn jayant krishnaswamy / hou / ect
+jmrha jean mrha / hou / ect
+kmccoy kelly mccoy / hou / ect
+ljegana lenine jeganathan / hou / ect
+mbradle michael w bradley / hou / ect
+mcisner michelle d cisneros / hou / ect
+mdaya madhur dayal / hou / ect
+mrodrig mark anthony rodriguez / hou / ect
+osezge osman sezgen / hou / ees
+pghosh partho ghosh
+s _ prandle phillip c randle / hou / ect
+sgoldma stephanie goldman / hou / ect
+sharril steve harris / hou / ect
+slewis susan r lewis / hou / ect
+sreyes selena reyes / hou / ect
+srivas sandy rivas / hou / ect
+srosman stewart rosman / hou / ect
+ssmith 7 sarah smith / corp / enron
+ssreera sai sreerama / hou / ect
+tbersan tracee bersani
+tbrown tony brown / hou / ect
+termserv terminal server test account
+teslick tara eslick / hou / ect
+tlee twana lee / corp / enron
+tnguye 2 tovinh nguyen / hou / ect
+vmendan vernon mendanha / hou / ect
+wlewis william patrick lewis / hou / ect
+datapwr _ exoticarw
+user id full name
+bkaufma bennett kaufman / hou / ect
+borourk brian o ' rourke / hou / ect
+bspecto brian spector / hou / ect
+dreck daniel reck / hou / ect
+ebaughm edward d baughman / hou / ect
+fhayden frank hayden
+gmasson grant masson / hou / ect
+gmcclel george mcclellan / hou / ect
+kcompea karla compean / hou / ect
+ketter kyle etter / hou / ect
+khopper kevin hopper / hou / ect
+mdalia minal dalia / hou / ect
+mgimble mathew gimble / hou / ect
+phickey patrick h hickey / hou / ect
+pkrishn pinnamaneni krishnarao / hou / ect
+rtomask richard tomaski / hou / ect
+sgibner stinson gibner / hou / ect
+vkamins vince j kaminski / hou / ect
+vsabo valarie sabo / pdx / ect
+vshanbh vasant shanbhogue / hou / ect
+zlu zimin lu / hou / ect
+thanks !
+information risk management / audit
+lupita

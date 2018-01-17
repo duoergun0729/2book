@@ -1,0 +1,33 @@
+Subject: re : eol phase 2
+deal all ,
+i have written the option pricing formula for european ( euro ) , american
+( amer ) and asian ( agc ) options .
+i have also cited the references for each option . the function names in ( )
+are the option models in the
+enron exotica options library . you do not have to have outside programmer
+to duplicate our work , since we have
+constructed and tested these models .
+if you have any questions , please let me know .
+zimin
+vince j kaminski
+06 / 30 / 2000 02 : 31 pm
+to : michael danielson / hou / ect @ ect
+cc : stinson gibner / hou / ect @ ect , zimin lu / hou / ect @ ect , vince j
+kaminski / hou / ect @ ect
+subject : re : eol phase 2
+michael ,
+please , contact zimin lu .
+vince kaminski
+michael danielson
+06 / 30 / 2000 01 : 10 pm
+to : vince j kaminski / hou / ect @ ect , mike a roberts / hou / ect @ ect
+cc : angela connelly / lon / ect @ ect , savita puthigai / na / enron @ enron
+subject : eol phase 2
+thanks for your help on content for eol phase 2 .
+an additional piece of content that we are trying to include in our scope is
+an options calculator . this would be an interactive tool to teach less
+sophisticated counterparties about options . we would like to collaborate
+with someone in research to refine our approach ( and make sure we ' re using
+the right formulas ) . who should we contact in research for this ?
+attached is a mock - up of what we have in mind . . .
+- calculator prototype . ppt

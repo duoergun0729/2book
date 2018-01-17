@@ -1,0 +1,87 @@
+Subject: re : lng may 19 decision
+vince - thanks for the update . what i am not sure of is what if any decision
+has to be
+made on may 19 . it seems to me that the mystic lady and elba island deals
+have already
+been approved and executed - but it is quite likely i am missing a detail or
+two .
+john
+vince j kaminski
+15 / 05 / 2000 17 : 14
+to : john sherriff / lon / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , david gorte / hou / ect @ ect , rick
+buy / hou / ect @ ect , ted murphy / hou / ect @ ect
+subject : re : lng may 19 decision
+john ,
+this is the update on what i have done for the lng transactions .
+1 . i was not involved in the lng ship project . i shall read the dash
+and give you my comments . without looking at the details , i think that the
+decision
+to charter a tanker removes one significant risk we have at the elba island
+project ( please , see point 2 ) .
+2 . elba island . i am working with doug rotenberbg , brad hitch , scott earnest
+( sally beck ' s organization ) and rac to set up the book for the elba island
+transaction . the next step
+will be to expand the book to capture all the enron ' s lng - related positions
+in one place and
+to look for natural risk offsets and possible hedges . a working group is
+meeting to close a few
+remaining gaps tomorrow ( tuesday ) at 8 : 30 .
+a few comments on the book design and my view of the project :
+a . the current thinking is that lng will be sourced for the elba island
+facility
+by buying marginal cargos on the fob basis . marginal cargos will represent
+supply from excess capacity that has not been committed under long - term
+contracts or became available due to some short - term frictions .
+the fob cargos are typically selling at a significant discount to the
+long - term
+contract prices . the economics of the deal , as represented by the book we are
+setting up , will reflect the assumption that not only we can locate marginal
+cargos
+but that we shall be able to do it on a regular basis , arranging shipping and
+coordinating
+the facility schedule and natural gas transactions in the us . in other words ,
+we have a significant logistical and operational risk in this transaction .
+b . the transaction will cover the period of 17 years ( with an extension
+option of
+5 years ) . even if we can lock - in the lng volumes over this time period , we
+have no ability to lock - in the other side of the spread ( us gas prices ) for
+such a long tenor . this is
+essentially a tolling transaction with exposure to the lng - nat gas spread
+and
+i would not recommend locking - in only one leg of the spread .
+one solution would be to cover , let ' s say , 50 % of he lng volumes for the
+first
+5 years and lock - in the nat gas side on the us market side .
+c . the book we are setting up will be based on many managerial assumptions
+regarding sources of lng , shipping rates , schedules , etc . i would set up a
+big prudence reserve
+in case we mark it to market .
+d . my group will work on valuation of some options we have in the elba island
+deal
+( that are good for enron ) and on the hedging strategy for the lng positions .
+long - term lng contracts are typically based on the japanese crude cocktail
+that
+correlates very well with brent .
+vince
+john sherriff
+05 / 14 / 2000 01 : 40 am
+to : vince j kaminski / hou / ect @ ect
+cc : lauren urquhart / lon / ect @ ect
+subject : lng may 19 decision
+vince
+i haven ' t spoken to you for awhile but hope the world is treating you well .
+anyway with greg moving to his
+new role i have ( i hope only temporarily ) staff trading oversight for the
+eastern hemishere plus lng .
+i understand that your group is taking a first cut at developing curves for
+lng and lng ship values . i also understand
+that another lng ship decision is on the dockets for may 19 ( not very far
+away ) . anway i understand this
+is a big decision but i still have gotten very little info yet . can you
+please let me know where you stand now ?
+i will ask my assistant lauren to set up a time that i can speak with you in
+the next couple of days and if you
+have anything for me to review before then she can get it faxed to me as well .
+look forward to connecting with you vince .
+john

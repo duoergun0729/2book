@@ -1,0 +1,15 @@
+Subject: 6 / 30 aga forecast at 66
+mike ,
+my number for next week is 66 ( from seasonal holt - winter model , shw ) .
+i am also fitting aga to an arimax model . as discussed , i need weighted
+temperature
+data for east , west and production areas . i would appreciate if you could
+provide that data .
+after that , i could add forward price curve as explainatory variables .
+since aga is a market mover , it is important to have an accurate model .
+zimin
+to : zimin lu / hou / ect @ ect
+cc :
+subject : re : revised aga forecast for 6 / 23 is 65
+came in at 73
+what do have for next week ?

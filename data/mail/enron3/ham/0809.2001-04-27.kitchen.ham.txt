@@ -1,0 +1,20 @@
+Subject: california order proxy price calculation
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by richard shapiro / na / enron on 04 / 27 / 2001 01 : 07 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" jackie gallagher " on 04 / 27 / 2001 11 : 59 : 30 am
+to : , , , , , , , , , , ,
+cc :
+subject : california order proxy price calculation
+memorandum
+to : regulatory affairs committee
+power marketers working group
+from : joe hartsoe , regulatory affairs committee chair
+bob reilley , power marketers working group chair
+julie simon , vice president of policy
+mark bennett , senior manager of policy
+erin perrigo , manager of policy
+date : april 27 , 2001
+re : california order proxy price calculation
+we have had an initial opportunity to review ferc ' s order establishing prospective mitigation and monitoring plan for the california wholesale electric markets and establishing an investigation of public utility rates in wholesale western energy markets , and will provide a more detailed summary early next week .
+however , questions have arisen as to the calculation of the proxy price when a stage 1 , 2 or 3 emergency is called . in initial discussions with ferc staff , we have determined that the price mitigation will work as follows :
+for the following day , the iso will publish at 8 a . m . an average of the daily prices published in gas daily for all california delivery points , as well as emissions costs . the emissions costs will be calculated by the iso using the cantor fitzgerald environmental brokerage service . the marginal unit will then be determined via the single price auction in the hour , and the iso will then take the previously submitted and confidential heat rate data and multiply it by the posted average gas price and emissions costs for that hour to determine the market clearing price . the iso will not be calculating an estimated market - clearing price in advance .

@@ -1,0 +1,56 @@
+Subject: re : var for cob 2 nd aug 2000
+hi vince ,
+i have sent a mail to andreas with a full list of all the assumed units
+within our model . he has sent some historical
+data for cocoa beans and noticed that they were being quoted in gbp / mt so
+even currency units seem to be important .
+thank you for pointing this out ,
+kirstee
+vince j kaminski
+04 / 08 / 2000 15 : 45
+to : kirstee hewitt / lon / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , cantekin dincerler / hou / ect @ ect , grant
+masson / hou / ect @ ect
+subject : re : var for cob 2 nd aug 2000
+hi kirstee ,
+thanks again for all your work on mg . one think to double check is units .
+please , make sure that the prices are quoted in the same units our positions
+come in .
+one potential source of confusion arises from the fact that we are dealing
+with different
+cultures ( metric system vs . english measures ) .
+vince
+enron capital & trade resources corp . - europe
+from : kirstee hewitt 08 / 03 / 2000 11 : 31 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : var for cob 2 nd aug 2000
+hi vince ,
+i was waiting for a comment about the email below before sending it to the
+full mailing list . basically it suggests that the
+copper option position may well have increased the var by more than $ 500 , 000 .
+however , given that the portfoilo has also
+changed from the lst of august it is difficult to asses the actual change due
+to the option only .
+regards
+kirstee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kirstee hewitt / lon / ect on 03 / 08 / 2000
+17 : 29 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron europe
+from : kirstee hewitt 03 / 08 / 2000 16 : 29
+to : cantekin dincerler / hou / ect @ ect , grant masson / hou / ect @ ect
+cc :
+subject : var for cob 2 nd aug 2000
+hi all ,
+the cu option position has entered the mg books for the 2 nd aug . the delta is
+35299 $ / mt for dec 2000 . the cu var has gone up
+from $ 2 , 245 , 000 to $ 3 , 306 , 000 . i estimated that the portfolio for the lst
+would increase to approx $ 3 , 039 , 000 so this seems sensible .
+the overall var change is from $ 4 , 780 , 796 to $ 5 , 991 , 569 . again , the estimate
+for the lst aug was for an increase in var to ~ $ 5 , 476 , 000 .
+all estimates were based on a delta of 32 , 0004 / dmt .
+there has also been some increase in the var for aluminium which will effect
+the overall total .
+a summary is as follows :
+regards ,
+kirstee

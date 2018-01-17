@@ -1,0 +1,28 @@
+Subject: re : seneca lake storage
+deirdre ,
+i run two senarios using two different curves .
+i got $ 1 . 39 / mmbtu per year for if - cng / north , and
+$ 1 . 41 / mmbtu per year for if - cng / n _ cityga .
+therefore if we look at 20 years time horizon , the storage
+can generate $ 1 . 40 * 1 . 4 * 20 = 39 . 2 mm dollars .
+let us discuss if you have any questions .
+zimin
+enron north america corp .
+from : deirdre mccaffrey 06 / 12 / 2000 10 : 45 am
+to : zimin lu / hou / ect @ ect
+cc :
+subject : seneca lake storage
+zimin -
+the gas assets group is looking at investing in a storage facility in western
+ny . here are the specs :
+total capacity : 1 , 400 , 000 mmbtus
+mdqw : 140 , 000 mmbtus
+mdiq : 70 , 000 mmbtus
+injection fuel : 1 . 5 %
+injection fee : $ . 003
+w / d fuel : 0 %
+w / d fee : $ . 003
+injection curve : cng north city gate
+w / d curve : cng north pool point
+please call with any questions - x 39685 .
+thanks - deirdre

@@ -1,0 +1,10 @@
+Subject: re : just to her . . .
+mdaemon has indentified your message as spam . it will not be delivered .
+from : projecthoneypot @ projecthoneypot . org
+to : archive @ londoncapitalgroup . co . uk
+subject : * * * spam * * * score / req : 25 . 38 / 08 . 00 - just to her . . .
+message - id :
+yes , hits = 25 . 4 required = 8 . 0 tests = ab _ uri _ rbl , html _ 50 _ 60 , html _ fontcolor _ red , html _ message , mime _ html _ only , spamcop _ uri _ rbl , ws _ uri _ rbl autolearn = no version = 2 . 64
+* * * * * * * * * * * * * * * * * * * * * * * * *
+* 0 . 1 html _ fontcolor _ red body : html font color is red * 0 . 2 html _ 50 _ 60 body : message is 50 % to 60 % html * 0 . 1 mime _ html _ only body : message only has text / html mime parts * 0 . 0 html _ message body : html included in message * 8 . 0 spamcop _ uri _ rbl uri ' s domain appears in spamcop database at sc . surbl . org * [ bjefladghikm . extra - m . info is blacklisted in uri ] [ rbl at multi . surbl . org ] * 9 . 0 ws _ uri _ rbl uri ' s domain appears in ws database at ws . surbl . org * [ bjefladghikm . extra - m . info is blacklisted in uri ] [ rbl at multi . surbl . org ] * 8 . 0 ab _ uri _ rbl uri ' s domain appears in ab . surbl . org * [ bjefladghikm . extra - m . info is blacklisted in uri ] [ rbl at multi . surbl . org ]
+: message contains [ 1 ] file attachments

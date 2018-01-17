@@ -1,0 +1,37 @@
+Subject: re : on a plane
+louise :
+fyi . one would hope that , statistically speaking , i ' m in the clear for a while .
+best regards - max
+- - - - - forwarded by max yzaguirre / na / enron on 03 / 28 / 2001 06 : 15 pm - - - - -
+andy zipper / enron @ enronxgate 03 / 28 / 2001 05 : 42 pm to : max yzaguirre / na / enron @ enron cc : subject : re : on a plane
+max ,
+i would find it doubtful that that the flight crew would test the aircraft in such a fashion , during a scheduled flight with pax aboard . anytime there is a problem with flight control that is very serious . i ' m glad they seemed to have handled the situation . it probably was not a vor problem but more likely a flight control problem i . e . control surfaces , rudder , ailerons . the vor fail message could have been due to a power down of the avionics consistent with a post emergency - landing procedure .
+i have a commercial pilot certificate and have done some charter work . in addition i ' ve flown a 757 in the simulator at united and know how many back ups those things have . they are very redundant .
+i ' m really glad everything turned out okay .
+all the best ,
+andy
+- - - - - original message - - - - -
+from : yzaguirre , max
+sent : wednesday , march 28 , 2001 5 : 20 pm
+to : zipper , andy
+subject : re : on a plane
+andy :
+i was actually the person to whom this happened . i was on an aeromexico flight yesterday from mexico city to monterrey . within minutes after leaving mexico city the plane started to hump up and down and then started fishtailing . it is unclear whether this was something the pilot was doing to test the plane or not . we quickly circled back to mexico city , but came in very , very low on our approach ( and seemed to be losing speed ) .
+in any event , as i was exiting the plane , i looked into the cockpit and saw the message " vor 2 fail " on the center display . being an admitted greenhorn at these things , i didn ' t know what else to look for or where to look for it , so there may have been something i overlooked .
+the crew was very short on details , but they appeared very rattled by all of this . one of the flight attendants told a fellow passenger who was complaining about being late that he should simply be thankful he was still alive . [ probably not what they teach in flight attendant school as the optimal response , but . . . . . . ]
+in any event , i appreciate the info below and would appreciate any additional info this message may lead you to . i ' d love to know whether or not the adrenaline surge was warranted .
+best regards - max
+louise kitchen @ ect 03 / 28 / 2001 10 : 30 am to : max yzaguirre cc : subject : re : on a plane
+- - - - - - - - - - - - - - - - - - - - - - forwarded by louise kitchen / hou / ect on 03 / 28 / 2001 10 : 29 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : andy zipper / enron @ enronxgate on 03 / 28 / 2001 10 : 10 am
+to : louise kitchen / hou / ect @ ect
+cc : david forster / corp / enron @ enron
+subject : re : on a plane
+a vor is the standard instrument for navigating an aircraft under an ifr flight plan . it is the receiver that allows the plane to be flown on bearings from ground stations . if it were to fail there would be loads of backups , although if you are on a scheduled flight their operations manual would dictate that the flight be terminated as soon as practicable in the event any primary component , such as this were to fail . where were you that you were able to monitor the performance of this instrument ? the flight deck ?
+az
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : wednesday , march 28 , 2001 9 : 15 am
+to : zipper , andy ; forster , david
+subject : on a plane
+if it shows vor 2 failure - any idea what that is ? it was a 737 .

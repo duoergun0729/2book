@@ -1,0 +1,101 @@
+Subject: re : primary curves missing from factor loading
+tanya ,
+we are very close to generating factors for all primary curves . jin almost
+get it done .
+but we are still waiting on the expiration dates for those london curves . if
+anyone can help , please help .
+also , we have some curves that don ' t have futures . how to decide these
+curves ' s expiration dates ?
+matthew adams helped us deciding many curves expiration rules . but there are
+still many primary curves that don ' t have expiration dates .
+if no expiration dates , then there will be no factor loadings . whoever wants
+to generate factor loadings then give us the expiration dates first ! : )
+winston
+tanya tamarchenko
+09 / 21 / 2000 09 : 00 am
+to : bjorn hagelmann / hou / ect @ ect , wenyao jia / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , kirstee hewitt / lon / ect @ ect , rodrigo
+lamas / lon / ect @ ect , xochitl figueroa / na / enron @ enron , manfred
+roenz / corp / enron @ enron , christian lebroc / corp / enron @ enron , bjorn
+hagelmann / hou / ect @ ect , homan amiry / lon / ect @ ect , naveen
+andrews / corp / enron @ enron
+subject : re : primary curves missing from factor loading
+bjorn ,
+you are absolutely right that we should run the factors for every primary
+curve .
+it has been working for a while on this .
+the problem is data , as always ( missing price curves , zero prices , not
+changing prices , etc . )
+most of these problems come from london curves , so winston and jin yu are
+debugging the code ,
+fixing the problems for every curve .
+winston ,
+do you think we are ready to calculate factors for us curves ? ( while continue
+working on the rest ) .
+tanya
+from : bjorn hagelmann
+09 / 20 / 2000 10 : 06 pm
+to : tanya tamarchenko / hou / ect @ ect , naveen andrews / corp / enron @ enron
+cc : vince j kaminski / hou / ect @ ect , kirstee hewitt / lon / ect @ ect , rodrigo
+lamas / lon / ect @ ect , xochitl figueroa / na / enron , manfred roenz / corp / enron ,
+christian lebroc / corp / enron , bjorn hagelmann / hou / ect @ ect , homan
+amiry / lon / ect @ ect
+subject : re : primary curves missing from factor loading
+tanya , naveen :
+i am confused , i thought that when we identified primary curves they would
+then have factors run against them . does this not distort what we are trying
+to do with the primary and var ?
+regards
+bjorn h .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by bjorn hagelmann / hou / ect on 20 / 09 / 2000
+21 : 57 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+xochitl figueroa @ enron
+20 / 09 / 2000 18 : 16
+to : manfred roenz / corp / enron @ enron , christian lebroc / corp / enron @ enron , homan
+amiry / lon / ect @ ect
+cc : bjorn hagelmann / hou / ect @ ect
+subject : re : primary curves missing from factor loading
+i am in the same situation as manfred . i have one primary curve for southern
+cone gas and one for southern cone power and i am not getting factors for
+either . for my power curves i am getting wti factors and for gas i am
+getting ng factors .
+but i do agree with you manfred , i think all the primary curves should have
+their own factor loadings .
+xochitl
+manfred roenz
+09 / 20 / 2000 05 : 33 pm
+to : christian lebroc / corp / enron @ enron , xochitl figueroa / na / enron @ enron , homan
+amiry / lon / ect @ ect
+cc : bjorn hagelmann / hou / ect @ ect
+subject : re : primary curves missing from factor loading
+christian ,
+at least you have 2 curves that you get factors for . i get none . i have
+four primary curves for coal but factors from nbsk are used . in emissions i
+have one primary curve but wti factors are used . i think all the primary
+curves should have their own factor loadings . xochitl , what factors are used
+for your primary curves ?
+manfred
+from : christian lebroc 09 / 20 / 2000 11 : 28 am
+to : homan amiry / lon / ect @ ect , manfred roenz / corp / enron @ enron , xochitl
+figueroa / na / enron @ enron
+cc : bjorn hagelmann / hou / ect @ ect
+subject : primary curves missing from factor loading
+i was in the process of setting up sunil ' s template for calculating
+co - variance on all liquids primary curves using the " factor loading " data .
+unfortunately , i did not get very far , because i noticed that the factor
+loading table contains only 2 ( wti & hu ) out of 13 liquids primary curves . i
+am concern that liquids var could conceivably be over or understated due to
+the absence of 11 other curves which are listed below . please verify your
+perspective commodity desk on this issue .
+61 ny
+brent
+c 2 gc
+c 3 gc
+c 5 xt
+condensate
+dubaicrude
+ic 4
+mtbe
+nc 4
+nxho
+christian

@@ -1,0 +1,14 @@
+Subject: right of first refusal pricing
+lorrian and michel ,
+the rofr option , which grants the shipper the right to lock in the
+transportation rate ( max rate ) for next
+a few years , is priced as a spread swaption .
+i priced two scenarios for you : the strip starts 1 ) nov . 1 - 00 and 2 ) nov . 1 - 01 .
+for the first one i assume that the shipper makes decision on oct . 31 , 00 ( 54
+days to maturity )
+and on oct . 31 , 01 ( 419 days to maturity ) for the second case .
+the second case has longer time to expiration , therefore larger option time
+value . see the attached
+spreadsheets for more detail .
+let me know if you have any questions .
+zimin

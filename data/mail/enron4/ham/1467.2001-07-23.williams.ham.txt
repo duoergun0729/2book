@@ -1,0 +1,17 @@
+Subject: epe lending agreement : please read
+- - - - - original message - - - - -
+from : symes , kate
+sent : monday , july 23 , 2001 3 : 14 pm
+to : dl - portland real time shift
+subject :
+we have entered into another lending agreement with el paso for tuesday , 7 / 24 . i ' ve entered deals to show this in our system as a purchase from el paso at $ 4 ( fee for lending - to be changed if we end up actually purchasing from el paso ) and a sale to stsw . this is a 25 mw on peak schedule ( tag entered by lisa gang ) to be delivered at palo verde . we need to send 25 mws ( zero price ) to epe real - time at pv to fulfil our part of the agreement . following are the terms of these deals :
+697528 - stwbom buys epe
+hlh @ pv
+25 mw @ $ 4
+( this price represents el paso ' s fee for lending )
+697536 - stwbom sells stsw
+hlh @ pv
+25 mw @ $ 68
+let me know if you have any questions .
+thanks ,
+kate

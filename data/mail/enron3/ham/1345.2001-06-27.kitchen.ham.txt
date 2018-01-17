@@ -1,0 +1,75 @@
+Subject: fw : enron canada update - 06 / 25 / 01
+fyi
+- - - - - original message - - - - -
+from : milnthorp , rob
+sent : monday , june 25 , 2001 3 : 18 pm
+to : lavorato , john
+subject : fw : enron canada update - 06 / 25 / 01
+john , no significant transactions completed since last update .
+for quarter - end :
+looking for the cdn hunter heat rate swap to close and the british energy paper to be signed .
+new developments :
+project banana split - very good meeting w / minister murrary smith ( alberta govt - energy ) and has agreed ( verbally ) to splitting our ppa . letter to that effect forthcoming . alberta government very pleased with our announcement into the retail market and plan to send press release to that effect . press conference is scheduled for tuesday , june 26 th .
+- - - - - original message - - - - -
+from : milnthorp , rob
+sent : monday , june 11 , 2001 6 : 49 pm
+to : lavorato , john
+subject : enron canada update - 06 / 11 / 01
+deals done :
+sunoco ( gas ) :
+5 year synthetic transport ab / east - c $ 1 mm orig
+atlantic packaging ( east power ) :
+british energy hedge - 3 yr 40 mw @ c $ 47 . 50 mwh - c $ 1 . 5 mm orig ( conditional on market opening )
+ivaco ( east power ) :
+dispatch management services agreement - 3 yr 50 mw - 15 % of upside over contract price ( $ 47 / mwh )
+enerconnect ( east power ) :
+board approved extension ( removal of july ' 01 drop dead date and removal of non - competes ) - c $ 8 mm ( conditional on market opening )
+deals pending ( 2 nd quarter ) :
+blue range final dividend payment - c $ 2 mm orig
+cdn hunter 9 yr - 10 mw heat rate swap - c $ 3 mm
+british energy - amended paper with dec 31 , 2002 drop dead date to be signed by end of this week
+nl turbine sale - 2 counterparties are close - c $ 1 mm orig
+moore site - calpine has shown bid , attempting to move it up - will seek your approval before hitting it - c $ 3 mm
+domtar - british energy hedge - 3 yr 40 mw @ 47 . 50 mwh + dispatch rights + settlement services - c $ 2 mm ( conditional on market opening )
+deals pending ( 3 rd quarter ) :
+project targetco - purchase of canenerco nol ' s - ca sent friday - c $ 5 mm orig
+nug contract mgmt - definitive agreement to be signed by mid july - services to commence august 1 , 2001 - c $ 1 mm orig
+project periscope - purchase of tcgs ' aggregator pool - will need to discuss with you further but i think this deal looks probable and fits well - c $ 5 mm
+powerex - 10 year fixed price - alberta pool - c $ 5 mm
+highvale bypass - signed ca with transalta - 1 yr exclusivity - bypass alberta grid and direct connect sundance to coal mine - c $ 5 mm
+project goliath - pre - qualified to bid on opg ' s disposition of the lakeview and lennox generating plants - non - binding bids due july 19 th .
+sts resolution - aeub hearing on paying owner ' s freight on mw ' s > target availability - c $ 30 mm
+british energy hedge summary :
+sunoco 3 yr , 36 mw @ $ 43 . 50
+tcpl 2 yr , 100 mw @ $ 45 . 50
+atlantic 3 yr , 30 mw @ 47 . 50
+ivaco 3 yr , 50 mw @ 47 . 00
+domtar 3 yr , 40 mw @ 47 . 50 ( verbal confirmation , paper will be signed by end of qtr )
+total 256 mw
+- - - - - original message - - - - -
+from : lavorato , john
+sent : monday , june 11 , 2001 11 : 20 am
+to : milnthorp , rob
+subject : fw : west power orig update
+milly
+can you send me something like this every monday morning so i will know what might close and when .
+- - - - - original message - - - - -
+from : calger , christopher f .
+sent : monday , june 11 , 2001 10 : 58 am
+to : lavorato , john ; kitchen , louise
+cc : hillis , kimberly ; schoppe , tammie
+subject : west power orig update
+las vegas :
+allegheny ' s bid was strong but required a financing out for 45 days - unacceptable . black hills ' bid has a clean purchase and sale markup with a bid that implies a $ 35 mm gain for ena ( $ 10 mm has to go to calpers since they are an investor in lv 1 ) . they are going to their board thursday and want to execute by early next week and close aug 31 . we will try to get a higher bid from northland this week ( $ 40 mm gain ) . they will require a two - week financing out which they will secure with a $ 10 mm non - refundable deposit . if we sign with northland , they can close in july .
+in either case , accounting may require us to recognize this income this quarter because las vegas is a fair market value investment . rac requires a dash to sell an asset of this size - we will circulate on wednesday or thursday .
+one long shot deal we are proposing to allegheny : tear up the existing 15 year toll backed by the las vegas project . enter into a 15 year firm energy sale from epmi at palo verde . the value of that deal may be in excess of $ 100 mm since the market has fallen so much . if we did that , we would have a merchant asset that would have to be sold at or near cost - this is achievable . this would be significantly riskier than our current plan and would probably require board approval , but the value makes it worth exploring .
+amps :
+we continue to push geneva steel and oregon steel for permitting info . west power markets have fallen further so the economics are marginal at best . friday ' s curves suggested a value of $ 10 mm vs a cost of $ 17 mm . an imperfect put swaption would cost $ 4 mm , further eroding the value . i spoke to brett wiggs on friday and forwarded him technical specs and reviewed different deal structures that might work .
+dwr :
+they announced thursday that they have signed more definitive long term deals that they will honor ( approx 6 , 500 mw long term ) . the non - binding " agreements in principle " will be renegotiated because prices have fallen so much . dwr signed our master agreement for short term deals but tim does not want to execute it because of litigation risk . we will not do anything with them at this time .
+generator tolls : interest has fallen off due to rapid drop in power prices . we are still talking with 6 - 7 parties , but i dont think anything will get done soon .
+munis : mcdonald got a small term sale done at np - 15 with city of lassen . approx $ 600 k of orig .
+new marketing initiatives :
+negotiating 3 generator service agreements . mostly small plants coming on line this year . the entrepreneurs behind these deals are shell shocked by the low prices , but many have already committed capital .
+montana : - state forced divestiture of generation . retail load is short starting july 1 , 2002 . governor ' s office has asked us to bring a 700 mw 10 year " solution " . they are willing to issue a $ 500 mm bond to prepay and buydown part of the energy . the basic play is to swap an epmi mid - c position for an in - state position from ppl , package that up with some renewables and sell to the state under a prepaid ppa . long shot but interesting .
+ca industrials : a group of industrials want to buy up to 800 mw np - 15 delivered for 5 + years as part of a negotiated settlement with ca . gov affairs is working on a core / non - core structure with the state that would potentially lead to open access for all industrial load if they pay a big exit fee to cover the stranded costs incurred during the past 12 months .

@@ -1,0 +1,40 @@
+Subject: again , i should have also sent the following mail yesterday .
+. . . i guess now i should also apologise for filling up your mail box !
+have a good weekend ,
+kirstee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kirstee hewitt / lon / ect on 28 / 07 / 2000
+20 : 22 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron europe
+from : kirstee hewitt 27 / 07 / 2000 18 : 10
+to : cantekin dincerler / hou / ect @ ect
+cc : grant masson / hou / ect @ ect
+subject :
+hi - i have run the model for the 26 th and have the following results :
+i have also updated the correlations to include silver and the gold .
+the tc delta ( treatment charges ) are positions only for copper conentrate and
+do not
+contain any positions due to zinc or lead .
+could you take a look at the figues as this is the first time i have done a
+full run and
+would like to make sure that i have done things correctly .
+i will definitely call to discuss the prices for gold and cocoa beans - the
+tc price curve is
+another issue however , at the moment we do not have anything other than a
+spot price and
+a 1 year price so i think we will probably have to set it as a constant .
+i have to talk to andreas soon as he is awaiting my comments on point ( 2 ) of
+his email that
+i forwarded in my last mail .
+also , you will can see that i have subtracted any positions that are from r
+wolf in the mercur download -
+this was point ( 1 ) of his note .
+as a quick question ?
+do you think it is worth including zinc concentrate ( 18400 dmt ) and lead
+concentrate ( 920 dmt ) ?
+i think we may need to check the tc price for these and the conversion for
+the one given in the model for copper as
+i think that the original historical price file ( tchistory ) is quoted in c / lb
+- i guess this is cents / pound ? rather
+than $ / dmt which is the units that position is quoted in .
+speak to you soon
+kirstee

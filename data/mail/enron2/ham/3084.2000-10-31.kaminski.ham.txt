@@ -1,0 +1,10 @@
+Subject: request submitted : access request for mark . breese @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000005820
+approver : stinson . gibner @ enron . com
+request create date : 10 / 26 / 00 2 : 27 : 45 pm
+requested for : mark . breese @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

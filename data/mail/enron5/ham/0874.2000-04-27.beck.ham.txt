@@ -1,0 +1,60 @@
+Subject: re : book - split update 4 / 27 / 2000
+sally ,
+i wanted to forward the latest update for the book - split project . although
+you may not find the details of the update to be that exciting , i want you to
+know that much work and time are being put into this effort . paul and gregor
+are the two desk directors for continental power who report to joe gold .
+it ' s good to hear some feedback from them .
+as you know , kristin has now shown some interest in the ebs job with barry
+now that fallen is moving . when barry and i first spoke about the position
+which i would fill , i told him the fallen might want kristin since he knows
+her and has worked with her the last 2 years . although the job sounds
+interesting ( barry ' s a good salesman ) , there is not room for both kristin and
+myself . i ' ll keep you updated on my discussions with barry .
+thanks for being a sounding board ,
+todd
+- - - - - - - - - - - - - - - - - - - - - - forwarded by d todd hall / hou / ect on 04 / 28 / 2000 09 : 03
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+paul mead
+04 / 28 / 2000 02 : 20 am
+to : d todd hall / hou / ect @ ect
+cc :
+subject : re : book - split update 4 / 27 / 2000
+thanks for the update . great job to date .
+paul
+from : d todd hall 27 / 04 / 2000 18 : 38
+to : gregor baumerich / lon / ect @ ect , paul mead / lon / ect @ ect , joe gold / lon / ect @ ect
+cc : james new / lon / ect @ ect , neil tarling / lon / ect @ ect
+subject : book - split update 4 / 27 / 2000
+due to the announcement that the london office received pertaining to the may
+day problems which occurred last year , the book - split " go live " date will be
+postponed until next saturday , may 6 . listed below are the updates since the
+last memo :
+book - split
+completed
+position report which presents peak / off - peak volumes by month , by desk was
+delivered to paul and gregor
+deal summaries which support the position report were also delivered
+all volumetric variances between the production and test environments have
+been identified - the material differences were related to 2 counterparties
+which were not set up in test and steps have been taken to resolve this issue
+discussed system changes relating to the settlements invoicing system
+uncompleted
+test the pcs calc to ensure that it can report by desk
+separate dprs and associated reports for the pool and bilateral portfolios
+testing of the settlements invoicing system
+transmission
+talks have continued with the houston it team as to the transmission deal
+type testing that must be done . the it group moved floors yesterday and has
+spent much of today recovering from the aftermath . they are aware of the
+sense of urgency and level of priority to give this issue and considerable
+progress should be made during the next 2 weeks .
+other
+neil has been working with miles in order to set up the necessary cezch
+border curves so that the cez deal may be properly booked in enpower . once
+this is complete , the basis adjustment ( approx . 14 m eur ) can be removed from
+the dpr . also , the financial iberian positions have successfully been
+intergrated into the current continental power dpr ( leaving only the spanish
+physical deals being valued outside of enpower ) .
+please come by if you have any questions ,
+todd hall

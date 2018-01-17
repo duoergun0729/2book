@@ -1,0 +1,11 @@
+Subject: a few reminders . . . .
+bill - does this sound reasonable ? do you have anything to add ?
+please make a note of the following . i know we have several new traders , and details often get overlooked in the midst of the learning process . but this is not only information for the new guys a reminder for the old that attention to detail is an important part of the job . thanks .
+1 . purchases made under one book must be sold under the same book . pay attention when extending deals . if you don ' t purchase the energy in a particular book , you don ' t have energy to sell from that book .
+2 . specify epec as the group when entering deals for el paso .
+3 . el paso model must tie out with carp when trading day is done . check spreadsheet formulas .
+4 . el paso totals should be logged in the reconciliation model ( m : / / electric / epe / epeol / augol / epe reconciliation model ) and all variances explained .
+5 . bloomberg deals need to be assigned a $ 15 flat broker fee per trade . if you begin a deal with bloomberg trades , enter a per - megawatt fee , and extend the deal later with bilateral trades , you ' re effectively charging yourself extra brokerage because that fee will be assigned to every mw in your deal . can someone come up with a compelling reason why we wouldn ' t simply multiply $ 15 times the number of bloomberg trades done ? please let me know .
+6 . most importantly , if you are unsure , call someone who is .
+thanks again for your attention to these matters .
+kate

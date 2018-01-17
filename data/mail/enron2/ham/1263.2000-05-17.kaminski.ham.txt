@@ -1,0 +1,36 @@
+Subject: pjm adds ny prices to edata
+message sent from the pjm - customer - info mailing list at
+pjm - customer - info @ majordomo . pjm . com :
+pjm has launched a pilot version of edata which includes data from the
+new york independent system operator . the beta - test period for the pilot is
+expected to last approximately 90 days as pjm evaluates the success of using
+cross - iso data in edata . if the pilot proves successful , pjm may add data
+from
+other isos in the future .
+this pilot version of edata is a result of the collaboration among the
+isos created by the memorandum of understanding signed last year . through the
+iso mou process , stakeholders have asked the isos to improve seams issues ,
+create like user interfaces , and make it easier to do business between the
+isos .
+the addition of other iso data to edata has several benefits to users
+including
+consolidated information , ease of use , less technical support required , and
+improved customer service . real - time prices , forecasted / actual loads , tie
+line
+schedules , and transmission limits are all possible types of information that
+may be included in the future .
+edata was implemented in october 1998 . there are currently more that
+1700 registered users representing over 200 companies . users include
+marketers ,
+utilities , control areas , state and federal regulators , educational
+organizations , financial institutions and others . the tool continues to
+attract
+30 to 40 new registered users each week . normally , 100 - 300 users are
+simultaneously logged onto the system . to become an edata user , submit new
+user
+information from the edata log in screen from the pjm web site at www . pjm . com .
+please do not reply to this message . if you have a question for pjm customer
+relations and training , please send an e - mail to custsvc @ pjm . com .
+to unsubscribe from this list , send an e - mail to majordomo @ majordomo . pjm . com
+containing only the following line in the body of the e - mail :
+unsubscribe pjm - customer - info

@@ -1,0 +1,20 @@
+Subject: london exotica library migration
+fyi
+- exotic library :
+issue : the london version is different from the houston version .
+the problem is that some bugs in the london version were found .
+temporary solution : bugs were immediately fixed at a local level .
+permanent solution : the london exotic version will be replaced by the
+houston exotic version .
+the houston version is expected to be robust .
+sharad ( london research ) is spending this coming week in houston .
+when sharad is back to london , the houston version will replace the london
+version .
+approach : steven leppard is designing a regression testing procedure that
+will involve it to fully test the similarity of the two versions .
+the procedure is expected to take at least one month from commencement .
+hopefully , no discrepancies will be found .
+in the adverse case it happens , it will be necessary to conduct an analysis
+to decide what is wrong .
+if necessary further testing and development has to take place .
+rodrigo

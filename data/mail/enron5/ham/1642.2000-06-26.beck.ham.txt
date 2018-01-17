@@ -1,0 +1,55 @@
+Subject: re : var for credit trading
+please see the attached comment at the bottom of this string of e - mails .
+the privilege of using enron ' s balance sheet comes with the responsibility to
+adequately report the risk in the form that has been agreed to .
+it is appalling to me that we are currently incapable of calculating var in a
+product that has been approved for trading for several months . it is equally
+appalling that the support staff continues to be so unaware of the importance
+of this that the comments below could even be considered reasonable .
+obviously , the individual who made the comment is hardly responsible . it
+lies with both commercial and commercial support management . i know that
+airing this out in such a broad way appears to be harsh . this is not the
+point . this is not an isolated problem . it is not just pertaining to
+europe . please do not feel singled out . but the scrutiny and pressure on var
+as a measure of risk continues to grow at fast pace . we can hardly make any
+progress if this is the pervasive attitude . let ' s knock this stuff out one
+at a time .
+ted
+oliver gaylard
+06 / 26 / 2000 08 : 34 am
+to : david port / market risk / corp / enron @ enron
+cc : chris abel / hou / ect @ ect , michael e moscoso / hou / ect @ ect , david a wall / risk
+mgmt / lon / ect @ ect , ted murphy / hou / ect @ ect
+subject : re : var for credit trading
+the var engine for credit trading is being built by research in london and it
+is intended that var be run daily as soon as they have produced / signed off on
+this .
+oliver
+from : david port @ enron
+26 / 06 / 2000 14 : 24
+to : chris abel / hou / ect @ ect
+cc : michael e moscoso / hou / ect @ ect , david a wall / risk mgmt / lon / ect @ ect , oliver
+gaylard / lon / ect @ ect , ted murphy / hou / ect @ ect
+subject : re : var for credit trading
+my view : prove its insignificant by calculating it every day , that ' s why the
+board approved the limit .
+dp
+chris abel @ ect
+06 / 23 / 2000 07 : 41 am
+to : david port / market risk / corp / enron @ enron
+cc : michael e moscoso / hou / ect @ ect
+subject : var for credit trading
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by chris abel / hou / ect on 06 / 23 / 2000 07 : 38 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+mary thambiah
+06 / 23 / 2000 03 : 29 am
+to : chris abel / hou / ect @ ect
+cc : david a wall / risk mgmt / lon / ect @ ect
+subject : var for credit trading
+hi chris
+i talked with david yesterday and we don ' t think the risk is significant
+enough to start calculating a var number . however if you have any queries
+feel free to give him a call .
+rgds
+mary

@@ -1,0 +1,10 @@
+Subject: parameter estimation
+vince ,
+i have put together a parameter estimation model , which is continuation of
+tanya ' s model .
+the estimation process is more consistent now . attached are the model and a
+brief
+write - up of the methods . if you see any problem / ways to improve it , please
+let me know .
+best ,
+alex

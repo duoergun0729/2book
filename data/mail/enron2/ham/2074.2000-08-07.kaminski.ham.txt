@@ -1,0 +1,41 @@
+Subject: re : outage tracker option and background
+karl ,
+thanks a lot . i have passed this information to grant masson
+who worked here on a related problem .
+he will get in touch with you regarding this technology .
+vince
+karl tomlinson @ enron _ development
+07 / 24 / 2000 06 : 00 pm
+to : vince j kaminski @ ect
+cc :
+subject : outage tracker option and background
+vince ,
+to follow up on the idea of a means for effectively tracking instantanious
+plant faliure utilising either system frequency or connection point voltage .
+the system frequency phase shift across a network will probably be the best
+option as this would allow alll significant deviations to be tracked along
+with relative network performance from a few points .
+i am currently chasing nemmco ( au system operator ) to get hold of a few weeks
+of 4 second metering data for the whole system to see if there is enough
+measurement consistency to prove one of the ideas .
+the idea follows along the lines ( literally ! ) that when a unit fails it will
+introduce a shock into the system and reduce system frequency , which is then
+reacted to by frequency control services offered in by generators . the drop
+in frequency is noticable across the whole network and as one option may
+change the phase shift across the whole grid . the phase shift across the
+network is constantly changing due to loads and power factor correctrion
+devices switching on and off , however a unit failure may be distinct .
+the second option relates to how a unit fails , whereby if a circuit breaker
+is involved as in the case of uncontrolled shutdowns , then the outage will
+cause an rf pulse that should propogate across some of the network .
+transformers will attenuate the pulse , however it should be detectable many
+miles away from the fault location . measure the arrival time at several point
+on the network , work out the shift and backtrack on the network . part of the
+solution is already proven in lightning trackers . the solution may be made
+more simple by detecting the exact point on the sinewave that the unit failed
+( i . e . measuring the three phases at lmhz and then sending the data through a
+dsp ) . this solution is more complex , however this should allow unit failure
+to be pinpointed to a station . the timing base for each of the nodes may be
+sourced from gps timing , self locating at the same time !
+will send you some links and documents for potentail hardware and setups .
+karl .

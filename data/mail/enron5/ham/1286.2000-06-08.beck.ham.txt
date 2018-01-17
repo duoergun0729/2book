@@ -1,0 +1,6 @@
+Subject: global systems matrix
+rick - you had asked a while back for a matrix that captures all of the
+different systems used by commodity , by office and by functional group . this
+( draft ) version encompasses houston and london activities . we will expand
+this document to include other offices and products in the next few months .
+let me know your questions and comments .

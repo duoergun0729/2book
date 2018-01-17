@@ -1,0 +1,9 @@
+Subject: > - tso 53001
+the following expense report is ready for approval :
+employee name : tammie schoppe
+status last changed by : automated administrator
+expense report name : tso 53001
+report total : $ 1 , 335 . 48
+amount due employee : $ 1 , 335 . 48
+to approve this expense report , click on the following link for concur expense .
+http : / / xms . enron . com

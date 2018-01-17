@@ -1,0 +1,55 @@
+Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ " graduate school of music in performance " ]
+from paliourg @ iit . demokritos . gr fri sep 17 13 : 30 : 25 2004
+received : from gaia . cs . uoi . gr ( gaia . cs . uoi . gr [ 195 . 130 . 121 . 201 ] )
+by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with esmtp id i 8 hauoo 04991 ;
+fri , 17 sep 2004 13 : 30 : 24 + 0300 ( eest )
+received : from zeus . cs . uoi . gr ( zeus . cs . uoi . gr [ 195 . 130 . 121 . 11 ] )
+by gaia . cs . uoi . gr ( 8 . 12 . 10 / 8 . 12 . 10 ) with esmtp id i 8 habvqmo 51562 ;
+fri , 17 sep 2004 13 : 37 : 57 + 0300 ( eest )
+( envelope - from gma 8 @ pantheon . yale . edu )
+received : from gaia . cs . uoi . gr ( gaia [ 195 . 130 . 121 . 201 ] )
+by zeus . cs . uoi . gr ( 8 . 12 . 9 + sun / 8 . 12 . 5 ) with esmtp id i 8 habacgo 27609
+for hdmso 4 - list @ zeus . cs . uoi . gr ; fri , 17 sep 2004 13 : 37 : 37 + 0300 ( eest )
+received : from pantheon - pool . its . yale . edu ( pantheon - pool . its . yale . edu [ 130 . 132 . 50 . 18 ] )
+by gaia . cs . uoi . gr ( 8 . 12 . 10 / 8 . 12 . 10 ) with esmtp id i 8 habyqmo 51554
+for hdmso 4 - list @ cs . uoi . gr ; fri , 17 sep 2004 13 : 37 : 36 + 0300 ( eest )
+( envelope - from gma 8 @ pantheon . yale . edu )
+received : from pantheon - pool . its . yale . edu ( localhost [ 127 . 0 . 0 . 1 ] )
+by pantheon - pool . its . yale . edu ( 8 . 12 . 11 / 8 . 12 . 11 ) with esmtp id i 8 habx 7 lo 02625
+for hdmso 4 - list @ cs . uoi . gr ; fri , 17 sep 2004 06 : 37 : 33 - 0400 ( edt )
+received : ( from gma 8 @ localhost )
+by pantheon - pool . its . yale . edu ( 8 . 12 . 11 / 8 . 12 . 11 / submit ) id i 8 habxeeo 02624
+for hdmso 4 - list @ cs . uoi . gr ; fri , 17 sep 2004 06 : 37 : 33 - 0400 ( edt )
+date : fri , 17 sep 2004 06 : 37 : 33 - 0400 ( edt )
+message - id : 200409171037 . i 8 habxeeo 02624 @ pantheon - pool . its . yale . edu
+to : hdmso 4 - list @ cs . uoi . gr
+auto - submitted : auto - generated
+from : graduate school of music in performance gradmusic . admissions @ yale . edu
+subject : information message
+x - yaleitsmailfilter : version 1 . 1 e ( attachment ( s ) not renamed )
+x - virus - scanned : clamav version ' clamd / clamav version 0 . 65 ' , clamav - milter version ' 0 . 66 d '
+x - virus - scanned : clamav version ' clamd / clamav version 0 . 65 ' , clamav - milter version ' 0 . 66 d '
+thank you for your inquiry into graduate performance studies at the
+yale school of music .
+please visit our website for more information : www . yale . edu / music
+application deadline for fall 2005 is dec . 15 , 2004 ( postmark date )
+for information on undergraduate and other music studies at yale
+university , please visit :
+www . yale . edu / yalemus
+other useful contact information :
+opera at yale may be reached at opera . ysm @ yale . edu or at
+( 203 ) 432 - 2690
+organ and choral conducting : ( 203 ) 432 - 5180 or
+ism . admissions @ yale . edu
+visit to yale university and new haven information :
+www . yale . edu / visitor
+yale college undergraduate dept . of music ( 203 ) 432 - 2985
+office of undergraduate admissions ( 203 ) 432 - 9302
+or undergraduate . admissions @ yale . edu www . yale . edu / admit
+transfers : ( 203 ) 432 - 9316 or trans . admissions @ yale . edu
+other messages will be handled in a timely manner .
+in the meantime , if you have any questions please feel free to call
+us at ( 203 ) 432 - 4155 or visit our website at www . yale . edu / music
+thank you for your interest in the yale school of music !
+thomas g . masse , dean of admissions
+jeanne kazzi , administrative assistant

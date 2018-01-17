@@ -1,0 +1,56 @@
+Subject: gpcm summary 1999
+this has been a great year for rbac and gpcm .
+during the year we have doubled to 10 the number of gpcm licensees .
+this means we ' ve also doubled the number of wonderful people we ' ve trained
+and are supporting .
+and , i sincerely mean it when i say it has been a real pleasure working
+with you all .
+one of the things we stress when we are selling gpcm is that it takes a
+strong commitment on the part of the licensee , a commitment to find skilled
+and dedicated people to make optimal use of this sophisticated tool . and ,
+i ' m happy to report that we have that quality in the gpcm teams we work
+with .
+next year we have some big challenges . we will be converting the system
+from office 97 to office 2000 and will also need to make sure it will run
+in the windows 2000 environment .
+we will be adding new flexibility in defining our transportation zone price
+curves to enable users , especially pipeline users , to test variations of
+pricing strategies for their impacts on basis and utilization .
+we will be adding a capability for modeling future ft contracting .
+we will upgrade our existing database comparison program to allow you to
+select those items you want to have automatically updated in your own
+databases .
+we will continue to work with rdi to improve pipeline and storage
+infrastructure representations , to provide interfaces between gasdat and
+gpcm , and to give you regular optional updates for your own databases .
+we are beginning to plan out a new website dedicated to gpcm licensees ( and
+possibly prospects ) . we have acquired gpcm . rbac . com and gpcm . net for this
+purpose .
+in making these various changes , we look also to you , our existing
+licensees , for enhancement and improvement ideas . we are planning to
+conduct interviews of our licensees during the next 30 - 60 days to find
+out what you like , but also what you would like to see improved , as well as
+some new ideas for gpcm .
+i would like to thank the following people for their contributions to gpcm
+during 1999 .
+o liam leahy for his excellent marketing , sales , and planning support
+o charles carr for his quality work on our website and support with subtle
+visual basic programming issues
+o richard berman for thorough research on design tools and skilled windows
+programming
+o richard mcbride for continuing support and development of his emnet
+optimization program
+o aaron and james brooks for design and production of the powerpoint
+pipeline maps now available in gpcm
+o mike farina and rdi for their continuing improvement of the gpcm data and
+gasdat database
+o gpcm users who have found data bugs and reported them to use so that we
+could get them corrected
+o gpcm users who have suggested new features which would make gpcm a better
+product
+o gpcm users who have given us sales leads during the year
+o gpcm users who have used gpcm to help their companies make better plans
+and decisions , which is , after all , the purpose for which it was designed
+we hope all of you have a wonderful holiday season and look forward to an
+even better year 2000 .
+bob brooks

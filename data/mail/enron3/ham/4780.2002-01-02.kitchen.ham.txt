@@ -1,0 +1,59 @@
+Subject: it stock , steve ; mcauliffe , bob
+cc : webb , jay ; yanowski , tommy j . ; burchfield , richard
+subject : re : integration test planning / coordination mtg summary
+the aep and bridgeline deals must be investigated . there is no way the estate can support a production environment . i will be reviewing the contracts to determine our obligations and possible alternatives .
+beth
+- - - - - original message - - - - -
+from : johnson , jeff
+sent : wednesday , december 19 , 2001 2 : 23 pm
+to : stock , steve ; mcauliffe , bob ; greig , iain ; nommensen , dave ; ward , bob ; sanvido , terry ; wei , zhiyong ; nat , steve ; harmon , kenneth m . ; warner , john ; saleem , aftab ; smith , regan m . ; hillier , bob
+cc : webb , jay ; perlman , beth
+subject : integration test planning / coordination mtg summary
+key planning assumptions
+1 ) jan 20 go live
+2 ) new co conversions must be completed and tested by application teams by jan 15 . this assumes all major production data setup - users , rights , books , global data - is completed and tested on a per application basis . some code changes may still be in process but integration testing can begin to ensure the applications still talk to each other .
+3 ) integration test planning focus will be to run representative transactions from eol to sap through all core trading applications to ensure that applications and interfaces still work . we will not be testing functional permutations , data conditions , validation or exceptions to any significant degree .
+4 ) each application conversion team must test their changes before approving their changes for integration testing . we are operating from the premise that data , infrastructure and code changes have been tested at a application system level before the enterprise integration test starts .
+4 ) all systems will be physically split ( even unify at this point ) .
+5 ) integration test team will develop and execute the test plan for both estate and new co .
+6 ) we will integrate key business reps into the process for planning and execution and they will have shared responsibility for signoff on the test to support go live to production .
+7 ) we will minimize the differentiation between new co and estate for conversion and test team purposes . there are two teams - conversion and integration test . each team will focus on both estate and new co . resources are too tight and the process is too inefficient to separate responsibility .
+8 ) estate conversions must happen at the application level before new co conversion work can begin in earnest . estate conversion is on the critical path for new co .
+key issues
+1 ) we will push to get a decision to see if we can focus on financial trading first , then physical . if financial is the focus , delivery risk goes down dramatically . for now , we must plan on the worst case - - physical and financial on jan 20 .
+2 ) we need both a dev and a test environment for all systems that support aep and bridgeline in estate . this means that we need a dev environment ( and hw gap addressed ) for unify , sitara , cpr , tagg / erms . conversion teams need to coordinate with infrastructure immediately on this issue to make sure we ' re in synch .
+3 ) unify servers probably can ' t be owned by new co while running a single license of unify .
+4 ) some systems are using ' short name ' instead of duns id as a key for counterparties from global . the global , tagg / erms , unify and sap reps must quickly define the best approach for making global data changes and minimizing hard coded reference id risks .
+5 ) we must clearly define limits of conversion and test scope to hit these potential dates . we must focus on core systems with only core changes required to support day one trading .
+6 ) we can only convert estate over the weekend due to aep / bridgeline considerations . the time window will be very small .
+core conversion team
+1 ) steve stock - applications
+2 ) bob mcauliffe - infrastructure
+3 ) ziyong wei
+4 ) steve nat
+5 ) dave nommensen
+6 ) ken harmon
+7 ) john warner
+8 ) bob ward
+. . . .
+core integration test team
+1 ) jeff johnson
+2 ) iain greig
+3 ) aftab saleem
+4 ) terry sanvido
+5 ) regan smith
+program coordination
+1 ) jane henry
+2 ) steve simpson
+next steps for integration test team
+1 ) due 12 / 20 . define integration test approach and id test script and expected results templates . owner : aftab saleem / regan smith
+2 ) due jan 3 . application system flow diagram at appropriate granularity for communicating flow on integration test for core systems . owner : terry sanvido / steve simpson
+3 ) due 12 / 20 . identify list of core systems for test purposes . identify key it owner and key business owner and respresentative for integration test . owner : iain greig .
+4 ) due 12 / 21 . define integration test workplan for integration test planning and execution for both estate and new co . owner : jeff johnson
+5 ) ongoing . participation in daily program management coordination meeting at 8 : 30 . owners : jeff johnson , iain greig , aftab saleem .
+6 ) due 12 / 21 . organize meeting with key users and it contacts to communciate foundation assumptions , context , team and approach for integration test . develop first cut at sample trade transaction set . owner : iain greig / aftab saleem .
+7 ) completed . contact bob hall , leslie reeves , bob superty , brice baxter to communicate above and set up meeting to begin planning with them on the integration testing process . owner : jeff johnson
+8 ) due 12 / 21 . refine core system list with it owners and business owners for integration test purposes . owner : iain greig .
+9 ) due 12 / 20 . set up integration test folder on o drive under infotech / development support . owner : aftab saleem .
+let me know if you have questions or changes . i am out tomorrow but i ' m back on friday .
+thanks .

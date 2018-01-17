@@ -1,0 +1,36 @@
+Subject: gtv weekly project status update
+please find below the gtv weekly project status update and the attached file for the updated project time lines .
+gtv status meeting attendees : zhiyong wei , russ severson , jeremy wong , francis lim , chuck ames , geoff storey , karima husain , jay krish , mike swaim , nayan dattani , george grant , dave nommensen , narasim kasaru , dat truong .
+accomplishments :
+? incorporating physical deal positions in tds :
+o changes for the view aggregation have been completed .
+o expandable total in cash position has been completed .
+? single point of deal entry for term deals :
+o phase 1 of single point of deal entry for term deals is in user test .
+? gas daily deals :
+o revisions for changes to portcalc application to create gdi calc in erms have been worked on , and are in user test .
+o curve shift reports are under development and will be completed this week .
+? live feeds for gas daily / intra - month curves :
+o released to production .
+? option grid ( phase 2 ) :
+o released to production .
+? gas daily options ( phase 2 ) :
+o changes to portcalc application have been completed and in user test .
+o the option delta change forward month report has been completed and in user test .
+? basis options ( phase 2 ) :
+o development of deal entry type for basis options has been completed in tagg .
+o development of loading correlation curves has been completed .
+plans for the week ending 6 / 8 / 01 :
+? continue it development of phase i items .
+o changes to curve shift report for gdi calc .
+o change cpr portcalc to value outer month positions .
+? continue it development of phase ii issues .
+issues / open items :
+none
+notes
+? portcalc changes for gas daily and cpr deals have been taking longer than originally estimated due to new items and complexities uncovered during development .
+? the user acceptance test for cash position in tds has been held up by the portcalc changes .
+? for phase 1 single point of deal entry for term deals , the user acceptance test uncovered some additional work needed . the team has been working closely with geof , chuck , russ and george to provide the needed functionalities .
+? the user has been testing the changes for gas daily options ( phase 2 ) for the last few weeks . it development was completed a few weeks ago . no new changes have been requested .
+thanks
+zhiyong

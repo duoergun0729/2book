@@ -1,0 +1,25 @@
+Subject: uk swap rpi model
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 03 / 31 / 2000 01 : 44 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+martina angelova
+03 / 22 / 2000 02 : 59 pm
+to : zimin lu / hou / ect @ ect
+cc : anjam ahmad / lon / ect @ ect , trena mcfarland / lon / ect @ ect
+subject : uk swap rpi model
+hi zimin !
+please find attached the rpi model i developed by bootstrapping rpi swaps .
+the structure of this particular swap is :
+semi / semi act / 365 f
+>
+> yoyukrpi = ( ukrpi ( p - 2 ) / ukrpi ( p - 14 ) - 1 ) / 2
+> p = payment month
+>
+the first payment is the latest known historical rpi , february 2000 . you will
+notice that i have assumed constant cashflows between the quoted years ( as
+opposed to interpolating swaps which distorts the curve a lot ) .
+please find below a graphic comparison between the rpi curve produced by
+swaps and the one produced by the gilt market .
+looking forward to your comments .
+best regards ,
+martina
+x 34327

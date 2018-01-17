@@ -1,0 +1,16 @@
+Subject: unify financials update and go - forward cut - over calendar
+a quick update on a major milestone for the unify effort , the critical success factors and the plan for the gas and power deliveries .
+first , the good news - - - we rolled out the new unify financials system on monday . the rollout so far is very nearly a flawless success . only 2 small bugs have been identified and both were fixed within 1 day . the users in houston and london have commented that the system is noticeably faster . this system was delivered 4 weeks ahead of the original schedule that we published in early january . for a project of this size and complexity , this is great news and bodes well for the next 2 major milestones .
+we ' re not out of the woods yet . our biggest and most risky rollouts are a few weeks away - power and gas .
+even so , as we look ahead , we are very optimistic . based on our empirical load testing , we believe that we can now deliver incremental performance increases and long - term scaleability far beyond what the legacy architecture would support . reliability and stability should continue to increase beyond the recently improved performance we ' ve gotten from the new legacy hardware .
+this milestone success is due to the following critical factors :
+? strong executive it sponsorship and participation ( special thanks to philippe bibi , beth perlman , jenny rub , bob mcauliffe , richard burchfield )
+? strong executive user sponsorship and user participation ( special thanks to sally beck , bob hall , leslie reeves , sheila glover , cindy horn , peggy hedstrom and laura scott )
+? adoption of a risk - managed delivery methodology based on detailed planning and a phased delivery approach
+? a talented enron delivery team with great technical skills and the dedication to work nearly every weekend for the last 2 months ( and the next 2 )
+? exemplary partnering between the infrastructure , application , dba and user teams
+? uncompromising commitments to team success from the vendors ( special thanks to microsoft , accenture , compaq , avenade )
+? focused project management ( special thanks to ramesh rao , dale potter , mike croucher and jim ogg ) .
+the attachment below provides a calendar of activities for everything that ' s happening between now and mid - may . power will go live on april 23 and gas will go live on may 21 . the user bid - week simulation and performance tests for gas begin next week . as the calendar below shows , the team is fully occupied for the next 2 months .
+livelink : http : / / edms . livelink . enron . com / ena / livelink . exe ? func = ll & objid = 8743122 & objaction = browse & sort = name
+thanks to everyone for their help in achieving this milestone as well as your continued support as we push to deliver power and gas with the same level of success . please communicate our gratitude to each member of your respective teams .

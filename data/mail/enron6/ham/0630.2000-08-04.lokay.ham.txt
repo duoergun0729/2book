@@ -1,0 +1,25 @@
+Subject: oracle client upgrade
+in approximately one month ( 9 / 9 / 2000 ) , we are targeting that a new version of
+the oracle nt client ( 8 . 1 . 6 ) , borland database engine ( bde ) 5 . 1 . 1 and
+microsoft data access components ( mdac ) 2 . 5 . to all corp / ena workstations .
+this software provides the connectivity from your workstation to enron ' s
+oracle databases and the applications supported by them . we are currently in
+the process of testing all the applications managed by corp / ena information
+technology to ensure that they will be compliant with this new software .
+this change may also effect your own developed ms - access , ms - excel
+spreadsheets , and / or ms - query documents that retrieve data from enron ' s
+oracle databases via odbc drivers . as part of the upgrade , all oracle odbc
+connections will be upgraded to compliant driver versions .
+if you would like to test your ms - access databases and / or ms - excel
+spreadsheets under the new software releases , please use one of the
+workstations at one of the following locations for your testing :
+general users
+eb 2230 d
+eb 2778 b
+ebo 504 p
+eb 4857
+traders and developers only please
+eb 2904 e
+eb 3067
+eb 3138 b
+you may contact your floor support representative for any testing assistance .

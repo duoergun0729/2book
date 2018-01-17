@@ -1,0 +1,44 @@
+Subject: power plant supply / demand outlook based on ge ' s turbine order bac
+klog from our electrical equipment analyst
+ssb electrical equipment analyst power supply / demand outlook
+* jeff sprague , ssb ' s electrical equipment analyst , has an interesting
+perspective on the supply / demand balance for power . his forecast is based
+on ge ' s order book for turbines , which we think is an excellent source of
+info .
+* jeff points out that no orders have been canceled so far .
+* although there are slight differences in our estimations of new
+plant builds ( his is higher ) and reserve margin ( his is higher ) , we think
+this info . supports our view . on the margin , new plant builds exceed
+demand , and reduce the tightness in the market , as measured by reserve
+margins . we think there will be downward pressure on power prices and spark
+spreads in this environment .
+i ' ve also attached jeff ' s comments below , which he sent to his clients ,
+vis - a - vis the electrical equipment sector and ge in particular , as well as
+our recent pc 6 report , for reference . any questions , please call . - ray
+> >
+jeff ' s sprague ' s ( 212 - 816 - 6699 ) comments :
+ge stock has been weak in recent days as concerns about lower power prices
+have hurt utility stocks and raised the fear that power capacity is being
+overbuilt .
+ultimately enough capacity will be deployed in the us , but we do not believe
+we are there yet . based on our analysis of ge ' s delivery plans , the us will
+reach a 14 % reserve margin ( based on capability at summer peak load ) in
+2002 .
+we do not expect the industry to ever return to the 20 % + reserve margins of
+yesteryear , but 14 % seems far from excessive given the very severe
+shortcomings of the electrical grid ( see our 6 / 4 report on the grid ) .
+if ge ' s output in ' 03 is flat with ' 02 , reserve margins would rise to a
+still reasonable 16 % . ge has filled 90 - 95 % of its backlog for 2003 and has
+experienced no cancellations or push - outs in orders to date .
+the bottom line is we believe the sell - off in ge is overdone . we will
+publish a more detailed report on the supply demand equation in the u . s .
+power market in the coming days . please see the attached spreadsheet for a
+more detailed analysis .
+raymond c . niles
+power / natural gas research
+salomon smith barney
+( 212 ) 816 - 2807
+ray . niles @ ssmb . com
+s
+- pc 6 final . pdf
+- sprague - - supply & demand - - client . xls

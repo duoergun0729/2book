@@ -1,0 +1,159 @@
+Subject: re : limit violations and notifications process
+shona -
+rac and risk ops are in this together and of course we ' ll continue to help in
+understanding the violations . i recognize and sympathize with the strain
+your group is under with all the systems problems , the uk dpr issues , the
+increased limit change and policy compliance activity , etc . . my suggestions
+were : 1 ) meant to streamline the process for you by making your data
+gathering process easier , 2 ) i was offering to " be the bad guy " and point out
+to the traders what we want them to do , and 3 ) meant to strengthen the
+effectiveness of our risk management framework in this environmeant of
+increasing exposure and volatile markets by reinforcing to the traders their
+accountability for their positions and compliance with the policy limits .
+i think the confusion here is violation explanations being " validated " by
+the traders as you indicated below , vs . " provided " by the traders as we
+envision . i confirmed with ted , the traders are accountable for providing
+the explanation . i ' m not sure how the suggestions below would be a set back
+to your efforts of getting memos out earlier . we ' re suggesting the traders
+should provide you with explanations first thing in the morning , so that you
+do not have to go through all the effort as you do now , of trying to track
+people down in the afternoon and get explanations . it should be the traders
+responsibility to get them to you , and they should be reviewing their
+positions every morning before they even begin trading . , and should be able
+to easily explain why they ' re in violation or why they had a big loss .
+whether the traders call your group directly and leave a voice mail , or they
+talk to their ops business unit controller who relays the explanation to you
+- whatever you think makes sense and works for you . i ' m not trying to
+manage the process , just to help design one that makes it easier for you and
+is still effective from a risk management stand point .
+at this point in this long series of e - mails , why don ' t we just talk face to
+face . i can tell from your response you feel we ' re somehow not being team
+players , but that is not my intent at all . i ' ve tried to go out of my way
+the past few weeks to tell you and your group how much market risk values and
+appreciates your efforts . and really , i thought i was helping by using the
+policy ' s influence to help develop a better process that would decrease the
+time and effort your group has to spend on the policy compliance reporting .
+perhaps a meeting with you and i and sally would be appropriate . we can talk
+about this and any other questions or concerns you might have with rac ' s
+expectations . i agree , we do have significant mid - office needs , and you have
+been absorbing more tasks in the past couple of months since i joined rac ;
+and my view is our needs seem to only be increasing as additional risk
+reporting is required every day by skilling . we can continue to work on
+streamlining processes , but maybe we need to think about staffing in our
+respective groups and corresponding responsibilities . i ' m willing to do
+whatever is needed , and i don ' t think ted is hung up on who does what
+either . it ' s just that right now we ' re staffed with the expectation that
+sally ' s group handles the reporting and ongoing data maintenance type of
+activities related to our risk management systems .
+best regards ,
+cassandra .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by cassandra schultz / na / enron on 12 / 07 / 2000
+03 : 40 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : shona wilson 12 / 07 / 2000 03 : 33 pm
+to : cassandra schultz / na / enron @ enron
+cc : michael benien / corp / enron @ enron , chris abel / hou / ect @ ect , daniel
+falcone / corp / enron @ enron , veronica valdez / hou / ect @ ect , sally beck / hou / ect @ ect
+subject : re : limit violations and notifications process
+dear cassandra ,
+thanks for the message . i believe it if fully understood by us and the
+individual risk management groups that explanations must be validated by the
+traders . are you in addition saying that your group ( who has been very
+helpful in the past ) will no longer help us understand the cause of
+violations / notifications ? to me , this appears contrary to a team spirit
+attitude , and not reflective of what you and i and vlady and i had discussed
+earlier today . also , we are working toward getting the memos out earlier ,
+and this is a real set back to that process .
+thoughts ?
+to : shona wilson / na / enron @ enron , michael benien / corp / enron @ enron , chris
+abel / hou / ect @ ect , daniel falcone / corp / enron @ enron
+cc : veronica valdez / hou / ect @ ect , sally beck / hou / ect @ ect
+subject : limit violations and notifications process
+shona -
+to share with the others our telephone discussion , the notification template
+was not my request , it was requested directly by skilling . i know your group
+is working hard to meet mangagement expectations , and in accordance with your
+request below , market risk is happy to help you transition into this revised
+reporting format by reviewing the template prior to your distribution until
+you are comfortable with the reporting requirements . the new p / l
+notification limits and limit changes that will be in effect next tuesday
+should dramatically decrease the number of notifications , so that should
+help . it probably makes sense to re - distribute the policy to your business
+unit controllers and the traders so they understand the policy requirements .
+another issue that we discussed yesterday is the source of the violation
+explanations . these should be provided to you by the head trader of that
+commodity group . under the policy , that commodity group manager is
+responsible for compliance with the risk management policy for the
+commodities under his responsibility , along with the head of the energy ops
+for that commodity group . if the traders are not providing these
+explanations to you or to your counterparts ( ops desk head / business unit
+controller ) , i ' ll be happy to send them an e - mail explaining their compliance
+obligation under the policy . why don ' t you talk to each of the business unit
+controllers , consider whether a process is already in place for this feedback
+( as i understand it is for global products , for example ) , and if you ' d like
+me to send an e - mail to whoever you ' re having difficulty with , i will - just
+let me know who . our market risk desk heads will be happy to review their
+explanations , but the problem is , they can see whether they ' re short or long
+and how the market moved in comparison , but it ' s the trader that can and
+should explain why they took a position , whether they ' re adjusting it based
+on the market moves , etc . .
+let me know what else i can do to help streamline the process .
+regards ,
+cassandra .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by cassandra schultz / na / enron on 12 / 07 / 2000
+09 : 48 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : shona wilson 12 / 07 / 2000 09 : 42 am
+to : cassandra schultz / na / enron @ enron
+cc : michael benien / corp / enron @ enron , chris abel / hou / ect @ ect , daniel
+falcone / corp / enron @ enron , veronica valdez / hou / ect @ ect , sally beck / hou / ect @ ect
+subject : re : 12 / 5 limit violations and notifications - comments
+dear cassandra ,
+in looking at the comments below there are several errors made buy us , one in
+the template itself , and some suggestions . at your request , we have started
+to prepare this in addition to the normal word violation / notification memos
+and our other work . as you have certain requests and requirements , it would
+be helpful for someone in your group to review it before it went out to
+ensure it meets your requirements .
+please let me know if this is workable and who the reviewer should be .
+thanks ,
+shona
+to : michael benien / corp / enron @ enron , chris abel / hou / ect @ ect , shona
+wilson / na / enron @ enron , daniel falcone / corp / enron @ enron
+cc : veronica valdez / hou / ect @ ect
+subject : 12 / 5 limit violations and notifications - comments
+i realize this has already gone out , but i see a few errors that we should
+correct - and actually , i think we should call skilling and lay ' s ( and
+buy ' s ) assistants ( veronica will handle this ) and see if we can just hand
+deliver to them a corrected version early this morning , e - mail is ok for ted ,
+david and i . i have a few other suggestions on format / reporting changes as
+well .
+the na power var of $ 51 mm was not 105 % over its var limit of $ 50 - that would
+have been $ 52 . 5 to require a report to skilling , ( but if we had had to report
+it , don ' t use " wscc " , try to spell out or just don ' t use )
+uk gas ' s var limit is not $ 4 , it ' s $ 7 . 5 mm
+i can ' t tie in uk gas ' qtd and ytd p / l - shouldn ' t it be what ' s on the dpr ,
+adjusted for the portion of the structured derivatives that is gas - call
+over to that yeo person and get the info . from them please
+the 2 nd item for na gas shouldn ' t be listed like that as it looks like
+another violation - the comment re : the var increase was mean to go at the
+bottom under rac comments
+the finance committe chairman notification for agg . var is not 100 % , it ' s
+115 % ( notification requirement box )
+ees had a var violation - $ 7 . 5 vs . 7 - that is a skilling level violation
+let ' s have the " re : " say " limit violations and notifications for december 5 ,
+2000 "
+let ' s number them all sequentially rather than starting over at each level
+veronica will call you to coordinate re - distribution .
+going forward , we need to increase our level of review for these as they ' re
+getting a lot of scrutiny given market dynamics and our increasing risk .
+thank you ,
+cassandra .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by cassandra schultz / na / enron on 12 / 07 / 2000
+07 : 38 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+michael benien
+12 / 06 / 2000 07 : 08 pm
+to : kenneth lay / corp / enron @ enron , rosalee fleming / corp / enron @ enron , jeff
+skilling / corp / enron @ enron , sherri sera / corp / enron @ enron , rick
+buy / hou / ect @ ect , karen k heathman / hou / ect @ ect
+cc : cassandra schultz / na / enron @ enron , ted murphy / hou / ect @ ect , david
+port / market risk / corp / enron @ enron , chris abel / hou / ect @ ect
+subject : 12 / 5 limit violations and notifications

@@ -1,0 +1,24 @@
+Subject: wti - new eol product
+please provide comments on the summary below . after i have collected them ,
+we can decide to distribute to greg , john , jeff and anyone else involved .
+the following is my summary of our collective thoughts regarding the proposed
+24 x 7 trading of prompt wti :
+1 ) appears advisable to have on - site human monitoring for the following
+reasons :
+a ) public relations
+b ) in case there are operational bugs
+c ) unforeseen market events , particulary during off exchange hours , long
+weekends , etc
+2 ) we advocate some live trading simulation with incentives to " bust " the
+system prior to launch to work our
+operational glitches , and because the historical simulations used daily ,
+not intra - day prices .
+3 ) consider a daily position limit ( a sub - limit of the overall global
+products limit ) whereby each day , at least once a day ,
+the open position will be reduced under the limit ( or to close to flat ? )
+4 ) consider a " trigger " whereby the fixed spread widens if a certain number
+of consecutive trades occurs on the same
+side of the market
+5 ) consider the purchase of deep out - of - the - money puts and calls to protect
+against extreme events .
+ted

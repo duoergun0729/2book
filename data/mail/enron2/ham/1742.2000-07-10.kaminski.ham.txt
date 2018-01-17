@@ -1,0 +1,20 @@
+Subject: re : research dept contact
+please contact stinson gibner ( vp ) , vince kaminski ( md of enron research ) or
+one their technical staff who did the model development : samer takriti or
+chonawee supatgiat . as i mentioned in our meeting , enron research is staffed
+with some of the best risk model developers and ebs has engaged them to
+develop optimization tools for trading and customer pricing activities . phil
+markwart has been our optical engineering expert who helped specify the
+requirements for the research group .
+ravi .
+p . s . for those who don ' t know dan , he is part of the team ( dan please correct
+me if i am wrong here ! ) that will be responsible for developing a trading
+system for bandwidth trading org . he has also began to look at the
+optimization needs of the system .
+dan cummings
+07 / 10 / 00 09 : 33 am
+to : ravi thuraisingham / enron communications @ enron communications
+cc :
+subject : research dept contact
+ravi , who ' s working on the optimization engine you mentioned friday ?
+dan

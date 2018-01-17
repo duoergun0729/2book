@@ -1,0 +1,14 @@
+Subject: anjam and kirstee ,
+as i have suspected the position as of 6 / 30 vs 7 / 19 makes the difference . the
+first table first column is my var number with 6 / 30 position and gold & silver
+prices , the second column is your var with 7 / 19 position and dummy
+gold & silver prices . the second table first column is my var with 7 / 19
+position and 6 / 30 gold & silver prices , the second column is as before .
+i would ask you to plug the gold and silver prices and see what kind of
+numbers you get in order to verify we are on the same page . please refer to
+modelvar 2000 . xls that i have sent you for gold & silver prices and
+volatilities .
+thank you ,
+cantekin
+table 1
+table 2

@@ -1,0 +1,32 @@
+Subject: re : current var issues
+here are the current issues related to var and credit models :
+1 . factor loadings ( fl ) for all " primary " commodities :
+- the code is tested ;
+- factors loadings have been calculated for every primary curve and examined
+closely by research ;
+- using different number of maturities for fl calculations ( it ) ;
+- selecting " good " curves , setting mappings for the others ( rac ) ;
+2 . reviewing power var model :
+- implementing term structure of correlations ( preliminary research is in
+progress by research , to be implemented by it ) ;
+- implementing caps in var model ( it ) ;
+- jumps for intramonth prices ( re - examine prices behavior , research ) ;
+3 . historical ff vols ( research , rac ) ;
+4 . interest rate and fx :
+- preliminary research is completed ( research ) ;
+- implementation in risktrack ( it ) ;
+5 . credit model :
+- resolving the problem of identical runs giving different results ( it with
+research ' s help ) ;
+6 . mg metals var model :
+- merging with risktrack ( rac , it , research ) ;
+- refining the model ( research ) ;
+7 . var calculations for uk curves :
+- merging with risktrack , elimination spreadsheets ( rac , it , research ) ;
+- looking closely at var calculations for each commodity ;
+8 . merchant portfolio var :
+- unification with equity var model ;
+9 . fat tails modeling ( research ) ;
+let me know what i missed .
+thank you ,
+tanya .

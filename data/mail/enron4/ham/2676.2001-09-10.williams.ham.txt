@@ -1,0 +1,46 @@
+Subject: eol data for septembert 10 , 2001
+eol deals from : 9 / 1 / 2001 to : 9 / 10 / 2001 enpower from : 9 / 1 / 2001 to : 9 / 10 / 2001
+desk total deals total mwh desk total deals total mwh
+epmi long term california 142 2 , 925 , 325 epmi long term california 18 757 , 076
+epmi long term northwest 122 2 , 254 , 600 epmi long term northwest 131 4 , 970 , 247
+epmi long term southwest 115 2 , 235 , 630 epmi long term southwest 73 8 , 242 , 285
+epmi short term california 755 698 , 344 epmi short term california 180 485 , 839
+epmi short term northwest 348 261 , 800 epmi short term northwest 124 132 , 308
+epmi short term southwest 591 599 , 000 epmi short term southwest 277 972 , 511
+real time ( as of 4 : 30 pm , 09 / 10 / 01 ) 319 8 , 050 real time ( as of 4 : 30 pm , 09 / 10 / 01 ) 199 20 , 217
+grand total 2 , 392 8 , 982 , 749 grand total 1 , 002 15 , 580 , 483
+eol deals from : 09 / 10 / 2001 to : 09 / 10 / 2001 enpower from : 09 / 10 / 2001 to : 09 / 10 / 2001
+desk total deals total mwh desk total deals total mwh
+epmi long term california 47 637 , 525 epmi long term california 6 369 , 876
+epmi long term northwest 18 268 , 800 epmi long term northwest 27 978 , 518
+epmi long term southwest 0 0 epmi long term southwest 1 580
+epmi short term california 168 118 , 424 epmi short term california 27 66 , 208
+epmi short term northwest 59 32 , 600 epmi short term northwest 27 16 , 456
+epmi short term southwest 142 87 , 800 epmi short term southwest 63 216 , 949
+real time ( as of 4 : 30 pm , 09 / 10 / 01 ) 76 1 , 900 real time ( as of 4 : 30 pm , 09 / 10 / 01 ) 40 5 , 326
+grand total 510 1 , 147 , 049 grand total 191 1 , 653 , 913
+ice volumes from : 09 / 10 / 2001 to : 09 / 10 / 2001
+delivery point total mwh epmi mwh price
+cob ( op , next day ) 200 0 $ 22 . 50
+mid c ( p , next day ) 1 , 600 400 $ 27 . 88
+mid c ( op , next day ) 800 0 $ 22 . 81
+mid c ( p , oct - 01 ) 64 , 800 0 $ 30 . 94
+mid c ( p , dec - 01 ) 10 , 000 0 $ 41 . 50
+np - 15 ( op , next day ) 400 400 $ 23 . 38
+np - 15 ( p , next day ) 2 , 400 800 $ 30 . 48
+np - 15 ( p , bal month ) 12 , 800 0 $ 30 . 90
+np - 15 ( p , oct - 01 ) 32 , 400 0 $ 31 . 72
+palo ( op , next day ) 600 200 $ 19 . 25
+palo ( p , next day ) 6 , 000 1 , 200 $ 32 . 91
+palo ( p , bal month ) 19 , 200 6 , 400 $ 32 . 07
+palo ( p , oct - 01 ) 32 , 400 10 , 800 $ 31 . 65
+palo ( p , nov - 01 ) 10 , 000 10 , 000 $ 30 . 60
+palo ( p , dec - 01 ) 20 , 000 10 , 000 $ 33 . 75
+palo ( p , q 3 02 ) 30 , 800 0 $ 53 . 25
+sp - 15 ( op , next day ) 600 400 $ 21 . 42
+sp - 15 ( p , next day ) 2 , 000 0 $ 30 . 40
+sp - 15 ( p , bal month ) 44 , 800 6 , 400 $ 29 . 92
+sp - 15 ( op , bal month ) 10 , 000 0 $ 21 . 85
+sp - 15 ( p , dec - 01 ) 10 , 000 0 $ 36 . 50
+sp - 15 ( p , cal 03 ) 122 , 800 0 $ 38 . 75
+grand total 434 , 600 47 , 000 $ 674 . 43

@@ -1,0 +1,23 @@
+Subject: fw : epe lending / day - ahead short
+revision -
+please note that all of these deals apply to friday and saturday .
+- - - - - original message - - - - -
+from : symes , kate
+sent : thursday , august 02 , 2001 11 : 14 am
+to : dl - portland real time shift
+cc : gang , lisa
+subject : epe lending / day - ahead short
+we ' ll be 50 mw short at pv tomorrow - 25 under stwbom , 25 under stsw . reduce purchase prices to $ 4 ; sell back to epe @ $ 0 . deals are as follows .
+715657 - stwbom buys epe
+hlh / pv
+25 mw @ $ 51 . 64
+715658 - stwbom sells stsw
+hlh / pv
+25 mw @ $ 51 . 64
+715660 - stsw buys epe
+hlh / pv
+25 mw @ $ 51 . 64
+also , stwbom and stca will each be short 25 mw on peak at spl 5 for tomorrow at a price of $ 46 .
+let me know if you have questions .
+thanks ,
+kate

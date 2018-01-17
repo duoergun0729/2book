@@ -1,0 +1,8 @@
+Subject: aga for 7 / 7 is forecasted at 68
+the aga weekly change for the week ending on 7 / 7 is at 68 .
+the model predicted 66 for 6 / 30 , it came out at 69 .
+the following graph depicts the past performance .
+mike ,
+where can i get the temperature data ? i believe the model can be further
+improved by incorporating some
+explanatory variables like temperature .

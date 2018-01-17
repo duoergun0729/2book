@@ -1,0 +1,40 @@
+Subject: mailzustellung fehlgeschlagen / mail delivery failed
+diese nachricht wurde von der mail - software automatisch erzeugt .
+this message was created automatically by mail delivery software .
+eine nachricht von ihnen konnte nicht an alle empfaenger zugestellt werden .
+a message that you sent could not be delivered to all of its recipients .
+folgende adressen schlugen fehl :
+the following address ( es ) failed :
+rmichael @ fh - konstanz . de
+( generated from rainer . michael @ web . de )
+smtp error from remote mailer after end of data :
+host mail - vsr . belwue . de [ 129 . 143 . 2 . 36 ] : 554 5 . 7 . 1 message rejected :
+spam rating value exceeded ( 254 / 60 ) .
+- - - - - - dies ist eine kopie der nachricht , inklusive aller kopfzeilen . - - - - - -
+- - - - - - this is a copy of the message , including all the headers . - - - - - -
+return - path :
+received : from [ 221 . 184 . 168 . 155 ] ( helo = mailwisconsin . com )
+by mx 26 . web . de with smtp ( web . de 4 . 105 # 297 )
+id lduppg - 0007 er - 00
+for rainer . michael @ web . de ; tue , 19 jul 2005 12 : 59 : 51 + 0200
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 09360461 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : rainer . michael @ web . de
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbelivabie !

@@ -1,0 +1,17 @@
+Subject: your may 31 pay advice
+this message is to inform you that information contained on your printed pay advice for the pay period ending may 31 , 2001 , may be misleading .
+regardless of whether you have single or multiple direct deposits , your net pay is correct , but your pay advice will indicate that all of your pay has been deposited collectively to " other bank " . it does not list specific bank accounts . however , if you view your pay advice in ehronline , you will be able to confirm your scheduled direct deposits and verify the accounts to which the deposits were made .
+you may access ehronline and view your pay advice by taking the following steps :
+? click the following link to open ehronline : https : / / ehronline . enron . com
+? read the disclaimer
+? click accept
+? type your sap logon id ( e . g . your " p " id ) in the user id field .
+? enter your sap password in the password field .
+? click the logon button .
+? select paycheck inquiry from the drop - down list
+? click the radio button next to results in period to select the default for the may 31 , 2001 pay advice
+? click the continue button .
+? click the link for the 05 / 16 / 2001 - 05 / 31 / 2001 pay period to display your pay advice .
+? scroll to the bottom of the screen to view your direct deposit details .
+if you have additional questions about your pay advice or accessing ehronline , please contact the isc customer care group at 713 . 345 . 4727 or isc . hotline @ enron . com .
+thank you .

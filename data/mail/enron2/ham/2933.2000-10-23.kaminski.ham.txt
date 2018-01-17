@@ -1,0 +1,16 @@
+Subject: info about enron ' s bandwidth market
+dear dr . kaminski ,
+i enjoyed your talk this afternoon at ieor very much .
+i wonder if you could point me to some information
+resource on enron ' s bandwidth market .
+i am a ph . d student at ieor . i work with professor
+oren and professor varaiya from eecs department on
+the topic of pricing the internet . in particular , i am designing
+pricing mechanism in the framework of the diffserv
+architecture which is the latest proposal made by
+ietf to provide scalable service differentiation .
+i would very much like to get in touch with people
+in enron working on the similar topics .
+thank you very much .
+jun shu
+http : / / www . ieor . berkeley . edu / ~ jshu

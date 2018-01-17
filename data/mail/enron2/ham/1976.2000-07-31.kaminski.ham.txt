@@ -1,0 +1,39 @@
+Subject: regulatory var
+tentative agenda for the research lunch meeting on wednesday , august 2 nd at
+11 : 30 am :
+objective : develop a methodology and a model for estimating risks of the ees
+regulatory portfolio .
+discussion items :
+1 . elements of the regulatory portfolio
+- transmission and distribution ( t & d ) positions
+- bundled tariffs ( full utility tariffs that are in place prior to
+deregulation )
+- competitive transition charges ( ctc ) positions
+- diversification between the three risk elements
+2 . risk drivers in each bucket ( scott stoness of ees to provide more detail )
+- t & d : interest rates
+- bundled tariffs : regulatory decisions , power prices , interest rates ,
+inflation
+- ctc : power prices , fuel prices , generation valuation , generation stack ,
+regulatory decisions
+3 . position aggregation parameters ( scott stoness of ees to provide
+suggestions )
+- by nerc region
+- by state
+- by utility
+- by utility tariff
+4 . model environment
+- excel
+- grms / risktrac
+- other
+5 . var parameters
+- correlations
+- factor loadings ( 1 - factor model ? )
+- other
+6 . ees specific issues
+- the size of ctc positions is impacted by the roll - off date , which is
+subject to change due to a number of factors ( jump diffusion ? )
+- t & d and bundled tariffs do not move daily , but rather once every 2 - 3 years
+( event driven ? )
+thanks , vlady .
+ps : shirley , could you please make the lunch arrangements accordingly .

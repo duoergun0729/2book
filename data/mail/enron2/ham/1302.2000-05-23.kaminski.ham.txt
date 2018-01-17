@@ -1,0 +1,65 @@
+Subject: mike ' s laptop
+vince ,
+check it out !
+thanks for your advice on strategic problem - solving
+thanks again
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike a roberts / hou / ect on 05 / 24 / 2000
+07 : 56 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+henry moreno
+05 / 23 / 2000 06 : 00 pm
+to : mike a roberts / hou / ect @ ect
+cc : grace e warren / hou / ect @ ect , kevin g moore / hou / ect @ ect , david
+wile / hou / ect @ ect , chris bowling / hou / ect @ ect , john p tollefsen / hou / ect @ ect ,
+bob hillier / na / enron @ enron , roberto deleon / corp / enron @ enron , mark
+hall / hou / ect @ ect
+subject : re : request for help
+mr . roberts ,
+i am glad we were able to reach a practical solution for you without going
+too much against the grain of enron corp . ' s it policy and standards .
+thanks to david wile and mark hall in formulating a solution that addresses
+everyone ' s needs .
+in summary ,
+your contingency and recovery machine ( laptop ) will be imaged for win 2000
+applications will be evaluated for compatibility
+this will allow you to use the machine as a back - up to gather weather data
+off the internet ( via independent dial - out line ) in case the normal enron
+network architecture is unavailable .
+i will follow - up to make sure we capture the one exception to the policy and
+standard that surfaced ( local admin rights on the laptop for development
+activity ) . irm / roberto deleon will facilitate with a risk acceptance request
+form .
+thanks again ,
+henry moreno
+information risk management ( irm )
+from : mike a roberts 05 / 23 / 2000 10 : 29 am
+to : henry moreno / hou / ect @ ect
+cc : grace e warren / hou / ect @ ect , kevin g moore / hou / ect @ ect
+subject : request for help
+what i have :
+a . i have an ibm thinkpad and a cd for windows 98
+b . i got the ibm from richard weeks . i bought the windows 98 .
+c . i have a valid business need to get windows 98 on the ibm
+a . my job requires a totally independent backup to access data off the
+internet and process same for trader ' s report
+b . this must be done 7 days per week in the early am .
+c . i have new equipment that doesn ' t run on nt
+i . audio file generator ( nomad )
+ii . video file generator ( intel )
+d . i will also be loading office 2000 ( which i have )
+the problem :
+a . when i travel , terminal server doesn ' t work ( last time i spent several
+$ hundred trying )
+b . on the weekends , terminal server unacceptably slow ( requiring someone to
+come in sat & sun )
+c . when we move internally , things go wrong ( this monday we got switched from
+100 megabytes to 10 mega bytes ) - trader ' s report not ready on time
+d . i currently have no stand - alone backup for contingency purposes
+what i need :
+i need help putting windows 98 put on my thinkpad
+( when i reformatted and loaded , it did not recognize the modem )
+there should be no security risk because this system will be totally
+independent of enorn system ( just usinf the phone )
+can you approve someone to help me load it up ? ? ? thank you .
+mike roberts
+vice president , research
+x 3 - 5701

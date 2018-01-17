@@ -1,0 +1,25 @@
+Subject: tropical cyclones
+dear all ,
+yesterday , i mentioned to vince the inhouse modelling capabilities and the
+impact weather and the weather forecast can have on some of enron ' s
+operations and risk management positions . for this reason i have attached
+three files , two of those show to tropical cyclones off the coasts of
+australia , i . e . rachel and drena . tropical cyclones pose a significant risk ,
+and an early warning system can be part of a better risk strategy .
+please , note that the modelling system has been further improved since the
+simulation was done .
+also , we can focus on another large problem and associated risk . dust storms
+can pose a significant risk to a number of industries , and the prediction
+of such events has been very difficult , if not impossible . for this reason a
+gis database has been developed and coupled to the nwp model , which
+allows prediction of such events in realtime . for the depicted event an
+estimated 6 million tonnes of top soil was lost , and with it $ $ .
+maybe we can set up a conference call to discuss
+* the above mentioned points
+* further improvments in forecasting based on the high resolution forecasts
+* weather and climate on a global perspective for enron
+* how to further improve the forecast for enron
+regards ,
+christian
+ps : i tried to sent of this e - mail last night , but their appears to be a
+limit of 10 mb , so i will send off the individual files . . . .

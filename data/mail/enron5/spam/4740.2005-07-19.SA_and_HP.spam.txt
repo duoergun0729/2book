@@ -1,0 +1,15 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 11 : 00 : 57 gmt
+from mail 8 . atl . registeredsite . com [ 64 . 224 . 219 . 82 ]
+* * * attention * * *
+this email is being returned to you because the remote server would not
+or could not accept the message . the registeredsite servers are just
+reporting to you what happened and are not the source of the problem .
+the address which was undeliverable is in the section labeled :
+" - - - - - the following addresses had permanent fatal errors - - - - - " .
+the reason your mail is being returned to you is in the section labeled :
+" - - - - - transcript of session follows - - - - - " .
+the line beginning with "
+( reason : 550 host unknown )
+- - - - - transcript of session follows - - - - -
+550 5 . 1 . 2 . . . host unknown ( name server : tabmark . com : host not found )

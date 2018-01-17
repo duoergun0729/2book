@@ -1,0 +1,7 @@
+Subject: tw pnr activity for dec . lst - 19 th
+a quick snapshot of where we are for the month , as of dec 19 th
+buyer po # poi dekatherm rate / dth rate _ type daily / total invoice amount
+pnm 27267 500617 15 , 000 $ 0 . 0900 $ 0 . 0900 total $ 1 , 350 . 00
+virginia power 27719 500623 14 , 514 $ 0 . 0500 $ 0 . 2193 daily $ 3 , 182 . 89
+cinergy mkt 27467 500621 17 , 600 $ 0 . 1000 $ 0 . 3716 daily $ 6 , 540 . 00
+totals 47 , 114 $ 11 , 072 . 89

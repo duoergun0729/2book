@@ -1,0 +1,135 @@
+Subject: re : financial confirm np 6050 . 1
+thanks for your prompt response . i really hope that you can convince mark
+taylor that transferring the financial confirmations to calgary is the right
+thing to do . as you recall , we have been down the road of improving the
+service to calgary previously . this seems to work in the short term , but as
+soon as there is turnover in the group , which unfortunately seems to occurs
+regularly , the service level starts to drop . i would like you to consider
+the following arguments in favor of transferring this function to calgary
+when you meet with mark .
+first , when the recommendation first came out to transfer to financial
+confirmations to calgary , mark taylor ' s concern was our legal staff . at that
+time , we had one attorney who did not have expertise in the financial area .
+we now have three very competent attorneys . greg johnston has spent time in
+houston and has recently attended an isda training course .
+second , there are problems with the confirmations that are prepared by
+houston and with the process itself . at the time of the project doorstep
+audit , we provided you with a list of confirmations that had not been sent
+out after we had approved them . as you saw from my memo , confirmations are
+periodically sent out without our review . also , we have found mistakes in
+the confirmations themselves , including the contract date referred to in the
+confirmation . the first two issues cause me a lot of concern . some of the
+confirmations sent out without our review were wrong , which is a big
+problem . we had a large number of confirmations that were never sent out ,
+which is even a bigger problem .
+third , there is no real additional control in the process by having houston
+generate the confirmations . if you think about what the process is , the
+transactions are done in calgary , we fax the deal sheets to houston , the
+confirmation is generated using a template that has been pre - approved by
+legal , we review and approve the confirmation and execute them on - line if
+done by enron canada corp . , or send an e - mail if the enron entity is enron
+north america . houston faxes the confirms to the counterparty . if the
+counterparty is a trading company , houston follows up on the status of
+execution . for all other entities , the calgary office is now doing the
+follow - up . all these transactions are currently settled out of the calgary
+office . if the transactions were done in calgary , we would be using the same
+pre - approved templates that houston is using . it is not clear to me where
+there is any additional control by having the confirmations done in houston ,
+or , conversely , why there is any additional risk in having calgary prepare
+our own financial confirmations . if there is some perception that an element
+of risk exists by having calgary prepare the financial confirmations , why are
+we allowed to prepare the physical confirmations ?
+fourth , there is a duplication of effort by having the preparation done in
+houston while the review process is done in calgary . currently , houston has
+staff handling the calgary transactions . because the confirmations are
+reviewed and approved here , i have similar staff who print the confirmations ,
+route them for review , update tagg , notify houston when the review is
+complete , and then follow - up with either houston or the counterparty on
+issues or execution . we are currently following up on all non - trading
+company financial confirmations . so , we are both printing and reviewing the
+transactions , following up with the counterparties , and filing these
+documents . as i stated before , calgary could assume full responsibility for
+the financial confirmations without adding any staff .
+fifth , there is an increase in the amount of time needed to get the
+confirmations to the counterparty by having the preparation done in houston .
+because of the number of times the information has to go back and forth , the
+confirmations rarely get to the counterparty within 24 hours of the
+transaction being done . we feel this time line could be met if we did the
+financial confirmations here . this reduces risk for enron .
+finally , because we are a small office , i need the opportunity to develop my
+existing employees so that they don ' t feel that they need to leave the
+company in order to broaden their knowledge base . given the skill sets of
+the documentation group , it is difficult for them to move into other areas
+such as risk , logistics , or accounting , so it is important that i am able to
+keep them challenged within the documentation group . because we review the
+confirmations , the basic understanding of the financial transactions already
+exists . however , i know that my employees would appreciate having full
+accountability and responsibility for this function , and have the opportunity
+to develop more expertise in the area of financial confirmations .
+as a final note , i report to you . i am fully accountable to you for ensuring
+that all the necessary controls are in place to handle this function
+properly . it would mean a lot to me , as well as the documentation staff , to
+get your vote of confidence in making the case to legal to transfer this
+function to calgary . mark taylor has never met me or my staff , yet i get the
+impression that he doesn ' t think we are capable of handling this function . i
+hope that you will be able to set him straight on this . he just needs to
+look at the results of our annual audits to see the level of competency that
+exists here .
+if you have any questions or need any additional clarification on anything in
+this memo , please let me know . as you can see , the calgary office feels very
+strongly about this issue , including rob milthorp and peter keohane . please
+let me know how your meeting with mark goes .
+thanks ,
+peggy
+enron north america corp .
+from : sally beck 07 / 19 / 2000 04 : 57 pm
+to : peggy hedstrom / cal / ect @ ect
+cc :
+subject : re : financial confirm np 6050 . 1
+i got your message and i have asked brent to get with me when he is back in
+the office on friday ( he has been in new york re : mg since monday night ) .
+together we will do two things : ( 1 ) devise a foolproof plan to insure an
+excellent level of service to calgary starting immediately , and ( 2 ) work with
+mark taylor to understand his concerns over the movement of confirmation
+preparation to calgary and to eliminate his concerns . we will keep you
+posted on both items . - - sally
+peggy hedstrom
+07 / 19 / 2000 12 : 02 pm
+to : sally beck / hou / ect @ ect
+cc :
+subject : re : financial confirm np 6050 . 1
+just so that you are aware , we continue to have problems with the financial
+confirm process from houston . on more than one occasion , confirmations have
+been sent to our counterparties prior to review by calgary . attached is the
+most recent one . we have been assured over and over that this will not
+happen again , however , it continues to happen . luckily , this confirmation
+went out without any errors in it . i know that you are very busy , but is
+there any way that you can make it a priority to get resolution on moving the
+financial confirmations to calgary .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by peggy hedstrom / cal / ect on 07 / 18 / 2000
+02 : 10 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : larry joe hunter 07 / 18 / 2000 01 : 15 pm
+to : peggy hedstrom / cal / ect @ ect
+cc : diane anderson / na / enron @ enron , andrea r guillen / hou / ect @ ect
+subject : re : financial confirm np 6050 . 1
+peggy ,
+as far as i can tell , we simply screwed up on this deal . diane anderson , who
+was covering for angie last week , was using my name to sign off on some other
+canada deals which were approved from last week then signed and sent this one
+by mistake . we ' re terribly sorry for the mistake . call me if you want to
+discuss .
+thanks ,
+joe
+peggy hedstrom
+07 / 18 / 2000 09 : 55 am
+to : larry joe hunter / hou / ect @ ect
+cc :
+subject : financial confirm np 6050 . 1
+since dianne seib is currently on vacation , i am reviewing the financial
+confirms . for the referenced confirm , the status is currently showing ' sent
+to counterparty " , although our records show that we have not yet approved the
+revised confirm . can you check on this for me and let me know whether this
+was sent prior to receiving calgary ' s approval ? if you have any questions , i
+can be contacted at ext . 6753 .
+thanks
+peggy

@@ -1,0 +1,55 @@
+Subject: gtv weekly project status update
+please find below the weekly project status update of gtv and the attached file for the updated project time lines .
+gtv status meeting attendees : thu dang , nayan dattani , bill fortney , jeff gossett , george grant , brad jones , narasim kasaru , jay krish , francis lim , russ severson , geoff storey , michael swaim , zhiyong wei , jeremy wong .
+accomplishments :
+? gtv 2 phase 1 items
+o released to production .
+? saving different views in tds :
+o released to production .
+? capability for desk roll - ups on an ad hoc basis ( phase 2 , on hold since 7 / 9 / 01 ) :
+o new process for roll - up aggregators has been completed .
+? option grid ( phase 2 ) :
+o released to production .
+? gas daily options ( phase 2 ) :
+o released to production .
+? basis options ( phase 2 ) :
+o development of deal entry type for basis options has been completed in tagg .
+o development of loading correlation curves has been completed .
+o changes to the translator have been completed .
+o development of basis options valuation has been completed .
+? transport deal capture & valuation ( phase 2 ) :
+o creation of new deal entry type & database changes has been completed .
+o changes to the translator have been completed .
+? add more information to the drill - down deal details .
+o released to production .
+? new flexible deal viewer .
+o database schema design completed .
+o initial load of active deals from sitara completed .
+o tibco work completed .
+o units of measure conversions completed .
+o update of active deals from sitara completed .
+o development of query engine completed .
+o development of delphi feed to excel completed .
+o schema mapping completed .
+o initial loading of active deals from tagg completed .
+o 3 new requests ( from last wednesday ' s demo ) for update server completed .
+o complete development of excel vb .
+o complete remaining new request for update server ( sic codes ) .
+o complete development of update of active deals from tagg .
+plans for the week ending 09 / 14 / 01 :
+? continue it development of phase ii issues .
+o complete option reports ( pl reports ) .
+o complete integration test of basis option valuation .
+o begin change to portcalc to value transport deals .
+? new flexible deal viewer .
+o complete user acceptance testing .
+? investigate efforts needed to implement tds for calgary office .
+? investigate ways of distinguishing deal changes and unify volume feedback .
+? investigate ways of improving eol bridging to sitara and tagg for term physical deals .
+issues :
+? none .
+notes
+? canada still needs to test y - calc .
+? jeff gossett is looking into possibly adding more requirements for option reports .
+thanks
+zhiyong

@@ -1,0 +1,56 @@
+Subject: re : migration request
+i have replace the old basis differential with michelle ' s new numbers and
+migrated the program to
+production . so tw deal analysis is using the new basis differential now .
+mei - ling
+- - - - - - - - - - - - - - - - - - - - - - forwarded by meiling chen / et & s / enron on 11 / 07 / 2000
+09 : 41 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ets dba
+11 / 07 / 2000 08 : 09 am
+sent by : margaret waters
+to : gary kenagy / ots / enron @ enron
+cc : mei - ling chen / et & s / enron @ enron
+subject : re : migration request
+done .
+gary kenagy
+11 / 06 / 2000 09 : 17 am
+to : ets dba / et & s / enron @ enron
+cc : mei - ling chen / et & s / enron @ enron
+subject : migration request
+please process the request below . let both of us know if there are any issues .
+gary
+- - - - - - - - - - - - - - - - - - - - - - forwarded by gary kenagy / ots / enron on 11 / 06 / 2000 09 : 18
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+meiling chen
+11 / 03 / 2000 05 : 21 pm
+to : gary kenagy / ots / enron @ enron
+cc : kim kouri / et & s / enron @ enron , michelle lokay / et & s / enron @ enron
+subject : migration request
+dba ,
+please migrate up _ twda _ deal _ analysis in etstest / twprodol to dbo , and to
+etsmo / twprodol , mojo / twprodol .
+grant execute to developers , twdp in etstest
+grant execute to twdp in etsmo and etsmojo
+gary ,
+per user request , we need to replace basis differential for tw deal analysis
+forward pricing that was hard coded
+in the program with the latest numbers as stated in the e - mail from michelle
+lokay . we are working on
+accessing the information from revenue management table as soon as the data
+is available in the database .
+this change does not impact any other applications .
+please approve it and forward this request to ets dba .
+thanks ,
+mei - ling
+kim kouri
+11 / 03 / 2000 07 : 08 am
+to : mei - ling chen / et & s / enron @ enron
+cc :
+subject : updated average basis differential for pipeline system
+fyi , did you have this already ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kim kouri / et & s / enron on 11 / 03 / 2000 07 : 07
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : michelle lokay 11 / 02 / 2000 04 : 28 pm
+to : mei - ling chen / et & s / enron @ enron
+cc : kim kouri / et & s / enron @ enron
+subject : updated average basis differential for pipeline system

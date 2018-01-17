@@ -1,0 +1,23 @@
+Subject: fw : hourly loadshapes for west power
+bill - this was meant for you , not me .
+- - - - - original message - - - - -
+from : hansen , leslie
+sent : monday , july 30 , 2001 9 : 19 am
+to : walker , chris
+cc : williams , bill
+subject : re : hourly loadshapes for west power
+chris :
+i made one change to each loadshape to correct the ending hour . otherwise , these are fine .
+leslie
+- - - - - original message - - - - -
+from : walker , chris
+sent : monday , july 30 , 2001 10 : 54 am
+to : hansen , leslie
+cc : lozano , melba ; meredith , kevin ; cass , robert b .
+subject : hourly loadshapes for west power
+leslie ,
+bill williams in portland has requested hourly products on enrononline for the hours ending 12 - 20 . attached is the proposed loadshape language . please let us know if these look ok .
+thanks ,
+cw
+3 - 7533
+>

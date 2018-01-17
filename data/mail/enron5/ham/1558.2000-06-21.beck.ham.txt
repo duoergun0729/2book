@@ -1,0 +1,29 @@
+Subject: for discussion : implementing definition of trading office
+this is the memo i was referring to -
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brent a price / hou / ect on 21 / 06 / 2000 17 : 02
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+richard sage
+21 / 06 / 2000 13 : 38
+to : brent a price / hou / ect @ ect
+cc :
+subject : for discussion : implementing definition of trading office
+i . e . very draft !
+what are your thoughts ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by richard sage / lon / ect on 21 / 06 / 2000 13 : 40
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+richard sage
+21 / 06 / 2000 07 : 35
+to : mike jordan / lon / ect @ ect , andrew cornfield / lon / ect @ ect , naomi
+connell / lon / ect @ ect , phil redman / lon / ect @ ect , tim
+poullain - patterson / lon / ect @ ect
+cc :
+subject : for discussion : implementing definition of trading office
+i was going to write that the buying and selling of physical commodity
+locally was ok , but that hedging had to be done with regional hub . the
+problem with this model is that it describes helsinki before the bust !
+another possiblity is the agency model , where the local trader acts under the
+direction of the hub trader . this is where helsinki currently is ( although we
+also have an independent manager on site ) . however , i am not so happy with
+this , and rick causey certainly does not like it . perhaps we should recommend
+independent risk managers in every office , but all correspondence and
+settlement with regional hub ?

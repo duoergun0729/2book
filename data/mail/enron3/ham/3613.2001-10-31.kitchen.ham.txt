@@ -1,0 +1,36 @@
+Subject: trade counts through 11 : 00 am
+trade count , by 11 : 00 am , for last 30 days :
+trade date trade cnt
+10 / 1 / 2001 4431
+10 / 2 / 2001 4621
+10 / 3 / 2001 4836
+10 / 4 / 2001 5084
+10 / 5 / 2001 5101
+10 / 6 / 2001 9
+10 / 7 / 2001 5
+10 / 8 / 2001 4371
+10 / 9 / 2001 4443
+10 / 10 / 2001 4714
+10 / 11 / 2001 4753
+10 / 12 / 2001 5353
+10 / 13 / 2001 14
+10 / 14 / 2001 12
+10 / 15 / 2001 4665
+10 / 16 / 2001 5676
+10 / 17 / 2001 6040
+10 / 18 / 2001 6264
+10 / 19 / 2001 6679
+10 / 20 / 2001 2
+10 / 21 / 2001 25
+10 / 22 / 2001 6311
+10 / 23 / 2001 6926
+10 / 24 / 2001 5627
+10 / 25 / 2001 7112
+10 / 26 / 2001 5609
+10 / 27 / 2001 10
+10 / 28 / 2001 2
+10 / 29 / 2001 5341
+10 / 30 / 2001 4682
+10 / 31 / 2001 5461
+same data by counterparty , also showing percentage today versus last - two - week average , is in the enclosed spreadsheet . most counterparties are at or near typical rate . many of the larger counterparties are trading at a faster pace ( aquilla , dynegy , reliant in particular ) . aep , calpine , cinergy marketing , sempra and mirant are at least 50 % off their typical pace , particularly aep and calpine .
+- - jay

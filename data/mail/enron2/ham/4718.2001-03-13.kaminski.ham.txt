@@ -1,0 +1,135 @@
+Subject: risk management meeting at georgia tech
+you are welcome to attend the following meeting in the area of quantitative
+and computational finance and risk management in the mrc auditorium on
+the georgia tech campus from 1 pm to 6 pm on friday , march 30 th .
+there will be five speakers that will give presentations on a variety of
+topics .
+dr . curt hunter , research director , federal reserve bank of chicago
+dr . mary mathewes kassis , associate director ,
+georgia state university economic forecasting center
+dr . alan white , professor of finance , university of toronto , and
+mr . pete van amson , cfa , cpa , vice president , product management ,
+sungard trading and risk systems
+dr . dennis wong , vice president , quantitative finance ,
+bank of america securities
+there is no charge for the event .
+this will be the inaugural meeting of the atlanta chapter of the global
+association of risk professionals ( garp ) . you need not be a member of garp
+to attend the meeting . information about garp can be found at
+http : / / www . garp . com .
+we are asking that attendees rsvp so that plans can be made for refreshments .
+we only ask that you reply to this email or to atlanta @ garp . com before
+march 21 if you plan to attend . in addition to a break half - way through the
+afternoon , there will be refreshments immediately following the presentations .
+this event is sponsored by the master of science in quantitative and
+computational finance program at georgia tech , sungard trading and risk
+systems , and
+suntrust banks , inc .
+please pass along this announcement to your associates .
+information about the talks and the speakers
+dr . curt hunter
+research director , federal reserve bank of chicago
+dr . hunter ' s discussion is entitled " lessons learned from recent global
+financial crises . " since 1990 , major banking and currency crises have
+occurred in many countries around the world - including mexico and latin
+america in 1994 , east asia in 1997 - 98 , and russia and brazil in 1998 ,
+among others - with large costs both to the individual countries
+experiencing the crises and to other nations . as a result , considerable
+effort has been expended by economists and policymakers to identify the
+causes of these crises and to design programs with the aim of preventing ,
+if possible , similar crises from occurring in the future , and minimizing
+the costs when they do occur . this talk reviews the key lessons
+policymakers have learned from these recent episodes and highlights the
+role that risk management plays in crisis prevention .
+dr . william c . ( curt ) hunter is senior vice president and director of
+research at the federal reserve bank of chicago . he is a member of the
+bank ' s management committee and serves as the bank ' s chief economist .
+he is responsible for a staff of 115 professionals and oversees the
+bank ' s research activities in the areas of monetary policy , banking
+and financial markets , and regional economics programs . he is also
+responsible for the bank ' s statistical and financial reports function .
+dr . hunter is an associate economist on the federal open market committee ,
+the federal reserve system ' s primary monetary policy group .
+previously , he was a vice president at the federal reserve bank of
+atlanta and has served on the faculties of the university of georgia ,
+emory university , chicago state university , and northwestern university .
+he has consulted with numerous foreign central banks , official agencies ,
+and private corporations and serves on the boards of several research
+and nonprofit organizations . he is co - editor of research in banking
+and finance and serves on the editorial boards of several academic
+journals . dr . hunter earned a b . s . degree in 1970 from hampton
+institute ( now hampton university ) , an mba in finance in 1972 and a ph . d .
+in finance and environment in 1978 from northwestern university .
+dr . mary mathewes kassis
+associate director , georgia state university economic forecasting center
+dr . kassis will provide her outlook for the georgia and atlanta economies
+over the next two years . she will focus on economic risks specific to
+atlanta , including its exposure to the contraction of the it sector ,
+potential over development of office space , and a declining rate of job
+growth . regardless of your field , this should be a very informative
+discussion .
+dr . kassis has been analyzing the southeast economy for over five years .
+she writes a quarterly report that examines the current economic
+conditions in 13 southeastern states as well as an outlook for the next
+couple of years . she also prepares an in - depth quarterly analysis of the
+outlook for the georgia and atlanta economies . she is regularly quoted
+in publications such as the wall street journal , the atlanta journal -
+constitution , and the atlanta business chronicle . dr . kassis received
+a b . a . in economics and political science from agnes scott college and
+a ph . d . in economics from georgia state university .
+dr . alan white
+professor of finance , university of toronto
+mr . pete van amson , cfa , cpa
+vice president , product management , sungard trading and risk systems
+dr . alan white and mr . peter van amson will discuss applied term
+structure modeling . sungard has implemented a version of the hull - white
+term structure model that banks use in measuring and managing the market
+value sensitivity of various balance sheet components . peter will touch
+on some of the complexities involved in modeling non - maturity deposits ;
+with regard to the term structure of interest rates , alan will discuss
+some of the problems and possible solutions in bridging the divide between
+what is required from a theoretical standpoint and what is feasible
+in a production process .
+dr . alan white is a professor of finance in the joseph l . rotman school
+of management at the university of toronto . his research is principally
+in the area of derivative securities , their pricing and their use by
+financial institutions for risk management . he is most noted for his
+work on modeling the term structure of interest rates in a way that
+is consistent with observed market data . recently his research has been
+focused on the pricing and management of credit risk . professor white
+has published many scholarly articles , but is perhaps best recognized
+for providing lucid insights into the practical application and
+implementation of this research . much of his material is included in
+the best - selling book hull - white on derivatives , co - authored with
+john hull .
+mr . peter van amson is the vice president of product management at
+sungard trading and risk systems where he is responsible for the
+development of all functional specifications for the bancware product
+suite . in this capacity , he frequently interacts with sungard
+user - committees , leading academics , and other leading industry
+practitioners . he frequently makes presentations at conferences and
+seminars sponsored by bai , amifs , the occ , as well as other organizations .
+prior to working with bancware , peter headed the strategic planning
+function for the plymouth rock company , one of america ' s most profitable
+insurance holding companies . in this role , he helped define the
+company ' s strategic vision as well as being involved in investment
+analysis , asset / liability management and quantitative profitability
+aanalysis . peter has a b . s . and m . s . in accounting from the state
+university of new york at binghamton . he is currently a ph . d . candidate
+at the university of michigan . peter has received numerous academic awards
+and honors including the william andrew paton fellowship at the
+university of michigan and the new york state society of certified
+public accountants award for academic excellence .
+dr . dennis wong
+vice president , quantitative finance , bank of america securities
+dr . wong will discuss competing vendor approaches to credit risk
+modeling , including creditmetrics , kmv , creditrisk + and creditportfolio
+view . these models are viewed in a theoretical framework that
+identifies migration probabilities , credit exposure and loss
+aggregation .
+dr . wong has a ph . d . in mathematical finance from carnegie mellon
+university . he has given talks and seminars for the american
+mathematical society , the society for industrial and applied mathematics ,
+the university of toronto , and georgia tech . he is the author of
+" generalized optimal stopping and financial markets " , published in
+pitman research notes in mathematics series .

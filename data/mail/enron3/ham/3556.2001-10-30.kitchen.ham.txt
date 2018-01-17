@@ -1,0 +1,55 @@
+Subject: re : longview dash request
+bascially , we will need to spend another $ 7 . 5 million on 11 / 30 to keep the equipment orders alive .
+the spreadsheet below may help .
+the line " incremental cash spend " is what enron will need to pay at the end of each november and december . the line " cancellation + e - next interest " is enron ' s cancellation exposure ( binding commitment to the equipment vendors and e - next ) to the extent we cancel on those dates .
+- - - - - original message - - - - -
+from : calger , christopher f .
+sent : monday , october 29 , 2001 11 : 06 pm
+to : kitchen , louise ; schneider , chip
+subject : re : longview dash request
+louise ,
+cancellation charges have been the focus because the cash is provided by e - next banks ( turbopark ) . the cash paid to date is less than the actual contractual obligation to date . we do not need balance sheet cash to continue , but we need to come up with b / s cash if we terminate . hopefully the following clarifies :
+cash payments to date :
+ge 7 fa 13 , 328
+st 909
+hrsg 1480
+interest 350
+total : 16 , 067
+next payments :
+ge 7 fa 1 , 566 nov 21
+st 2 , 849 dec 1
+hrsg 2 , 960 dec 1
+these are estimates - the timing of the actual payments depends upon when the vendor completes some of the work - payment based on milestones
+cancellation charges :
+10 / 31 : $ 23 mm
+11 / 1 : $ 24 mm
+11 / 30 : $ 28 . 3 mm
+each day from 11 / 1 to 11 / 30 the cancellation charge increases by approx $ 150 k
+dash is based on contractual exposure , not cash out the door , hence the request at this time . in addition to looking for opportunities to sell the equipment and the project , we are looking into the st and hrsg contracts to make sure the vendors are not in any sort of breach .
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : monday , october 29 , 2001 5 : 56 pm
+to : schneider , chip
+cc : calger , christopher f .
+subject : re : longview dash request
+sorry missing the message
+when are the payments and how much are they if we keep moving forward as i am not prepared to write down a 23 mm loss .
+payments and payment dates please .
+thanks
+louise
+please say not soon too .
+- - - - - original message - - - - -
+from : schneider , chip
+sent : monday , october 29 , 2001 7 : 26 pm
+to : kitchen , louise
+cc : calger , christopher f .
+subject : longview dash request
+louise :
+a termination of equipment associated with the longview project on or before 10 / 31 / 01 will require enron to write - off approximately $ 23 million , not inclusive of approximately $ 3 million in development costs to date .
+to extend orders for equipment to 11 / 30 / 01 will cost an additional $ 5 . 3 million in cancellation charges .
+to extend orders for equipment to 12 / 31 / 01 will cost an additional $ 8 . 7 million ( inclusive of the $ 5 . 3 million above , therefore , net $ 3 . 4 million ) in cancellation charges .
+termination at any time between now and year - end 2001 provides no material recovery potential for money spent .
+regards ,
+chip schneider
+713 - 853 - 1789
+ecn 2864

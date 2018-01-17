@@ -1,0 +1,78 @@
+Subject: re : informs abstract ( fwd )
+shijie ,
+additional changes .
+abstract :
+the power market developments in the us have created several unique
+challenges for energy industry economists . we discuss the major factors
+underlying
+the exceptionally high volatility of electricity prices . we feel that some of
+them may reflect the flaws in power pools design and incomplete transition to
+fully deregulated markets in
+generation and transmission .
+the title is fine .
+vince
+shijie deng on 10 / 01 / 2000 07 : 47 : 53 pm
+to : vkamins @ enron . com
+cc :
+subject : re : informs abstract ( fwd )
+- - - - - - - - - - forwarded message - - - - - - - - - -
+date : sun , 1 oct 2000 14 : 29 : 20 - 0400 ( edt )
+from : shijie deng
+to : vkaminski @ aol . com
+cc : shijie deng
+subject : re : informs abstract
+vince ,
+thanks for the abstract ! for the purpose of the conference program
+listing , the conference organizers need a title and an abstract which is
+longer than 50 words . based on the abstract that you sent me , i took the
+liberty to make up a title and the 50 - word abstract ( attached below ) .
+please make changes as you feel necessary and send them back to me . i ' ll
+send them out to the organizers once i get your confirmation on this .
+best ,
+shijie
+title : current challenges in modeling power price volatility
+author : dr . vince kaminski , head of quantitative research , enron capital &
+trade resources
+abstract :
+the power market developments in the us have created several unique
+challenges for energy industry economists . we discuss the major factors
+underlying
+the exceptionally high volatility of electricity prices . we feel that some of
+them may be a necessary price to pay for increased market efficiency and
+expanded customer choice .
+shi - jie deng
+assistant professor
+school of isye
+georgia institute of technology
+office phone : ( 404 ) 894 - 6519
+e - mail : deng @ isye . gatech . edu
+home page : http : / / www . isye . gatech . edu / ~ deng
+on sun , 1 oct 2000 vkaminski @ aol . com wrote :
+> shijie ,
+>
+> i am sending you the abstract for my informs presentation .
+>
+> vince
+>
+>
+> * * * * *
+>
+>
+> the last three years were characterized by exceptionally high volatility of
+> the power prices in the us markets . the market developments have created a
+> number of unique challenges for energy industry economists . one immediate
+> question we have to answer is how to measure volatility of energy prices .
+> although we can all agree that the prices in the power markets are
+> characterized by high variability , the traditional measures used in
+financial
+> economics ( annualized standard deviation of log price returns ) may not fit
+> well electricity prices . the second challenge is to explain the sources of
+> high price volatility and to answer the question to what extent it can be
+> attributed to problems that can be addressed in the long run . such problems
+> include flaws in market design that allow some market participants to abuse
+> market power , limited availability and / or unequal access to transmission ,
+> temporary shortages of generation capacity . some factors underlying high
+> volatility of electricity prices may be of permanent nature and may be a
+> necessary price to pay for increased market efficiency and expanded customer
+> choice .
+>

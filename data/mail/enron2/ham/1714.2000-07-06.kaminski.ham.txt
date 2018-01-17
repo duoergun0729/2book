@@ -1,0 +1,8 @@
+Subject: re : price processes for ng
+grant & vince ,
+i am sending you the results of fitting different price process models into ng
+prompt month prices . the fit is quite good for some models .
+we might think of using these mean - reverting jump - diffusion models in our
+credit model .
+i should examine other contracts behavior ( beyond prompt month ) as well .
+tanya .

@@ -1,0 +1,34 @@
+Subject: linear programming software purchase
+vince ,
+i ' d like to purchase some copies of the xpress lp solver for the gas storage
+optimization model . we have previously discussed the purchase of cplex , but
+after trialing both systems , have found some worthwhile advantages with
+xpress . if others find planner / cplex best suited to their application , i
+see no problem is their use of a different system - both have strengths , and
+it is likely that i would use planner / cplex myself on some future project if
+we were to have both systems available .
+xpress is particularly suited to my application because it handles special
+ordered sets . this is a very efficient way of representing the storage
+ratchets as the integer search process is able to use the extra information
+provided by the set , rather than just using binary integer variables to
+represent the ratchets .
+planner is a c + + interface for cplex . it has some significant limitations ,
+and does not permit access to all cplex features .
+dash optimization have made the following offer :
+all software purchases made by enron this year will be at 30 % off the list
+price - we do not need to make a single purchase of any specific quantity of
+licenses to obtain this discount .
+90 days of full maintenance services will be provided with the purchase .
+the emosl utility will be provided at no cost .
+the xbsl system will be provided at no cost when it is released in a few
+weeks time .
+for the gas storage optimization model , i would like to purchase :
+one development license , hyper version , with modeller , primal / dual simplex ,
+mip search , dlls , emosl and xbsl when available .
+list price $ 10 , 000 discounted price $ 7 , 000
+two run time licenses for above ,
+list price total $ 8 , 000 discounted price $ 5 , 600
+total cost $ 12 , 600
+i ' ve used the usually security request system to set the purchase process
+going , should you agree to this .
+tom .

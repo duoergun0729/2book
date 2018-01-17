@@ -1,0 +1,36 @@
+Subject: fw : hello
+hello !
+just to update - we ' ve extended the auction deadline to 7 august to give people more time to get comfortable with the contract on the back of transco delaying their 6 month auctions .
+we are still refining the curve analysis - so i ' ll get in touch when we ' ve got it together .
+hope all is well with you - say hello to marcus .
+p
+- - - - - original message - - - - -
+from : crilly , peter
+sent : 27 june 2001 19 : 32
+to : kitchen , louise
+subject : re : hello
+hello !
+congratulations on your new arrival - hope you are all well . got married on 26 may and got sunshine in dublin on the day !
+we are running the virtual entry capacity as an auction
+bids due in on 9 july ( may be extended if transco delay their auction )
+5 year minimum term
+any terminal
+we have right to refuse gas at the beach on payment of compensation chosen by customer in the bid .
+we are still running analysis to produce beach curves based but current thinking is that
+current market inefficiency is inflating the price ( we are currently buying day ahead interruptible fergus capacity at 0 . 3 p and buying gas as it turns firm on the day at nbp - 7 p )
+our aim is to take out the conservative guys in our auction so the transco auctions should be less ridiculous ( summer max price was 12 p but the average was 6 p , with wide spreads in each auction round
+we have modelled with transcost to verify transco ' s view that fergus can be expanded by 50 % for 1 p / th lrmc
+also we have some other risk management angles we intend to pursue if we end up with a large position
+offer underwriting on incremental investment by transco
+code modifications to increase capacity auctioned
+build a pipeline !
+it would be great to get your views on it - shall i give you a call when we ' ve pulled together the curve analysis ?
+peter
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : 26 june 2001 16 : 48
+to : crilly , peter
+subject : hello
+how are things with you ? hope all is well - are you married now ?
+just a quick one - you have scared me with the entry point trading thing . if you ever want to talk it through give me a ring .
+louise

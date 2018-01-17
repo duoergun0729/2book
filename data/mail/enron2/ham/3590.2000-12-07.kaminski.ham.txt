@@ -1,0 +1,33 @@
+Subject: agenda for houston visit
+dear vince and mike ,
+to maximize my time in houston an agenda needs to be agreed upon as well as
+milestones .
+here is a summary of what i have in mind :
+* mesoscale weather analysis and forecasting
+* computer models vs . human forecasters , performance issues
+* nwp modeling
+- types of numerical weather predictio models ( nwp models )
+- objective analysis and initialization
+- data iisues and feeds
+- ( physical ) processes that determine the quality of a forecast
+* predictibility and verification
+* visualisation of weather and climate forecasts
+* installation of
+- short - to - medium term forecast system
+- seasonal forecast system
+- system testing and verification
+* issues
+- data feeds
+- platform considerations
+- realtime performance
+what we need to agree on is a firm agenda , milestones , resources , etc . . . . and
+a time table . . . .
+my contact details are :
+office :
++ 61 2 9229 2319 ( direct )
+cell :
++ 61 417 695 212
+home :
++ 61 2 9871 7369
+regards ,
+christian

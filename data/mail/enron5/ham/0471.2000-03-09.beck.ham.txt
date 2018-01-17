@@ -1,0 +1,18 @@
+Subject: backtesting graphs for semivariance var
+fyi . . .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheila glover / hou / ect on 03 / 09 / 2000 08 : 11
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : samantha t davidson 03 / 08 / 2000 09 : 07 pm
+to : ted murphy / hou / ect @ ect , david port / corp / enron @ enron
+cc : tanya tamarchenko / hou / ect @ ect , sheila glover / hou / ect @ ect , william patrick
+lewis / hou / ect @ ect , mike fowler / corp / enron @ enron
+subject : backtesting graphs for semivariance var
+per your request , please review the graphs below for comparision of
+backtesting results between the current var model and the same model
+using semivariance . in conclusion , the proposed var tuning ( rlpm )
+backtests as well as the current method given the data sample used .
+gary has requested that this method be approved and adopted
+as the current method is not reflecting only the directional risk associated
+with his positions . upon approval , method can be implemented immediately .
+in thousands :

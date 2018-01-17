@@ -1,0 +1,93 @@
+Subject: re : stanford project
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner / hou / ect on 01 / 03 / 2001
+08 : 54 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+stinson gibner
+12 / 27 / 2000 05 : 04 pm
+to : nick bambos @ enron
+cc :
+subject : re : stanford project
+nick ,
+hope you had a nice christmas . best wishes for the new year .
+it would certainly be great to see you and to meet eric some time in the next
+few months . everyone here
+was very impressed with giuseppe and we are eager to have another of your
+students come to enron .
+enron broadband is continuing to evolve and the current vision is to rely on
+enron ' s trading expertise while trying to
+minimize our role as an engineering company and innovator of technology . i
+spoke recently with jim fallon , the current
+head trader in ebs , and we put together a short list of topics of interest
+where you might be able to help educate us .
+i put these in the order of interest ( to mr . fallon ) .
+1 . where will bandwidth prices go ? the direction of prices , obviously is
+the concern of any trader . we realize that
+technological innovation will continue to drive down prices , but are still
+interested in trying to quantify how fast prices will fall ,
+if there are likely to be certain bottlenecks in the fiber network where you
+could see prices stable or rising for some length of time ,
+if there are applications on the horizon which would use such prodigious
+amounts of bandwidth as to have some effect on pricing ,
+and if there is a rational way of trying to quantify the timing and effect on
+prices of new technologies .
+the term " bandwidth " might primarily mean lit fiberoptic capacity , but could
+also incompass dark fiber , or ip transit and transport
+pricing .
+2 . during the last year , enron purchased a company known as " warpspeed " in
+order to acquire their metarouter technology . to quote from the enron press
+release :
+" metarouter sends signals throughout distributed networks to determine the
+optimal connectivity paths for any size bandwidth capacity from anywhere in
+the world . capable of processing thousands of connections per second ,
+metarouter significantly enhances enron  , s ability to automate circuit
+provisioning . "
+there may be two separate questions to ask here . first , in the context of
+the current market ( or the market which may develop in the next 1 - 2 years ) ,
+will the metarouter be a commercially viable product ? that is , will it
+address an actual need in the market , or would it be more cost effective just
+to use technicians with jumper cables to provision circuits ?
+the second question ( our first real technical question ) : is the metarouter
+technology scalable ? before starting on this project , vince and i will
+need to make the proper introductions with the principles who are
+implementing this technology .
+3 . aggregation of loads . a recurring question comes from a number of areas
+such as ip , network storage , and streaming media transport sales : what
+value can i get form aggregating customers , each of which has some type of
+stochastic load profile ? giuseppe touched on this problem as it relates to
+ip transport , but it may be interesting to try and look in more detail .
+the main stumbling block may be that we currently have basically no actual
+customer data . i am told that in a few months we will have some more useful
+history . my understanding is that what will be available will be 5 - minute
+averages of usage , so we still will not know on a short time scale what the
+distribution of load looks like .
+i hope that this gives you enough information to get some idea of what our
+concerns are at this point . please let me know your thoughts about these
+topics . i would expect , for instance that question number 1 may not be
+reasonable as a research project , but might be a question which you would
+feel comfortable in addressing by giving us your qualitative opinions , maybe
+in the form of a talk here at enron .
+again , let me know your thoughts , and i look forward to seeing you again
+soon .
+stinson
+nick bambos on 12 / 20 / 2000 12 : 14 : 40 pm
+to : vince . j . kaminski @ enron . com
+cc : stinson . gibner @ enron . com
+subject : stanford project
+hello vince and stinson ,
+first of all ,
+best wishes for happy holidays ! ! ! !
+if you are in the stanford area during the holidays , let ' s get together
+some time to have dinner .
+i have formally established the project - thanks again for funding
+it - and i have also recruited the second phd student . his name is
+eric cope , and he is a top - notch student , very mature , and entrepreneurial !
+we have started working on some interesting problems in this area . i would
+hope that eric could spend the coming summer at enron to get immersed into
+the " problem / opportunity generation environment . " that really helps the
+student
+to develop a realistic vision about their research .
+perhaps , our whole team could visit enron again some time in the next quarter ,
+say in march or so , to discuss the research issues we are pursuing . and of
+course
+you could visit us before that too .
+with my warmest wishes ,
+nick

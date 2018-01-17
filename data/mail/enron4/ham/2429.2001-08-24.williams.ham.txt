@@ -1,0 +1,21 @@
+Subject: fw : epe lending / cali short for mon .
+day - ahead spl 5 on peak price for monday is $ 43 .
+- - - - - original message - - - - -
+from : symes , kate
+sent : friday , august 24 , 2001 9 : 28 am
+to : dl - portland real time shift
+cc : gang , lisa
+subject : epe lending / cali short for mon .
+epe lending :
+stwbom and stsw are each short 25 mw on peak at palo on monday . purchase power to cover these short positions . sell back to el paso at $ 0 . reduce purchase prices in the following deals to $ 2 per the new epe lending fee .
+747813 - stwbom buys epe
+on peak / pv
+25 mw @ $ 49
+747816 - stsw buys epe
+on peak / pv
+25 mw @ $ 49
+in california :
+we ' ll be short 50 mw on peak at spl 5 under stwbom . please cover this short under the stwbom book . day - ahead price has not been set at the time of this e - mail , but i ' ll let you know when it has .
+please let me know if you have any questions .
+thanks ,
+kate

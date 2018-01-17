@@ -1,0 +1,102 @@
+Subject: august end of month close - a summary debrief
+the august end of month close is behind us . once again , we learned some
+things . we made progress . . . . . but we also have issues to work .
+summary on improvements for this end of month close
+i would like to congratulate the users , the application team and the dba team
+for a much improved end of month close for august gas . this would not have
+been possible without the significant commitment , focus and teamwork
+exhibited by all the folks involved in this effort .
+the most tangible measure of progress over the july close :
+we were able to keep all users in the system throughout the final week . no
+one was kicked off the system .
+the gas accounting close process finished on time . key users and it folks
+didn ' t have to work significant overtime to finish the process .
+improvements arose from :
+upgrading the unify system to sybase 12 with extra server memory . this
+reduced system ' locking and blocking ' and made it possible to keep all users
+in the system throughout the week . nightly settlements for gas invoicing also
+ran much faster . many thanks to the dbas - jim ogg and kishroe bharathi - - for
+many late nights and weekends . many thanks also to the application team and
+the users for lots of testing before the production rollout .
+conducting a pre - planning session that identified new end of month techniques
+to improve efficiency . the users generated several new ideas including the
+idea to pre - process pmas the night before running the current mass draft .
+this meeting provided several new approaches , a clear plan and cohesive
+communication throughout the end of month process . many thanks to the all the
+users as well as bob superty , bryce baxter , melissa ratnala , dave nommensen
+and chris schomer for making this happen . many of these ideas will now be
+part of a standard process .
+the performance monitoring and tuning team reacted quickly to address changes
+in system performance . many thanks to matt pena and the rest of this team for
+keeping the system up and running as fast as possible during the day .
+release of a new tuned version of the accurals process that runs much faster .
+issues , challenges , action items
+while we made progress this month , there are still several significant issues
+and opportunities for improvement . the following is a list of the things that
+' went bump in the night ' and the action items we ' ve identified .
+1 . we experienced several sybase 12 . 0 errors early in the week that impacted
+gas business . all of these problems are now fixed . this had the following
+business impacts :
+the bridgeback of deals to sitara was delayed . these deals were bridged
+manually before the end of month valuation . we also fixed the code problem
+that generated th original problem .
+global systems replication to unify was down on monday . this problem was
+fixed with a software patch from sybase monday evening . all affected deals
+were then uploaded . nominations were completed for these deals on monday
+through manual estimation by the schedulers .
+communication between the dba group and the application group was delayed on
+the global systems replication problem . this delayed our ability to notify
+users of the problem . communication on problems will be be improved in the
+future . the default assumption will be to notify key application and
+infrastructure personnel as soon as any serious problem is identified .
+2 . we experienced a hardware issue with a bad server cpu at 3 : 00 am on
+thursday . as a result , database backups ran into the morning when the server
+came back up . this created slow system response and delayed logins for users
+until 10 : 00 am . this problem is now fixed .
+action item : kishore will coordinate with randy matson from the
+infrastructure group to coordinate a stress test of all production server
+components . this will allow us to see if we can find any other marginal
+components . this will be completed by september 18 .
+3 . all service pmas for ena and hplc were not picked up by the settlements
+process . hplc pmas were run manually by the users . for ena , missing pmas were
+immaterial and the users decided to close with these results . we have now
+found and fixed the error that caused this problem .
+action item : chris schomer is having his team investigate this problem to
+see if this is just a sybase 12 . 0 issue or whether this error could have
+impacted previous months . a determination should be available by september
+15 .
+4 . enpower deal load did not load deals with referenced prices correctly .
+these deals have now been successfully loaded and are currently completed
+through the mass draft process for power . we have identified and fixed the
+software error that caused this problem .
+5 . power mass draft is now running very slow as compared to prior months . we
+are currently working to complete the power mass draft process . it will be
+completed by the user deadline for close of business wednesday sept . 6 .
+action item : chris schomer ' s team is investigating why the power mass draft
+is running so slow . at present we do not have a definitive answer . we hope
+to develop a definitive answer and action plan by september 15 . our current
+hypothesis for why we have this problem includes :
+data changes - we now have a much higher volume of hourly priced deals
+potential database index issues . we will re - build all power database indexes
+and re - compile the stored procedures
+sybase optimizer flakiness . we often see sybase suddenly start to have
+processing problems for no apparent reason .
+update on future tactical and strategic improvements
+we have several pending tactical unify performance improvements that are in
+process . these include :
+1 ) isolating unify gas on a server of it ' s own
+2 ) delivery of a middle tier mass draft process to reduce locking and blocking
+3 ) upgrade of the middle tier mass draft process to allow for drafting at a
+deal level ( rather than just a counter - party level )
+4 ) delivery of the nominations and balancing process on a middle tier
+architecture .
+ramesh rao and his team have the strategic projects progressing on schedule .
+we are seeing significant performance gains in our testing of sql server over
+sybase . we also have identified a couple of hardware vendors that could
+provide very large , scaleable computing environments for this type of unify
+architecture . we plan to have all critical evaluation testing completed by
+the end of september as planned . we will present our recommendations along
+with a high - level strategic delivery plan by early october .
+let me know if you have any questions or concerns - - x 39694 or ( 713 )
+503 - 4873 .
+thanks .

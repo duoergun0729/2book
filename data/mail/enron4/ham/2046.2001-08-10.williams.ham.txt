@@ -1,0 +1,12 @@
+Subject: forward obligations report issues
+bill -
+following are two glitches the real time group has run across with the forward obs report . as i understand , dave poston is getting set to roll out a new version of enpower position manager , which may eventually take the place of many of the reports we run ( forward obs included ) , but in the meantime these are the problems we ' ve seen . thanks so much for your help on this !
+1 . report not reading two identical strips - when deals are extended in scheduling for the same hours , same volume , same price and same counterparty ( using the same deal number ) , the report only reads one strip . for example , on 8 / 6 / 01 , deal 718320 was previously entered as a sale to the california imbalance for 50 mw he 7 - 12 and two separate but identical strips of 25 mw for he 13 - 22 . the report read all 50 mw he 7 - 12 , but only 25 mw he 13 - 22 . i zeroed out one 25 mw strip and aggregated it with the other so the report would read all 50 mw .
+another example , on 8 / 4 / 01 , deal 718205 is a purchase from ees he 21 - 22 which was also entered as two separate strips of 25 mw each . again , the report read only one of these , and i eventually zeroed out one strip and aggregated it with the other so the report would read a total of 50 mw for those hours .
+due to the nature of real time deal entry - high volume and a lot of deal extension in scheduling - it would be impractical to aggregate volumes within deals that fall in the same hours at the same price . so i ' m hoping this can be remedied by tweaking the report to read strips with identical terms . please let me know if this is feasible .
+2 . report not reading sales at the bc border - this is a new one that cropped up this morning . we made a purchase from a counterparty at the bpa busbar , wheeled the power to the bc border and sold it there . for some reason , although all three deals ( 724366 / 724368 / 724367 ) appear in deal entry and scheduling , the sale at the bc border does not show up in the forward obligation report . after looking into this , i ' ve found no deal entry errors and can only conclude that deal 724367 is simply not pulling into the report . i ' m wondering if this is related to deals done at the bc border , although i don ' t recall seeing this problem before .
+again , please let me know when and if these report problems can be addressed . i look forward to our next conference call . . . .
+thanks ,
+kate symes
+real time trading support
+503 - 464 - 3939

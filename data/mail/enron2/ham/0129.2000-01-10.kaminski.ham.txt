@@ -1,0 +1,65 @@
+Subject: fwd : billing question
+return - path :
+received : from rly - yao 3 . mx . aol . com ( rly - yao 3 . mail . aol . com [ 172 . 18 . 144 . 195 ] )
+by air - yao 5 . mail . aol . com ( v 67 . 7 ) with esmtp ; mon , 10 jan 2000 07 : 03 : 24 - 0500
+received : from abbott . office . aol . com ( abbott . office . aol . com [ 10 . 2 . 96 . 24 ] )
+by rly - yao 3 . mx . aol . com ( 8 . 8 . 8 / 8 . 8 . 5 / aol - 4 . 0 . 0 ) with esmtp id haal 1942 for
+; mon , 10 jan 2000 07 : 03 : 24 - 0500 ( est )
+received : from sunphol . ops . aol . com ( sunphol . office . aol . com [ 10 . 5 . 4 . 200 ] ) by
+abbott . office . aol . com with smtp ( 8 . 8 . 6 ( phne _ 14041 ) / 8 . 7 . 1 ) id haal 1465 for
+; mon , 10 jan 2000 07 : 03 : 22 - 0500 ( est )
+received : from 0 by sunphol . ops . aol . com ( smi - 8 . 6 / smi - svr 4 ) id haa 28403 ; mon ,
+10 jan 2000 07 : 03 : 21 - 0500
+message - id :
+from :
+to :
+date : 01 / 10 / 2000 20 : 04 : 28
+reply - to :
+subject : re : billing question
+dear valued member ;
+thank you for taking time to write us . i apologize for the frustration you
+are experiencing with america online . i appreciate your patience and
+understanding regarding this matter .
+upon reviewing your account record there was a failed transaction on your
+account which was the amount of your subcription to aol annual plan , this
+bill was just been " resubmitted " on your next month billing date . so that we
+can answer your questions and concerns in a timely manner it is requested
+that along with your response , please include your correct last four numbers
+of your current payment method .
+you may of course contact our billing department directly at 1 - 800 - 827 - 6364
+or 1 - 888 - 265 - 8003 toll free number between 6 : 00 am to 2 : 00 am est . seven days
+a week and they will be happy to assist you . i do apologized for any
+inconvenienced this matter has may caused you .
+we hope we have provided you with useful information about your inquiry . if
+you have any further questions , please feel free to write us back . take care
+and wishing you all the best and happiness in life . we greatly appreciate
+your aol membership and customer service is important to us . we hope that
+you were satisfied with the service you have received .
+marvin l .
+customer care consultant
+billing department
+america online , inc .
+- - - - - - - - - - original message - - - - - - - - - -
+from : vkaminski @ aol . com
+to : billingl @ abbott . office . aol . com
+field 1 = wincenty kaminski
+field 2 = 10 snowbird
+field 4 = the woodlands
+field 5 = texas
+field 6 = 77381
+field 7 = 0057
+field 8 = other ( please give details below )
+field 9 = i have just sent you another message . i have inspected the bill
+summary for the last and current months , and it seems that my payment plan
+has been changed by you without my authorization . last year i was on a flat
+annual payment plan ( about $ 220 per year ) , paid in one installment . i did not
+agree to switch to any other plan , unless you asked me a question regarding
+the billing in a vague or deceptive way . i hope that you will look into this
+matter promptly and refund any excessive charges .
+w . kaminski
+field 10 = texas
+field 11 = other - see comments
+x - rep : 822
+x - mailid : 583192
+x - queue : 4
+x - mailer : swiftmail v 3 . 50

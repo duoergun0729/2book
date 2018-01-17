@@ -1,0 +1,7 @@
+Subject: shortcut to capex model
+with rod hayslett ' s help , i put together an easy excel spreadsheet we can use to quickly evaluate capital investment projects . it is set up for pipelines but can be modified for power development too . if you add the inputs in the " yellow " boxes , the model can calcluate the rate you need to make the project viable .
+you can change the debt / equity ratios , targeted roe , and whether the project is new greenfield development or expansion of existing assets .
+let me know if you have questions .
+kh
+click the link below to access the spreadsheet . i also put a copy in the asset development file folder .
+p : \ marketing \ tw _ nng \ tw desk \ capex model . xls

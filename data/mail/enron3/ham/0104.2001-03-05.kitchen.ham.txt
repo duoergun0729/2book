@@ -1,0 +1,7 @@
+Subject: merchant asset reclass in dpr
+we have been asked to reclassify the merchant assets on the dpr . currently , these assets are shown below the total trading line of the dpr , because , as per the risk policy , they should not be considered when assessing trading activities against the trading limits .
+by the end of this week , we plan to show the merchant assets p & l for each group separately under the appropriate business , and then reverse the p & l at the bottom of the dpr to arrive at total trading p & l . currently , there are no plans to allocate merchant asset var or positions separate business units . in order to show total merchant asset p & l , positions and var the merchant asset summary currently at the bottom of the dpr will be retained .
+i am attaching a sample version of the changes discussed above . please call me at x 39123 if you have any questions or concerns about these changes .
+thank you ,
+shona wilson
+director , global risk operations .

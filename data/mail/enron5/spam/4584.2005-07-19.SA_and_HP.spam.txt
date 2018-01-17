@@ -1,0 +1,35 @@
+Subject: failure notice
+hi . this is the qmail - send program at boxl . alhostco . com .
+i ' m afraid i wasn ' t able to deliver your message to the following addresses .
+this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
+:
+sorry , no mailbox here by that name . vpopmail ( # 5 . 1 . 1 )
+- - - below this line is a copy of the message .
+return - path :
+received : ( qmail 50911 invoked by uid 89 ) ; 19 jul 2005 06 : 58 : 25 - 0400
+received : from mxl . candidhosting . com ( helo mx . candidhosting . com ) ( 66 . 230 . 209 . 3 )
+by boxl . alhostco . com with smtp ; 19 jul 2005 06 : 58 : 25 - 0400
+received : from mailwisconsin . com ( 61 - 24 - 158 - 121 . rev . home . ne . jp [ 61 . 24 . 158 . 121 ] )
+by mx . candidhosting . com ( postfix ) with smtp id eal 4 c 2 addb
+for ; tue , 19 jul 2005 06 : 58 : 22 - 0400 ( edt )
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 38190979 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : @ digital - intox . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+startinq at $ 1 . 99 per dose ! unbelivable !

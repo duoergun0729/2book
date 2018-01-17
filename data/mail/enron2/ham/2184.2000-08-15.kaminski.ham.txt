@@ -1,0 +1,56 @@
+Subject: re : info help .
+krishna ,
+niclas introduces himself as an associate in the research group .
+i think we should clarify his status .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 08 / 15 / 2000
+05 : 53 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" michael schilmoeller " on 08 / 15 / 2000 11 : 08 : 06
+am
+to : notes : niclas . egmar @ enron
+cc : vkamins @ enron . com , grant _ masson @ pgn . com , stinson _ gibner @ pgn . com
+subject : re : info help .
+hi niclas ,
+i am in the middle of preparing some presentations right now , so it might be
+more productive to speak by phone ( 503 - 464 - 8430 ) . please leave your number ,
+if you get my voicemail .
+to get you started , you might see if you can get access to the ferc gads
+database of plant forced and planned availability . it seems others in
+research have asked about this , so you may already have this at your
+disposal . the eia has a good electronic database of plant for and por
+available for free ( http : / / www . nerc . com / ~ esd / ) . i know alexios in re / ees has
+this . if you wanted to do it the hard way , you can also ask jaison to access
+the epa ' s cems data he has summarized on a machine there in research . it
+contains hourly plant operation for every unit over about 50 mw , which you
+could aggregate up .
+the wscc 10 - year forecast of new plant construction and loads is a good place
+to start for plant construction information , but suffers from some notorious
+" self - reporting " error . it is available in pdf form from the web site
+http : / / www . wscc . com / . other sources that should be more near - term , but more
+accurate are the cec inventory of plants ( http : / / www . energy . ca . gov / ) and the
+bpa whitebook ( http : / / www . transmission . bpa . gov ) .
+as far as basic economic data is concerned , you can either rely on the
+reported utility forecasts for loads , or you can go to fundamental data . the
+ultimate source of the census data collected by the us dept of commerce ,
+which you can buy on cdrom for cheap . it would have this kind of information
+by sic code , by zip code . you may also have access to one of the economic
+forecasting businesses ( wharton ' s wefa , dri , etc . ) they have this in highly
+digested and complete form .
+btw , tim heizenrader , who runs fundamental analysis and research on the west
+desk , is a sharp cookie and should have all this under control . is your
+client aware of this resource ?
+give me a buzz and we can talk more ,
+michael
+> > > niclas egmar / hou / ees @ enron 08 / 14 / 00 12 : 49 pm > > >
+michael ,
+i ' m an analyst in the research group . i would like your help with finding
+some information specific for the west coast . a new analyst on the west power
+desk needs information on planned outages and planned new generation . he is
+studying the long - term fundamentals of electricity volatility on the west
+coastso so he also needs info on housing starts , computer sales or industrial
+production figures for computer manufacturing , growth of start - up companies ,
+and population stats .
+any help in finding the needed info would be greatly appreciated . contact me
+or daniel kang ( new analyst ) .
+niclas
+- text . htm

@@ -1,0 +1,58 @@
+Subject: gtv project status weekly update
+please find below the weekly project status update of gtv and the attached file for the updated project timelines . changes are underlined .
+gtv status meeting attendees : chuck ames , thu dang , nayan dattani , bill fortney , george grant , jeff gossett , jay krish , francis lim , russ severson , geoff storey , michael swaim , zhiyong wei , jeremy wong .
+accomplishments :
+? incorporating physical deal positions in tds :
+o changes for the view aggregation have been completed .
+o expandable total in cash position has been completed .
+? single point of deal entry for term deals :
+o released to production .
+? gas daily deals :
+o released to production .
+? live feeds for gas daily / intra - month curves :
+o released to production .
+? saving different views in tds :
+o completed .
+? capability for desk roll - ups on an ad hoc basis ( phase 2 , on hold since 7 / 9 / 01 ) :
+o new process for roll - up aggregators has been completed .
+? option grid ( phase 2 ) :
+o released to production .
+? gas daily options ( phase 2 ) :
+o released to production .
+? basis options ( phase 2 ) :
+o development of deal entry type for basis options has been completed in tagg .
+o development of loading correlation curves has been completed .
+o changes to the translator have been completed .
+? transport deal capture & valuation ( phase 2 ) :
+o creation of new deal entry type & database changes has been completed .
+o changes to the translator have been completed .
+? add more information to the drill - down deal details .
+o completed and being tested .
+? new flexible deal viewer .
+o database schema design completed .
+o initial load of active deals from sitara completed .
+o tibco work completed .
+plans for the week ending 08 / 10 / 01 :
+? continue user acceptance test of physical deal positions in tds ( phase i items ) .
+? continue it development of phase ii issues .
+o change portcalc to value basis spread options .
+o option reports ( pl reports ) .
+o complete testing of changes to the translator for transport deals .
+? add more information to the drill - down deal details .
+o user acceptance testing .
+? new flexible deal viewer .
+o continue development of query engine .
+o complete initial loading of active deals from tagg .
+o complete testing of initial load of active deals from sitara .
+o complete gui development of delphi feed to excel .
+o complete development of excel vb .
+o continue schema mapping .
+o start development of update of active deals from sitara .
+o start development of update of active deals from tagg .
+issues :
+? none .
+notes
+? the issue with the new gdi calc for calgary has not been resolved . we are planning to resolve it by this friday .
+? some system issues with the sitara test server affected the user acceptance test of phase i items for a couple of days .
+thanks
+zhiyong

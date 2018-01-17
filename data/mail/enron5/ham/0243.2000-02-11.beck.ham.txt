@@ -1,0 +1,36 @@
+Subject: timesheets for 2 / 15 and use of e - work orders for project hurricane
+just a reminder - timesheets need to be approved by 10 : 00 a . m . on tuesday ,
+february 15 . this is necessary in order to meet the payroll deadline of
+exporting time to eta ( the corporate payroll system ) , which is noon on
+wednesday , february 16 . any timesheets that are not approved by the 10 : 00
+tuesday deadline will automatically be approved by the energy operations
+timesheet coordinator .
+fyi - for the payroll period ending 1 / 31 , there was only 1 timesheet
+outstanding at the established deadline . in the past , there have been as
+many as 100 ( which represents a little more than 25 % of the energy operations
+headcount ) . thanks for your help and support . i know that the assistants
+all appreciate your help in meeting this deadline .
+a lot of you may not be affected by project hurricane . if you don ' t know
+anything about it , then you probably aren ' t affected by it ! in any event , we
+have set up 2 new e - work orders in the org database for project hurricane .
+they are as follows :
+e - hurr ( should be used to capture all time spent on the ongoing support for
+project hurricane )
+e - hset ( should be used to capture all set - up costs )
+both of these work orders are set up and can be used for the 2 / 15 pay
+period . however , the following steps must be taken for your employees to use
+the ates system and code their time to these work orders :
+managers - identify employees within your rc that will need to charge time to
+either or both of these work orders . please let your assistants know who
+these employees are .
+assistants - based on the information you receive from your managers , you
+must add 1 or both of the work orders to each employee ' s profile in the org
+database so that they are able to charge time to the work order in ates .
+assistants - for each time site you are responsible for , you must be sure to
+add this information to eta . if you aren ' t sure how to handle this , please
+contact kim perkins asap at x 3 - 5304 .
+thank you in advance for your cooperation in getting timesheets processed in
+a timely manner . please be sure to share this information with your staff if
+you haven ' t already done so . if you have any questions on the timesheets or
+the work orders , please contact me at x 3 - 6343 .
+lisa cousino

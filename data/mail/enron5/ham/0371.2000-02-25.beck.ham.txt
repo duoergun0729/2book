@@ -1,0 +1,64 @@
+Subject: update . . . while you were out
+just wanted to catch you up on the events over the past week . . . . and a couple
+of things i want to talk to you about next week
+reporting :
+it has been a continual challenge as you well know . the good news is the
+individual from ees ( chris luttrell ) accepted jay ' s offer today and he is
+going to start on march 3 .
+that said , i talked to chris today and filled him in on where we are and what
+we want to accomplish . he feels our best option will be oracle .
+to ensure we are prepared for his arrival next monday , we are preparing the
+detail of what we are doing today , both our assumptions and all of the
+various data sources for our current management reporting
+also , dave and i met with wanda and georgeanne on tuesday regarding revenue .
+i believe dave sent you an update of this meeting . we are meeting with
+georgeanne today to go over our assumptions , conversions , etc . to ensure that
+we are consistent with those conversations in the annual report , and to
+ensure that we are capturing all of the enron data
+customer database - we have been fine tuning this all week , and i think we
+are about there . there are still some minor differences , but we are working
+to sort through these today ( everyone is involved in the tie out ) . i will
+review the new report format with you on monday and we will start sending
+this out then .
+we also have an access person that is working on improving our current
+database since we will have to live with this in the short term .
+trading activity :
+it seems that we are seeing an increase in customers wanting to modify eol
+deals for various reasons ( one being web latency . . . they are claiming that the
+deal did not show up on their transaction summary , so they thought it did not
+go through , and they did another deal . . . and this first deal appeared sometime
+later ) . we have continued to emphasize the importance of not changing these
+deals after they are completed , but despite this , it is still happening . i
+am going to try and track down jeff shankman this afternoon to discuss .
+we are also seeing more and more customers trading under the wrong
+entities . . . for example , aquila risk mgmt is executing physical deals , when
+they should be only executing financial deals . from my understanding , we
+have " left the door open " for them to trade either way and are relying on
+them to trade under the correct counterparty . this is causing several
+problems downstream . . for instance , customers are wanting ena to send modified
+invoices with the name of the correct counterparty ( despite the fact that
+they were the ones transacting under the wrong entity ) . we need to discuss
+how leaving this door open affects our downstream processes .
+other :
+i talked to both dave and bob yesterday to ensure that we were in the loop on
+new products , etc . to ensure that we are better prepared for the launch of
+new products ( e . g . credit derivatives ) .
+help desk news . . . matt m . accepted a position with the remedy development
+team . we are going to move noel ( he works nights ) to the day shift to take
+over matt ' s role . donna assures me that he is very good . sandy rivas also
+wants to leave the group . we should be able to handle the volume of calls
+without replacing them . i need to go over some call statistics with you next
+week . we have not received one phone call from a customer on the weekends ,
+and we receive less than . 1 calls per hour between the hours of 7 pm to
+midnight . i think we can get away with eliminating weekends , and using on
+call pagers from 7 to midnight .
+one question - we currently are considering ees an external counterparty and
+enron canada an internal counterparty . we are now trading with bridgeline
+gas marketing ( joint venture with texaco - 40 % ownership ) . we need to
+determine what we are considering internal vs external . i would think these
+would be external due to the fact that these are settled transactions . . . any
+thoughts ?
+i know this is a lot of info , but i also know you are going to be in high
+demand on monday !
+i hope you are enjoying your ski trip ! ! !
+sheri

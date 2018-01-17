@@ -1,0 +1,35 @@
+Subject: upcoming discretionary var limit changes
+per discussion with ted murphy and rick buy , the following policy limit
+changes are anticipated . note : these are subject to change given market
+volatility .
+ees - $ 2 mm discretionary var expiring on 12 / 22 / 00 - - - - - - - - - - - - - - - - - - - - - - - - >
+extended through 1 / 5 / 01
+aggregate var limit of $ 140 mm - $ 40 mm expiring on 12 / 22 / 00 - - - - - - - - - - >
+expires after 12 / 22 / 00 - reduced to permanent aggregate var limit of $ 100 mm
+na gas - $ 35 mm discretionary var expiring on 12 / 22 / 00 - - - - - - - - - - - - - - - - - - >
+expires after 12 / 22 / 00 ( with reduction in aggregate var limit to $ 100 mm )
+uk power - $ 5 mm discretionary var expiring on 12 / 22 / 00 - - - - - - - - - - - - - - - - >
+expires after 12 / 22 / 00 ( with reduction in aggregate var limit to $ 100 mm )
+na gas - $ 15 mm discretionary var expiring on 12 / 22 / 00 - - - - - - - - - - - - - - - - - >
+extend $ 10 mm through 1 / 5 / 01
+- - - - - - - - - - - - - - - - - > reallocate $ 5 mm to uk power through 1 / 5 / 01 .
+therefore , the following var limits are / will be in place :
+now - 12 / 22 / 00 12 / 23 / 00 - 1 / 5 / 01 1 / 6 / 01
+ees $ 7 mm $ 7 mm $ 5 mm
+na gas $ 110 mm $ 70 mm $ 60 mm
+uk power $ 20 . 3 mm $ 20 . 3 mm $ 15 . 3 mm
+aggregate var limit $ 140 mm $ 100 mm $ 83 mm
+vlady / frank - ted told lavorato the na gas information on friday .
+vlady / minal - nothing to my knowledge has been communicated to ees yet . you
+can check with ted to see if he did already .
+oliver , please communicate the anticipated limit changes for uk power to the
+commercial and risk management / energy ops people who need to know . if an
+extension is needed in the discretionary var , at this point an analysis and
+presentation will be required to justify the extension to get rick buy and
+ted murphy to approve .
+feel free to call me with any questions . i ' m out on vacation this week , but
+can be reached at home or on my cell phone .
+happy holidays ,
+cassandra .
+home 936 321 2185
+cell 713 858 2618

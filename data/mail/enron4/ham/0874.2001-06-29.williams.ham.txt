@@ -1,0 +1,11 @@
+Subject: el paso schedule for 7 / 1 and 7 / 2 - extremely problematic
+this sheet is as complete as possible , and i am worried about it due to the following circumstances ;
+1 . the dispatch sheet that comes to real time was 25 mw flat on sunday and llh on monday more than all the preschedules that were tagged today .
+2 . the four corners values on that dispatch sheet changed between 5 : 15 and 5 : 42 , from 10 mw long to flat . i tried to resolve the four corners schedules with psco , who
+told me they did not have a purchase from epe in july . i tried calling numerous people at their office and cell phone numbers and got forwarded to enron each time . lisa had a buy resale with pnm at four corners , but that booked out and did not seem to match the 10 long that i saw in the dispatch sheet . i spoke with pete , who assured me that the sale to psco was good for the summer .
+3 . i still was unable to resolve the 25 mw difference between the tags and schedules that we knew , and what the dispatch sheet said we should have for preschedule . no epe representative was available to tell me what they were expecting for the schedules , and i was referred by a dispatch person to call on saturday and speak to carlos when he came in at 4 pm . i was very uncomfortable doing this , and so in my desperation called roger at home , who after some discussion with steve at his home confirmed that the extrat 25 flat sunday and llh monday was a deal that is supposed to begin on july 3 . i trust his assesment , and have removed the extra schedule from the sheet .
+between all of the preschedulers today at enron , we have spent over 6 hours dealing with the epe schedules today .
+the sheet is as complete as i possibly can find justification for .
+cara semperger
+west power scheduling
+503 / 464 - 3814

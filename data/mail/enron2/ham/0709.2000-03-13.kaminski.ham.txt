@@ -1,0 +1,16 @@
+Subject: daily rates - jackups
+john :
+claudio put together a spreadsheet for cheking the change on a composed
+jackup index against the change on individual categories of jackups and
+semis . he did not weighted the index because we think we will benefit from a
+simpler index price calculation by taking the straight average .
+the results show a good r - square between the general index and individual
+jackup categories - on the range of 0 . 7 - 0 . 8 . only one category displayed a
+poor r - square - about 0 . 3 . for semis of 4 tht and 5 th generation , however , we
+noticed a degradation on the hedge effectiveness - r - squares about 0 . 2 - 0 . 3 .
+you may verify each regression by changing the choice cell ( ax 2 on analysis ) .
+claudio is also starting to analyze how gas and crude past moving averages ,
+12 month swaps on gas / crude , and rigs utilization explains the daily rates .
+we will forward the results as soon as we finish .
+please call me or claudio if you have questions .
+paulo issler

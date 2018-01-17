@@ -1,0 +1,26 @@
+Subject: sap expense report form
+with the implementation of sap , the employee expense report form has been
+modified to reflect the new coding system . the procedures for its use are
+unchanged , but there are some cosmetic differences . one item to note : the
+form no longer requires entry of your social security number ; instead use
+your new personnel number assigned through human resources ( see
+http : / / hrweb . enron . com ) . for electronically submitted expense reports , enter
+the same number on the receipt envelope .
+the form is now available at the sap website . to access the form :
+from the enron home page , go to the sap intranet site http : / / sap . enron . com
+choose one of the following paths :
+click on quick reference tools on the left menu
+click drop - down arrow for accounts payable forms
+click sap expense report form
+click on forms and procedures library on the left menu
+click drop - down arrow for accounts payable forms
+click sap expense report form
+wait for it to load
+click enable macros ( or yes , allow macros )
+after you enter the data , save as excel workbook ( . xls file extension ) with a
+new filename . do not save as excel template ( . xlt extension ) .
+you may print the spreadsheet for submission to accounts payable , or attach
+it to notes for electronic submission . instructions are available at the
+website , on the same drop down box as the form .
+if you have any questions , contact the center of expertise ( coe ) at 713
+345 - 7427 .

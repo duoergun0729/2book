@@ -1,0 +1,74 @@
+Subject: mg middle office integration : weekly newsletter
+fyi -
+also , mike and i are working with tim to integrate the mg dpr into ours .
+regards
+- - - - - - - - - - - - - - - - - - - - - - forwarded by shona wilson / na / enron on 07 / 07 / 2000 07 : 47
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+tim poullain - patterson @ ect
+07 / 07 / 2000 02 : 50 am
+to : ect european middle office
+cc : richard sage / lon / ect @ ect , phil redman / lon / ect @ ect , beth
+apollo / lon / ect @ ect , stephen wood / lon / ect @ ect , michael heap / lon / ect @ ect , alex
+holland / lon / ect @ ect , andrew cornfield / lon / ect @ ect , naomi connell / lon / ect @ ect ,
+fernley dyson / lon / ect @ ect , eric gadd / lon / ect @ ect , scott earnest / hou / ect @ ect ,
+bruce garner / corp / enron @ enron , amita gosalia / lon / ect @ ect , lara
+fields / hou / ect @ ect , fiona grant / lon / ect @ ect , tani nath / lon / ect @ ect , janine
+juggins / lon / ect @ ect , andrea m kerch / lon / ect @ ect , lloyd fleming / lon / ect @ ect ,
+barry sangster / lon / ect @ ect , shona wilson / na / enron @ enron , brent a
+price / hou / ect @ ect
+subject : mg middle office integration : weekly newsletter
+hi ,
+welcome to the first of a series of weekly mg bulletins informing you of
+progress with the integration .
+so , what  , s happening ?
+1 ) status of acquisition :
+two days ago enron reached a key threshold of 90 % acceptances for our
+previously announced " conditional " cash offer .
+under take - over rules , this means that we can now nominate the date from
+which our offer goes " unconditional " and from which we will have " effective
+control " - for legal , tax and treasury reasons that date will probably be
+sometime during the week 17 th - 21 st july .
+the " effective control " date should not be confused with the date from which
+mg plc results will be " consolidated " with those of enron europe - for
+practical reasons we actually have some discretion which date we chose to
+consolidate from , within the range lst july to lst august .
+various groups of enron personnel are engaged in the integration effort and
+richard sage is co - ordinating on behalf of fernley dyson - the reason i am
+sending out this bulletin is that mike has asked me to co - ordinate the
+integration of the middle office !
+2 ) this week
+enrononline initiative - coincidently , at around the same time that enron
+launched eol , mg launched their own internet trading platform for base metal
+products . there has been a lot of discussion about how we move mg ' s internet
+based business over to enrononline in order to be able to offer our
+burgeoning eol client base a fuller range of products . however , as a first
+step this week we launched three new base metals products , not previously
+traded by mg , on enrononline and so on monday we did our first base metals
+trades !
+using the " doorstep " format , brent price is leading a controls review to help
+us assess operational risks , and generally focus on the areas that we need to
+think about as we get nearer to consolidating mg ' s business with our own .
+a detailed valuation review was kicked - off yesterday to ensure that mg ' s
+valuation and reserving methodology is consistent with our own .
+today a project team is being assembled to figure out how to migrate mg to
+sap . given our experience of lst october and lst july go - lives this should be
+a piece of cake ! !
+3 ) next week
+on monday we will be presenting the enron model to mg to help them understand
+where we are coming from ! this will involve stepping them through our
+definition of roles & responsibilities for each of the functional groups that
+make up the front , middle and back office , and introduce them to the various
+enron people who will be responsible for helping mg to transition to this
+model over the coming months .
+4 ) out there somewhere . . .
+the plan is still to move the entire london based mg business into enron
+house in mid - september though we may find some mg staff joining us before
+then . mg run a fairly lean operation and the integration effort will require
+enron people on the ground to ensure that the ongoing business is not
+adversely hampered as certain business processes are adapted to our model .
+this will inevitably lead to new opportunities for people to move across to
+the base metals business and visa versa . . .
+the above is a fairly concise summary so if you ' d like more information
+please feel free to call me directly on x 34264 .
+regards ,
+tim

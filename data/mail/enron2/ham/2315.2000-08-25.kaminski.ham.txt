@@ -1,0 +1,62 @@
+Subject: re : henwood query
+good talking with you this morning . by all means , talk to grant masson about
+who else is using the henwood model within enron .
+attached are the workbooks i mentioned . the " details of jan and july . xls "
+workbook contains the resulting listing from the query i gave you yesterday
+and you can see how the supply curve was created from that . the supply curve
+becomes nonsense at points for reasons i believe are related to reliability
+commitment constrants , instead of pure economic dispatch , and to the
+aggregate reporting problem i described in my note yesterday .
+the workbook " supply curve . xls " has the simplistic , average supply curve i
+mentioned , constructed from fuel and vom costs . depending on the question
+you are trying to answer , it may be an approach to consider .
+the henwood contacts i had in mind are :
+tao guo , phd , senior " algorithmist " ( 916 - 569 - 0985 )   the one i was thinking
+of
+wenxiong huang , phd senior project consultant ( 916 - 569 - 0985 )
+ajit kulkarni , phd , software product manager ( 916 - 569 - 0985 )   more a trainer ,
+but sharp
+cosimo coscia , senior consultant ( south australia ) 618 - 8357 - 1244   very
+resourceful
+wade schauer , staff consultant , ( 916 - 569 - 0985 )   best for questions about
+emss per se
+all have emails , of course . template : tguo @ hesinet . com
+also , if you can not get satisfaction , contact eric toolson , vp
+( 916 - 569 - 0985 ) . he has a laconic style , but is very focused on customer
+satisfaction and retention . and he has the pull to make things happen .
+regards ,
+michael
+> > > karolina potter / lon / ect @ enron 08 / 24 / 00 07 : 08 am > > >
+michael ,
+i am an analyst in paul mead ' s continental power trading group in london . i
+am currently working on the project , which requires the use of emss , and
+experience some difficulties interpreting the output results . steven leppard
+from our research group gave me your name as an expert in this system and
+consequently the person to contact in case of problems .
+i have been running simulations for the dutch market and was asked to provide
+the traders with some front - end screen graphs in order to interpret the
+numerical results . one of the graphs is to show an hourly generation stack
+and system ' s marginal cost , as we only run cost based scenarios . to sort each
+station ' s hourly generation i need its marginal cost . to my knowledge though ,
+marginal cost is only generated for a systems marginal unit ( transarea
+marginal units query , marg _ cost unit ) . therefore i was sorting the stations
+according to the cost which i calculated based on the outputs from station
+detail by hour query . the calculation was as follows :
+for each hour , for each generating station :
+" marginal cost " [ o / mwh ] = ( generation _ cost [ oo 00 ] * 1000 ) / generation [ mwh ] -
+vom _ cost [ o / mwh ]
+this i thought would include fuel cost and start up costs . however , a
+marginal station which i get on the stack as a result of the above
+calculation is not a station given in marginal station field in transarea
+marginal units query . i have also looked into transarea _ data _ hr table and
+transarea _ data table but non of the costs there match my results .
+do you happen to know what formula is used to determine marg _ cost and which
+outputs i should be using to obtain the right results ?
+it might be easier if we could discuss this issue on the phone . in this case
+could you please send me your direct telephone number . i am struggling
+understanding what is going on and would appreciate your help very much .
+regards
+karolina
+- text . htm
+- details of jan and july . xls
+- supply curve . xls

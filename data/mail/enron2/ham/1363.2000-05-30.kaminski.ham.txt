@@ -1,0 +1,59 @@
+Subject: re : hello from london
+zimin ,
+i have a copy of the article .
+i agree with you . the model is
+essentially the same ( in intentions ) .
+i shall distributed the copy of the paper
+to the trades here . it explains
+well the logic behind the model and it ' s
+an independent source .
+vince
+zimin lu
+05 / 30 / 2000 10 : 44 am
+to : vince j kaminski / hou / ect @ ect
+cc : stinson gibner / hou / ect @ ect
+subject : re : hello from london
+vince ,
+i got the article . i can make a copy for you when i get back .
+the article is pretty much for marketing purpose . my reading
+from that paper is as follows :
+1 . solve optimal exercise bounday using stocastic dp ;
+2 . runing price trajectory to tracking storage level to give average storage
+cycling ;
+our model addresses the same issues , althrough maybe the implementation is
+not quite the same .
+i will fax to you if i can find the article here .
+regards ,
+zimin
+vince j kaminski
+05 / 30 / 2000 09 : 56 am
+to : zimin lu / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect
+subject : re : hello from london
+zimin ,
+there was an interesting article on gas storage modeling
+by people from camminus in the march issue
+of energy and power risk management .
+please , see if you can get this article .
+vince
+zimin lu
+05 / 30 / 2000 04 : 59 am
+to : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect
+cc : anjam ahmad / lon / ect @ ect
+subject : hello from london
+vince and stinson ,
+i am in the london office this week . things are quite nice here . my host
+anjam arranged a full itinerary for me .
+tuesday is reserved for anjam to talk about various subjects including
+inflation modeling , power vol curve ,
+mean reverting price & vol model , and i will talk about the spot and
+multi - factor models , xll . wednesday , i
+will concentrate on the gas storage model with natasha danilochkina .
+thursday and friday i will talk to
+haakan olafsson , mark jones , anjam , and natasha about uk gas forward curve
+simulation , gas swing model ,
+and implementation issues of uk virtural storage model . i will give you a
+full report when i get back .
+it is cold and rainy here in london . it makes me feel sunny and hot houston
+actually is not that bad .
+zimin

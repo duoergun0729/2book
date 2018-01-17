@@ -1,0 +1,6 @@
+Subject: returned mail : host unknown ( name server : - - - - - - . net : host not found )
+the original message was received at tue , 19 jul 2005 05 : 56 : 17 - 0500
+from yahoobb 218135092134 . bbtec . net [ 218 . 135 . 92 . 134 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+- - - - - transcript of session follows - - - - -
+550 . . . host unknown ( name server : - - - - - - . net : host not found )

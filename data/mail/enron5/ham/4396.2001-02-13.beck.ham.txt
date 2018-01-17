@@ -1,0 +1,88 @@
+Subject: na gas and power limits
+the enron bod approved the some limit changes today , effective for trading
+day tuesday , february 13 , 2001 , consistent with the risk management policy ' s
+intent to provide a trading limit framework whereby management can review
+enron ' s consolidated exposure to commodities . to faciliate the aggregation
+and reporting of enron ' s consolidated exposure to commodities , the limit
+structure was modified to provide for aggregation of north american natural
+gas and electricity , with ees ' s na gas and power positions included , and with
+a separate business unit sub - limit for ees .
+policy amendments were as follows :
+u clarify the cross - commodity trading policy to specify that trading limits
+are to be applied against enron  , s consolidated commodity positions on an
+individual commodity group basis ; enron  , s consolidated daily position report
+should provide required market risk disclosures by primary commodity group ;
+( for example , enron  , s exposure to the north american natural gas market shall
+be aggregated across the company ) .
+ ) delegate cross - commodity trading approval among established commodity
+groups to the respective business units offices of the chairman , with
+appropriate reporting to the enron corp . chief risk officer .
+u specify the operational control requirement that all trades executed over
+the telephone must be recorded electronically .
+cross - commodity trading authority was not automatically pre - approved for
+anyone in the company . authority to trade a commodity for which you are not
+the authorized trader must be obtained from the business unit office of the
+chairman for the commodity group that is authorized to trade that commodity ,
+with appropriate reporting as noted below .
+north american cross - commodity limits
+var limit none ( terminated the $ 5 mm var limit )
+north american natural gas
+net open position 500 bcf
+maturity / gap risk limit 200 bcf
+var limit $ 61 mm ( ees - $ 1 mm ) * *
+north american electricity
+net open position 90 twh
+maturity / gap risk limit 25 twh
+var limit $ 54 mm ( ees - $ 4 mm ) * *
+* * ees ' s $ 5 mm var was allocated between gas and power for purposes of
+calculating consolidated na gas and power limits . from a business unit
+perspective , the $ 5 mm var limit will continue to be monitored for ees in
+total .
+below are relevant excerpts from the revised policy addressing the
+cross - commodity trading guidelines . i will distribute the entire updated
+policy as soon as we incorporate the bod ' s comments .
+v . operations and controls .
+b . position reporting . " . . . for purposes of limit monitoring and aggregation
+of enron  , s consolidated trading results , enron  , s consolidated daily position
+report should include the net open position , maturity / gap position , profit or
+loss , and potential exposure ( var ) for approved commodity groups consolidated
+across the company without regard to which business unit undertook the
+trading activity . in those instances where limits are granted to a business
+unit for a basket of commodities , reporting for individual commodity risk
+books shall be maintained to facilitate aggregation of enron  , s actual
+consolidated commodity specific exposure . management reporting may
+separately provide business unit sub - limit monitoring and trading results
+aggregated according to management lines . "
+e . transaction approval and execution . " only those employees designated by
+the enron corp . chief risk officer or his designee ( s ) will be authorized to
+enter into transactions on behalf of enron . the chief risk officer must also
+maintain a record of those employees responsible for the individual commodity
+groups ( commodity group manager ) as specified in the appendices . individuals
+will be assigned as commodity leaders to manage enron  , s aggregate position
+across the company as determined necessary by the chief risk officer . . . "
+vi . policy amendment authority
+b . cross - commodity position authorization . if in the ordinary course of its
+business an enron business unit or trading desk incurs an exposure to an
+underlying commodity or financial instrument for which it does not have
+explicit authority to carry , this exposure should be hedged internally with
+the appropriate enron desk ( s ) , with appropriate notification to the chief
+risk officer or his designee ( s ) . hedge positions should be in instruments
+that have an observable correlation with the underlying exposure , and should
+be rebalanced regularly to substantially neutralize the underlying exposure .
+upon notification to the chief risk officer or his designee ( s ) , the enron
+business unit office of the chairman who has authority for that commodity
+group may authorize a specific trader in a different commodity group to take
+speculative positions with other enron trading desks in commodities and / or
+financial instruments other than those which that trader has explicit
+authority to trade ( i . e . the business unit office of the chairman for north
+american natural gas may authorize a trader in the coal group to trade gas
+with the north american natural gas desk ) . for limit monitoring purposes
+of enron  , s consolidated trading results , these cross - commodity positions
+shall be captured by individual commodity to facilitate aggregation and
+reporting of enron  , s consolidated exposure by commodity in the daily position
+report ( coal desk  , s gas position will be aggregated with the north american
+natural gas commodity group . )
+if you have any questions , feel free to call vlady at x 36954 , me at x 30429 ,
+or david port at x 39823 .
+regards ,
+cassandra schultz .

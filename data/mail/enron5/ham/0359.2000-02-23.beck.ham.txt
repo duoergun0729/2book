@@ -1,0 +1,75 @@
+Subject: unify ar - - sap plans
+here it is . the block in the middle summarizes the change in business
+situation over the last two years .
+stephen
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stephen p schwarz / hou / ect on 02 / 23 / 2000
+02 : 34 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : stephen p schwarz 02 / 18 / 2000 04 : 17 pm
+to : bryce baxter / hou / ect @ ect , lisa csikos / hou / ect @ ect , rita
+wynne / hou / ect @ ect , mechelle stevens / hou / ect @ ect , susan harrison / hou / ect @ ect ,
+brenda f herod / hou / ect @ ect , brent a price / hou / ect @ ect , melissa k
+ratnala / hou / ect @ ect , leslie reeves @ ccmail , evelyn aucoin / hou / ect @ ect , laura e
+scott / cal / ect @ ect , cheryl dawes / cal / ect @ ect
+cc : melissa white / hou / ect @ ect , dorothy ricketts / hou / ect @ ect , kimberly
+perkins / hou / ect @ ect , trang le / hou / ect @ ect , christy sweeney / hou / ect @ ect
+subject : unify ar - - sap plans
+two years ago enron north america made a decision to use unify ar for cash
+application rather than sap ar . we decided at the time that sap ar would be
+kept in sync with unify ar by the unify / sap interface . we believe that the
+business logic for that decision has changed , and are now recommending that
+unify ar be permanently turned off and all ar functions be performed in sap .
+i have briefly summarized the change in business situation below .
+two years ago today
+netting allowed by legal and credit only if netting contract was already in
+place . netting encouraged by legal and credit wherever possible , regardless of
+existence of signed agreement .
+netting limited to one counterparty and legal entity at a time . canada nets across
+counterparties .
+netting performed in physical only , financial settlements to maintain
+separate net statement process . ena considering netting physical and financial
+together .
+all account coordinators were to apply their own cash . cash applied centrally in
+power , financial and canada individual coordinators apply cash only in
+physical gas .
+cash was to be applied at the line item level to track variances and to
+facilitate calculation of cost of funds by commercial team . cash is not being
+applied meaningfully at the line item level . the company has not made any
+move towards calculating cost of funds by commercial team .
+the account inquiry functionality in unify was thought to be a key on - line
+tool . old habits die hard . . . most users appear to be printing reports and reviewing
+data , rather than using the on - line functionality .
+overapplication of cash was not to be allowed . overpayments would be
+classified as " on account " , with issues tracked in a case management system . case
+management system does not exist . allowing overapplication helps the account
+coordinators track overpayments easier than leaving cash on account .
+the counterparty / legal entity combination on the deposit needed to match the
+counterparty / legal entity combination on the enron invoice . given the number of legal
+entities enron has , along with the number of entities our counterparties
+have , this seems like a hopeless battle . allowing cross - application of cash
+seems easier .
+corp required that intercompany settlements had to be " settled " with cash
+movement . corp no longer requires intercompany settlements to be " settled " with cash
+movement .
+converting to sap ar simplifies the unify / sap interface in the following ways :
+bank deposits into sap do not have to be split off into unify
+cash entries in unify do not have to be interfaced back to sap
+unify netting entries do not have to be interfaced to sap
+payables information does not have to be interfaced from sap to unify
+given the change in attitudes towards our netting business process we face
+two problems in unify .
+controls built into unify are already obsolete .
+unify does not maintain all products in one database , making efforts to net
+across products in the future ( physical with financial , for instance )
+impossible .
+our understanding of the netting process in sap indicates that there are no
+controls ( which sounds good at this point ) and that we would retain the
+automatic netting entries when the payable is netted with the receivable
+within sap . however , we emphasize that netting would be done in sap , not at
+the time of finaling a payment in unify .
+to repeat , we are recommending that unify ar be turned off and we convert to
+sap ar . we will schedule a meeting the week of february 22 to discuss .
+please call me at x 33179 with any questions or comments . we will make this
+decision by february 28 because the sap timeline does not allow any
+additional time for consideration .
+stephen

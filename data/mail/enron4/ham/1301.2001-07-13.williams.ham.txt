@@ -1,0 +1,27 @@
+Subject: continuing testing of preschedule workspace , path confirmation and
+path cut software
+i am working in the target date of june 20 th . today i added schedules from palo verde and the entire midc sheet to the testing group . once cob is added , we will have pretty much an average daily volume .
+here is my attached worksheet for mid c
+in preschedule workspace :
+i added palo verde to the group of deals imported , and ran a total of 37 lines into the path confirmation . the rest of the sheet was all bookouts , and so i marked them for routing only . i do like the feature of being able to exlude the majority of deals from the path confirmation . this will make the app much faster and less cumbersome for real time and settlements .
+i would like the option of printing the error sheet when it comes up , as the lists can be long , and i have to make notes on what is wrong . also being able to check for errors before running the sheet would save us lots of time . we currently have a function that checks that all names are recognized before the sheet is imported to paths . this would give us the opportunity of correction before running the sheet , instead of cleaning up afterwards .
+routing functionality question : if we change a delivery point in scheduling ( bpa nw delivered gets moved and changed every day ) , do these changes not route because the deal entry strip has the original delivery point ? these types of deals route now , i would like to duplicate that existing functionality . i did get an error message on those lines , " capability not supported : deal has multiple delivery points " please see the attached sheet , there is a batch of them line 76 thru 86 , but it is all deals that are our bpa northwest delivered .
+the routing speed is excellent . one second per line or less all the way in portland on local enpower ! the megawatts also appear to split properly between mis - matched deal amounts ! this is very encouraging . my palo data was corrupted , so my primary focus for checking routing will be the other delivery points .
+my plan is to attack the alias stuff from a different angle . we are going to work with the team that sets the enpower " short name " to something that is workable . i would like to make a new path of approval where the schedulers help set that enpower short name .
+in path confirmation
+the early sorting looks good , things look very versatile and useable .
+yesterday i identified several problems :
+1 . the entire path needs to be shown in both counterparty paths . currently only the upstream or downstream shows depending on if you are looking at the supply cp or the market cp .
+2 . the alias list is not functioning properly . the enpower long name needs to be shown in the collapsed counterparty view , along with the phone number and a check box to indicate if we check out with the cp .
+3 . confirming the deals needs to be done as a batch , not pulling up each deal line by line .
+today , i am finding the following :
+1 . when a path is pulled up from the line view to the expanded view , the system blows away the schedule term and the delivery point . these fields have to be re - populated before saving can occur .
+2 . i am not allowed to sort by global id , even though global ids are populated there . my idea is that if there is a global present it goes in one section , no globals go in another section , and then expaning on the global section gets the individual numbers . ( just like the phys vs . non phys ) .
+3 . pulling up an individual path from line view to expanded view takes over 2 minutes . this is to long to be practical in production for real time . i would like to see this time go to 5 seconds or less .
+4 . all paths are showing up as being cut ( cut checkbox checked ) , even though none have been cut yet .
+5 . the grey on grey color scheme is not going to work , but that is a little thing . lighter colors for the back ground are going to be preferable . variations of the beige color are easier to read .
+6 . the path cut button and dialog boxes i think are going to need alot of work . it looks like i will have to do all the enpower work first , and then populate the cut . this is a bit different than we discussed . my plan is to take this as far as i can , and then hand it over to bill williams iii and his group for final ' tweaking ' .
+7 . i also cannot sort by tag number . we need that .
+thank you all for your work on this , it is really looking good .
+i have to schedule on monday , but will jump right back in when i am finished with daily tasks .
+cara

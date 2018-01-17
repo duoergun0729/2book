@@ -1,0 +1,9 @@
+Subject: request submitted : access request for stewart . range @ enron . com
+you have received this email because you are listed as a data approver .
+please click
+approval to review and act upon this request .
+request id : 000000000007874
+request create date : 11 / 20 / 00 2 : 34 : 59 pm
+requested for : stewart . range @ enron . com
+resource name : eol us risk management application product data manager
+resource type : applications

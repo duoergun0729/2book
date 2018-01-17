@@ -1,0 +1,21 @@
+Legitimate
+----------
+- Owner: lokay-m
+- Total number: 1500 emails
+- Date of first email: 2000-06-06
+- Date of last email: 2002-03-25
+- Similars deletion: No
+- Encoding: No
+
+
+Spam
+----
+- Owner: BG
+- Total number: 4500 emails
+- Date of first email: 2004-08-01
+- Date of last email: 2005-07-31
+- Similars deletion: Yes
+- Encoding: No
+
+Spam:Legitimate rate = 3:1
+Total number of emails (legitimate + spam): 6000

@@ -1,0 +1,19 @@
+Subject: enron , india database
+sandeep ,
+?
+below , i have summarized henwood ' s work on the india database to date .
+?
+the " inter _ regional links . ppt " file shows the topology and links between
+bubbles in the our model and " expand _ india _ data _ 011000 . xls " details the
+existing station information that we have compiled to date . ? total resources
+closely match reported resources as shown in " l & r _ 0110 . xls " . reported india
+total in 1997 is 86 , 000 mw and that in the henwood database is 84 , 000 mw
+through 1997 .
+?
+region
+emss database
+reported [ 1 ]
+difference
+- inter _ regional links . ppt
+- expand _ india _ data _ 011000 . xls
+- l & r _ 0110 . xls

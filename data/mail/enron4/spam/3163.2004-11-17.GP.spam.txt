@@ -1,0 +1,107 @@
+Subject: ebay account information
+html head titleupdate your account / title meta
+http - equiv = content - type content = text / html ; charset = iso - 8859 - 1 / head
+body bgcolor = # ffffff br table width = 600 border = 0
+cellspacing = 0 cellpadding = 0
+tr height = 0
+td width = 0 / td
+td width = 300 / td
+td width = 300 / td
+/ tr
+tr
+td width = 0 / td
+td valign = top colspan = 2 width = 600 col = 1
+table cellspacing = 0 cellpadding = 0 width = 600 border = 0
+tr
+td colspan = 7 a target = _ blank
+al = puserid = errmsg = usingssl = 0 runame = siteid = 0 img height = 101
+width = 131 border = 0 / aimg height = 101
+width = 469 / td
+/ tr
+tr
+td / td
+td valign = center align = left colspan = 5 / td
+td / td
+/ tr
+tr
+td
+center
+font face = arial , helvetica , sans - serif size = 2 br
+it has come to our attention that your ebay billing updates
+are out of order . if you could please take 1 - 2 minutes out of your online
+experience and update your billing records you will not run into any
+future problems with the online service . however , failure to update your
+records will result in account termination . please update your records .
+br
+br
+br
+once you have updated your account records your ebay session
+will not be interrupted and will continue as normal . failure to update
+will result in cancellation of service , terms of service ( tos ) violations
+or future billing problems . br
+br
+to update your ebay records now click here : br
+a target = _ blank
+http : / / cgil . ebay . com / aw - cgi / ebayisapi . dll ? update / a br
+br
+br
+/ font
+/ center
+/ td
+/ tr
+tr
+td valign = top align = left colspan = 7
+table cellspacing = 0 cellpadding = 0 width = 600 border = 0
+tbody
+tr
+td align = right / td
+/ tr
+/ tbody
+/ table
+/ td
+/ tr
+tr
+td colspan = 7
+table cellspacing = 0 cellpadding = 0 width = 600 border = 0
+tbody
+tr
+tdimg height = 34
+width = 26 / td
+td width = 285
+bgcolor = # ffffff height = 34 font face = arial narrow size = 2
+/ font / td
+tda target = _ blank
+img height = 34
+width = 289 border = 0 / a / td
+/ tr
+/ tbody
+/ table
+/ td
+/ tr
+/ table
+/ td
+/ tr
+tr
+td width = 0 / td
+td valign = top colspan = 2 width = 600 col = 1
+center
+font face = arial , helvetica , sans - serif color = # 666666 size = 1 ebay
+sent this e - mail to you because your notification preferences br
+indicate that you want to receive information your ebay credit
+card statement . br
+br
+to change your communication preferences , a target = _ blank
+click here / a . or , simply reply to this e - mail br
+with unsubscribe in the subject line . please note that it may take
+up to 14 days br
+to process your request . visit our a target = _ blank
+policy / a and a target = _ blank
+agreement / a if you have any questions . br
+br
+copyright ) 2004 ebay inc . all rights reserved . br
+designated trademarks and brands are the property of their
+respective owners . br
+ebay and the ebay logo are trademarks of ebay inc . / font
+/ center
+/ td
+/ tr / table / body / html

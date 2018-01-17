@@ -1,0 +1,20 @@
+Subject: xms memo
+over the next several months enron will be phasing in a new expense - reporting
+product , concur technologies  , expense management system ( xms ) . you will be
+able to prepare your expense report , send it for approval , and transmit it
+for payment using the intranet . it will be far more user - friendly than the
+excel - based form currently in use and will provide a truly paperless
+process . in addition , the system efficiently integrates with the sap
+accounting system .
+on october 16 , employees who used a prior version of the product upgraded to
+the most current release . on october 30 , it will be available to enron corp
+employees , company 0011 . the rollout to other groups will continue through
+january 2001 . rollout announcements will be made to each business unit .
+in houston , it central will provide four training sessions per week . to
+enroll in a class go to itcentral . enron . com and click on
+services > training > schedules . those in outlying locations and those who prefer
+on - line training can use leap by signing on to sap . enron . com and clicking on
+training , then leap . use xms ( lower case ) as the user id and password .
+we are excited about this new system and hope you will find it useful . if
+you have questions regarding its use contact it central at ( 713 ) 345 - 4727 or
+visit their website .

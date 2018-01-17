@@ -1,0 +1,13 @@
+Subject: agenda
+christian -
+i was thinking that your expertise in grads and grib formats will help
+enron to obtain
+a competitive edge over our competitors . development of the grads
+visualization tool
+will allow our international offices to obtain the mrf ( medium range forecast
+model ) data first ,
+without being dependant of internet sources . additionally , i think that we
+could obtain
+mrf ensemble data via the same sources as well .
+can we include in the agenda the development of these tools ?
+jose marquez

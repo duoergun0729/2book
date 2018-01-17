@@ -1,0 +1,58 @@
+Subject: re : deal models
+thanks for the note - - that helps to put it into perspective .
+unfortunately , since sally is out this week , i had not seen this note .
+james has all of the marginal cost information , which can be used to work
+from - i still believe that the approach we discussed in our meeting before
+lunch today is the right one . we need to create some customer profiles which
+include the number of transactions at each level and for each of the
+potential services to calculate some potential cost base scenarios - - - from
+which we can gross up to a potential revenue number .
+rahil - - i would like to discuss the next steps , and who we put on point
+( specifically ) for each task .
+beth
+- - - - - original message - - - - -
+from : eichmann , marc
+sent : friday , march 16 , 2001 12 : 19 pm
+to : apollo , beth
+cc : jafry , rahil ; scribner , james
+subject : fw : deal models
+here is the message i received from greg , which i just told you and rahil
+about today .
+i would really like to use rahil ' s expertise at eol to try to size the
+potential market going forward . on the other side , i would appreciate getting
+feedback about the marginal per transaction cost at different volume levels
+as presented in the document we discussed this morning . i will be available
+to help in any way needed .
+thanks in advance for your help
+marc
+- - - - - original message - - - - -
+from : piper , greg
+sent : thursday , march 15 , 2001 2 : 59 pm
+to : eichmann , marc
+cc : zipper , andy ; gros , thomas d . ; beck , sally ; raghavan , suresh ; bartlett ,
+jeff ; shelby , rex
+subject : deal models
+we need to finalize the 4 models that have a high , low and expected case for
+our businesses . they are commoditylogic , dealbench , transactionhub and
+mid / back office . dealbench should be built as an asp as discussed ,
+commoditylogic as an asp , transactionhub as we have discussed and back office
+as you are working with sally .
+we first need to agree on all the assumptions for revenue that lead to each
+case suggested above for each business . we then need to agree on 5 to 10
+years of expenses so we can reach an operating margin we agree upon . we then
+finally need to look at them and see what capital investment might be needed
+to go in to each one and then finally build a pretax income statement and
+pretax cash flow statement for each business .
+the goal is to determine , within a range , the present value of each business ,
+based on certain assumptions , and then to determine what they are worth as a
+company .
+i know we are part way there on all of these initiatives , but i want this all
+finished as follows :
+transactionhub - friday afternoon the 16 th .
+commoditylogic - tuesday afternoon the 19 th
+dealbench - wednesday afternoon the 17 th
+mid / back office - friday the 23 rd
+remember , we are trying to get a range that is approximately right that we
+can all believe .
+your thoughts ?
+gp

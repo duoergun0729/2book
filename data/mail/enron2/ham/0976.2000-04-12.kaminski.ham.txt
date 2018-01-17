@@ -1,0 +1,18 @@
+Subject: sample day - ahead lmp postings
+message sent from the pjm - customer - info mailing list at
+pjm - customer - info @ majordomo . pjm . com :
+from 04 / 10 / 00 through 05 / 12 / 00 , pjm will be posting sample day - ahead prices
+produced using the two - settlement software and
+generation bids and ties schedules as bid into the pjm real time market .
+perturbations may be applied to the demand bids in order
+to illustrate the impact of total demand mws bid on day - ahead lmps ( such
+perturbations will be discussed in the day - ahead case description
+file ) . sample prices will be posted for weekdays only . these prices are for
+illustration purposes only . they will not be used in any pjm
+settlements . sample lmps will be posted in a csv file using the following name
+convention yyyymmdd - da . csv . the names of files initially
+posted for 4 / 10 / 00 and 4 / 11 / 00 have been changed to this name convention .
+questions may be directed to pjm customer service at ( 610 ) 666 - 8980 .
+to unsubscribe from this list , send an e - mail to majordomo @ majordomo . pjm . com
+containing only the following line in the body of the e - mail :
+unsubscribe pjm - customer - info

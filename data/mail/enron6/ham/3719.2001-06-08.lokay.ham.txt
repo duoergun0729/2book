@@ -1,0 +1,19 @@
+Subject: re : conocoprojreqform . xls / monument system
+the existing capacity of this system is 38 mmcf / d .
+now that we know where the exactl location of the tie - in is and based on your input i have created two flow modeling options for this project : :
+option - 1 :
+assuming 30 mmcf / d from lanam ranch , the monument station can do another 12 mmcf / d from conoco at 576 psig pressure for a total of 42 mmcf / d . if the pressure at lanam ranch reduces , it will change the capacity to a lower figure .
+option - 2 :
+assuming 0 ( zero ) from lanam ranch , the monument station can handle 62 mmcf / d from conoco at 696 psig pressure .
+if the pressure at conoco reduces , it will create higher differential pressure at monument and that will reduce the capacity .
+if you have any comments please e - mail me as soon as you can so we can finalize the capacity of this system .
+mansoor at 713 - 853 - 3158
+from : kevin hyatt / enron @ enronxgate on 06 / 08 / 2001 09 : 34 am
+to : mansoor abdmoulaie / et hyatt , kevin ; frazier , perry
+subject : re : conocoprojreqform . xls
+1 ) what is the legal description of this tie - in ?
+2 ) what is the maximum pressure that conoco can provide at this point
+3 ) if the volume from conoco is going to be 60 mmcf / d , how much gas are you planning to flow from the existing lanam ranch interconnect ( 0 to 30 mmcfd range )
+4 ) what is the pressure commitment at lanam ranch
+these are required in order to develop a scope / costs for the project .
+mansoor

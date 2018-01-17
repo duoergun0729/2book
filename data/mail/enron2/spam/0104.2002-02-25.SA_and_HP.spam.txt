@@ -1,0 +1,10 @@
+Subject: undeliverable : home based business for grownups
+your message
+subject : home based business for grownups
+sent : sun , 21 jan 2001 09 : 24 : 27 + 0100
+did not reach the following recipient ( s ) :
+75 @ tfi . kpn . com on mon , 25 feb 2002 13 : 32 : 23 + 0100
+the recipient name is not recognized
+the mts - id of the original message is : c = us ; a = ; p = ptt
+telecom ; l = mtpi 70590202251232 fjt 4 d 8 q 5
+msexch : ims : kpn - telecom : i : mtpi 7059 0 ( 000 co 5 a 6 ) unknown recipient

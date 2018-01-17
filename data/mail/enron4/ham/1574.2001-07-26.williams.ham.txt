@@ -1,0 +1,50 @@
+Subject: caiso notification : revised draft iso charge matrix and statement
+file specification ( vl 3 . 2 ) - ferc order implementation - to be effective
+trade date june 21 , 2001
+sc settlement contacts :
+important notice
+revised iso charge matrix and
+* emissions and
+* mcp for real time incremental energy .
+the adder raises the mcps , but does not affect the underlying settlement
+formulation . the only change made to the settlement files is the inclusion
+of a new data field for the unadjusted mcp .
+emissions and start - up cost recovery
+the ferc order also directed iso to exclude emissions and start - up fuel
+costs from the calculation of iso ' s mitigated market clearing prices .
+generators can invoice iso for such costs incurred as a direct result of iso
+dispatch actions . iso will implement two new charges :
+* charge type 591 - emissions cost recovery ; and
+* charge type 592 - start - up cost recovery .
+these new charges serve as a mechanism for iso to collect funds which will
+be kept in trust accounts to pay the generators ' invoices . a rate will be
+established by iso for each charge . for emissions cost recovery , the rate
+will equal that of the forecasted annual total of all emission costs ,
+incurred by must - offer generators as a direct result of iso dispatch
+instructions , adjusted for interest as may accrue in the emissions cost
+trust account , divided by the sum of the forecasted in - state load served by
+the iso ' s transmission system . for start - up cost recovery , the rate will be
+determined similarly . it will equal that of the forecasted annual total of
+all start - up costs , incurred by must - offer generators as a direct result of
+iso dispatch instructions , adjusted for interest as may accrue in the
+start - up cost trust account , divided by the sum of the forecasted in - state
+load served by the iso ' s transmission system . iso plans to publish these
+rates shortly . the rates may be adjusted monthly based on iso ' s latest
+forecast .
+both charges will appear as monthly lump sums in the scheduling
+coordinator ' s settlement statement for the last day of the trade month .
+detail breakdown of the charges incurred by the scheduling coordinator on a
+given day will be provided in the statement for that day .
+implementation timeline
+the credit risk adder and the new emission & start - up cost recovery scheme
+went into effect on trade date 6 / 21 / 2001 . the statements for 6 / 21 will be
+issued on 8 / 15 / 2001 .
+comments & questions
+attached for your review are drafts of the revised charge matrix and
+statement files specification ( version 13 . 2 ) .
+questions and comments related to the attached documents can be directed to
+mr . c . p . ng via email ( cng @ caiso . com ) . iso plans to finalize the
+specification by 8 / 6 / 2001 .
+> >
+client relations communication
+crcommunications @ caiso . com

@@ -1,0 +1,54 @@
+Subject: status of reporting
+at the request of the financial council during its last meeting , the coe
+established a swat team to assist the business units in sap reporting . this
+is the first of weekly status reports that we will provide .
+purpose :
+the team has begun to hold small , interactive workshops with production users
+to :
+show users how to extract data from sap by :
+using on - line inquiry
+using sap standard reports and
+creating and modifying a variant
+educate users on the sap data model and where business unit specific data
+resides in sap ( which module ) .
+better understand what additional reporting needs users may have .
+team structure : lead : kim lesley ( consultant )
+ps : andreas kraus ( coe ) , damon willis ( consultant )
+fi / co : randy parman ( coe ) , esther cortes ( consultant )
+education support : maria young ( coe )
+the structure of the team reflects the initial focus on project and financial
+reports . it has been balanced to include coe support analysts who will
+provide long - term customer support plus sap consultants with deep reporting
+knowledge . we will adjust the team members as appropriate to address the
+material needed by the business units .
+in addition to this team , susan bellinghausen and emitra nelson are
+continuing their efforts on 1 / 1 , 4 / 1 and 7 / 1 report development .
+progress :
+to date we have held 5 workshops with the apachi and south american regions .
+these workshops have been evaluated across several criteria .
+on a scale of 1 - 4 ( 1 = not at all and 4 = absolutely ) , the workshops have
+received an average rating of 3 . 6 in learning reports and increasing comfort
+levels . the workshops are definitely providing the one on one experience
+that the users are requesting . they are also seeing and learning ( hands on )
+various tools that are available to them to adjust the display of reports ,
+query the data from each module and analyze the data . the sessions are also
+helping to remove some of the fear associated with trying things in a new
+system by providing helpful tricks and hints from the experts .
+however , there is still a concern about increasing the understanding of where
+data resides within sap . this is reflected in the average rating to the key
+question " can sap meet your needs " being only 2 . 5 . we will further explore
+why the users think this is the case and what they are not getting . we are
+adjusting our sessions to address this and will continue to seek feedback .
+upcoming key activities :
+schedule the remaining international region sessions and the eecc home office
+sessions . we have the participant lists and are working on logistics .
+complete the analysis of the needs of the other business units in production .
+develop a process to follow up on these sessions to monitor the learning
+progress of the users .
+begin to evaluate a cost center reporting tool that enron europe has deployed
+in london .
+i would like to thank the active participation of the business units in
+identifying and providing the right group of resources to the sessions . if
+you have any questions or comments , feel free to address them to melissa
+becker , kim lesley or myself .
+greg

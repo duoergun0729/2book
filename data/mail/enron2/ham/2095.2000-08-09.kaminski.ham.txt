@@ -1,0 +1,33 @@
+Subject: matlab at enron
+hello vince :
+i ' m the territory manager for the mathworks , we develop matlab technical
+software . we ' ve recently developed tools well suited for energy trading
+industry .
+enron has used our products in the past , but all of those end - users have
+left enron .
+risk management and research groups at southern energy , txu , dynegy , el
+paso energy , koch , calpine , reliant and others have recently started using
+our products in the following ways .
+1 . create sophisticated option pricing models , risk analysis models , and
+stress analysis models . creating gui front ends for the end - users .
+2 . pull in data from odbc , corba , and sas databases to evaluate .
+3 . visualize the results and quantify the solution .
+4 . compile these models and distribute these applications to their
+traders , analysists and managers with no distribution costs .
+who should i contact at your company to discuss enron ' s situation to see if
+our can help enron as it has with our other energy customers ?
+thank you for your time and help .
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+scott wakefield
+the mathworks , inc .
+phone : ( 508 ) 647 - 7282
+fax : ( 508 ) 647 - 4275
+e - mail : swakefield @ mathworks . com
+http : / / www . mathworks . com
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+matlab news group :
+news : comp . soft - sys . matlab
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+visit the new mathworks store and buy matlab , simulink
+and all of our products online
+http : / / www . mathworks . com / store /

@@ -1,0 +1,10 @@
+Subject: undelivered mail returned to sender
+this is the scanmail program at host vc 8 . point . ne . jp .
+i ' m sorry to have to inform you that the message returned
+below could not be delivered to one or more destinations .
+for further assistance , please send mail to
+if you do so , please include this problem report . you can
+delete your own text from the message returned below .
+the scanmail program
+: host 210 . 188 . 175 . 89 [ 210 . 188 . 175 . 89 ] said : 550 invalid
+recipient : ( in reply to rcpt to command )

@@ -1,0 +1,65 @@
+Subject: re : srf for sandeep kohli : eva : remedy 364463
+shirley ,
+it ' s an it request for sandeep .
+please , help .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 03 / 08 / 2001
+03 : 17 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+sap security @ enron
+03 / 08 / 2001 02 : 20 pm
+sent by : eva tow @ enron
+to : sandeep kohli / enron _ development @ enron _ development
+cc : vince j kaminski / hou / ect @ ect
+subject : re : srf for sandeep kohli : eva : remedy 364463
+sandeep ,
+your request does not look to be sap security related . please use the
+erequest to obtain access to the network at itcentral . enron . com .
+you may call 713 - 853 - 1411 if you need additional assistance .
+thank you ,
+sap security ( eva )
+kohli @ mailman . enron . com on 03 / 07 / 2001 02 : 34 : 11 pm ; sandeep
+on 03 / 07 / 2001 02 : 34 : 11 pm
+to : website : sap security request
+cc :
+subject : sap security request form
+the following request information was recently submitted . . .
+requestor information :
+business unit : ena
+cost center : 107043
+company code : 0413
+business unit for roles : ena
+sap id : po 0504918
+general information :
+supervisor : vince kaminski
+supervisor telephone number : 713 - 853 - 3848
+employee name ( last , first , m ) : kohli , sandeep
+employee location : eb 1958
+employee telephone number : 713 - 853 - 5188
+employee email address : sandeep . kohli @ enron . com
+job title : vice president
+sap user type : enron employee
+business reason :
+i need access to the o : drive , research subdirectory .
+this subdirectory has information to be shared between
+different members of the research group . i need to
+access this for projects we do as a team .
+viewer roles :
+no roles in this area were selected .
+financial accounting roles :
+no roles in this area were selected .
+project system roles :
+no roles in this area were selected .
+joint venture roles :
+no roles in this area were selected .
+materials management / purchasing roles :
+no roles in this area were selected .
+centralized roles ( limited to specific personnel ) :
+no roles in this area were selected .
+human resources ( hr personnel only ) :
+no roles in this area were selected .
+human resources - timekeepers :
+no roles in this area were selected .
+human resources - benefits ( benefits personnel only ) :
+no roles in this area were selected .
+human resources - payroll ( payroll personnel only ) :
+no roles in this area were selected .

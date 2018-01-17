@@ -1,0 +1,20 @@
+Subject: re : calpx prices
+jason ,
+i think what you may be asking for are caliso power prices . the calpx is a
+scheduling coordinator and they submit balanced schedules and bid curves to
+the caliso . the iso combines the curves from participating scs ( of which i
+believe enron is one ) and calculates the uncongested and congested prices .
+the caliso prices are available from rdi powerdat , the enron lim database , and
+a number of other sources . recent historical prices are available from the
+caliso web site .
+i am copying your mail to tim hiezenrader , who runs the westdesk fundamentals
+group . i believe he would know how you might be able to access the more
+real - time caliso data that enron collects .
+tim , can you help jason out ? he is a manager in the ena research group .
+thanks ,
+michael
+> > > sokolov , jason 01 / 26 / 01 02 : 01 pm > > >
+michael ,
+i an trying to locate some historical real - time ( spot ) power prices for calpx .
+do you know who may have them ?
+jason sokolov

@@ -1,0 +1,47 @@
+Subject: re : comments
+hi vince ,
+sorry to have missed you in paris . many thanks for your comments - they ' ve
+now been incorporated and sent to eprm . things are crazy at the moment , but
+hopefully will calm down in a couple of weeks and we ' ll have time to catch
+up better .
+best regards .
+chris .
+- - - - - original message - - - - -
+from :
+to :
+cc : ; ;
+sent : sunday , october 15 , 2000 11 : 06 am
+subject : comments
+> julie ,
+>
+> sorry for the delay . here are he comments .
+>
+> vince
+>
+> * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+>
+> sorry for long delay in responding . i have a few comments . most are
+focused
+> on the third article as here is till time to make modifications .
+>
+> 1 . in the second article , i would mention that the formulation of the
+mean
+> reversion process represents one of several possible equations that
+capture
+> the same type of market evolution of prices over time .
+> 2 . one comment that applies to both articles . the problem is how one
+defines
+> the time series of energy prices . the numbers used for australian nsw pool
+> prices seem to correspond to chronological prices . one alternative
+approach
+> is to build different time series for the corresponding time intervals for
+> each day . this would result in different price behavior and estimates of
+> jump . the choice is one of convenience and depends on actual problem under
+> investigation . one could argue that volumes of electricity traded during
+> different time slots represent different economic commodities .
+> figure 3 a ( jump frequency ) has units on the vertical axis that require
+> explanation . are we talking about an expected number of jumps in the total
+> number of half hourly periods in a year ? the same goes for f in table 2
+> ( article number 3 ) .
+>
+>

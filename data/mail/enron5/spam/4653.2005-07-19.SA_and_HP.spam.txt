@@ -1,0 +1,8 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 11 : 59 : 52 + 0100
+from s 3 . uklinux . net [ 80 . 84 . 64 . 13 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : can ' t create ( user ) output file )
+- - - - - transcript of session follows - - - - -
+procmail : quota exceeded while writing " / var / spool / mail / exegesis "
+550 5 . 0 . 0 . . . can ' t create output

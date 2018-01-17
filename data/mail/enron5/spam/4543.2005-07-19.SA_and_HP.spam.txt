@@ -1,0 +1,70 @@
+Subject: failure notice
+hi . this is the qmail - send program at mxl . altecom . net .
+i ' m afraid i wasn ' t able to deliver your message to the following addresses .
+this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
+:
+sorry , no mailbox here by that name . vpopmail ( # 5 . 1 . 1 )
+- - - below this line is a copy of the message .
+return - path :
+received : ( qmail 21321 invoked by uid 69 ) ; 19 jul 2005 10 : 57 : 45 - 0000
+received : from projecthoneypot @ projecthoneypot . org by mxl by uid 69 with qmail - scanner - 1 . 22
+( sweep : 2 . 20 / 3 . 84 . spamassassin : 2 . 64 . clear : rc : 0 ( 212 . 121 . 225 . 2 ) : sa : 0 ( ? / ? ) : .
+processed in 4 . 318132 secs ) ; 19 jul 2005 10 : 57 : 45 - 0000
+x - qmail - scanner - mail - from : projecthoneypot @ projecthoneypot . org via mxl
+x - qmail - scanner - rcpt - to : hidden
+x - qmail - scanner : 1 . 22 ( clear : rc : 0 ( 212 . 121 . 225 . 2 ) : sa : 0 ( ? / ? ) : . processed in 4 . 318132 secs )
+received : from ns 2 . altecom . net ( helo mx 2 . altecom . net ) ( 212 . 121 . 225 . 2 )
+by mxl . altecom . net with smtp ; 19 jul 2005 10 : 57 : 41 - 0000
+received : ( qmail 10976 invoked from network ) ; 19 jul 2005 10 : 57 : 35 - 0000
+received : from unknown ( helo mailwisconsin . com ) ( 218 . 230 . 191 . 229 )
+by 0 with smtp ; 19 jul 2005 10 : 57 : 35 - 0000
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 24816343 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : [ spam ? ] just to her . . .
+from : " barry castillo "
+to : info @ infosolei . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+x - spam - prev - subject : just to her . . .
+x - spam - flag : yes
+x - spam - checker - version : spamassassin 3 . 0 . 4 ( 2005 - 06 - 05 ) on mxl . altecom . net
+x - spam - report :
+* 0 . 6 drug _ dosage body : talks about price per dose
+* 0 . 5 info _ tld uri : contains an url in the info top - level domain
+* 1 . 2 mime _ html _ only body : message only has text / html mime parts
+* 0 . 1 html _ 50 _ 60 body : message is 50 % to 60 % html
+* 1 . 5 razor 2 _ cf _ range _ 51 _ 100 body : razor 2 gives confidence level above 50 %
+* [ cf : 100 ]
+* 0 . 0 html _ message body : html included in message
+* 0 . 1 razor 2 _ check listed in razor 2 ( http : / / razor . sf . net / )
+* 1 . 4 dcc _ check listed in dcc ( http : / / rhyolite . com / anti - spam / dcc / )
+* 0 . 6 uribl _ sbl contains an url listed in the sbl blocklist
+* [ uris : extra - m . info ]
+* 3 . 9 uribl _ sc _ surbl contains an url listed in the sc surbl blocklist
+* [ uris : extra - m . info ]
+* 0 . 5 uribl _ ws _ surbl contains an url listed in the ws surbl blocklist
+* [ uris : extra - m . info ]
+* 2 . 0 uribl _ ab _ surbl contains an url listed in the ab surbl blocklist
+* [ uris : extra - m . info ]
+* 1 . 5 uribl _ jp _ surbl contains an url listed in the jp surbl blocklist
+* [ uris : extra - m . info ]
+* 0 . 0 drugs _ erectile refers to an erectile drug
+* 0 . 2 digest _ multiple message hits more than one network digest check
+x - spam - status : yes , score = 14 . 2 required = 5 . 0 tests = dcc _ check , digest _ multiple ,
+uribl _ jp _ surbl , uribl _ sbl , uribl _ sc _ surbl , uribl _ ws _ surbl autolearn = no
+version = 3 . 0 . 4
+x - spam - level : * * * * * * * * * * * * * *
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivable !

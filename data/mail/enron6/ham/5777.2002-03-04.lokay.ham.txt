@@ -1,0 +1,33 @@
+Subject: fw : draft - socal / topock announcement
+fyi , kim .
+- - - - - original message - - - - -
+from : donoho , lindy
+sent : monday , march 04 , 2002 2 : 16 pm
+to : watson , kimberly ; lindberg , lorraine ; lohman , tk
+cc : betancourt , ramona
+subject : fw : draft - socal / topock announcement
+fyi ,
+looks like we have a few adm things to get in place before we can implement .
+- - - - - original message - - - - -
+from : betancourt , ramona
+sent : monday , march 04 , 2002 2 : 13 pm
+to : donoho , lindy ; kowalke , terry ; corman , shelley
+cc : schoolcraft , darrell
+subject : re : draft - socal / topock announcement
+lindy ,
+since socal will not be confirming during the timely cycle , this gas will be incremental and the supplies may not get scheduled . also , i know socal confirms the needles point via edi . will they also confirm this socal topock point via edi ? if they do confirm via edi , it would be good to have them work with mary draemer on a test edi file . will they give us a window like they do at socal needles ?
+today in tms , we do have a non grid cycle that runs just prior to the gas day starting at 7 : 30 am . i know socal does not confirm this cycle today for needles . also , currently in production today socal needles point 10487 is set up as a passive point for confirmation . this topock point would need to be set up with the same point status role for confirmation if they confirm this point via edi . socal will need to complete the operator choice request form that is posted on the tw web site .
+thanks ramona
+- - - - - original message - - - - -
+from : donoho , lindy
+sent : monday , march 04 , 2002 9 : 22 am
+to : kowalke , terry ; corman , shelley ; betancourt , ramona
+subject : fw : draft - socal / topock announcement
+i ' m asking ramona a question - it would probably be good if i had her on the address list = )
+also , terry lindberg , lorraine ; lohman , tk ; lokay , michelle ; mcconnell , mark ; y ' barbo , paul ; kilmer iii , robert ; harris , steven
+subject : draft - socal / topock announcement
+here ' s a simple first draft . i didn ' t know how much detail we should get into .
+ramona , am i using the correct terminology ? they are not going to confirm in cycle 1 . they are just going to let us fill - in where el paso filled - up all the capacity downstream .
+>
+let me know your comments .
+thanks !

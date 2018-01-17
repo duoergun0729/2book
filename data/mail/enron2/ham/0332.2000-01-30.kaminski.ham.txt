@@ -1,0 +1,129 @@
+Subject: fwd : mark - to - market
+return - path :
+received : from rly - ygol . mx . aol . com ( rly - ygol . mail . aol . com [ 172 . 18 . 147 . 1 ] ) by
+air - ygo 5 . mail . aol . com ( v 67 _ bl . 21 ) with esmtp ; fri , 28 jan 2000 18 : 00 : 52 - 0500
+received : from mailman . enron . com ( mailman . enron . com [ 192 . 152 . 140 . 66 ] ) by
+rly - ygol . mx . aol . com ( v 67 _ bl . 21 ) with esmtp ; fri , 28 jan 2000 18 : 00 : 36 - 0500
+received : from dservl . ect . enron . com ( dservl . ect . enron . com [ 172 . 16 . 1 . 37 ] ) by
+mailman . enron . com ( 8 . 8 . 8 / 8 . 8 . 8 / corp - 1 . 03 ) with esmtp id xaal 9726 for
+; fri , 28 jan 2000 23 : 00 : 07 gmt
+received : from notes . ect . enron . com ( notes . ect . enron . com [ 172 . 16 . 4 . 33 ] ) by
+dservl . ect . enron . com ( 8 . 8 . 8 / 8 . 8 . 8 ) with smtp id raa 24406 for
+; fri , 28 jan 2000 17 : 00 : 32 - 0600 ( cst )
+received : by notes . ect . enron . com ( lotus smtp mta v 4 . 6 . 5 ( 863 . 2 5 - 20 - 1999 ) )
+id 86256874 . 007 e 6242 ; fri , 28 jan 2000 17 : 00 : 26 - 0600
+x - lotus - fromdomain : ect
+from : " vince j kaminski "
+to : vkaminski @ aol . com
+message - id :
+date : fri , 28 jan 2000 17 : 00 : 29 - 0600
+subject : re : mark - to - market
+mime - version : 1 . 0
+content - type : text / plain ; charset = us - ascii
+content - disposition : inline
+content - transfer - encoding : 7 bit
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 01 / 28 / 2000
+05 : 00
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : wade cline @ enron _ development on 01 / 28 / 2000 07 : 17 am ze 5 b
+to : pinnamaneni krishnarao / hou / ect @ ect
+cc : sandeep kohli / enron _ development @ enron _ development , vince j
+kaminski / hou / ect @ ect
+subject : re : mark - to - market ( document link : vince j kaminski )
+sandeep ,
+can dpc sell to mseb and have eipl buy an equivalent amount of power from mseb
+at another spot on their grid , and then eipl sell to the 3 rd party state ?
+pinnamaneni krishnarao @ ect
+01 / 27 / 2000 04 : 00 pm
+to : sandeep kohli / enron _ development @ enron _ development
+cc : vince j kaminski / hou / ect @ ect , wade
+subject : re : mark - to - market ( document link : wade cline )
+sandeep :
+i met with bob today and discussed the deal structure we put together . on
+the mark - to - market issue , bob and his colleague wess told me that as long as
+payments are tied to one particular plant , we cannot m - t - m them . they had same
+problem with plants here in the us ( like the peaking plants ) and they had to
+separate the plant from power sales to be able to m - t - m the assocated
+cashflows .
+what they did is : they sold power from the plant to an outside party and
+bought
+it back from them at completely different ( multiple ) locations . the buyback is
+not tied to any specific plant and is marked to maket . even if enron can
+somehow
+mark - to - market a deal with dpc , it can do so for only 50 % of the cashflows
+because only 50 % of dpc is owned by outsiders . and a simple loan to an
+affiliate cannot also be marked to market .
+bob was suggesting that if eipl buys options from dpc and from some other
+plants and in turn sells power to ap or karnataka then we could have a case
+for
+m - t - m . politically dpc selling power to eipl may not be the best solution , to
+put it rather mildly !
+our alternatives , as i see them , are
+1 . do the deal as we structured it . the only difference is that enron doesn ' t
+mark it to market and income is earned only in 2002 - 03 .
+2 . do the deal as we structured it . eipl / enron then sells the contract to
+another party at a profit . the problem , of course , is finding this party and
+forking part of the profit to them .
+3 . same deal , except revenue securitization is done through an outside party
+in
+india ( not eipl ) .
+bob said he will think about the issues some more this week . let me know when
+you will be here next week so we can meet with bob together . i will be going
+to
+boston for tuesday and / or wednesday ( feb . 1 - 2 ) . i can book an appt . with bob
+for
+us .
+sandeep kohli @ enron _ development
+01 / 23 / 2000 09 : 45 pm
+to : robert butts , pinnamaneni krishnarao @ ect
+cc : vince kaminski , wade cline / enron _ development @ enron _ development , ananda
+mukerji , jaiprakash desai / enron _ development @ enron _ development
+subject : mark - to - market
+bob ,
+i wanted to continue the analysis on mark - to - market that i had spoken to you
+about on the phone .
+i thought that it was getting very difficult explaining the whole transaction
+by
+phone , so i am having krishnarao who is in vince ' s group explain the
+transaction
+to you .
+krishna has been helping us structure the deal here in india , and he has just
+returned to houston from india after working with the team here .
+he will seek an appointment with you to explain the transaction . i would like
+you to please spend some time with him , and then based on the discussion
+please
+send us a note detailing how sucha a transaction would be marked to market .
+please cosider the fact that currently there are no such transactions from the
+indian side . this is a very important transaction for us , and we may need to
+repeat this in coming months , hence setting up the system to account for these
+maybe well worth it . also , what i am concerned about is that there will be an
+enron india ( eipl ) account in india based on indian gaap , and upon
+consolidation
+there will be a us gaap accounting in the us . it is here that we would like
+to
+have mark - to - market accounting . eipl is structured through mauritius , and
+then
+caymen islands .
+another key question to consider is that when we m - t - m the transaction in the
+us
+there will be a tax accruing in the year of m - t - m ( say 2000 ) . however , in
+india , as a result of the accrual accounting , there will not be any income
+showing till the year 2002 or 2003 . we will need to know how that would get
+treated , and whether there is a way to get credit for the tax payable in the
+us .
+i am also confused about whether us tax would be levied , since none of the
+income is being brought back into the us ( remains overseas - subpart - f and
+other
+concerns ) .
+finally , we have been working hard in structuring a fixed price contract and
+getting a fixed for floating swap in the us ( this is still not allowed to
+indian
+corporates ) . i need you to think about this too , and see if some type of
+accounting will solve this issue . krishna knows what i am talking about , and
+will brief you on the same .
+krishna - please walk bob through the three structures we had worked here .
+look forward to your help and comments . this is going to be an exciting
+project
+for us all .
+regards ,
+sandeep .

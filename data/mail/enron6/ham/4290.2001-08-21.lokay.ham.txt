@@ -1,0 +1,13 @@
+Subject: new tw poi 78161
+this point has been added to tw oba 21817 oneok westex transmission
+the effective date of the point is 8 / 01 / 01 ( date changed to avoid future accounting conflicts )
+poi name tw / oneok westex ward ite
+poi # 78161
+drn # 304050
+point is bi - directional
+operator transwestern pipeline
+dennis p . lee
+ets
+gas logistics
+( 713 ) 853 - 1715
+dennis . lee @ enron . com

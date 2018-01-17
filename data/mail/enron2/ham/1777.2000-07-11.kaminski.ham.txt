@@ -1,0 +1,24 @@
+Subject: re : efa meetings
+hey vince ,
+thanks for your reply . i ' ll see what becomes of the session and keep you
+informed . as to the paper , tim crack and i have a revised version of the
+paper i gave you . we have since found out that by using certainty
+equivalence , our model is more robust . for example , if one has an asset
+pricing model that incorporates mean , variance , and skewness ( harvey and
+siddique , jf june , 2000 ) and a binomial model that incorporates mean ,
+variance , and skewness ( johnson , paulukiewicz , and mehta , rqfa , 1997 ) , our
+model allows you to price options under the real world measure . the
+benefit is that one can take all of the model parameters from historical
+data that is non - risk neutralized .
+from a pricing perspective , there isn ' t a tremendous benefit in a
+mean - variance world ( variance stays the same in risk neutral or risky
+measure ) . however , in the mean - variance - skewness world , there is a benefit
+because we do not believe ( although we ' re still hunting down an appropriate
+cite ) skewness is the same under risk - neutral and risky measure . given we
+can only measure the skewness in our risky world , our model becomes much
+more significant .
+i would certainly appreciate comments on the version of the paper you
+have and would also pass on the new version of the paper if you would like
+to see it .
+thanks again ,
+tom

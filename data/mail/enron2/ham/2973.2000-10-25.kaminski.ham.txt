@@ -1,0 +1,40 @@
+Subject: matthew patteson , inventor
+cindy ,
+this is our preliminary review of the documentation sent by mr . patteson .
+one more person will take a look at it .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 10 / 25 / 2000
+03 : 13 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+stinson gibner
+10 / 25 / 2000 01 : 16 pm
+to : vince j kaminski / hou / ect @ ect
+cc : zimin lu / hou / ect @ ect , kevin kindall / corp / enron @ enron
+subject : matthew patteson , inventor
+vince ,
+after reviewing the documents furnished by mr . patteson , i do not feel that
+enron should consider engaging in any testing , development , or licensing of
+his proposed generator for the following reasons :
+1 . enron is not currently in the business of developing or manufacturing
+electrical generation equipment and does not plan , as far as i know , to enter
+this business . the one exception is our ownership in entities developing
+wind and solar , renewable energy .
+2 . enron does not have the proper facilities or expertise to test or develop
+mr . pattesons proposed generator .
+3 . there could be substantial risk in testing this generator as it would
+involve boiling of a flammable material under pressure .
+4 . i do not believe that the proposed generator will produce any significant
+quantity of electrical power . the generator produces power by induction .
+that is , electric current is induced by a changing magnetic field . the
+mechanism powering the changing magnetic field is the movement of magnetic
+dipoles which are suspended in a boiling medium . as the boiling will
+produce a somewhat random movement of the liquid , the " movement " or change in
+the magnetic field will be highly random and thus not suitable for producing
+a steady or reliable electrical current .
+i have asked martin lin to also review the documents to render an independent
+opinion of this proposal .
+respectfully ,
+dr . stinson gibner
+phd . physics
+vp research , enron north america
+p . s . kevin and zimin : if you have any interest in reviewing mr . patteson ' s
+proposal , please let me know .

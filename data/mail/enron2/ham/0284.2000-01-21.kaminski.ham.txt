@@ -1,0 +1,87 @@
+Subject: projected fund giving
+george -
+here is one statistical method ( linear regression ) , applied to hosanna ' s fund
+giving . the method is deterministic , where contributions each sunday are
+attempted to be explained by significant events on the church ' s and members '
+calendars , and the method shoudl be considered in contrast to an anecdotal
+one , where each sunday ' s giving might be estimated to be the average giving
+of the same sunday ( e . g . , each 2 nd sunday in january ) in the past .
+the following effects are estimated independently by the computer ( they add
+and subtract with each other accordingly ; some sundays can have more than one
+effect " in play " ) :
+1 ) most positive for giving : an additional + $ 8 , 802 for special pastoral
+appeals ( 3 of them in the past 3 years )
+2 ) positive for giving : an additional + $ 2 , 551 easter and nearest - christmas
+" sunday , " an additional + $ 59 thanksgiving sunday , and a tiny additional + $ 1
+each week pure time trend .
+3 ) negative for giving : - $ 304 for sundays of monday federal holiday weekends ,
+and - $ 9 during the summer ( june 1 - aug 31 )
+4 ) " wave " : there is an $ 80 per week " wave " - giving $ 80 higher one week , $ 80
+lower the next , etc . . .
+the computer can explain roughly 60 % of the absolute variation in giving the
+past 3 years using this approach . keep in mind , much of the information ,
+statistically , is captured in the pastoral appeals , easter and christmas
+sundays , and holiday weekends . the rest of the variation cannot be explained
+by this simple model ( i . e . , it looks like " noise " ) .
+here are the predictions for fund giving for the upcoming year . you can
+cut - and - paste these numbers to any file or spreadsheet you like . they may
+seem " boring " to you ; please remember they are the deterministic components
+of a process that involves a lot of volatility , and your church ' s actual
+experience will predictably be volatile . these numbers are as - if the " means "
+of experiences dependent on the " standard deviations . "
+01 / 02 / 00 4611
+01 / 09 / 00 4699
+01 / 16 / 00 4394
+01 / 23 / 00 4705
+01 / 30 / 00 4701
+02 / 06 / 00 4702
+02 / 13 / 00 4703
+02 / 20 / 00 4400
+02 / 27 / 00 4710
+03 / 05 / 00 4706
+03 / 12 / 00 4708
+03 / 19 / 00 4709
+03 / 26 / 00 4710
+04 / 02 / 00 4711
+04 / 09 / 00 4712
+04 / 16 / 00 4713
+04 / 23 / 00 7265
+04 / 30 / 00 4672
+05 / 07 / 00 4717
+05 / 14 / 00 4718
+05 / 21 / 00 4719
+05 / 28 / 00 4416
+06 / 04 / 00 4717
+06 / 11 / 00 4713
+06 / 18 / 00 4714
+06 / 25 / 00 4715
+07 / 02 / 00 4716
+07 / 09 / 00 4718
+07 / 16 / 00 4719
+07 / 23 / 00 4720
+07 / 30 / 00 4721
+08 / 06 / 00 4722
+08 / 13 / 00 4723
+08 / 20 / 00 4724
+08 / 27 / 00 4725
+09 / 03 / 00 4432
+09 / 10 / 00 4742
+09 / 17 / 00 4738
+09 / 24 / 00 4739
+10 / 01 / 00 4740
+10 / 08 / 00 4742
+10 / 15 / 00 4743
+10 / 22 / 00 4744
+10 / 29 / 00 4745
+11 / 05 / 00 4746
+11 / 12 / 00 4747
+11 / 19 / 00 4748
+11 / 26 / 00 4808
+12 / 03 / 00 4750
+12 / 10 / 00 4752
+12 / 17 / 00 4753
+12 / 24 / 00 7305
+12 / 31 / 00 4711
+best wishes ,
+clayton vernon
+manager , research

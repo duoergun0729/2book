@@ -1,0 +1,22 @@
+Subject: ads issue : separation of oom and oos
+ads users :
+i have received numerous comments from tswg regarding concerns about the
+planned implementation of the same service type for oos and oom type
+dispatches in ads phase ii . market operations ' current position is that
+the market participants have all the information they need to decode oos and
+oom , such as what has been bid , what has been dispatched , what proxy bids
+have been created based on available capacity , etc . however , we will
+consider a change to separate the oos and oom dispatches . in order to fully
+weigh the ramifications of this decision , i want to solicit
+examples / scenarios where market participant systems would not be able to
+correctly settle against a combined oos / oom dispatch through ads .
+if you are interested in this issue , please strengthen your case by sending
+me an email with comments by 8 / 16 / 01 . i would especially like to see
+comments regarding how must - offer fits in , including issues with proxy bids
+and whether oom will apply to must offer units .
+thanks ,
+greg ford
+california iso
+market operations
+( 916 ) 351 - 2344
+gford @ caiso . com

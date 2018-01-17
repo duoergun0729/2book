@@ -1,0 +1,94 @@
+Subject: re : invitation to speak at infocast ' s upcoming " market price
+volatility " program
+vince ,
+ok . i appreciate your keeping us in mind .
+thanks ,
+ron
+- - - - - original message - - - - -
+from : vince j kaminski [ mailto : vkamins @ ect . enron . com ]
+sent : wednesday , january 12 , 2000 8 : 27 am
+to : ronh @ . com
+cc : vince j kaminski
+subject : re : invitation to speak at infocast ' s upcoming " market price
+volatility " program
+ron ,
+we are really swamped and i would like to keep our involvement in
+conferences to a reasonable minimum . i can promise that we shall help you
+with a future conference if it happens to be in houston .
+vince
+" ron henderson " on 01 / 11 / 2000 03 : 13 : 56 pm
+please respond to ronh @ . com
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : re : invitation to speak at infocast ' s upcoming " market price
+volatility " program
+vince ,
+i am sorry you can ' t join us . is there someone on your staff who might be
+able to do the presentation " a real options approach to asset valuation , "
+scheduled for thursday , may 11 th , from 10 : 30 am to 12 : 00 pm . ?
+ron
+- - - - - original message - - - - -
+from : vince j kaminski [ mailto : vkamins @ ect . enron . com ]
+sent : monday , january 10 , 2000 10 : 53 am
+to : ronh @ . com
+cc : vince j kaminski ; shirley crenshaw
+subject : re : invitation to speak at infocast ' s upcoming " market price
+volatility " program
+>
+ron ,
+i am sorry to inform you that due to a scheduling conflict i cannot speak at
+this conference .
+i want to thank you for considering me as a speaker .
+vince kaminski
+" ron henderson " on 12 / 30 / 99 06 : 57 : 05 pm
+please respond to ronh @ . com
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : invitation to speak at infocast ' s upcoming " market price
+volatility "
+program
+hi vince ,
+i would like to invite you , or one of your staff , to be a speaker at
+infocast ' s upcoming conference " market price volatility : how to model ,
+assess , and manage price volatility in today ' s power markets , " scheduled for
+may 10 - 12 , 2000 , in chicago . i am attaching a copy of the draft program
+agenda for your review . as you may note , we wish to take our recent houston
+meeting a step farther by making this next session a more
+technically - oriented meeting .
+there are two spots you may wish to consider :
+1 . the session entitled " case study in modeling volatility , " scheduled for
+wednesday , may 10 th , from 3 : 30 to 5 : 00 pm . you will note below , what we had
+in mind for the case study .
+2 . the talk " a real options approach to asset valuation , " scheduled for
+thursday , may 11 th , from 10 : 30 am to 12 : 00 pm .
+i am running behind schedule in finalizing this program , so i will give you
+a call shortly to follow up with you . if you wish , please feel free to call
+me at 818 - 888 - 4445 ext . 28 .
+i hope you can join us .
+ron henderson
+infocast
+818 - 888 - 4445 ext . 28
+ronh @ . com
+case study guidelines
+1 . model should be for a particular market . examples : pjm , chicago , ecar ,
+southern california . lb ( optional ) . model should be for a particular purpose . examples : valuing a
+new combustion turbine at the florida / georgia border , bidding on a portfolio
+of power plants up for sale in nepool , valuing a retail portfolio in
+pennsylvania .
+2 . model should be estimated on a particular data set . examples : daily
+nymex
+close prices for palo verde , pjm hourly spot prices for 1998 - 1999 .
+3 . case study should describe several candidate models , for volatility
+and / or market price , that were considered . case study should discuss why
+these models were considered . candidate models should be described
+mathematically and verbally .
+4 . evaluation criteria for choosing among the models should be explicitly
+identified , and quantified to the extent possible . examples of evaluation
+criteria : residuals that are not autorcorrelated , stationarity , r - squared ,
+akaike information criterion .
+5 . parameter estimates for each candidate model should be displayed . the
+estimation procedure employed should be briefly described .
+6 . some diagnostics of model fit ( vis - a - vis data set ) should be presented .
+7 . if possible , predictive power of model should be assessed .
+generally , the case study should include all of the items above . the case
+study may include other things .

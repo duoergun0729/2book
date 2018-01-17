@@ -1,0 +1,8 @@
+Subject: lim software upgrade notice
+all lim mimic & excel add - in users within enron ,
+this past week lim software was upgraded to reflect lim latest versions . if you are experiencing problems with mimic or the xmim excel addin , please restart your machine for the latest changes to take effect , then follow the instructions for your specific application .
+mimic :
+under start > programs > business applications > lim , use the latest mimic version which is mimic 1 . 2 . 7
+excel addin :
+please reinstall your add - in , running the xmim excel user ( installation ) under start > programs > business applications > lim
+if problems persist , please contact the enron - lim helpdesk at extension 33923 or 713 - 853 - 3923 .

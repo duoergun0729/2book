@@ -1,0 +1,44 @@
+Subject: important update on california legislation - - 08 . 23 . 01
+received the following additional information late yesterday from speaker hertzberg ' s chief of staff regarding direct access in the legislation working its way through the assembly . he relayed the information during an informational hearing that an assembly committee had on the bill yesterday in sacramento . see previous note attached below for more a detailed description of da provisions in the bill :
+a new print of the bill is likely to be issued today .
+with respect to da , the governor is apparently responsible for the temporary suspension of da in the bill .
+assembly ds and other market participants lobbied him hard , explaining that , since the bill covers all costs of bonds and dwr contracts through " exit fees , " there is no reason to suspend da .
+the governor is resisting hard , stating that " he wants time for the market to stabilize . "
+so it looks like the governor ' s plan is to 1 ) have a bill that provides for direct access as of 1 . 1 . 03 and 2 ) have the puc " temporarily suspend " da from september 1 to 1 . 1 . 03 .
+we ' re continuing to work with with business customers to eliminate , or significantly shorten , the suspension .
+the bill apparently will also have amendments stating that any customer who has switched by august 23 , 2001 ( yesterday ) will not be responsible for any dwr going forward contracts . the customer will have to pay for any power consumed that dwr purchased on the ious ' behalf between jan 17 and the date of the switch .
+the bill apparently will require that any customer switching between yesterday and sept 1 be responsible for dwr going forward contracts ( though details of how that would work were not clear ) .
+the stated reason for wanting to insert an amendment on the august 23 rd date is to prevent a " rush " to direct access between now and sept 1 .
+there are currently no efforts to break or othewise dissallow any contracts signed prior to sept 1 .
+finally , the bill apparently will also give self - generation priority over direct access in each " open season . " the bill would set aside 250 mw of the short position each year for customers to do self gen . if the self gen is not subscribed , the mws would go to da .
+the bill , including these amendments and other amendments related to other issues , is supposed to be released today .
+the bill will be heard in the assembly committee on monday afternoon .
+we continue to work with the business customers to improve the da and self gen provisions .
+it remains unclear whether there is sufficient support for the bill to pass the assembly .
+the politicians are very reluctant to pass any " edison bail out bill " and the political pressure not to vote on any " bailout " is significant and growing . but the governor is working the bill very hard .
+mirant is actively working against the bill .
+mirant is passing around a poll allegedly showing that any member that votes for a " bailout " could lose re - election . mirant is also distributing a letter implicitly threatening to take edison into involuntary bankruptcy if the bill passes .
+the bill also has to make it through the senate . our lobbyist had a conversation yesterday with the senate president , john burton , who said flatly that " he ' s not doing anything . " but there is much to trade in the final weeks of the session , and the possibility of burton doing a deal is 50 - 50 .
+with respect to the bill ' s provisions preventing edison from paying wholesale providers with the " dedicated rate component " included , edison representatives at the hearing yesterday announced that edison intends to issue first mortgage bonds to pay the suppliers . edison also said that , under the assembly version of the bill , edison believes that it would have the borrowing capacity to issue the first mortgage bonds .
+more info to follow as it becomes available . if anyone has any questions , don ' t hesitate to contact me .
+best ,
+jeff
+- - - - - original message - - - - -
+from : dasovich , jeff
+sent : wednesday , august 22 , 2001 8 : 08 pm
+to : [ dasovich , jeff ]
+subject : latest legislative version of direct access - - 08 . 22 . 01
+the following is a summary of the direct access provisions in the bill language released this afternoon reflecting the deal that davis cut with assembly . things are very fluid and these provisions could change significantly .
+i was just informed by the large business customers that they just met with the davis ' and hertzberg ' s staff and the staff have agreed to amend the da provisions to make them considerably more favorable for customers and suppliers . they also said that favorable provisions with respect to self - gen would also be added to the bill . they said that these new amendments could come out as early as tonite or tomorrow morning and that the bill may be heard tomorrow .
+note : in addition to the da provisions , the bill also includes provisions that 1 ) explicitly recognize the px credit as part of edison ' s undercollection , and 2 ) permit edison to pay debts associated with the negative px credit . ( the bill does not authorize edison to pay power suppliers , however , and leaves that portion of edison ' s debt for edison ' s management and shareholders to address . )
+summary of direct access provisions :
+the program would begin january 1 , 2003 .
+it ' s unclear what would happen to da between now and january 1 , 2003 . presumably , the decision to suspend , or not , between now and then would stay with the california puc .
+90 days after the effective date of the bill , and every 6 months thereafter , dwr would provide information to the puc showing the net short position .
+every 6 months , the puc would hold an open season permitting customers to switch to da .
+20 kw - and - above customers would have 60 days to decide to switch once the puc has announced the open season ; under 20 kw customers would have 180 days .
+customers who switch to da would be responsible for paying 1 ) the customer ' s proportionate share of the utility ' s undercollection and 2 ) the customer ' s proportionate share of dwr ' s receivables ( if any ) for power previously delivered by dwr ( but not yet fully paid for by customers ) .
+in addition , if the number of customers who elect to choose to go da in the open season exceeds the net short , then da customers will have to pay their proportionate share of any dwr stranded contract costs .
+if the number of da customers does not exceed the net short position , then no stranded contract cost fees would be assessed .
+best ,
+jeff

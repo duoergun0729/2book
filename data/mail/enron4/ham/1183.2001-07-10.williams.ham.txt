@@ -1,0 +1,6 @@
+Subject: creating customer finals
+bill ,
+with the new system , we need to rework the timelines of some jobs that pull data in . the creation of customer finals must take place prior to our pulling in the schedules to create our estimates . i am requesting that you implement a 3 : 00 am deadline for customer finals to be created . we will run our job at that time that pulls in schedules . if the customer finals are not created by 3 : 00 , then our job will be run again at 5 : 00 am . we understand that there are special circumstances that arise and we can deal with those on a case - by - case basis . this is vital for us to have the finals created in this timeline and makes our lives much easier !
+if you do not have any problems with this , please pass on this request to the rest of the rt team and implement this timeline on tonight ' s shift . otherwise , please discuss with me and we can work w / pete to square this away .
+thank you for your attention to this , i appreciate it !
+kourtney

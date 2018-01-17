@@ -1,0 +1,11 @@
+Subject: re : running credit model
+steve ,
+in order to be able to test the new credit model as well as to answer credit
+group ' s
+questions regarding the outputs from this model research needs to be able to
+do the following :
+1 . run credit model independently of the other runs . it is quite ok for now
+to be able to run it just for small artificial portfolios .
+2 . debug the code to see what actual values are used during the run time .
+please , let me know if your team can help us .
+tanya .

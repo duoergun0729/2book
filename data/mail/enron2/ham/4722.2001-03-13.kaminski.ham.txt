@@ -1,0 +1,16 @@
+Subject: henwood & psim
+stinson / vince ,
+the henwood runs for dabhol are , at least temporarily , over . however , the
+main modeller for henwood ( david yumigada ) works out of their california
+office .
+it maybe worth our while to have him come and demonstrate the runs , and
+explain the modelling algorithm to the larger group .
+in aparticular , now that i am going through some of the comments people have
+raised on the psim model , i think there is value in understanding the way
+henwood deals with hot and cold starts , ramp up costs , and with issues of
+cycling plants .
+i think understanding these will help in developing the next version of the
+psim , and will also give the group here ideas to build into existing models .
+this is a suggestion , and so please let me know if you see value in this .
+regards ,
+sandeep .

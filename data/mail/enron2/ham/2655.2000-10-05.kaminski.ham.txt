@@ -1,0 +1,26 @@
+Subject: re : implementing term - structure of correlations for power
+tanya ,
+while there is seasonal correlations in power , especially for np - 15
+and sp - 15 ( same region ) , the term structure of correlations can be input .
+however , the same correlation structure with similar periodicity may not hold
+between np - 15 and , say , rlb ( neepool ) , though one would imagine that
+relationship would still be seasonal ( summer / winter ) , with greater noise .
+even if the correlational term structure is to be done for power , different
+rules would have to be inputted for different regions .
+naveen
+tanya tamarchenko @ ect
+10 / 05 / 2000 10 : 42 am
+to : vladimir gorny / hou / ect @ ect , naveen andrews / corp / enron @ enron
+cc : kirstee hewitt / lon / ect @ ect , debbie r brackett / hou / ect @ ect , wenyao
+jia / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : re : implementing term - structure of correlations for power
+vlady
+2 ) correlations are periodic with a period of 1 year ( this means we can use
+12 correlation matrices calculated from
+first 12 forward contracts and apply these matrices to other forward months ) ;
+3 ) using decay factor makes the curves a little smoother .
+implementation of multiple correlation matrices will not affect the speed of
+calculations in var model significantly .
+please , give me your response ,
+thanks ,
+tanya .

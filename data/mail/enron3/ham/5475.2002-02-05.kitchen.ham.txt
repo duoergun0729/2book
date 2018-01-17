@@ -1,0 +1,10 @@
+Subject: the procedure
+there are several elements which have been relied upon in the past to verify the authority of the person signing a password application :
+1 ) direct knowledge of the individual signing . the energy community is relatively small . in most cases , we have personal knowledge of the person signing on behalf of the counterparty and have done business with them in the past .
+2 ) ostensible authority .
+3 ) 3 rd party verification .
+for 3 rd party verification , the following procedure is used after credit , legal and contracts departments have approved the counterparty for online transactions :
+? the main reception number at the applicant company is called and a senior contact in the trading department is requested
+? a vice president or director of trading is requested for verification of the pa signatory as an authorized person to bind the company to master agreements and online contracts for commodity trading purposes . the company is informed that the phone call is being recorded .
+? date , name , title and phone number of person who verifies the applicant is recorded in three places : 1 ) access tracking database and 2 ) online trading operations control form and 3 ) recorded telephone conversation .
+the master user id is forwarded to the customer only upon the verification of the authority of the applicant .

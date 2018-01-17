@@ -1,0 +1,22 @@
+Subject: so , what are we saying ?
+what does this all mean for you after july 1 , 2000 ?
+new sap coding for everyone
+this includes all new general ledger accounts , workorder numbers and cost
+centers . company numbers have now been expanded to four positions .
+all departments have been assigned a new sap cost center number
+a new sap company / cost center must be used to request houston office
+internal services such as :
+forms & stationary
+overnight deliveries ( fed ex , ups , etc . )
+audio / visual services
+tap - travel agency in the park
+a / c lighting after hours
+catering
+contract staff
+new forms have been developed
+invoice and expense reports will accommodate the new sap codes .
+where do you find this new information ?
+documentation , forms and cost center codes are on the intranet " quick
+reference " site at :
+http : / / sap . enron . com / quickref
+call your project manager for project codes .

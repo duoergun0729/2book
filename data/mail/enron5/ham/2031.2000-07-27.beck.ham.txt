@@ -1,0 +1,85 @@
+Subject: re : mg : russian prepayment exposure
+which commodities does this impact ? is it only concs ?
+mike jordan @ ect
+07 / 27 / 2000 03 : 39 am
+to : shona wilson / na / enron @ enron
+cc : sally beck / hou / ect @ ect , brent a price / hou / ect @ ect
+subject : mg : russian prepayment exposure
+interesting information floating up from some detailed review work by tim -
+says a lot about the way mg do business i think .
+re ny we should ask the same questions - what prepayments exist ( philip
+bacon seemed uncomfortable with the need for a dash for each prepayment on a
+contract ) add to this the absence of credit people in ny and we may have
+some issues - although marcelo and others stressed the fact that concentrates
+appeared to move no product without a letter of credit , which was then often
+discounted to realise cash ! !
+shona we should also discuss the legal contract issue - another comment
+yesterday from philip was that each of his concentrates contracts were
+' unique ' - whilst i can accept that each may be tailored to customer
+preferences - they still need to be cacsed - we should look at the
+enforceability / legal risk here .
+whilst information prepayment risk for metals should come from london -
+accessing any relevent inofrmation from ny may be helpful
+will call later !
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike jordan / lon / ect on 27 / 07 / 2000 09 : 33
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+tim poullain - patterson
+26 / 07 / 2000 21 : 53
+to : eric gadd / lon / ect @ ect , goran novakovic / lon / ect @ ect , robert
+quick / lon / ect @ ect , david hardy / lon / ect @ ect , mike jordan / lon / ect @ ect , justin
+boyd / lon / ect @ ect , howard carter / the metal & commodity co ltd / mgltd @ mgltd
+cc : richard sage / lon / ect @ ect , diana higgins / lon / ect @ ect , fernley
+dyson / lon / ect @ ect , steve w young / lon / ect @ ect , bjorn hagelmann / hou / ect @ ect ,
+david p tregar / mgltd _ london / mgltd @ mgltd
+subject : mg : russian prepayment exposure
+the situation at present is as follows :
+mg have nine open contracts with four counterparties sourcing mainly copper
+from the russian federation on a prepayment basis
+all contracts are on a floating price basis ( lme less discount )
+notional value of each contract is circa $ 0 . 5 - 3 mm
+prepayment is on a unsecured trade finance basis , for between 90 - 95 % value
+with balance on exchange of title evidenced by documents
+the issues break down into three broad areas :
+1 ) commercial
+at present enron does not engage in prepayment activities with russian
+federation counterparties .
+no further prepayments are permitted until rac have performed a dash for this
+activity . as this is likely to take several weeks howard will liase with
+commercial to manage issues with existing prepayment counterparties arising
+from this suspension . howard and david hardy will also take immediate steps
+to manage down existing prepayment exposures .
+2 ) legal
+based on a cursory review of the confirmations by robert , if we are to
+continue this activity legal need to instructed to perform a full review for
+several reasons , including :
+the confirmations contain ambiguous language concerning basic economic terms ,
+e . g . pricing date
+they are light on the mechanics of the prepayments , and are generally not
+constructed in an appropriate way for this type of activity .
+" conditions of purchase " are attached to the confirmations which refer to
+english law , but as they are not always countersigned , under conflict rules
+the closest or real connection may be deemed to be russian law which , in the
+absence of a properly executed agreement raises concerns about enforceability .
+there are several " open " contracts with volumetric shortfalls where we are
+beyond the delivery period , and which could be considered to have been
+discharged by breach . again the confirmation does not contain adequate
+language .
+3 ) credit / operational
+there are no formal counterparty limits . nor are prepayment and volumetric
+exposures tracked on a contract by contract basis . this information is
+necessarily to ensure transparency over contract performance , and needs to be
+factored into the overall credit monitoring process .
+david has requested this information from mg , and will follow up this one off
+exercise by introducing a spreadsheet workaround to enable us to track
+exposures based on the methodology developed for helsinki .
+further work is required to quantify our exposures and to demonstrate that ,
+despite the issues identified with contractual terms , there is performance
+against the contracts . david is pursuing this from a credit perspective and
+will report back to his group his findings by friday latest .
+the issues raised regarding contractual language suggest that we need to
+accelerate a planned review of contract language for all mg ' s activities in
+all jurisdictions . mike and i will discuss bringing this review forward with
+justin .
+any questions , please call .
+regards ,
+tim

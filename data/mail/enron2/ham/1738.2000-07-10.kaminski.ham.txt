@@ -1,0 +1,62 @@
+Subject: re : short - sell vs exercise
+chonawee ,
+as i have pointed out , short - selling the stock may be a bad
+decision because of tax implications ( ignoring the legal aspects ) .
+suppose the strike is $ 70 and you were granted an atm option .
+you sell short at $ 70 ten lots ( one lot = 100 shares ) . the price goes to
+$ 100 .
+you lose $ 30 x 1000 = $ 30 , 000 on your short position . option exercise
+gives you $ 30 , 000 . this is before taxes . you pay taxes
+on your option income ( it ' s treated as ordinary income ) . the tax is
+28 % x $ 30 , 000 = $ 8 , 400 . you can use only $ 3 , 000 of your loss against
+ordinary income . this saves you only $ 840 in taxes .
+of course , if you have capital gains , you can use losses on your option
+position
+as an offset .
+the remaining part of your capital loss is carried forward and you get the
+tax benefits over time ( less the time value of money ) , assuming you have
+income in the
+future ( or capital gains ) .
+not so good .
+by the way , valuation and optimal exercise of employee stock options
+is a very interesting and difficult problem .
+vince
+chonawee supatgiat @ enron
+07 / 10 / 2000 11 : 40 am
+to : stinson gibner / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+cc :
+subject : short - sell vs exercise
+below is my writing that was originally planned to post somewhere . it
+explains how to handle a special type of call options which can be exercised
+but cannot be sold . ( as we know that it is never optimal to exercise a call
+option before its maturity ) . however , after taking vince ' s comments on the
+ordinary income / capital loss tax offsetting issue , i think this is not a good
+article anymore . i guess i could just throw this article away . : - )
+- chonawee
+short - selling is better than exercising your employee stock options
+in general , the sensible time to exercise your employee stock option is when
+you speculate that ene is going down or its growth rate is extremely low . in
+fact , when exercising the options , you are speculating that ene would never
+reach this point ( plus interest ) again during the 10 years maturity date or
+until you leave the company . if you do not anticipate that , you should hold
+on to your options because you can gain higher profit by delaying your
+exercise .
+however , if you believe that ene is reaching its peak . then , instead of
+exercising the options , you should short - sell ( or sell ) the stocks in that
+amount . after short - selling , when you feel that the stock starts to go up ,
+you can buy them back ( to cover ) , make profit , and still keep the options . on
+the other hand , if the stock does not go down as expect , you can exercise the
+options to cover your short position anytime .
+let us take a look at a simple case where there are no taxes , no dividends ,
+and zero risk - free rate . suppose that ene follows a simple sample path as
+follow
+if you exercise 100 ene options with a grant price of 45 when ene reaches 70 ,
+you would earn ( 70 - 45 ) * 100 = $ 2 , 500 . but if you short sell 100 ene at 70 , no
+matter how much ene is in the future , you can exercise the options to cover
+the short position and still earn ( 70 - 45 ) * 100 = $ 2 , 500 . the advantage of
+short - selling comes when ene at the period 2 is 60 . at this point , you can
+cover your short position , get ( 70 - 60 ) * 100 = $ 1 , 000 , and still keep your
+options or you can exercise the options and gain $ 2 , 500 . that is , you still
+keep the flexibility of your options when you short - sell . in conclusion , the
+only sensible time to exercise your employee stock options is to cover your
+short position .

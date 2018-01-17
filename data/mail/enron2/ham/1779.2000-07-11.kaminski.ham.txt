@@ -1,0 +1,67 @@
+Subject: re : var priorities
+vince
+thanks for the quick response . agree on # 5 just bear in mind it says scope
+not implement so it is more of a development of a project .
+re ; mg i will keep tanya apprised of travel plans and give her the option to
+be in or out as you two see fit .
+ted
+vince j kaminski
+07 / 11 / 2000 03 : 57 pm
+to : ted murphy / hou / ect @ ect
+cc : tanya tamarchenko / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : re : var priorities
+ted ,
+item # 5 will require help from it . my understanding is that currently we are
+receiving the
+positions aggregated to a daily level .
+also , i talked to tanya about visiting mg in new york . she is leaving for
+vacation on the 26 th of july
+and can go for a day to nyc prior to this date .
+i think that it makes a lot of sense for her to visit mg and to kick
+the tires . i asked her to coordinate the trip with you : it makes sense
+for both of you to go together . i may join you depending on my availability .
+vince
+from : ted murphy
+07 / 11 / 2000 03 : 20 pm
+to : vince j kaminski / hou / ect @ ect , john sherriff / lon / ect @ ect
+cc :
+subject : var priorities
+vince / john ,
+below is a brief summary of near - term projects for the enhancement of var and
+the use of var . as you can tell some are not directly research issues ( some
+require the guidance but not direct work product ) , and are very north
+american wholesale - centric .
+vince ,
+i think that the only one in which progress requires your input to get kick
+started is # 5 . all others are in progress with tanya / grant involved through
+jeff shankman ' s regular meeting .
+we would like to get your input as to your priorities ( we were thinking top
+5 ? ) and then start knocking some of them out . it is not meant to be
+exhaustive and is focused on fixes as opposed to overhauls .
+thanks
+ted
+- - - - - - - - - - - - - - - - - - - - - - forwarded by ted murphy / hou / ect on 07 / 11 / 2000 03 : 10 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : ted murphy
+06 / 28 / 2000 07 : 45 am
+to : rick buy
+cc :
+subject : var priorities
+rick ,
+this is my initial attempt to summarize our meeting with john . the next
+steps would be to solicit feedback from other interested parties and scope
+the resources and responsibilities .
+ted
+rick buy , john lavorato and i met to discuss priorities as it relates to the
+calculation of var . we are making the following recommendations
+1 ) inclusion of monthly index positions into var calculations as the
+indicies set in north american natural gas
+2 ) development of a methodology to re - run correlations ( factor loadings )
+including criteria , responsibilities and acceptance / rejection criteria
+3 ) development of process by which to analyze the output of factor loading
+process . database to store output and management reports .
+4 ) finalize debate on the calculation of forward / forward volatility
+5 ) scope a project to analyze the possibility of calculating hourly
+volatility for power .
+it was further recommended that we continue to not include unpriced index
+positions in var calculation .

@@ -1,0 +1,20 @@
+Subject: sap a / r a / p aging report
+tonight kris and i met with the sap team about the critical issues we
+discussed in the meeting this morning .
+as far as xrefl ( coordinator ) and xref 2 ( physical vs . financial flag ) fields
+go , it appears that we are getting what we have to have in order to go live
+7 / 1 . rena was working on a spec ( the oss that was discussed ) that would
+automatically populate these 2 fields . however , the test was unsuccessful .
+these two fields are being opened up for netting , so we can input them
+manually when netting . i believe we need to pursue the auto fill post 7 / 1 ,
+but the first priority is having a place to put the data .
+as far as settlement period is concerned , we are probably going to get a
+hybrid of what we want at this time . the sap team does appear to have
+appropriate resources working on this issue . for data created in sap , i am
+more comfortable that the data is being captured on the income statement side
+of the entry , and the sap folks now seem to think they can link over to it to
+get the settlement data . for data converted , we will not be able to get the
+settlement period in the same manner . the offsetting entry in conversion is
+to a dummy conversion account rather than an income statement account . the
+dummy account doesn ' t carry the settlement date . another issue is related to
+the indicator to let us know if an invoice has had cash applied or

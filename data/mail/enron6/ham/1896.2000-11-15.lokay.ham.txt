@@ -1,0 +1,11 @@
+Subject: new poi on tw / calpine
+the following poi was established on transwestern effective 11 / 15 / 00
+name : calpine so . point power del
+poi # 78113
+poi type cic ( commercial / industrial connect )
+drn # 288275
+operator : calpine energy services , lp
+this point has been added to the west of thoreau deliveries and interruptible
+deliveries templates .
+if anyone has questions , please advise .
+karen brostad

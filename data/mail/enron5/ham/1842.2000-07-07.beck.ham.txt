@@ -1,0 +1,30 @@
+Subject: unify to sap interface - - - day 2
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jefferson d sorenson / hou / ect on
+07 / 07 / 2000 08 : 35 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+bob klein
+07 / 06 / 2000 05 : 12 pm
+to : jefferson d sorenson / hou / ect @ ect
+cc : rebecca ford / hou / ect @ ect
+subject : unify to sap interface - - - day 2
+as on day 1 we ran the unify to sap interface at 8 : 00 am , noon , and 3 : 00 pm .
+set out below are the results of these runs .
+the interfaces for enron north america ( financial for gas , weather , and pulp
+and paper ) were error free .
+the interfaces for ena global products - - financial resulted in two invoices
+not being accepted by sap . this was due to a sap error that has occurred
+about three times in test . however , the sap team cannot duplicate the error
+in order to correct . they are still trying to find the root of this problem .
+the two transactions which were not picked up by sap were resent successfully .
+the interfaces for ena fx financial uncovered a breakdown in the process . the
+payment program for this entity is to be processed manually by the accounts
+payable dept . for july 5 and today , the ap dept . forgot to process the
+payment program resulting in nine payments ( 7 us $ , 1 canadian , and 1 gbp )
+not being paid . we were able to get all payments out today through sap
+except the gbp payment . the gbp non - payment was discovered by a counterparty
+calling and stating that they did not received their funds . the us $ and
+canadian non - payments were discovered when we reviewed our bank statements
+and found that the funds were not disbursed . for future interfaces , bernard
+is to call treasury after each interface is processed to ensure that the
+payments for this entity were received by them .
+bob

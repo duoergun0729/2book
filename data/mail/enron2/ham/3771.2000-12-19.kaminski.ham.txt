@@ -1,0 +1,29 @@
+Subject: re : releasing different versions of vatrfacs code
+winston and jin ,
+for last half year the following developments were implemented by jin for
+vatrfacs code
+( the calibration code for var ) :
+1 . weighting the log - returns with exponential decay factor while calculating
+correlations ;
+2 . calculating factors and correlations for uk curves ;
+3 . joint estimation of factor loading for selected groups of commodities ;
+4 . alternative method for collecting historical data for correlations
+calculation
+( based on fixed contract instead of collecting prompt , prompt + 1 , etc . prices )
+in order to release these developments research has to have each version under
+clearcase . then we will :
+1 . run vatrfacs code in stage environment ( stage has been refreshed
+recently ) .
+2 . run var code in stage and validate the results .
+it is time to start releasing these 4 versions . projects 3 and 4 require some
+experimental runs
+in stage . a few traders ( in gas , power and liquids markets ) are expecting the
+results .
+meanwhile the following developments have been suggested by reseach , approved
+by risk control ,
+submitted to it as spreadsheet prototypes and waiting in line :
+1 . volatility blending for intramonth power positions ;
+2 . forward volatility smoothing and extracting forward forward volatilities ;
+hope we can follow our procedures to make all these developments go smoothly
+and efficiently .
+tanya .

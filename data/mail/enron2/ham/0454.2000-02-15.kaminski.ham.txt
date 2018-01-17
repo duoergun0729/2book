@@ -1,0 +1,75 @@
+Subject: re : storage model : simple issues
+brad ,
+here are my thoughts on your concerns .
+* you needs curve inputs . this is an it job . i can help you for the curves
+before the system is properly set up .
+* intrinsic value vs time value :
+the intrinsic value depends on how you allocate the volumes . if you have a
+rough idea about the allocation as
+you did in the spreadsheet , we can calucate the intrinsic value within the
+model . the difference between the
+total and the intrinsic will be the ( option ) time value . however , by
+pre - allocating volumes , you killed some options .
+in the storage model , volumes are allocated dynamically , therefore it is
+hard to distinguish the intrinsic vs . time value .
+* factor of loading : factor of loadings are used to give historical
+correlation matrix . the three factors correspond to
+paralle shift , slopping and curveture . the covariance matrix in the model
+is expressed in the form
+covar = row ( vol _ { i } ) * ( correl ( i , j ) ) * colum ( vol _ { j } ) where vols are
+the implied volatilities from the vol curve .
+( correl ( i , j ) ) = l * l ' + residue ( small )
+where l is the factor of loading matrix . so in a simple words , the factor of
+loadings ( say , 60 x 3 ) are a simplier way for us to
+remember the historical correlation matrix ( say , 60 x 60 ) .
+let me know if i can offer further help .
+zimin
+brad horn 02 / 15 / 2000 07 : 15 am
+to : zimin lu / hou / ect @ ect
+cc : sandra henderson / hou / ect @ ect
+subject : storage model : simple issues
+zimin :
+thanks for your time with the revised storage valuation . your right to
+point out the similarity to market bids . here are some basic questions tied
+to implementation and calibration :
+model infrastructure / it support : i obviously need to re - build my link to the
+forward curves as the model is not working in my new location . short - term
+( aprox 1 month ) , i ' d like to establish a link to the ena database egsprod 32
+in order to fetch the long - dated price and volatility curves . my link to ena
+forward curves would then be quickly severed in favor of the curves generated
+by the new bridgeline entity ( database name and data structure yet to be
+defined ) . however , its not clear to me what is required in this two stage
+process to support your model . any definition of model input or minimum
+support requirements you provide is appreciated . i ' ll then work with sandra
+henderson , an enron employee providing our it support , to ensure the model
+continues to work regardless any downstream system changes that may take
+place as we build and establish our separate trading systems or databases .
+meanwhile , is there anything you think you can do to ensure im up and running
+quickly ?
+sandra : linking excel spreadsheets to bridgeline forward curves will be key
+to all our pricing projects , not just the storage model supplied by research .
+intrinsic vs extrinsic value : it would be helpful to decompose the model ' s
+calculated storage price and to distinguish intrinsic vs extrinsic ( time or
+option ) value . i could easily link a new spreadsheet tab to your model
+inputs and to calculate the intrinsic value , and then through a simple
+difference i could determine the extrinsic value . ive included a simple
+spreadsheet calculation for the intrinsic value for review . i wanted to
+share this with you to ask the following :
+does the nature of the model define intrinsic and extrinsic value differently
+than the simple difference proposed ?
+do you think it would make sense to do the simple value decomposition in the
+backcode c - code via . dll in order to ensure run - time is faster ?
+my goal here is straightforward : a ) to better understand the model and its
+sensitivities . ; and b ) to determine if and when the option approach is
+associating significant value above and beyond the simple present value of
+the time spreads .
+factor loadings : what are some of the thoughts or insights you can offer with
+regards to factor loadings and how i should interpret the graph of the 3
+factors calculated ? factor loadings have always been a mystery to me . for
+example , what problems should i be looking for as a warning against
+mispricing ? what , if anything , is implied about 1 day price change or
+expected curve re - shapings ( after all , curve - reshapings are key to storage
+valuation ! ! ! ) ?
+calibration : we are preparing a simple summary of descriptive statistics
+which should allow me to refine some of the model inputs . i ' ll share the
+data when we are and model results once im up and running .

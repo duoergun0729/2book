@@ -1,0 +1,82 @@
+Subject: update
+here ' s just a quick summary of what we have going on . . . ( not sure how quick
+this is going to be ! )
+enrononline
+offering products on other exchanges ( houstonstreet and true quote ) . we are
+going to offer specific products ( various gas and power products ) to
+customers who have execute rights to these products on these two platforms .
+therefore , we will have three feeds to deal with and will need new
+applications built to support the interfaces . we will be responsible for
+adding / deleting products , ensuring the sites match ours , reporting trades on
+these systems , bridging applicable data to downstream systems , etc . enron
+gets an equity ownership in the platforms depending on activity .
+opening up enrononline to brokers . we are negotiating with three brokers
+right now . they will have to pay a one year licensing fee to have access to
+the site , and we will allow them to transact for specific counterparties
+only . we will also need applications built and establish specific processes
+to support this .
+wish list - we have a list of approx . 180 times that we need the developers
+to work on for us . jay webb committed to louise a few weeks back ( when i was
+in her office ) that we would get a resource ( specifically chris luttrel and
+his team ) . i think you are aware of this . chris is now moving on to do
+something else and none of our items have been addressed in three weeks . we
+have had weekly meetings the last three weeks with the it team ( mark dilworth
+and company . . . ) . basically , since mark has decided to leave the group ,
+nothing is being addressed . i am going to speak to dave tomorrow about this
+and escalate from there necessary . this needs a more detailed explanation -
+i am going to try to get some time with you next week .
+steel - i will discuss with dave tomorrow . he basically told me not to do
+anything ( another topic of discussion . . . . )
+we are working on enhancing our existing intranet site for the pcg
+louise has asked that i not allocate any of the pcg time to europe - i don ' t
+agree with this because i have four people preparing the management report on
+a daily basis and i have a call center that also supports europe . i tried to
+argue my point but did not get very far : ) i am going to talk to dave about
+it some more .
+working on bridging to thunderball and the new weather application
+legal / credit - we do not always get timely responses from the groups - credit
+is improving ( they hired a new person ) , but legal has one person responsible
+for new cp set up ( tana jones ) . when she is out , all application processing
+stops . i am going to talk to mark taylor about appointing a back up at a
+minimum . tana does a great job , but our activity is really increasing ( she
+also supports clickpaper ) , so it is becoming an issue .
+we have set another record today - we have already done 3 , 358 trades ! ! ! !
+no new news from canada on power trading - legal needs to sign off . in mark
+taylor ' s shop
+argentina in the works - probably end of month .
+clickpaper
+we have so much , i am not sure where to start . i had lunch today with jeff
+harbert to discuss what our needs were . we need tools from reporting to
+credit . . .
+the commercial group is really wanting to start offering more products , and
+are starting to hire marketing people and traders . the activity is really
+picking up
+the contractors are working weekends ( call center ) . i am working the
+commercial group to discontinue this . we are not even getting that many
+calls during the week , and we have not received one call on sat / sun since
+launch ( july )
+commodity logic
+dale has been very involved in all the discussions and has been a great
+resource ( i have received several compliments from the networks team on his
+contribution )
+they have not yet released the first module ( financial mgmt - cfo ) . should
+be very soon
+dealbench
+no external customers - very slow developing . . . . staying involved and in
+touch with the commercial team
+other
+i am still looking for an assistant . i sent five resumes down to staffing
+and a week later the interviews were not scheduled . i went down to complain
+and two of them were scheduled . a week later , the other three were yet to
+be scheduled , so i am doing it myself . i think we have some real issues in
+the staffing group - this is not the first time .
+we are working on disaster recovery for the group .
+super saturday - i would like our team to participate . do you have an idea
+of who all is interviewing ? we would like to be involved .
+we are looking at holiday coverage now to ensure we have coverage
+i talked to mary sloan ( sap ) and keith clark ( call center ) is working with
+her . i think she really appreciates the help / input .
+have you had a chance to review the announcement letter re : reorg ?
+sorry for the long - winded message . . . .
+thanks ! talk to you soon .
+sheri

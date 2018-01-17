@@ -1,0 +1,32 @@
+Subject: ieor monday seminar - october 23 , 2000
+?
+?
+industrial engineering and operations research
+monday seminar
+ieor 298 - 1 - fall 2000
+monday , october 23 , 2000
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" volatility of electricity prices - measurement and analysis of underlying
+causes "
+dr . vincent kaminski
+managing director and head of research for enron corp .
+?
+abstract :
+the last three years were characterized by exceptionally high volatility of
+the power prices in the us markets . the market developments have created a
+number of unique challenges for energy industry economists . one immediate
+question we have to answer is how to measure volatility of energy prices .
+although we can all agree that the prices in the power markets are
+characterized by high variability , the traditional measures used in
+financial economics ( annualized standard deviation of log price returns ) may
+not fit well electricity prices .
+the second challenge is to explain the sources of high price volatility and
+to answer the question to what extent it can be attributed to problems that
+can be addressed in the long run . such problems include flaws in market
+design that allow some market participants to abuse market power , limited
+availability and / or unequal access to transmission , temporary shortages of
+generation capacity . some factors underlying high volatility of electricity
+prices may be of permanent nature and may be a necessary price to pay for
+increased market efficiency and expanded customer choice .
+time and location : 3 : 30 - 5 : 00 p . m . - 3108 etcheverry
+refreshments : 3 : 00 p . m . - 4 th floor hallway

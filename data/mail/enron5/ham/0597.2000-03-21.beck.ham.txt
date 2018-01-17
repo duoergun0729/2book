@@ -1,0 +1,44 @@
+Subject: global entelligence status
+just want to give you a couple of updates .
+the prototype of the market penetration window was shown to jennifer fraser
+and chris gaskill yesterday . the overall response was very positive . based
+on this , it will provide a firmer estimate for delivery of phase i by the end
+of the week .
+the cost for the d & b data has been reduced by $ 100 k after additional
+negotiations . pursuant to that , the agreement was signed last week . the
+requested data was received yesterday .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary solmonson / hou / ect on 03 / 21 / 2000
+09 : 55 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mary solmonson
+03 / 07 / 2000 05 : 50 pm
+to : greg whalley / hou / ect @ ect
+cc : sally beck / hou / ect @ ect
+subject : global entelligence status
+just wanted to let you know a few updates :
+1 ) we have a full it team now ready to go . we are going to prototype the
+first window , market penetration . the prototype will give us something with
+sample data to show various traders to get additional feedback on
+functionality . hopefully , we will have something in 2 weeks .
+2 ) the previous cost estimates still stand until we have more feedback from
+the prototype . the estimates are $ 1 . 6 m for phase i and $ 1 . 6 m for remaining
+phases .
+3 ) included in the cost estimate is a figure of $ 389 k for the purchase of
+customer prospect data from dun & bradstreet . the $ 389 k is an o & m expense
+amount that was not included in the 2000 budget . this amount combined with
+other amounts ena did budget for or will spend with d & b results in an overall
+budget impact over the next 12 months of $ 278 k .
+i spoke with george wasaff in strategic sourcing this morning at the request
+of philippe bibi . george has some ideas for negotiating a better deal from
+d & b . either he will get more customer records for the price or negotiate
+better terms for a longer term on the recurring contract with d & b . this
+could take some time and push us late on getting the data scrubbed and ready
+to go for implementation . i believe i can give george some time to try
+something , but when it comes down to it , $ 389 k isn ' t that much money .
+therefore , i suggest that if we don ' t have anything negotiated in the next
+three weeks , we sign the current proposal from d & b and move forward . d & b
+is currently threatening ( a negotiation tactic , i think ) to pull their
+development resources off of this project until they receive a signed
+agreement . in the event this comes to pass and adversely impacts our
+delivery of global entelligence , we can provide a letter of intent to keep
+them moving or sign the proposal at that time .
+give me a call at 3 - 6079 if you have any comments on any of the above items .

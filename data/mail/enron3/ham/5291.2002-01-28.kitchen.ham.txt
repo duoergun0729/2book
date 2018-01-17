@@ -1,0 +1,35 @@
+Subject: fw : online launch plan update
+cc : louise
+- - - - - original message - - - - -
+from : forster , david
+sent : monday , january 28 , 2002 2 : 50 pm
+to : dl - netco gas traders ; dl - netco gas originators ; dl - netco power traders ; dl - netco power originators
+cc : dl - eol ecommerce support ; becker , lorraine ; mandola , teresa ; mcquade , jennifer ; carter , carl ; diamond , daniel ; jafry , rahil ; shults , bob
+subject : online launch plan update
+with the filing of the hart - scott - rodino application last week , it looks like our updated launch timeline is as follows . note that it is still possible that this timeline could shift :
+week of jan 28 :
+we will distribute a packet to each of the originators / traders who have volounteered to call customers and assist in getting signed password applications . the packets will contain :
+key messages
+frequently asked questions ( faqs )
+top counterparty checklist
+external customer cover letter
+password application ( pa )
+registration form
+fax cover sheet for pa / registration
+electronic trading agreement ( eta )
+internal online marketing contact list
+each person receiving a pack will contact the master users at the companies they have volounteered for and send them copies of the password application ( pa ) and electronic trading agreement ( eta ) . during this week , we will be working hard to get as many of the pa ' s returned as possible . once we have a signed pa , we can send the customer their new user id , which will allow them to start trading on the day we launch the new site .
+a splash page will be available at www . ubswenergy . com or via an automatic redirect from www . enrononline . com . this page will tell customers about the pending launch of www . ubswenergy . com and provide links to the pa and registration screens and also to the user admin screens , which will allow customer master users to start setting up their sub users .
+the splash page will look something like the following :
+week of feb . 4 :
+we will send out a mass mailing to approx . 3 , 000 individuals at 450 companies inviting them to sign up for the site . included in the package will be a simple brochure , copies of the pa and eta , key messages and a list of frequently asked questions .
+week of feb . 11 :
+the site will launch , with at least financial products ( timing for gas physical and power physical to be determined according to regulatory issues ) .
+general terms and conditions ( gtc ' s ) will be available online and must be accepted online before a company can start to trade a particular commodity .
+trading / origination coordination
+the top 50 customers will have at least an initial contact within the first two days of starting the marketing effort and that all customers who previously traded either gas or power will receive a mailing within the first 10 days . an online marketer has been assigned as coordinator for each company and will assist each trader / originator in following up with master users as necessary to make sure pa ' s are signed and returned .
+ubswenergy marketing contacts :
+for marketing - specific questions , please use the following contacts . for other questions , please contact bob shults ( 30397 ) or dave forster ( 31861 ) .
+teresa mandola ( 39807 ) - power
+jennifer mcquade ( 53614 ) - power
+dan diamond ( 39673 ) - gas

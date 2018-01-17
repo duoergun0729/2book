@@ -1,0 +1,171 @@
+Subject: erisk interview
+vince :
+you may inteersted in the following interview which appeared on erisk . com last friday . were rick buy ' s comments about real options taken out of context ?
+yann bonduelle leads a 25 - person team for in london
+that applies decision analytics and real options theory to dilemmas ranging from
+valuing a biotechnology product to deciding whether to kill off an internet financial
+services business . here he talks to rob jameson about whether this " theoretical "
+approach to risky decision - making really helps businesses in their day - to - day
+balancing of risk and reward . yann holds a ph . d degree from the
+engineering - economic systems department at stanford university , where he
+studied how to apply engineering decision and design analysis to wider economic ,
+social and business issues . he then worked as a consultant applying his decision
+analysis methodologies to problems that included consumer decision making
+about innovative products such as electrical vehicles , before joining the
+ team in 1998 where he is now a partner . he has
+written widely on the application of real options , particularly in fields of life
+sciences , technology , and e - business , and has a special interest in the
+relationship between risk assessment , validation of risk data and financial
+valuation .
+how would you sum up your approach to business decision analytics ?
+most of our projects are set up to help businesses that face massive uncertainties
+of some kind . decision analysis helps people explore problems , and redesign
+their decision - making process to increase the chance of them making the right
+choices . for example , imagine a biotechnology company that has to decide
+whether to put itself up for sale , enter a strategic relationship , or continue to go it
+alone . each of those options will lead on to other value - enhancing or
+value - destroying scenarios . we work with the client firstly to understand and
+challenge the assumptions associated with their most likely business
+development scenarios , and secondly to help them identify decisions that would
+help protect or increase the value of their technology or company . quantifying
+technical , regulatory or commercial risks can sometimes be a challenge . in
+technology - intensive fields , however , we have found that managers ( often
+scientists ) are quite willing to describe the main sources of risk and to assess the
+probability that a risky event may or may not occur .
+how does this kind of risky decision - making relate to real options valuation ?
+you can ' t say what the value of an asset is until you decide what you might use it
+for . this means that , to form an opinion about the value of an asset , you must
+explore the most important decisions that you are likely to face and that will have
+a significant impact on the value of the asset . so decision analysis helps to define
+the business problem and to uncover a stream of inter - related choices that are , in
+effect , " real options " . for example , if a company is trying to decide whether to
+invest in a risky project , does it have the option to pull the plug on the investment
+at an early stage if a pilot project gives a poor showing ? that " real " option reduces
+the riskiness , and increases the potential value , of the original business plan . so
+real options and decision analysis are really very close to one another . but you
+don ' t have to believe in real options valuations to find decision analysis useful .
+what do you mean ?
+often decision analysis can help managers to identify the key risks in a strategic
+decision , attach weights to these , and show clearly how they interact . for many
+companies this " risk discovery " is the most valuable part of the exercise .
+real options theory has been criticised recently for being , well , not very realistic .
+is it a practical approach to valuation ?
+it ' s important not to hold out unrealistic hopes for the real options approach to
+valuation . but it ' s an exciting methodology , and it ' s also sometimes the only
+reasonable way of tackling a very practical problem . for example , when a firm
+sells an asset , the firm might have to make an independent valuation of the asset
+for legal or corporate governance reasons . but in many businesses today there
+are assets that simply cannot be valued in traditional ways because they are
+difficult to link to cashflows . the cashflows might not exist because the business
+is so novel , or they might be hidden . in some respects , a real options analysis is
+much closer to reality than a traditional valuation .
+how , exactly ?
+the classic way of valuing a future business is to base the calculation on a single
+discounted cashflow that is projected from the activity . but this doesn ' t really take
+account of the way that scenarios can change , or the fact that managers can
+react to situations as they unfold . i mentioned earlier the option to kill a project or
+business at an early point . but the upside is that if a pilot project yields exciting
+results , it might allow you to invest more quickly and reach a revenue - generating
+position in a much shorter time than the original business plan allows . so to value
+a future business we really need to look at the cashflows that might arise in a
+number of scenarios . this is " realistic " in that , if the project gets the green light ,
+you can bet that its managers will be taking that kind of decision on the ground all
+of the time .
+what ' s the most challenging part of mapping out a decision analysis tree ?
+modelling the links between the variables in the decision tree - - it ' s something we
+have particular strengths in . but it ' s also tricky to know when it ' s worthwhile to
+add on more detail , and when it ' s better to draw back .
+in a recent erisk interview , rick buy , chief risk officer of enron , said that over
+the two years that enron had experimented with the real options concept , it had
+found it of " limited , but not zero , use " . why is there a slight air of cynicism about
+real options in some businesses today ?
+it ' s strange that enron would profess this attitude . a few years ago , it was widely
+reported to have used real option valuation to support a very profitable purchase
+decision . they had apparently bought cheaply some older generators in the us
+that generated electricity at a very high cost . they knew that they could mothball
+them for most of the year , and switch them on only when the electricity prices
+were sufficiently high . nevertheless , from a customer ' s point of view , there might
+have been too much hype about the methodology . one problem in the application
+of real options technology is that there are , perhaps , too many people trying to
+tweak reality to conform to their " perfect " model . it ' s better to aim for something
+pragmatic that clearly improves decisions over time . in one pharmaceutical
+company we worked with recently , we worked together to improve their valuation
+analyses by moving from a single discounted cash - flow methodology to one that
+took into account a rather small set of business scenarios . it would have shocked
+some academics and consultants , but it was an undeniable improvement on the
+original approach .
+why do you think financial institutions are only just picking up on your field , when
+it ' s been applied in the energy industry for 15 years or more ?
+it might have something to do with the relative stability of the banking world until
+recently , and the relatively high margins that banking lines have enjoyed . also ,
+industries such as energy and pharmaceuticals tend to have more people with an
+engineering and science background . the dynamic modelling of decisions is
+based on methodologies originally dreamed up to help engineers design electrical
+and electronic systems . this approach is quite distinct from the black - scholes
+options analyses that the banking world is familiar with : the black - scholes
+approach is difficult to apply in a real options context , because everything
+depends on the assumptions that you put into the black - scholes model . the real
+options approach , on the other hand , is in a sense a way of modelling those
+assumptions more explicitly . but banks are now adopting some of the thinking ,
+particularly in terms of using decision analysis to pinpoint risks and identify
+value - enhancing decisions , and in using real options methodologies to sort the
+wheat from the chaff in their more speculative investments .
+you mean their internet investments ?
+we have recently worked with a major dutch bank that had arrived late in the
+internet game , and then made a considerable number of investments . now that
+even b 2 b business models have questions marks hanging over them , and many
+b 2 c businesses are already under water , they wanted to work out which
+investments might contain real value . in this situation , it ' s a case of ranking
+priorities and helping the bank make sense of what could turn into a
+decision - making chaos , rather than sophisticated valuation . it ' s not just a case of
+whether an internet investment should be killed off , but the problem of whether
+continued funding for it should take priority over budget demands for major it
+upgrades in existing businesses , and so on . these are very practical questions
+and they have to be answered somehow .
+are there other areas in financial institutions that seem accessible to this
+approach ?
+yes , for example , we think it can help work out the value associated with various
+approaches to marketing a new bank business line . at the moment , many banks
+are chasing high - net - worth individuals , but it ' s not always clear which kind of
+individual a particular bank should decide to pursue . the bank might have a
+regional or industry advantage already in one particular area , for example , music
+business people . but what is the churn rate associated with this kind of
+customer ? what is the profitability associated with the customer segment ? will
+the time and cost benefits of the advantages the bank has in the sector outweigh
+any disadvantages ? weighing up this kind of complex problem , where one thing
+leads to and depends on another , is what decision and real options analysis is
+good at .
+is there any way of rigorously backtesting or validating real options valuations ?
+in all honesty , not really . the problem is that by the time the option is exercised ,
+many of the variables surrounding it will have changed , so it ' s difficult to compare
+our original analysis with how things turn out . however , the value of the analysis
+comes not only from the final number ( " the value of this asset is x " ) but also from
+providing a thorough process , an outsider ' s point of view , an understanding of the
+sources of value and , in short , a bit of clearer thinking .
+if real options are so important , why are they so rarely cited in communications to
+shareholders and equity analysts ?
+the battle is still to convince companies to use real option valuations as a
+significant part of their internal analysis . even in major companies in the oil & gas ,
+and pharmaceutical sectors , where the ideas have taken some root internally ,
+there seems to be a lot of reluctance to use them in external communication . we
+are working with analysts to understand better what they need to if we are to move
+things on to the next step .
+how does the riskiness of a business , in terms of the major strategic dilemmas it
+faces , relate to its share value , and its capital structure ?
+that ' s a big question . it ' s related to work my colleagues do on the optimal
+debt - to - equity capital structure and gearing of a corporation , which in turn arises
+out of the likely revenue and cost volatilities of the business . the more volatile the
+business , the less gearing it can sustain , and the higher the cost of capital . our
+work touches on this in the sense that exercising ( many ) specific real options can
+allow a firm to change its nature , and thus also its risk profile . one classic
+example is the pharmaceutical industry . a host of different kinds of companies
+service that industry from " big pharma " companies through to smaller
+biotechnology startups and run - of - the - mill contract research organisations . a
+contract research organisation is often operating within a very competitive
+environment with relatively few risks - - it does not invest in drug development itself
+- - but also very thin margins . but in fact , a few of these companies have used the
+skills and knowledge they have developed to become much more substantial and
+profitable healthcare companies of various kinds . it ' s an example of a company
+exercising the real options that lie within its skills and assets to transform its own
+identity .
+rob jameson , erisk

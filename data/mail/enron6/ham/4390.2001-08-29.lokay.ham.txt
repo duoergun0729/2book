@@ -1,0 +1,25 @@
+Subject: fw : ferc conference on el paso capacity allocation ( rpo 0 - 336 )
+fyi - - more on the el paso tech . conf . regarding capacity allocation . gh
+- - - - - original message - - - - -
+from : bagot , nancy
+sent : tuesday , august 28 , 2001 5 : 48 pm
+to : hyatt , kevin ; watson , kimberly ; harris , steven ; butler , janet ; corman , shelley ; darveaux , mary ; dornan , dari ; fossum , drew ; hartsoe , joe ; hass , glen ; heckerman , bambi ; kilmer iii , robert ; king jr . , frazier ; kirk , anna ; lokey , teb ; mccoppin , dorothy ; miller , mary kay ; neppl , ray ; paladino , ranelle ; pavlou , maria ; place , janet ; porter , gregory j . ; prizont , karina ; winckowski , michele
+subject : ferc conference on el paso capacity allocation ( rpo 0 - 336 )
+summary
+though this conference was scheduled to review all issues related to el paso ' s capacity allocation method ( including those in the pipeline ' s order 637 proceeding ) , and with two complaints filed this summer regarding problems with the pipeline ' s allocation , major substantive issues were not covered at this conference . for instance , the battle between full requirements ( fr ) shippers and contract demand ( cd ) shippers came up marginally , but not in terms as substantive as the proposed conversion of fr shippers to cd contracts .
+procedurally , there was also no decision on whether to proceed with a hearing , merits decision from the commission or settlement , though it looks like a merits decision is the likely avenue for a decision . staff did not discuss case merits or ask pointed substantive questions .
+allocation studies ( models )
+el paso opened the conference with a presentation / interpretation of seven capacity studies they have done to illustrate how its allocation proposal ( march 27 ) would allocate the system ' s receipt and delivery points based on different scenarios . for nominations , receipt and delivery points were specified and ranked by shippers , and the model used 20 pools . the scheduling model looked at where constraints occurred ( based on those shipper - supplied preferences ) , solved the largest constraints first , then ran second and third iterations to complete allocation .
+there were questions on the studies , what they show , what the assumptions are , etc . , and in the end shippers believe they need information not shown by the completed studies . shippers have requested six more allocation studies , showing possible impacts of seasonalization ( winter and summer ) and the difference between cd and full requirements coincidental and non coincidental peaks ( winter and summer , 1995 - 2000 ) .
+el paso interprets its studies as showing that the proposed capacity allocation method is workable , and in fact results in 247 mmcf / d of unallocated capacity ( 230 mmcf coming from the line 2000 expansion proposal , and an extra 17 mmcf ) . shippers were skeptical of the " slack capacity " finding .
+other issues
+? pooling : there was a small amount of discussion on the impact of moving from six to 20 pools . it was noted that this should be addressed with order 637 issues , expeditiously after capacity allocation method is resolved .
+? fr vs . cd : though there were some fr vs . cd shippers discussions , they did not reflect the battle we see going on in the two complaints filed this summer by the tx , nm and az shippers ( fr ) and aera energy ( cd shippers ) . there was also no mention of converting fr shippers to cd service . note : never mentioned were the cd and fr complainants ' proposals that el paso ( 1 ) dedicate currently proposed expansions to existing shippers or ( 2 ) requiring mainline system expansion for existing service ( rpol - 484 and 486 ) .
+? release shippers : shippers contracting for released capacity were concerned about how they would be allocated , as well as those shippers picking up turnback contracts from the pipeline ( which would have receipt and delivery points already allocated ) .
+? receipt point designation : the question was asked if shippers could designate specific receipt points rather than pools . when asked what commission policy is on pools vs . receipt points , both shippers and staff clarified that they are neither mutually exclusive nor to serve as substitutes for one another - both should be available . however , staff noted that in the flexibility vs . reliability debate , it could be argued that el paso should return to receipt point designation to maintain reliability .
+procedure going forward
+the primary issue here ended up being procedural .
+the procedural schedule is as follows :
+? el paso further studies and answers to questions posed at conference or in writing : sept . 24
+? initial comments ( on all capacity allocation issues and procedural recommendations ) : oct . 15
+? reply comments : oct . 26

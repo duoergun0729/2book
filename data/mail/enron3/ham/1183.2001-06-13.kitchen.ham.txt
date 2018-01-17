@@ -1,0 +1,7 @@
+Subject: 2 q soft metrics
+hi louise ,
+attached are the may ytd soft metrics for north america . in response to open items from last month :
+( 1 ) canada had some concern related to the information provide for average eol transaction count . after working with eol and canada , it was determined that the number of trading days that canada used to calculate this metric differed from the number of days eol used to calculate this metric . the eol team and canada are working to come to an agreement related to this as well as new customer presentation .
+( 2 ) canada felt that the origination metric was incorrect . we have sent them the support for the origination amount , which ties to the dpr , along with deal number , etc . ( the same info that you see in the first attachment . ) we are still awaiting a response from them .
+currently we include deals with zero value within the deal count ( you will see this on the attachment ) . are you in agreement with this treatment ?
+please let me know if you have any questions - i ' m at x 30352 . thanks !

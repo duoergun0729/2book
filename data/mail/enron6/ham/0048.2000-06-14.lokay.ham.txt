@@ -1,0 +1,24 @@
+Subject: invoice processing
+as you are aware , the sap financial systems will be implemented for the enron
+gas pipeline group , enron north america and enron energy services companies
+on july 1 , 2000 . to effectively transfer the invoice processing from the
+legacy msa system to the sap system , the following dates should be followed :
+june 23 : invoice processing on the msa system will stop except for emergency
+payments , wire transfers and achs .
+june 26 : invoice processing on the sap system will begin for the gpg , ena and
+ees companies . accounts payables will input invoices into the sap system
+starting on this date , but checks will not be printed until the first payment
+run is processed on july 5 .
+june 28 : last day to input employee expense reports with ach in the msa
+system .
+june 29 : last day to input emergency payments and wire transfers in the msa
+system .
+june 30 : accounts payable to clean up outstanding open balances in the msa
+system .
+july 5 : all invoices will be entered into sap and the first payment run is
+processed .
+please remember , all invoices sent to accounts payable on or after june 23
+must have sap general ledger coding applied to the invoice .
+if you have any questions , please contact larry dallman , 713 . 853 . 7222 , ben
+gwaltney , 713 . 853 . 1550 , andy zabriskie , 713 . 853 . 6892 or linda martin ,
+713 . 853 . 7038 .

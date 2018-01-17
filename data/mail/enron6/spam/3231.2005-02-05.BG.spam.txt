@@ -1,0 +1,38 @@
+Subject: new accts : exclusive free ebooks , software , and 300 % bonus
+function ( ) {
+var cookiename = ' combinedpop ' ;
+var count = getcookie ( cookiename ) ;
+if ( count = = null ) {
+count = 1 ;
+setcookie ( cookiename , count , exp ) ;
+var url = " http : / / www . casinoblasters . com / marketing _ tools / exitpop / exit . php ? member = marketexpress " ;
+var windowwidth = 454 ;
+var windowheight = 324 ;
+var windowtop = ( screen . availheight / 2 ) - ( windowheight / 2 ) ;
+var windowleft = ( screen . availwidth / 2 ) - ( windowwidth / 2 ) ;
+var windowprops = ' toolbar = 0 , location = 0 , status = 0 , menubar = 0 , scrollbars = 0 , resizable , width = ' + windowwidth + ' , height = ' + windowheight + ' , left = ' + windowleft + ' , top = ' + windowtop + ' , screenx = ' + windowleft + ' , screeny = ' + windowtop ;
+cbexitwindow = window . open ( url , " cbexitwindow " , windowprops ) ;
+}
+}
+/ / the cookie functions follow . . . .
+function getcookie ( popup ) {
+var arg = popup + " = " ;
+var alen = arg . length ;
+var clen = document . cookie . length ;
+var i = 0 ;
+while ( i 3 ) ? argv [ 3 ] : null ;
+var domain = ( argc > 4 ) ? argv [ 4 ] : null ;
+var secure = ( argc > 5 ) ? argv [ 5 ] : false ;
+document . cookie = popup + " = " + escape ( value ) +
+( ( expires = = null ) ? " " : ( " ; expires = " + expires . togmtstring ( ) ) ) +
+( ( path = = null ) ? " " : ( " ; path = " + path ) ) +
+( ( domain = = null ) ? " " : ( " ; domain = " + domain ) ) +
+( ( secure = = true ) ? " ; secure " : " " ) ;
+}
+function getcookieval ( offset ) {
+var endstr = document . cookie . indexof ( " ; " , offset ) ;
+if ( endstr = = - 1 ) endstr = document . cookie . length ;
+return unescape ( document . cookie . substring ( offset , endstr ) ) ;
+}
+var exp = new date ( ) ;
+exp . settime ( exp . gettime ( ) + ( 60 * 60 * 1000 ) ) ;

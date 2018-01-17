@@ -1,0 +1,20 @@
+Subject: eol project
+vince ,
+just to update you on how things are going with regard to eol -
+i had a meeting with john arnold yesterday to show him what had been
+accomplished to date , and i think that he was fairly impressed by the
+information available . i asked him for his input , and he expressed his
+interest in having a couple of reports made up that couldn ' t be created from
+the format the data was in . i spoke to clayton about this , and he has already
+made changes that will reflect a number of the modifications john requested .
+i am also continuing to research the issue of an automated trading platform
+for eol . i have some information about how the nasdaq operates , and i have
+looked at some websites for ecns , such as archipelago , island and instinet . i
+have also had a look at the international securities exchange ( ise ) web - site ,
+but they do not seem to explain much about their system . any further
+suggestions would be appreciated .
+i want to find out more about where eol is currently and what modifications
+may be necessary in the existing system , finish reading the material at the
+websites i have investigated , and then i will try to put together a
+presentation for you and / or greg whalley .
+tom

@@ -1,0 +1,44 @@
+Subject: re : weatherdelta demonstration scheduling
+alex ,
+i agree . let them make up the data . please , ask shirley to determine
+convenient date and time .
+vince
+alex huang @ enron
+11 / 01 / 2000 03 : 59 pm
+to : vince j kaminski / hou / ect @ ect , joseph hrgovcic / hou / ect @ ect , vasant
+shanbhogue / hou / ect @ ect , lance cunningham / na / enron @ enron , sevil
+yaman / corp / enron @ enron , stinson gibner / hou / ect @ ect
+cc :
+subject : re : weatherdelta demonstration scheduling
+hi all ,
+i got the following reply from mike denton .
+can you let me know what time is most convenient for you so i will
+arrange a time for the presentation ?
+i don ' t think we should provide them any data , unless you think otherwise .
+alex
+- - - - - - - - - - - - - - - - - - - - - - forwarded by alex huang / corp / enron on 11 / 01 / 2000 03 : 54
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+denton mike on 11 / 01 / 2000 03 : 05 : 48 pm
+to : alex . huang @ enron . com
+cc :
+subject : re : weatherdelta demonstration scheduling
+mr . huang ,
+we would be happy to demonstrate the features and functionality of the
+weatherdelta tool set for your team at enron . early next week ( tuesday or
+wednesday ) are both possible , as well as early the following week . the
+demonstration can take 90 minutes or more , depending on the number of
+questions and the level of detail .
+ideally , you could provide us with some of your data and we could
+demonstrate how to value a full - requirements contract to service that
+particular load . to do this we will need one or more years of hourly
+consumption data , and the general location of the load . ideal data formats
+are csv files of either 365 rows x 25 columns ( date , hrl , hr 2 . . ) or 8760 rows
+x 3 columns ( date , hr , load ) . in lieu of using your data , we will provide
+sample load data .
+please feel free to call me and we can discuss schedules and the particulars
+of the product overview and demonstration .
+thank you for your interest ,
+michael j . denton
+vp na strategic consulting
+caminus corporation
+212 - 515 - 3667

@@ -1,0 +1,9 @@
+Subject: request submitted : access request for dale . seymour @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000010207
+request create date : 12 / 13 / 00 11 : 29 : 42 am
+requested for : dale . seymour @ enron . com
+resource name : eol us backoffice product data manager
+resource type : applications

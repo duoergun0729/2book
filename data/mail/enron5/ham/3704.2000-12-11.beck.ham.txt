@@ -1,0 +1,37 @@
+Subject: how do officialized books make it to credit ?
+in the past few months much focus has been put on understanding var and how
+it is calculated ( through risktrac ) . however , everyone should note that the
+credit department also receives our information . market risk and credit risk
+are inherently different , with different requirements . this memo serves as a
+reminder of what some of the key differences are , how the credit system uses
+risktrac differently from market risk , how this affects us , what some key
+problems are in the credit system caused by our data , and changes to be made
+by risk management groups .
+differences are between credit and market risk - you all know this , but many
+of your ba ' s don ' t .
+when a book is flat it still has an effect on credit . flat books must be
+officialized
+market risk is keyed off positions and curves . when we make money , market
+risk is reduced . credit risk is keyed off positions with customers . when we
+make money , credit risk is increased , as people owe us more money .
+how the credit system uses risktrac differently from market risk
+market risk picks up all officialized books . if a book is not officialized
+it does not pick the book up .
+credit picks up all officalized books . if a book is not officialized , it
+picks up the previous day ' s position . therefore , if positions in book a are
+moved to book b , and a is no longer officialized , credit picks up the
+previous day ' s position for book a . as a result , if a book is no longer
+used , please officialize it the first day it is no longer used , so credit
+will pick up 0 on a go forward basis .
+market risk is not concerned with counterparty codes and names .
+credit needs correct counterparty codes and names . in recent months , the
+counterparty information has deteriorated . enron official counterparty names
+need to be used so they flow properly to credit .
+what are some key problems in the credit system caused by our data
+as referenced above : correct counterparty names and books with 0 positions
+not being officialized so credit picks up previous day info .
+as a takeaway from this message please ensure only correct counterparty names
+are used and that if a book has 0 positions that it is officialized the first
+day it has 0 positions .
+if you have specific questions about credit , please call debbie brackett , at
+x 35856 .

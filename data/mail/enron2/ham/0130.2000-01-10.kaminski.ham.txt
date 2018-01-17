@@ -1,0 +1,81 @@
+Subject: fwd : billing question
+return - path :
+received : from rly - yao 2 . mx . aol . com ( rly - yao 2 . mail . aol . com [ 172 . 18 . 144 . 194 ] )
+by air - yao 2 . mail . aol . com ( v 67 . 7 ) with esmtp ; mon , 10 jan 2000 06 : 39 : 16 - 0500
+received : from abbott . office . aol . com ( abbott . office . aol . com [ 10 . 2 . 96 . 24 ] )
+by rly - yao 2 . mx . aol . com ( 8 . 8 . 8 / 8 . 8 . 5 / aol - 4 . 0 . 0 ) with esmtp id gaa 26342 for
+; mon , 10 jan 2000 06 : 39 : 16 - 0500 ( est )
+received : from sunphol . ops . aol . com ( sunphol . office . aol . com [ 10 . 5 . 4 . 200 ] ) by
+abbott . office . aol . com with smtp ( 8 . 8 . 6 ( phne _ 14041 ) / 8 . 7 . 1 ) id gaao 8342 for
+; mon , 10 jan 2000 06 : 39 : 01 - 0500 ( est )
+received : from 0 by sunphol . ops . aol . com ( smi - 8 . 6 / smi - svr 4 ) id gaa 27342 ; mon ,
+10 jan 2000 06 : 39 : 00 - 0500
+message - id :
+from :
+to :
+date : 01 / 10 / 2000 19 : 40 : 07
+reply - to :
+subject : re : billing question
+dear wincently ,
+we at america online would like to thank you for spending the time to write
+us . my name is ellen and i appreciate the opportunity to assist you
+regarding your recent e - mail .
+after reviewing your account , it shows that the annual prepaid fee was not
+successfully collected . i suggest that you contact your bank regarding this
+matter . you may also want to contact our billing department at
+1 - 888 - 265 - 8003 or at 1 - 800 - 827 - 6364 toll free should you want to resubmit the
+bill .
+if there has been a problem billing your account , america online may send a
+billing popup screen that states you need to update your billing information
+at keyword : billing . america online does not request this information be
+placed anywhere other than at keyword : billing . ( if you ' re
+unfamiliar with keywords you can start using them by typing ctrl - k . when
+the keyword " box " appears , type the keyword in the space provided and click
+the go button ) . it is possible that you will receive the popup more than
+once in a 24 hour period , as we update our database every 24 hours .
+the message that america online sends states :
+an important message from aol member services
+our records indicate that the credit card information on file for your aol
+account
+may not be up - to - date . outdated information on your aol account may cause
+bill
+processing problems with in some cases could lead to service interruptions !
+please take a minute now to update your aol account information . just click
+on the update billing information button below . this update will only take a
+few moments
+and the information you provide will be kept completely confidential .
+note : if you have recently updated your billing information , please ignore
+this
+additional reminder while we process your changes .
+if you have questions concerning this message , please call member services
+at 1 - 888 / 265 - 8003 between the hours or 6 : 00 am - 2 : 00 am est seven days a
+week .
+update billing information
+( text on button appears in white on the actual popup )
+we greatly appreciate your america online membership . if you have any
+further questions , please do not hesitate to contact us again . thank you for
+using america online . have a wonderful day . : - )
+ellen l .
+customer care consultant
+the billing department
+america online , inc .
+- - - - - - - - - - original message - - - - - - - - - -
+from : vkaminski @ aol . com
+to : billingl @ abbott . office . aol . com
+field 1 = wincenty kaminski
+field 2 = 10 snowbird
+field 4 = the woodlands
+field 5 = texas
+field 6 = 77381
+field 7 = 0057
+field 8 = other ( please give details below )
+field 9 = on signing on to aol i received the information that billing
+information may be outdated . i don ' t see why . my annual fee has just been
+paid , the credit card is in good standing , i did not move .
+please , let me know what is the problem
+field 10 = texas
+field 11 = other - see comments
+x - rep : 743
+x - mailid : 583092
+x - queue : 4
+x - mailer : swiftmail v 3 . 50

@@ -1,0 +1,9 @@
+Subject: request submitted : access request for eddie . shaw @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000010211
+request create date : 12 / 13 / 00 11 : 41 : 02 am
+requested for : eddie . shaw @ enron . com
+resource name : eol us backoffice data manager
+resource type : applications

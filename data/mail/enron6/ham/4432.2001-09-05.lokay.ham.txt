@@ -1,0 +1,12 @@
+Subject: fw : switch tw rate type flags
+i just spoke with elizabeth brown and she said the agreements have been " intentionally " billed as 2 - part , knowing they are actually 1 - part agreements . billing as a 1 - part would require a significant amount on manual intervention on the commodity paths by the gas logistics group . this 2 - part process has been used for these agreements for quite some time . it is unlikely we would change the billing method at this point but are willing to discuss further if you desire .
+craig
+- - - - - original message - - - - -
+from : buehler , craig
+sent : wednesday , september 05 , 2001 1 : 18 pm
+to : brown , elizabeth
+cc : dasilva , esther ; cormier , martha
+subject : switch tw rate type flags
+e . b . ,
+can you change the flag in cbs to show contracts as 1 - part agreements ? michelle lokay and jeanette doll said an ect ( k # 24654 ) and a enervest ( k # 24564 ) agreement are flagged ( incorrectly ) as 2 - parts . i pulled up the original text in envision and they are indeed 1 - part agreements . can you help ? i need to get cbs loaded on my pc and need access . . .
+craig

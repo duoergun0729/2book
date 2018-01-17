@@ -1,0 +1,11 @@
+Subject: rdi project
+michelle ,
+cecil and david ' s code was correct but could not match ken ' s spreadsheet
+output due to a slight mis - specification in ken ' s excel spreadsheet . the code
+was then modified to conform with ken ' s specification and results very close
+to that of ken were obtained . as of now ken ' s modifying his spreadsheet to
+re - run the results , the original correct code will be restored , and we will
+see what
+happens then . anyway this is rather encouraging .
+best ,
+alex

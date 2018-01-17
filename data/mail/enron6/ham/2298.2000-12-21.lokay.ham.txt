@@ -1,0 +1,20 @@
+Subject: ets security requests
+recently , corp information risk management has sent out several messages
+regarding the correct method to obtain security . the topics you may have
+seen include srrs decommissioning , and announcements of the
+http : / / itcentral . enron . com website , as well as the erequest system . these
+messages are intended for enron corporate / north america users only . at this
+time , they do not apply to ets employees .
+ets is working with the corp information risk management group to incorporate
+our security access methods with theirs . until the process is complete , ets
+employees should contact the following groups for security issues / requests :
+houston : ets solution center at 713 - 345 - 4745 , or
+ets solution center ( mailbox name )
+omaha : omaha help desk at 402 - 398 - 7454 , or
+omaha helpdesk ( mailbox name )
+when the security preparations are complete , you will be able to access the
+erequest system from the solution center page on the ets website
+( http : / / www . ets . enron . com ) . you might want to save this site on your
+favorites , and watch for future announcements from the ets solution center
+mailbox .
+ets solution center / omaha help desk

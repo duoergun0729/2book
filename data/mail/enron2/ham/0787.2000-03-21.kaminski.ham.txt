@@ -1,0 +1,46 @@
+Subject: uk inflation and storage model
+hi zimin ,
+inflation :
+i am also spending a lot of time looking at short - term auto - regressive models
+for ppi and long - term , more fundamentally - based models . this work is
+important because we have potentially a large positive p & l that may be
+unlocked by moving to our new indicative uk ppi curves . john sherriff and
+trena are keen that any models i produce are vetted / approved in houston , so i
+will forward to stinson or yourself initially for review once ready and
+documented .
+storage :
+thanks for the current storage model . due to the complexity of the
+modelling issues involved , i would strongly support a visit by you to help me
+meet the needs of the london customers in this matter , and am happy to act as
+the anchor for information flow in the mean time .
+regards ,
+anjam
+x 35383
+zimin lu
+21 / 03 / 2000 19 : 31
+to : anjam ahmad / lon / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect
+subject : us inflation and storage model
+anjam ,
+thanks a lot . after getting that book i will redo the us inflation model .
+our exposure
+to cpi inflation risk is huge ( think about how many contracts signed by ees ) ,
+so the
+us model is very important .
+the storage model is going through aduit by prof . d . duffie . we are adding
+features
+to it . i can send you the current version . maybe it is worthwhile for me to
+go to london
+to discuss with the users about the valuation .
+zimin
+anjam ahmad
+03 / 21 / 2000 11 : 31 am
+to : zimin lu / hou / ect @ ect
+cc :
+subject : book
+hi zimin ,
+you ' re book has arrived and i posted it today . also , wanted to ask what you
+could give me and natasha regarding the new storage model ?
+thanks ,
+anjam
+x 35383

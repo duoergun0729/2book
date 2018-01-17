@@ -1,0 +1,40 @@
+Subject: tw cash for fuel issues
+- - - - - - - - - - - - - - - - - - - - - - forwarded by lorraine lindberg / et & s / enron on
+06 / 20 / 2000 04 : 03 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ramona betancourt
+06 / 20 / 2000 02 : 04 pm
+to : christine stokes / et & s / enron @ enron , jeffery fawcett / et & s / enron @ enron ,
+lorraine lindberg / et & s / enron @ enron
+cc : susan scott / et & s / enron @ enron , mary darveaux / et & s / enron @ enron , debbie
+moseley / et & s / enron @ enron , sheila nacey / et & s / enron @ enron , lynn
+blair / et & s / enron @ enron , julia white / et & s / enron @ enron , john
+buchanan / et & s / enron @ enron , richard hanagriff / et & s / enron @ enron , elizabeth
+brown / et & s / enron @ enron , david duff / et & s / enron @ enron , gerry
+medeles / et & s / enron @ enron , steven harris / et & s / enron @ enron
+subject : tw cash for fuel issues
+christine ,
+after our meeting last week , john , elizabeth , gerry , richard , dave & i
+discussed various options related to this cash for fuel process . we had
+several open issues that came up in our discussions and they are as follows :
+regulatory / legal issue : can we have contract specific language on our firm
+contracts that would prevent the firm shipper from releasing this fuel
+discount cash option to an acquiring shipper ? if we must offer this
+special cash option to the acquiring shipper we will need to build a process
+to track this fuel option from the firm shipper to the releasing shipper .
+this will require more system modifications that we have not accounted for at
+this time .
+shipper nomination issue : how will we handle shipper nomination line items
+that are nominated as overrun paths on their firm contracts ? could we
+default these " 02 " overrun transactions to calculate the fuel in kind using
+our existing tariff fuel % ? this would make the process of trying to
+reconcile the contracted mdq fuel volumes easier when we verify that the
+volumes the shipper elected to pay in cash tie back to the total volumes
+scheduled & paid for in cash . .
+tariff sheet issue : when you state in the tariff provision that " the shipper
+may use the cash for fuel option only if the posted point of sale is a
+receipt point on shipper ' s service agreement " does this only apply to the
+shipper ' s primary receipt points ?
+i would appreciate it if you could respond to these issues . if you feel like
+we should meet to discuss , i will be glad to set up another meeting . please
+let me know .
+thanks ramona

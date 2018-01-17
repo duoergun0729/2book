@@ -1,0 +1,55 @@
+Subject: summary of global intelligence meeting held feb 17
+meeting attendees : mary solmonson / hou / ect @ ect , lynette malone / hou / ect @ ect ,
+eric wetterstroem / hou / ect @ ect , peggy alix / hou / ect @ ect , susan s
+marshall / hou / ect @ ect , leei - hong chen / hr / corp / enron @ enron , cindy
+wisemiller / hou / ect @ ect , jennifer fraser / hou / ect @ ect , vanessa lehn / hou / ees @ ees
+items discussed during the meeting & respective follow - up tasks .
+1 ) dns name for the project was selected ,
+http : / / entelligence . enron . com /
+2 ) type of users
+identified the types of users and assigned names to each type . users named
+are approvers for user acceptance testing ( uat ) .
+originator jennifer frazer
+trader / financial linda clemmons
+trader / physical jeff shankman ( will delegate to desk director )
+sr trading manager jeff shankman
+sr operations manager sally beck
+administrator mary solmonson
+originators will be the primary users ( 80 - 90 % usage )
+followup item :
+mary solmonson will finalize the user names for uat signoff .
+3 ) use cases and actors ( user types )
+it was decided that capturing the requirements as use cases will not be done
+with the gia business users . users stated that all types of users will have
+access to all reports . the functionality for each report will be same for
+all user types . selection critieria and report content for each user type
+will be controlled by a security function . use case may still be used by
+the technology team , when required , to help engineer a better technical
+architecture .
+4 ) user signoff of requirements document for phase i deliverables :
+signoff for non - administrative functions : jennifer fraser
+signoff for administrative functions : mary solmonson
+( addtl comments not discussed during yesterday ' s meeting )
+user change requests to requirements after signoff will be evaluated for
+impact to schedule and cost . need signoff for phase i deliverables before
+phase i project schedule is finalized .
+5 ) new user requirements reviewed :
+find like prospects ( required for phase i )
+peak daily volumes ( required for phase vii )
+followup item :
+lynette malone : changes to requirements discussed in yesterday ' s meeting
+need to be applied to the requirements document
+6 ) administrative requirements
+changes to administrative requirements are still outstanding . users are
+meeting friday , feb 18 to discuss their requirements . based on the outcome
+of that meeting , administrative deliverables for phase i will have to be
+reviewed again and cost and schedule will have to be re - evaluated .
+administrative requirements include gia region administration , data
+cleansing , administration of products / internal companies / deal nature to
+identify deal activity captured in the entelligence database .
+followup item :
+mary solmonson : define changes to administrative requirements .
+7 ) user preferences
+requirements for user preferences are not yet defined . user preferences will
+not be a phase i deliverable . mary solmonson said user preferences will
+probably be deferred until phase vii .

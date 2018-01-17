@@ -1,0 +1,50 @@
+Subject: webmodal
+please read the following message from dan reck regarding webmodal . thank
+you .
+- - - - - forwarded by cathy phillips / hou / ect on 02 / 14 / 2001 07 : 25 am - - - - -
+daniel reck
+02 / 13 / 2001 01 : 48 pm
+to : cathy phillips / hou / ect @ ect
+cc :
+subject : webmodal
+at monday ' s egm meeting , mike mcconnell asked me to describe the webmodal
+acquisition egm made last week . following is a brief description of the
+freight capacity market and what webmodal gets us :
+market
+the us market for logistics is $ 600 bn annually . we are pursuing the largest
+homogenous segment which is long - haul truckload and intermodal . that market
+is $ 50 - $ 100 bn annually , depending on who you ask and whether you include
+dedicated fleets .
+the interesting thing about these markets is that they are extremely
+fragmented and massively intermediated . there are over 100 , 000 trucking
+companies ( carriers ) in the us and thousands of independent brokers ( brokers
+in this market act as credit principals ) . 10 - 20 % of all loads are conducted
+in the spot market ( brokered ) and the rest are done under 1 - 3 year contracts
+that are generally non - firm , but define the relationship between each shipper
+and their chosen carriers or intermediaries .
+on the rail side , the us railroads act as wholesalers , selling their capacity
+to intermodal marketing companies ( imcs ) . the imcs then retail or broker out
+that capacity to shippers . the difficult part of ground intermodal is that
+the rail haul makes up only the long - haul component . the trip from the
+origin warehouse to the origin rail yard and then the delivery from the
+destination rail yard to the destination warehouse has to be done by truck .
+this first and last mile transportation is called " drayage " .
+webmodal
+webmodal developed a system to price and schedule intermodal moves so they
+look identical to truck . they have a database with prices and schedules from
+all the rrs and 48 drayage companies that gives them complete us coverage . a
+buyer can type in their scheduling and equipment requirements and receive
+instantaneous quotes for zipcode to zipcode service .
+because of the inherently different cost and performance structures of rail
+and truck , the pricing differences between the two modes of transportation is
+significant . for any move greater than 500 miles , intermodal is generally
+20 - 30 % less expensive than a single driver truck move . the substitutability
+of intermodal and truckload should allow us to trade the spread in price .
+the webmodal acquisition gets us a team with tremendous industry expertise
+and a good head start as we enter this market . the next move will be to
+build a truck intermediation capability .
+i encourage you to meet chris kravas the ceo of webmodal . he will be
+spending all of his time in houston when he is not on the road .
+please give me a call if you have any questions .
+thanks ,
+dan reck

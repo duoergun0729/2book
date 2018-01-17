@@ -1,0 +1,42 @@
+Subject: xms - expense management system availability
+concur technologies  , expense management system ( xms ) is now available to all
+ets employees . you can prepare your expense report , send it for approval ,
+and transmit it for payment using the intranet . it is more " user - friendly "
+than the previous excel - based form and efficiently integrates with the sap
+accounting system . we request and encourage you to start using it .
+system access on the enron intranet :
+to access the system , go to the enron transportation services home page and
+type " http : / / xms . enron . com " in the " location " field . this will access xms
+software .
+using the system , once accessed :
+logon id
+enter your personnel number ( p number ) . if you don ' t know your " p " number ,
+your " hr rep . " has it !
+password
+the first time you log in , the password is upper case enron . the system will
+guide you through confirming your personal information and changing your
+password . the enron code of ethics prohibits the sharing of passwords and
+logging on as another person . please observe enron  , s policy .
+if you can ' t log in to the system , go to the it central web page from the
+enron intranet home page and select " services "
+click " security requests " click " erequest " ( or call 713 - 853 - 5536 ) .
+other
+once " in " , the xms system will help you get set up , including designating
+those who will be approving your expense report , and , if applicable , those
+who have been designated to prepare your expense report . additionally , there
+is a " tour " that you can take to get acquainted with system features .
+user guide ! !
+hard copy step - by - step documentation is also available from " it central " web
+page on the enron intranet .
+after getting to " it central " on the enron intranet , click through the
+following and you should be there :
+" services " , " training " , " documentation " , " xms user ' s guide " ( which will come
+up through adobe acrobat ) .
+application support services
+call the isc help desk at 713 - 345 - 4 sap ( 4727 ) .
+accounting coding
+no changes in coding are being implemented as a result of the transition from
+the excel template to xms , in fact much of the coding will be " suggested " by
+the xms software . you will need a far # , cost center , or wbs elements as
+applicable .
+good luck ! !

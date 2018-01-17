@@ -1,0 +1,136 @@
+Subject: preface for book
+vince ,
+?
+hope you are well .
+?
+we spoke a while ago about who should write the preface for the book , and
+you kindly offered that you would provide this . ? is this still possible ? ? we
+realise that you are extremely busy , so chris and les went ahead and wrote
+something , which is below , and if you want to review , change or re - write ? the
+preface , that would be very appreciated . ? let me know what your thoughts are .
+?
+thanks ,
+julie
+( we ' re getting close )
+?
+?
+preface
+?
+?
+?
+one of our main objectives in writing energy derivatives : pricing and risk
+management has been to bring together as many of the various approaches for
+the pricing and risk management energy derivatives as possible , to discuss
+in - depth the models , and to show how they relate to each other . ? in this
+way we hope to help the reader to analyse the different models , price a wide
+range of energy derivatives , or to build a risk management system which uses
+a consistent modelling framework . ? we believe that for practitioners this
+last point is very important and we continue to stress in our articles and
+presentations the dangers of having flawed risk management and giving
+arbitrage opportunities to your competitors by using ad - hoc and inconsistent
+models for different instruments and markets ( see also others who propose
+consistent models ? ) . ? however , it is not our wish to concentrate on one
+particular model or models , at the exclusion of the others because we
+believe that the choice should rest with the user ( although it will probably
+be clear from our discussions the model ( s ) we prefer ) . ? we therefore try and
+give as clear account as possible of the advantage and disadvantages of all
+the models so that the reader can make an informed choice as to the models
+which best suit their needs .
+?
+in order to meet our objectives the book is divided into 11 chapters . ? in
+chapter 1 we give an overview of the fundamental principals needed to model
+and price energy derivatives which will underpin the remainder of the book . ?
+in addition to introducing the techniques that underlie the black - scholes
+modelling framework we outline the numerical techniques of trinomial trees
+and monte carlo simulation for derivative pricing , which are used throughout
+the book .
+?
+in chapter 2 we discuss the analysis of spot energy prices . ? as well as
+analysing empirical price movements we propose a number of processes that
+can be used to model the prices . ? we look at the well - know process of
+geometric brownian motion as well as mean reversion , stochastic volatility
+and jump processes , discussing each and showing how they can be simulated
+and their parameters estimated .
+?
+chapter 3 , written by vince kaminski , grant masson and ronnie chahal of
+enron corp . , discusses volatility estimation in energy commodity markets . ?
+this chapter builds on the previous one . ? it examines in detail the methods ,
+merits and pitfalls of the volatility estimation process assuming different
+pricing models introduced in chapter 2 . ? examples from crude , gas , and
+electricity markets are used to illustrate the technical and interpretative
+aspects of calculating volatility .
+?
+chapter 4 examines forward curves in the energy markets . ? although such
+curves are well understood and straight - forward in the most financial
+markets , the difficulty of storage in many energy markets leads to less well
+defined curves . ? in this chapter we describe forward price bounds for energy
+prices and the building of forward curves from market instruments . ? we
+outline the three main approaches which have been applied to building
+forward curves in energy markets ; the arbitrage approach , the econometric
+approach , and deriving analytical values by modelling underlying stochastic
+factors .
+?
+chapter 5 presents an overview of structures found in the energy derivative
+markets and discusses their uses . ? examples of products analysed in this
+chapter include a variety of swaps , caps , floors and collars , as well as
+energy swaptions , compound options , asian options , barrier options , lookback
+options , and ladder options .
+?
+chapter 6 investigates single and multi - factor models of the energy spot
+price and the pricing of some standard energy derivatives . ? closed form
+solutions for forward prices , forward volatilities , and european option
+prices both on the spot and forwards are derived and presented for all the
+models in this chapter including a three factor , stochastic convenience
+yield and interest rate model .
+?
+chapter 7 shows how the prices of path dependent and american style options
+can be evaluated for the models in chapter 6 . ? simulation schemes are
+developed for the evaluation of european style options and applied to a
+variety of path dependent options . ? in order to price options which
+incorporate early exercise opportunities , a trinomial tree scheme is
+developed . ? this tree is built to be consistent with the observed forward
+curve and can be used to price exotic as well as standard european and
+american style options .
+?
+chapter 8 describes a methodology for valuing energy options based on
+modelling the whole of the market observed forward curve . ? the approach
+results in a multi - factor model that is able to realistically capture the
+evolution of a wide range of energy forward curves . ? the user defined
+volatility structures can be of an extremely general form . ? closed - form
+solutions are developed for pricing standard european options , and efficient
+monte carlo schemes are presented for pricing exotic options . ? the chapter
+closes with a discussion of the valuation of american style options .
+?
+chapter 9 focuses on the risk management of energy derivative positions . ?
+in this chapter we discuss the management of price risk for institutions
+that trade options or other derivatives and who are then faced with the
+problem of managing the risk through time . ? we begin with delta hedging a
+portfolio containing derivatives and look at extensions to gamma hedging  )
+illustrating the techniques using both spot and forward curve models . ? the
+general model presented in chapter 8 is ideally suited to multi - factor
+hedging of a portfolio of energy derivatives and this is also discussed .
+?
+chapter 10 examines the key risk management concept of value at risk ( var )
+applied to portfolios containing energy derivative products . ? after
+discussing the concept of the measure , we look at how the key inputs
+( volatilities , covariances , correlations , etc ) can be estimated . ? we then
+compare the fours major methodologies for computing var ; delta , delta - gamma ,
+historical simulation and monte - carlo simulation , applying each to the same
+portfolio of energy options . ? in this chapter we also look at testing the
+var estimates for various underlying energy market variables .
+?
+finally , in chapter 11 we review modelling approaches to credit risk . ? we
+look in detail at two quite different approaches , creditmetrics ( j . p . morgan
+( 1997 ) ) and creditrisk + ( credit suisse financial products ( 1997 ) ) for which
+detailed information is publicly available . ? together these provide an
+extensive set of tools with which to measure credit risk . ? we present
+numerical examples of applying these techniques to energy derivatives .
+?
+before we begin we stress that the models and methods we present in this
+book are tools which should be used with the benefit of an understanding of
+how both the  + tool  , and the market works . ? the techniques we describe are
+certainly not  & magic wands  8 which can be waved at data and risk management
+problems to provide instant and perfect solutions . ? to quote from the
+riskmetrics technical document  &  ( no amount of sophisticated analytics will
+replace experience and professional judgement in managing risk .  8 . ? however ,
+the right tools , correctly used make the job a lot easier !

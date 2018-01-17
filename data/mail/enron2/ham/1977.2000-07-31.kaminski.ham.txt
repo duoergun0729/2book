@@ -1,0 +1,20 @@
+Subject: var for cob 28 th july 2000
+hi all ,
+i have run the var model for the positions at close fo business 28 th of july .
+the model is attached below .
+as a summary the results are as follows :
+and as a comparison the previous days figures were :
+this shows some increase in var for aluminium , copper and lead . the prices
+for gold and cocoa beans have not been updated
+as we still do not have a live feed to bloomberg / reuters . i will be working
+on this with cantekin and andreas should also be able to
+provide some more historical data .
+also , after having a discussion with andreas here in london we should
+probably reduce the vol we are using for tc - we are taking the cu price
+vol as a proxy which is a too high . however , assuming the the other
+assumptions we have made around the tc ( ie simulating a parallel shift in
+the curve and
+including no term structure to the price curve ) the vol estimate is a
+conservative one .
+cheers
+kirstee

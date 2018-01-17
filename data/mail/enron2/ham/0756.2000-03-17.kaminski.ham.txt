@@ -1,0 +1,21 @@
+Subject: oracle nt client software upgrade - manual upgrade steps
+this weekend , the enron global information technologies department will be
+distributing a new version of the oracle 8 i client . due to the mobile
+environment of our user base , not all machines will receive the automatic
+update . if you are a user of an oracle based application and your machine is
+not available to the network this weekend , you can manually upgrade your
+machine via the following steps :
+1 ) click on start - programs - utilities
+2 ) then click on " install oracle 8 i client " .
+if you are a user of microsoft excel spreadsheets or microsoft access
+databases that retrieve information from our oracle databases , you can
+manually convert your oracle odbc connections to the proper drivers via the
+following steps :
+1 ) click on start - programs - utilities
+2 ) then click on " update odbc data source names to oracle 8 i " .
+if you do not see these icons , there is another icon under start - programs -
+utilities called " update start menu " that will re - populate your start menu .
+thank you for your co - operation -
+scott williamson
+director , database infrastructure
+enron global technology

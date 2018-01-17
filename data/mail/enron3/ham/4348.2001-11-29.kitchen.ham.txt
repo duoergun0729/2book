@@ -1,0 +1,53 @@
+Subject: all eta ' s link
+this is the hyperlink to all active eta ' s - just change the number of the country id accordingly .
+http : / / www . enrononline . com / docs / eta / eta _ 826 . html uk
+http : / / www . enrononline . com / docs / eta / eta _ 840 . html us
+country _ id country _ name
+11082 argentina
+10298 australia
+40 austria
+56 belgium
+11111 bermuda
+124 canada
+11209 cayman islands
+11096 chile
+11163 china
+191 croatia
+10020 czech republic
+208 denmark
+246 finland
+250 france
+276 germany
+11248 gibraltar
+11137 greece
+11103 hong kong
+11203 hungary
+11208 india
+10138 ireland
+11095 israel
+380 italy
+10384 japan
+11109 latvia
+10947 mexico
+11128 monaco
+528 netherlands
+11200 netherlands antilles
+578 norway
+11097 peru
+616 poland
+620 portugal
+642 romania
+11108 russian federation
+702 singapore
+11138 slovakia
+705 slovenia
+11102 south africa
+11160 south korea
+724 spain
+752 sweden
+756 switzerland
+11105 taiwan
+11104 turkey
+840 usa
+826 united kingdom
+11168 virgin islands ( british )

@@ -1,0 +1,26 @@
+Subject: command confirmation request ( 4 e 46 c 824 )
+your command :
+subscribe frbnyrmagl vince kaminski
+has been received . you must now reply to this message ( as explained
+below ) to complete your subscription . the purpose of this confirmation
+procedure is to check that the address listserv is about to add to the
+list for your subscription is reachable . this is a typical procedure for
+high - volume lists and all new subscribers are subjected to it - you are
+not being singled out . every effort has been made to make this
+verification as simple and painless as possible . thanks in advance for
+your cooperation .
+to confirm the execution of your command , simply point your browser to
+the following url :
+alternatively , if you have no www access , you can reply to the present
+message and type " ok " ( without the quotes ) as the text of your message .
+just the word " ok " - do not retype the command . this procedure will work
+with any mail program that fully conforms to the internet standards for
+electronic mail . if you receive an error message , try sending a new
+message to listserv @ peach . ease . lsoft . com ( without using the " reply "
+function - this is very important ) and type " ok 4 e 46 c 824 " as the text of
+your message .
+finally , your command will be cancelled automatically if listserv does
+not receive your confirmation within 48 h . after that time , you must start
+over and resend the command to get a new confirmation code . if you change
+your mind and decide that you do not want to confirm the command , simply
+discard the present message and let the request expire on its own .

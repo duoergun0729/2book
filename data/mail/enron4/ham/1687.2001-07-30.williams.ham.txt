@@ -1,0 +1,9 @@
+Subject: schedule will be reinstated on real time at mid - c
+the following schedules were cut during preschedule and will be reinstated on real time :
+upstream : puget , deal number # 708582
+downstream : pwx , deal number # 677686
+old tag # pwx tag # 10 fw new tag # 10 gk hours and mw cut : 25 for he 23 - 24
+upstream : puget , deal number # 694679
+downstream : pwx , deal number # 680236
+old tag # pwx tag # 10 fw new tag # pwx tag # gl hours and mw cut 10 for he 24
+lisa

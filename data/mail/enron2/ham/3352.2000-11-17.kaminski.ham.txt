@@ -1,0 +1,14 @@
+Subject: eol wti maket maker simulation model
+stinson ,
+i add the total p / l due to contract rollover . when the number of trades is
+large
+and the spread is not too small , the model prints a lot of money , dominated by
+those trade earning the half of bo spread .
+i also wrote an explaination about the model on the front page . i think we
+are
+ready to deliever the model v . 1 .
+the next step is to incorporate the intra - day market movement by using high
+and low
+prices into the pricing . i will call you on monday .
+happy thanksgivings !
+zimin

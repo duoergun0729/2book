@@ -1,0 +1,62 @@
+Subject: re : update on doorstep to business heads - calgary - with calgary
+we are fine with changing the fx issue to yellow . the individual traders are
+currently managing the risk in their respective books . the new associate
+will just determine whether it is more effective to manage the risk in
+aggregage versus separately . please let me know if you require additional
+information .
+peggy
+from : shona wilson @ enron 09 / 11 / 2000 09 : 48 am
+to : peggy hedstrom / cal / ect @ ect
+cc : donna lowry / hou / ect @ ect
+subject : re : update on doorstep to business heads - calgary - with calgary
+thanks for the update - unless you disagree - the fx issue will change to
+yellow based on the fact that if is an issue that we can live with waiting
+until nov . to close then it must not be extreme priority .
+best regards
+shona
+peggy hedstrom @ ect
+09 / 11 / 2000 09 : 16 am
+to : shona wilson / na / enron @ enron
+cc : sally beck / hou / ect @ ect , rob milnthorp / cal / ect @ ect , jonathan
+mckay / cal / ect @ ect
+subject : re : update on doorstep to business heads - calgary - with calgary
+the following is the current status of our outstanding items :
+observation : red : foreign currency risks are managed by the respective
+trader within each of the trading portfolios :
+status : revise target date to november 30 , 2000 . the new associate in
+charge of currency starts september 15 th . due to the complex nature of the
+problem , she will require time to gain an understanding of the currency risks
+in each of the books , and to determine the most effective process to manage
+the risks within the various trading portfolios .
+observation : yellow - due to the anticipated deregulation of the canadian
+power market effective 2001 , transaction volume is expected to increase thus
+increasing the need to capture transactions in an automated system
+environment ( enpower ) .
+status : we are currently entering our transactions in the test environment .
+we expect to have enpower in production for calgary by september 30 th .
+observation : yellow - term transactions executed via eol do not
+automatically bridge into the capture systems thus increasing the amount of
+transactions manually captured .
+status : houston is currently testing the new functionality . this is
+expected to be in production by october 6 th .
+if you have any questions or require additional information , please let me
+know .
+from : shona wilson @ enron 09 / 08 / 2000 10 : 53 am
+to : peggy hedstrom / cal / ect @ ect
+cc :
+subject : update on doorstep to business heads - calgary - with calgary
+sorry , i should not have sent you london
+jeff skilling and sally met yesterday to discuss the status of the doorstep
+project , findings , etc . as a result , sally has asked me to put together a
+summary of findings to be discussed with the business heads , as jeff is
+planning to contact them about the doorstep findings .
+i have prepared a schedule from the doorstep database , ranked findings , and
+indicated which common findings were found in each office .
+please review this sheet on calgary against the findings as you are aware ,
+and give me your feedback ( changes , updates , etc ) . i need this as soon as
+possible , as sally would like to alert the business heads as early as
+possible .
+i am interofficing you the doorstep findings and ratings as i currently have
+it for your review .
+thanks
+shona

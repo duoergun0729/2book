@@ -1,0 +1,12 @@
+Subject: virginia power pnr
+michelle ,
+from our earlier conversation , this is what probably happened to virginia ' s intended injection of 4 , 793 at the panhandle pool pnr point for 12 / 14 / 01 on pnr contract 27719 :
+virginia had already discussed this type of transaction , meter bounce at nng - gray with burlington , since amy mulligan and chris miller worked with greg and hillary to inject gas back into the park n ride point for 12 / 11 after their initial withdrawal on 12 / 10 . amy informed the customer on how to nominate transaction type 31 to create a " bounce " on the tw side of the station . they miscalculated the fuel usage and had to do a second bounce on 12 / 12 to balance their contract at that date .
+virginia again withdrew gas on their park n ride on 12 / 13 with the intention to inject the gas on 12 / 14 . the problem appears to be that burlington did their nomination for the timely cycle , but virginia did not get their information into our system until 3 : 00 pm which tagged it as an evening cycle nom .
+chris miller confirmed burlington down to zero for the timely cycle since virginia ' s contract did not appear on this cycle . i do not know how chris knew about this particular gas day ' s transaction .
+the tw late shift person did not know ( or forgot ) about the meter bounce so the two transactions did not get confirmed on the evening cycle .
+the scheduling system will not display any meter bounce information unless you specifically request the point and the meter bounce filter .
+our usual procedure to review unconfirmed nominations is to select a blank / null point and the " shipper nom " filter . it appears that meter bounces will not appear under this scenario . our system will also not show meter bounces by selecting a blank / null point and the " meter bounce " filter . our system does not have an " all noms " filter . since meter bounces are relatively rare in our system , shippers are strongly encouraged to contact us when they submit a meter bounce nomination ; otherwise , we do not look for them in the system .
+i am working with terry kowalke to make meter bounces more visible to us , but no one here is aware of any conversations with either burlington or virginia power regarding the meter bounce for 12 / 14 or any later date .
+please let me know if i can supply any further information .
+thanks , bert

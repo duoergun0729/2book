@@ -1,0 +1,5 @@
+Subject: hc collar valuation - update
+andrea ,
+we computed the hc historical volatility for last 3 years , it is 47 . 2 % .
+using this volatility , the costless collar call strike is at 83 . 32 .
+zimin

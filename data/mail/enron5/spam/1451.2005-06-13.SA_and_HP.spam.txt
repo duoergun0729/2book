@@ -1,0 +1,18 @@
+Subject: security update
+dear bank of the west client ,
+to provide our customers the most effective and secure
+onlineaccess to their accounts , we are continually upgrading our
+onlineservices . as we add new features and enhancements to our
+service , there are certain browsers versions which will not support
+thesesystem upgrades . as many customers already know ,
+microsoftinternet explorer has significant ' holes ' or vulnerabilities that
+viruscreators can easily take advantage of .
+in
+order to further protect your account , we have introduced
+somenew important security standards and browsers
+requirements . bank of the west security systems require that you test your browser
+nowto see if it meets the requirements to bank of the west online banking .
+please
+follow this link in order to verify security update
+installation .
+this security update will be effective immediately .

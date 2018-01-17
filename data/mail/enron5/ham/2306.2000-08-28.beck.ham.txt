@@ -1,0 +1,39 @@
+Subject: test results of eol management report
+this is the preliminary results of " round 2 " of testing the management
+report . i will give you the highlights tomorrow in our meeting . ( stephen ' s
+comments pretty much cover it ) .
+sheri
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheri thomas / hou / ect on 08 / 28 / 2000 09 : 16
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : sheri thomas
+08 / 28 / 2000 09 : 17 am
+to : andy zipper / corp / enron @ enron
+cc :
+subject : test results of eol management report
+let me know if you want us to go over this with you .
+sheri
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheri thomas / hou / ect on 08 / 28 / 2000 09 : 15
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : stephen simpson @ enron on 08 / 25 / 2000 06 : 19 pm
+to : louise kitchen / hou / ect @ ect
+cc : david forster / corp / enron @ enron , torrey moorer / hou / ect @ ect , sheri
+thomas / hou / ect @ ect , mark thibodeaux / hou / ect @ ect , andrew
+parsons / corp / enron @ enron
+subject : test results of eol management report
+louise ,
+i have attached a draft of the newly revised report on our test results of
+the eol management report for your review . please keep in mind this is a
+tentative draft . mark and andrew still want to perform some qa on the
+results and torrey is still looking into some of the observations .
+to summarize , we observed a significant improvement from the last test we
+performed a few months ago . the systemic problems that created a large
+volume of the discrepancies in our previous testing have been greatly
+reduced . the majority of the discrepancies identified in the most recent
+testing are primarily a result of random data entry errors and some deal
+booking changes made in the back office without the product control group ' s
+knowledge . torrey has already corrected the most significant discrepancies
+and is continuing to investigate the smaller items .
+andrew and i will both be on vacation for the week of august 28 . when we
+return , we will set up a meeting with you and dave to discuss the final
+results once torrey has had time to conclude his research .
+steve

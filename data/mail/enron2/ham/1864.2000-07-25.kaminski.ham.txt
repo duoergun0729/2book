@@ -1,0 +1,43 @@
+Subject: kirstee ' s role in london
+vince :
+this is precisely the concern i have for kirstee . steve tells me that she is
+very imaginative and eager to try to add value , but she has no local
+supervisor to help push some of her ideas . i will give you an update of our
+discussion later and solicit your suggestions .
+grant .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by grant masson / hou / ect on 07 / 25 / 2000 09 : 07
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+kirstee hewitt
+07 / 25 / 2000 08 : 48 am
+to : grant masson / hou / ect @ ect
+cc :
+subject : meeting today
+hi grant - as anjam has set up a meeting for 9 : 30 your time how about we try
+and talk afterwards . originally we said 10 : 00 your
+time but i guess that the mg meeting will take longer than half an hour . are
+you free around 10 : 30 your time ?
+i think some of the communication problems i originally had with anjam have
+been resolved ( although it was a difficult situation to interpret ) however , i
+would very much like to discuss the situation that i am in concerning my
+immediate management .
+i have felt that over the last month i have been floundering a little and
+have not really been able to turn to anyone in london for direction
+concerning var ( although as expected steve has been very helpful to give me
+an idea on how to proceed theoretically ) . i do have many of my own ideas
+although i think i need to obtain some kind of authority to start any
+substantial work . at the moment i feel like i am doing a lot of small things
+and am worried that at some stage someone is going to ask the question -
+what exactly does she do over there in research ? ? ?
+i have talked to rodrigo lamas ( rac model validation new hire ) and he has
+helped me to focus on some points i had already made .
+as a quick summary i have drawn up a memo which outlines some of the points i
+think need to be addressed as far as the var model is concerned ( i could do a
+similar memo for the credit reserve model but to start have focused my
+comments on market risk ) .
+it is a bit rough and ready ( pls excuse any appalling spelling mistakes ! ) but
+i think it will help you to see what i have been thinking about since i have
+been here .
+i do think that the most important issue is that concerning the origin of the
+vol / price curves and how they are constructed .
+cheers
+kirstee

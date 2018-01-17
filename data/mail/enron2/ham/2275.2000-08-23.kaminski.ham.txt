@@ -1,0 +1,9 @@
+Subject: propane prices
+vince ,
+please find attached file with propane price statistics . there are two kinds
+of data : ( 1 ) prompt month futures prices , no location specified , starting
+from 1987 ; ( 2 ) index prices for different locations ( north sea , venezuela and
+saudi arabia ) , starting 1988 . source of both is platts publications .
+please notice that price of futures in given in us cents / gallon , and index
+prices in usd / mt .
+sincerely , elena

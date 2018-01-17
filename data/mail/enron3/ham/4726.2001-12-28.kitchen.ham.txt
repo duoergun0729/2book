@@ -1,0 +1,23 @@
+Subject: budget # ' s
+here is my first cut at taking the existing budget numbers to a desk - level . here are the key assumptions behind my cost allocations :
+direct costs for each group went to that group .
+gas ops was allocated to houston gas .
+power ops was allocated to east and west power based on commercial headcount .
+most other costs were allocated to gas , east power , west power , canada , ooc based on commercial headcount .
+there are a hundred ways you could do this exercise , i ' m not saying that this is the right way , but at least i was able to break the costs down .
+i then calculated an ebit by desk , funded a bonus pool , paid bonuses to all the non - commercial people , and figured out what a bonus pool would look like by desk based on the proforma values . i am not necessarily saying that this is the way that we should do it , but i think that it is one way to view the world upon which we can make whatever changes / adjustments we deem necessary . here are my initial conclusions / reactions :
+the proforma produces bonuses for commercial employees equal to roughly 6 % of their gross margin .
+this number is high relative to the 1 - 2 % we are used to , but considerably lower than the 8 % to 12 % that appears to be available in the market .
+our costs are way too high . for every dollar of direct commercial expenses there are four dollars of allocations . that just seems way out of hand .
+this model sells with lower costs . with current costs , i have a hard time convincing people in portland that this looks good relative to people ' s alternatives .
+i think that we need to have a lot of discussions next week on how this new organization would be managed . i don ' t see why we couldn ' t debate , if not nail down , a bunch of things next week . for example :
+how do we allocate var to the best performing traders and the market that offers the best opportunity at the time ?
+do we need to incent desk heads based on netco earnings while compensate traders based on desk earnings ?
+how will we carve up the bonus pool ? what are our choices ? what gets the var to the right places and properly incents teamwork ?
+how do we best manage costs ? how do we send appropriate cost signals for sunk costs ? for variable costs ?
+we need a very strong , professional , operations manager who is steeped in cost accounting , efficiency , quality control , and leadership . there is a science to operations management that i haven ' t seen applied at enron . for example , what does it cost us to schedule a mw - average and marginal ? what does it cost us to run a book ? what does it cost us to settle transactions ?
+what package are we going to be able to offer to incent people to stay ? when can we start talking about it ? who should we discuss this with ?
+what does our management team look like ? is it three people ? five people ? ten people ?
+i want to make this thing work . my clear first choice for 2002 is to be on this team . i want to be as contructive and helpful as possible in achieving this end . i can ' t commit unequivically ( sp ? ) until we sort out all of the numbers , i feel like i can sell this to the portland team , and i know what comp looks like for me and the key people in portland . i feel like some adjustments to the proforma and a clear understanding of 2002 comp will probably get us there .
+when do you want me in houston ( for a visit - not to move ) ?
+tim

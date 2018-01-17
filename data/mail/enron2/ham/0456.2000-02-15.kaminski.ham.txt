@@ -1,0 +1,33 @@
+Subject: presentation on equilibrium modeling for gas market
+hi kim :
+you and your associates are invited to attend this meeting .
+if you have any questions , please call me .
+thanks !
+shirley
+* * * * * * * * * * * * *
+the following presentation will be this friday , the 18 th of february from
+1 : 00 pm to 3 : 00 pm in eb 19 c 2 ( our large conference room ) .
+please plan to attend this presentation by icf consulting .
+agenda for presentation by icf consulting
+1 . qualifications for icf consulting ( 6 slides )
+a . energy consulting background ( 2 slides )
+b . experience with computational market equilibrium modeling methodolgies ( 2
+slides )
+c . experience of key icf individuals ( 2 slides )
+2 . description of enron  , s modeling interests ( to be discussed with enron )
+3 . icf  , s intertemporal , interregional equilibrium model of the north american
+natural gas analysis
+system ( nangas ) ( 14 slides )
+a . overview of nangas ( 2 slides )
+b . upstream components ( 3 slides )
+c . downstream components ( 4 slides )
+d . computation of market equilibrium prices , quantities , and flows ( 5 slides )
+4 . potential modeling consulting ( 9 slides )
+a . assistance in developing market equilibrium models for the energy sector
+( 1 slide )
+b . investigate alternative market equilibrium models for energy applications
+i . models of imperfect competition ( e . g . , nash - cournot , etc . ) ( 3 slides )
+ii . models of auctions in market forecasting ( 1 slide )
+ii . models that incorporate stochastic inputs ( e . g . , stochastic
+programming ) to take into account risk ( 2 slides )
+c . actions items ( to be completed in consultation with enron ) ( 2 slides )

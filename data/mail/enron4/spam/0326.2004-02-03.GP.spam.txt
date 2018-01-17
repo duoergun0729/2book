@@ -1,0 +1,57 @@
+Subject: failure notice
+hi . this is the qmail - send program at beta . zentek . net .
+i ' m afraid i wasn ' t able to deliver your message to the following
+addresses .
+this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
+facts @ certyourself . com :
+warning : cannot open config file , using defaults .
+sorry , no mailbox here by that name . vpopmail ( # 5 . 1 . 1 )
+- - - below this line is a copy of the message .
+return - path : paliourg @ iit . demokritos . gr
+received : ( qmail 32250 invoked from network ) ; 3 feb 2004 03 : 51 : 19 - 0000
+received : from unknown ( helo iit . demokritos . gr ) ( 61 . 3 . 253 . 4 )
+by 203 . 98 . 189 . 28 with smtp ; 3 feb 2004 03 : 51 : 19 - 0000
+from : paliourg @ iit . demokritos . gr
+to : facts @ certyourself . com
+subject : mail delivery system
+date : tue , 3 feb 2004 09 : 21 : 13 + 0530
+mime - version : 1 . 0
+content - type : multipart / mixed ;
+x - priority : 3
+x - msmail - priority : normal
+x - spam - flag : yes
+x - spam - checker - version : spamassassin 2 . 61 ( 1 . 212 . 2 . 1 - 2003 - 12 - 09 - exp ) on
+beta
+x - spam - report :
+* 0 . 2 no _ real _ name from : does not include a real name
+* 5 . 4 bayes _ 99 body : bayesian spam probability is 99 to 100 %
+* [ score : 0 . 9978 ]
+* 1 . 1 rcvd _ in _ sorbs _ http rbl : sorbs : sender is open http proxy server
+* [ 61 . 3 . 253 . 4 listed in dnsbl . sorbs . net ]
+* 0 . 1 rcvd _ in _ sorbs rbl : sorbs : sender is listed in sorbs
+* [ 61 . 3 . 253 . 4 listed in dnsbl . sorbs . net ]
+* 0 . 1 rcvd _ in _ njabl rbl : received via a relay in dnsbl . njabl . org
+* [ 61 . 3 . 253 . 4 listed in dnsbl . njabl . org ]
+* 0 . 7 rcvd _ in _ dsbl rbl : received via a relay in list . dsbl . org
+* [ http : / / dsbl . org / listing ? ip = 61 . 3 . 253 . 4 ]
+* 0 . 5 rcvd _ in _ njabl _ proxy rbl : njabl : sender is an open proxy
+* [ 61 . 3 . 253 . 4 listed in dnsbl . njabl . org ]
+* 1 . 2 rcvd _ in _ sorbs _ socks rbl : sorbs : sender is open socks proxy server
+* [ 61 . 3 . 253 . 4 listed in dnsbl . sorbs . net ]
+* 1 . 6 missing _ mimeole message has x - msmail - priority , but no x - mimeole
+* 1 . 2 priority _ no _ name message has priority setting , but no x - mailer
+x - spam - status : yes , hits = 12 . 1 required = 5 . 0 tests = bayes _ 99 , missing _ mimeole ,
+rcvd _ in _ sorbs _ socks autolearn = no version = 2 . 61
+x - spam - level : * * * * * * * * * * * *
+this is a multi - part message in mime format .
+content - type : text / plain ;
+charset = windows - 1252
+content - transfer - encoding : 7 bit
+the message contains unicode characters and has been sent as a binary
+attachment .
+content - type : plain / text ;
+name = norton antivirus deletedl . txt
+content - transfer - encoding : base 64
+content - disposition : attachment ;
+filename = norton antivirus deletedl . txt
+dxmu

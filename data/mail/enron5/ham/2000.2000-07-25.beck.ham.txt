@@ -1,0 +1,30 @@
+Subject: clickpaper now transactable
+clickpaper is now on the web with transactable prices .
+at 8 : 30 am tuesday the 25 th , we did our first trade , a 42 # linerboard trade
+( the outside part of a cardboard box ) with con agra ( 13 , 500 tons and about
+$ 6 , 000 , 000 notional ) . we hope to do another trade today with irving as well .
+i am sure we will have a new list of bugs at the end of today but i think we
+are past the major issues .
+going forward ( next two to three weeks ) , we will be working to get the
+product offering from its current 21 financial to about 50 financial as well
+as adding in physical at rotterdam . we will also be ready to handle any
+newsprint from garden state at the end of august . we also have some text
+changes and minor programming related to wording on the site that is new or
+unclear to the industry .
+we will continue to push for registration ( currently at 12 who now have user
+id , password and made it through credit , legal , tax ) .
+the markets load in about 4 seconds now so we fixed the slowness issue .
+we will also start generating a report each day on stats that are relevant .
+i will try to get some read only ids for people but give me a little time to
+get this done . i want my tech people sitting with the traders this week
+showing them the system and making sure everything is working . they also need
+to go back through what they did the last month and make sure they clean up
+some steps .
+we will work on a press release to maybe go out mid to late august to
+coincide with a larger customer mailing , a few adds in industry publications ,
+physical product and a complete suite of financial products .
+i would like to thank everyone who helped us get to this launched
+successfully . however , we all realize this is a beginning , not an ending ,
+and that there is a significant amount of work still ahead .
+thanks .
+gp

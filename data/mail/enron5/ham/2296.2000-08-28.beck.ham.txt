@@ -1,0 +1,35 @@
+Subject: controls needed to ensure cashflows are received by infinity update
+we still do not have a good cash flow from erms . several books which were
+changed on friday did not get added back by risk controls in the clean - up
+process this morning , including the book , mahii , which had the $ 650 milllion
+prepay .
+sheila
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheila glover / hou / ect on 28 / 08 / 2000 13 : 42
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : sheila glover 28 / 08 / 2000 11 : 34
+to : shona wilson / na / enron @ enron , brent a price / hou / ect @ ect , sally
+beck / hou / ect @ ect
+cc : michael e moscoso / hou / ect @ ect , gary hickerson / hou / ect @ ect , pushkar
+shahi / hou / ect @ ect , clara carrington / hou / ect @ ect , david port / market
+risk / corp / enron @ enron , samantha t davidson / hou / ect @ ect , joyce
+kuo / na / enron @ enron
+subject : controls needed to ensure cashflows are received by infinity
+shona , brent and sally ,
+this morning , the cash flows from approximately 75 books were not received by
+infinity from the erms system . we normally get 375 books and only got 296
+this morning .
+per conversation with joyce kuo and mike moscoso , susan trevino , risk
+controls , and christian , rac , changed the book heirarchy on friday , moving
+global products books , including the prepays , out of the ect group and into
+another group . we have had discussions in the past verifying with risk
+controls that the ect group is the only group which automatically sends its
+cash flows to infinity . other cash flows from books are included only by
+being listed in a script . this was not done when the books were moved from
+the ect group on friday .
+obviously , the rate & currency is not able to hedge enron ' s cash flows when
+so much has been omitted . at this time we are about one hour away from a
+good hedging report for the trading desk . this report is due the desk daily
+by 7 : 30 am .
+mike and i discussed the need for controls and sign - off by him or shona for
+changes in book heirarchy .
+sheila

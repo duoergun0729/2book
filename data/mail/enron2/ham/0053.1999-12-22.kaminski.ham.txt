@@ -1,0 +1,24 @@
+Subject: re : working gas price model
+vince -
+i have a simplified version of brad ' s model in mind .
+the " no arbitrage " condition equates trading margins across the country .
+costs of transmission rise with congestion on the network . wellhead supply is
+almost completely price - elastic , while burner - tip demand is almost
+completely price inelastic . storage is rationalized as a perpetual call
+option .
+the least time - variant parameters are the costs of injecting and withdrawing
+gas from storage to the pipeline , followed by the costs of delivering gas
+from the wellhead to the pipeline . the intermediate - variant parameters are
+the capacity - dependent costs paid to the pipeline ( above shrinkage ) for
+transmission . the most time - variant parameters are the trading margins and
+the valuations of the storage option .
+there are 8 parameters to be estimated at each major node of the betwork .
+they are identifiable in either of two straightforward ways : using a short
+time series of the last 3 days prices based on the assumed variability
+mentioned above , or point - estimates ( " calibrations " ) using only today ' s data
+based on a node - based model of competition between pipelines where pipes with
+the same region of origination , albeit markedly different terminus , price
+versus capacity similarly , " competing " for outflows .
+i will write this up for you in scientific word and present it to you at your
+earliest convenience .
+clayton

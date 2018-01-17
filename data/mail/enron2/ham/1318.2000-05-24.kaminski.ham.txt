@@ -1,0 +1,44 @@
+Subject: re : cplex
+i agree . i ( or chonawee ) will go ahead and place the order for cplex . i think
+that this will provide us with a great set of tools .
+- samer
+pinnamaneni krishnarao @ ect
+05 / 24 / 00 01 : 34 pm
+to : samer takriti / enron communications @ enron communications @ enron , tom
+halliburton / corp / enron @ enron
+cc : grant masson / hou / ect @ ect , stinson gibner / hou / ect @ ect , chonawee
+supatgiat / corp / enron @ enron , vince j kaminski / hou / ect @ ect
+subject : re : cplex
+i talked to vince about the optimization software issue . vince said that if
+there are technical reasons for having two different packages and the
+benefits outweigh the costs of maintaining two licenses , we can go ahead and
+buy both . in my view , it is a great advantage to have both , as each has its
+own strengths relative to the other . we have spent some time trying to come
+up with one package that solves all of our problmes without success . there is
+no point is wasting more time on this effort . let ' s go ahead and purchase
+both .
+krishna .
+from : samer takriti @ enron communications on 05 / 24 / 2000 10 : 22 am
+to : tom halliburton / corp / enron @ enron
+cc : grant masson / hou / ect @ ect , pinnamaneni krishnarao / hou / ect @ ect , stinson
+gibner / hou / ect @ ect , chonawee supatgiat / corp / enron @ enron
+subject : re : cplex
+tom ,
+vince prefers to have one software package ( if possible ) . it is my
+understanding that special ordered sets are recognized automatically
+( internally ) by cplex . this seems to be the case for both cplex and osl
+according to ampl ' s web page and other references ( check
+lorderedsetsfeature ) . as a result , the cplex people feel that there is no
+need to provide the user with the tools to represent special - ordered sets in
+opl . as a matter of fact , the incapability of xpress to recognize them
+automatically concerns me .
+if you have special requirements , c code may be used to pass the information
+to the solver ( which is straight forward ; all of chonawee ' s testing was done
+this way ) . chonawee ' s benchmark shows a superior performance by cplex ( which
+you indicated yourself in an earlier message ) .
+if you feel that xpress is the only way to go , then feel free to purchase it
+( the purchase order is on hold for the time being ) . however , we need to check
+with vince first . i strongly feel that we should have one solver in order to
+minimize cost and contractual headaches .
+let us try to get this issue resolved by this afternoon . thanks .
+- samer

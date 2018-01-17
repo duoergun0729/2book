@@ -1,0 +1,28 @@
+Subject: re : new counterparty
+we have zeroed out the mark to market value in the spreadsheets . now there
+still is " new counterparty " in the spreadsheet , but there is $ 0 in credit
+risk for those . john powell in debbie ' s group is working on a longer term
+solution , but everyone is comfortable with this for now .
+enron north america corp .
+from : sally beck 12 / 14 / 2000 11 : 31 am
+to : jeffrey c gossett / hou / ect @ ect
+cc :
+subject : re : new counterparty
+thanks for looking into this and getting back to me . let me know the final
+resolution on this one .
+jeffrey c gossett
+12 / 13 / 2000 08 : 29 am
+to : sally beck / hou / ect @ ect , kim s theriot / hou / ect @ ect , leslie
+reeves / hou / ect @ ect
+cc :
+subject : new counterparty
+we have figured out why the credit group is getting so many " new
+counterparty " names in gas . the spreadsheets that they are getting that
+information from are for position purposes only on pipe - optons . the value is
+captured in tagg and therefore if both had the correct counterparty it would
+be doublecounting credit risk . the spreadsheet download has a specific
+download that it has to follow which includes counterparty name ( which in
+this case had to be put in as new counterparty . ) i am working with debbie to
+figure out how we can download those positions without showing a counterparty
+at all from the spreadsheet . it will be done as quickly as possible .
+thanks

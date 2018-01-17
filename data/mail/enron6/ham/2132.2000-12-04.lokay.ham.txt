@@ -1,0 +1,82 @@
+Subject: re : download basis differential for tw ( rms _ basis table )
+gary ,
+changes related to tw basis differential for tw deal analysis is completed .
+michelle lokay has reviewed the new index price using the new tables and
+logic .
+the migration does not impact other applications . please approve it and
+forward
+it to margaret waters mail box .
+margaret ,
+per your instruction , these are things we need for this migration .
+1 . delete view rms _ basis _ nymex _ view on etsmoe . gpgrms and etshouspo 9 . gpgrms
+2 . create new view view rms _ basis _ nymex _ partial _ view on etsmoe . gpgrms and
+etshouspo 9 . gpgrms
+3 . modify the ashwin job : dba mojo misc : twprodol . rms _ basis _ load to pull
+from the new view
+4 . migrate stored procedures
+mchen . up _ twda _ create _ path
+mchen . up _ twda _ deal _ analysis
+in etstest / twprodol to dbo in etstest / twprodol , etsmo / twprodol , and
+mojo / twprodol .
+grant exec to developers in etstest .
+grant exec to twdp in etsmo and mojo .
+thanks ,
+mei - ling
+- - - - - - - - - - - - - - - - - - - - - - forwarded by meiling chen / et & s / enron on 12 / 04 / 2000
+02 : 34 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+margaret waters
+11 / 29 / 2000 10 : 23 am
+to : mei - ling chen / et & s / enron @ enron
+cc :
+subject : re : download basis differential for tw ( rms _ basis table )
+mei - ling ,
+i put the index table on etstest . twprodol , etsmo . twprodol , and mojo . twprodol
+and i have added a job to refresh the new table in production . in
+development ( etshousdl 1 . gpgrms ) i have dropped the view rms _ basis _ nymex _ view
+and created a new view rms _ basis _ nymex _ partial _ view . i have also loaded the
+data to etstest . twprodol . after you have tested and when you request the
+migration , please request the deletion of the view rms _ basis _ nymex _ view on
+etsmoe . gpgrms and etshouspo 9 . gpgrms and the creation of the new view in these
+two environments . also request the modification of the ashwin job : dba mojo
+misc : twprodol . rms _ basis _ load to pull from the new view .
+please send the request directly to my mail box , i will complete and send to
+the ets dba mailbox as completed .
+margaret
+meiling chen
+11 / 21 / 2000 04 : 57 pm
+to : margaret waters / et & s / enron @ enron
+cc :
+subject : re : download basis differential for tw ( rms _ basis table )
+yes , i need the same logic for " nymex " like the attached query . for nymex ,
+and the four new tw index ,
+i only need the most current data for the application .
+thanks ,
+mei - ling
+margaret waters
+11 / 21 / 2000 03 : 04 pm
+to : mei - ling chen / et & s / enron @ enron
+cc : kenagy garyenagy / ots / enron @ enron , kim kouri / et & s / enron @ enron
+subject : re : download basis differential for tw ( rms _ basis table )
+meiling ,
+do you want the same logic you have in the attached query for the " nymex "
+also or like the current nymex selection do you want everything and you
+filter the most current ?
+also for the future , creation of new tables require a database change form .
+thanks ,
+margaret
+meiling chen
+11 / 14 / 2000 05 : 58 pm
+to : margaret waters / et & s / enron @ enron
+cc : kenagy garyenagy / ots / enron @ enron , kim kouri / et & s / enron @ enron
+subject : download basis differential for tw ( rms _ basis table )
+margaret ,
+the basis differential for tw is available in rms database now , i like to
+request a nightly download
+from rms database to twprodol database in etstest / etsmo / mojo .
+you set up nymex price dowload to rms _ basis for me ealier .
+since there are more than one type of index coming in this time , i think we
+also need rms _ index in
+sybase side .
+attached is the sample sql from ray volpone .
+thanks ,
+mei - ling

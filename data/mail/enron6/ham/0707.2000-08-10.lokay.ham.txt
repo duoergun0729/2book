@@ -1,0 +1,29 @@
+Subject: transport options program
+attached is the latest draft of the transport option program filing .
+there are a couple of important changes from the last draft .
+one is that we ' re no longer stating that the option fee is going to be
+" market - based . " at ferc , the term " market - based " has connotations of having
+to prove to ferc that a non - cost - based rate is appropriate because we lack
+market power . while we probably do lack market power , the consensus of the
+legal / regulatory team was to try to portray the option fee as a built - in
+feature of the transport rate , which is simply being disaggregated into a
+separate option fee . if this theory is not clear to you after you read the
+filing letter , let ' s discuss how it should be improved .
+the other significant change ( also based on my meeting with legal / regulatory )
+is that i ' ve structured the tariff language and the agreement so that every
+shipper , regardless of whether they currently use transport on tw , will have
+to have a firm transportation agreement when they buy an option . in other
+words , a shipper that does not currently have a service agreement will simply
+execute an agreement with a maxdtq of zero . this structure has two
+advantages : 1 ) it ' s consistent with our option - fee - as - part - of - transport - rate
+theory , and 2 ) it will help support that theory in our next rate case .
+i ' d like to meet next week , either wednesday afternoon or thursday , to
+discuss the following topics :
+1 ) your comments and questions on this draft ,
+2 ) some examples of options , to make sure the tariff provisions and contract
+work from a logistical standpoint ,
+3 ) the bidding process , and how bids for options will be evaluated , and
+4 ) comments received from shippers thus far .
+i ' ll be working on 41 tomorrow ; let ' s talk about what would be a good meeting
+time .
+i will be out mon . and tues .

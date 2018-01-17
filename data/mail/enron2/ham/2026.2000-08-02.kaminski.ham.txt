@@ -1,0 +1,14 @@
+Subject: var for cob lst aug 2000
+hi ,
+i have run the var for cob lst aug 2000 . a summary of the results is as
+follows :
+i have also attached the model .
+again the prices for cocoa beans and gold have not been updated since the
+26 th july . the gamma positions for the metals have been
+added to check the effect on the var . the change was small :
+delta var - $ 4 , 899 , 196
+delta / gamma var - $ 4 , 780 , 797
+this is not a live daily feed as andreas mannually created the file for me
+today so that we could do this check .
+regards
+kirstee

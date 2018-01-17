@@ -1,0 +1,15 @@
+Subject: possible temporary move of hpl to 1201 louisiana
+i finished the walk through of the 15 th floor space located at 1201 louisiana this afternoon . on the walk through with me were paul foust ( facilities ) , robert humlicek , jeffrey vincent and andrew hawthorn . i previously talked with deborah bubenko and vincent fox about this space . comments from the review are as follows :
+most of the floor is composed of offices with some large group areas ( conference rooms etc . ) included . the floor can accommodate up to 150 people . however , with this amount of people in the area , space will be very tight . almost all offices will need to hold at least two people . large offices will need to hold three or four . the larger areas will need to have cubicles installed to make complete use of the space . with maximum doubling up in the offices , you might fit a couple of conference rooms on the floor with one kitchen area . there are nooks just off some of the hallways that would accommodate several network printers .
+as tommy stated in his earlier e - mail on the allen center space , the fire code will require us to put a strobe in each office with multiple occupants .
+one area of concern is the amount of furniture currently on the floor . the floor plan shows approximately 90 desks on the floor . some offices were locked so we could not verify the total . however , this number appears correct . also , for the most part , there were only desks in the offices unless they were occupied . chairs , filing cabinets , credenzas , etc . would needed to be added to this space . we need to determine where the additional furniture will come from .
+there is one large area with 11 cubicles forming a circle . according to paul , this was the area where telephones were answered for the previous tenant . this might work for the trading area . the room appears to have the most telephone connectivity , is open , and would accommodate up to 11 .
+if we decide trader telephones are necessary ( record conversations etc . ) , the cost associated with the purchase of the equipment and the necessary installation time will need to be factored into our schedule .
+the floor has two data closets . at least one of the closets has 24 hour air conditioning according to vincent .
+this floor has the same server connectivity at the three allen center space . a 100 meg single mode fiber connection serves this space .
+robert has informed me that the floor currently has switches to support up to 200 ports . however , this does not mean that the drops to all offices are complete . probably some cabling will need to be added . it appears that the space can accommodate up to 150 users even with the extra ports needed for network printers , laptops , etc . however , if we need to accommodate more than 200 ports , additional switches can be added .
+in summary , the floor space at 1201 louisiana looks as good or better than the space that was being considered at three allen center .
+russell s . long
+enron net works , llc
+russell . long @ enron . com
+( 713 ) 345 - 3754

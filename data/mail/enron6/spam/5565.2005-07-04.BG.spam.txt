@@ -1,0 +1,32 @@
+Subject: notification of limited account access
+dear user ,
+as part of our security measures , we regularly screen activity in the
+paypal system . we recently noticed the following issue on your account :
+we would like to ensure that your account was not accessed by an
+unauthorized third party . because protecting the security of your account
+is our primary concern , we have limited access to sensitive paypal account
+features . we understand that this may be an inconvenience but please
+understand that this temporary limitation is for your protection .
+for your protection , we have limited access to your account until
+additional security measures can be completed . we apologize for any
+inconvenience this may cause .
+please log in to paypal to restore your account access as soon as possible :
+once you log in , you will be provided with steps to return your
+account to regular standing . we appreciate your understanding as we work to
+ensure account safety .
+in accordance with paypal \ ' s user agreement , your account access will remain
+limited until the issue has been resolved . unfortunately , if access to your
+account remains limited for an extended period of time , it may result in
+further limitations or eventual account closure . we encourage you to log in
+to your paypal account as soon as possible to help avoid this .
+to review your account and some or all of the information that paypal used
+to make its decision to limit your account access , please visit the
+resolution center . if , after reviewing your account information , you seek
+further clarification regarding your account access , please contact paypal
+by visiting the help center and clicking contact us .
+we thank you for your prompt attention to this matter . please understand
+that this is a security measure intended to help protect you and your
+account . we apologize for any inconvenience .
+sincerely ,
+paypal account review department
+paypal email id pp 523

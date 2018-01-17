@@ -1,0 +1,37 @@
+Subject: caiso notification - ct 1487 - energy exchange program neutrality
+adjustment
+energy exchange program neutrality adjustment
+charge type 1487
+sc settlement contacts :
+background
+as you may know , the energy exchange program began on trade
+date 11 / 14 / 2000 . in this program the iso obtained needed energy in for the
+real time market and , rather that paying for the energy as a purchase , later
+returned the energy in another period . this was not necessarily a
+one - for - one exchange . the incoming energy created a positive neutrality
+adjustment and when the energy was returned , a negative neutrality
+adjustment ensued . since the incoming and outgoing energy were usually
+valued differently , there was a cost shift associated with the transaction
+that was not cash neutral to the iso . the iso created charge type 1487 was
+developed for the allocation of the cost to scs participating in the market
+during the incoming schedules
+notification
+the iso has created charge type 1487 so that whenever an
+energy exchange account is closed or reaches a zero balance , the incurred
+costs will be calculated and allocated to the sc ' s based on their total
+negative uninstructed energy over those intervals in which the incoming
+schedules took place . this new charge type will appear beginning on the
+june 30 , 2001 statements which will be published on august 23 , 2001 . in
+addition a few accounts reached a zero balance as early as december , 2000
+and therefore allocations may or may not appear on your statement with the
+rerun data .
+ct 1487 is a semi automated charge , meaning that the
+collection of energy data is automated , but it will be a manual charge type
+within the manual line item records and will not require a change to your
+settlement system . note that this charge will not appear on every
+statement , but only when an energy exchange account is closed or reaches a
+zero balance .
+if you have any questions , please contact your client
+relations account manager .
+client relations communication
+crcommunications @ caiso . com

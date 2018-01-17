@@ -1,0 +1,39 @@
+Subject: mail delivery failed : returning message to sender
+this message was created automatically by mail delivery software .
+a message that you sent could not be delivered to one or more of its
+recipients . this is a permanent error . the following address ( es ) failed :
+support @ neikes - it . de
+smtp error from remote mailer after rcpt to : :
+host neikes - it . de [ 81 . 169 . 184 . 65 ] : 554 :
+relay access denied
+- - - - - - this is a copy of the message , including all the headers . - - - - - -
+return - path :
+received : from mx 20 . kundenservices . net ( [ 81 . 169 . 163 . 71 ] )
+by moutol . kundenservices . net with esmtp ( exim 4 . 41 )
+id lduppg - 0002 ee - cb
+for support @ neikes - it . de ; tue , 19 jul 2005 12 : 59 : 50 + 0200
+received : from [ 211 . 168 . 67 . 248 ] ( helo = mailwisconsin . com )
+by mx 20 . kundenservices . net with smtp ( exim 4 . 44 )
+id lduppd - 0003 xh - ck
+for support @ neikes - it . de ; tue , 19 jul 2005 12 : 59 : 48 + 0200
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 09360096 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : support @ neikes - it . de
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbelivabie !

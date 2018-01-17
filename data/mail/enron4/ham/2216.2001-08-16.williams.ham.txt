@@ -1,0 +1,9 @@
+Subject: viewing of all employee meeting
+all ,
+the viewing of the all employee meeting today was not a complete success despite our successful testing yesterday . there were several it teams ( your local it support as well as houston based web and network teams ) that worked together to troubleshoot the audio and video feeds while watching the performance of your sites communication links with houston to ensure your trading business was not compromised . i would like to provide you some history as well as go forward actions to provide better audio / video streaming services .
+you may have noticed that the medium for viewing the meeting has changed from the previous iptv application to a web based application . this new medium has been in the development stages with the production target of october 2001 which was set by business . last friday business approached it infrastructure and advised that there would be an all employee meeting on aug , 16 ( today ) . this didn ' t provide much time for preparation and testing . during the troubleshooting for each of your sites , the network team ( scott shishido and george nguyen ) were able to determine some but not all causes to the poor performance . i will be meeting with the web ( edward ray ) and network ( steve hardy and scott shishido ) teams to determine what the action plan is for resolving the performance issues .
+my understanding is that the meeting will be available for viewing if you wish to do so . i will be communicating to you when your site will be able to view this replay of the all employee meeting .
+please contact me if you have any questions or concerns .
+regards ,
+dan dietrich
+713 - 345 - 8836

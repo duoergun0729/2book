@@ -1,0 +1,12 @@
+Subject: two - settlement xml / csv conversion utilities
+message sent from the pjm - customer - info mailing list at
+pjm - customer - info @ majordomo . pjm . com :
+the two - settlement xml / csv conversion utilities are now available for
+download
+from the pjm web site . the zip file containing the required programs and
+examples can be downloaded from
+please do not reply to this message . if you have a question for pjm customer
+relations and training , please send an e - mail to custsvc @ pjm . com .
+to unsubscribe from this list , send an e - mail to majordomo @ majordomo . pjm . com
+containing only the following line in the body of the e - mail :
+unsubscribe pjm - customer - info

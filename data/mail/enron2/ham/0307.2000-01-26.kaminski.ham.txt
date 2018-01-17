@@ -1,0 +1,24 @@
+Subject: re : convergence of the research model
+i was curious about the accuracy of our credit reserve model as a function of
+the
+number of simulations we use . this question , i think , is not so important
+when we
+calculate credit reserve , because the assumptions underlying our model are
+pretty
+rough anyway ( here i mean the assumptions regarding price processes ,
+correlations , etc . )
+this question becomes more essential when we talk about calculating
+sensitivities of the
+credit reserve to various factors . when the magnitude of the sensitivity is
+comparable
+to the accuracy of calculation of the credit reserve , what is the accuracy of
+such sensitivity ?
+i performed a numerical experiment where i calculated the expected loss
+for a simple portfolio with one counterparty ( sithe ind power ) for different
+number of simulations ( 10 , 100 , 1000 , 10000 , 100000 ) using old research
+credit model .
+you can see how the result converges and the relative error ( compared to the
+result for 100000 simulations which is assumed to be the most accurate ) in
+the
+attached file .
+tanya .

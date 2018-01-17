@@ -1,0 +1,20 @@
+Subject: attached please find the proposed electronic trading agreement and password application for netco . i have included a clean copy of each document as well as a red - lined copy marked against the version sent to mark taylor by dave and carl .
+you will note that i have made a number of changes to the original eol documents .
+1 . the password application .
+the password application contains no substantive changes . i advise that we retain the original description of the website as a platform for the " purchase and sale of products and instruments based on energy products or other commodities ( including derivative products ) " . the description is sufficiently broad to cover any potential expansion beyond the original gas and power products , as well as third party product offerings . after a brief discussion regarding the auction platform with louise , i revised the pa to reinsert references to the auction .
+2 . the electronic trading agreement .
+there are numerous revisions and additions to the eta . i outline below a few of the key changes requiring your consideration :
+a . i added a sentence at the end of section 1 to make clear that in the event the eta conflicted with any other agreement between the parties , including any terms posted on the website , the eta controls .
+b . i added a new section 2 ( h ) to address counterparty content posted on any public area of the website . to the extent that we anticipate such a capability in the future , it may be a good idea to include such a provision . if we do include this section , do we want to limit our license of the content to use on the website and related materials , as proposed here ? if you do not want to include such a limitation , we can add the word " worldwide " to the first sentence before the word " royalty - free " and delete the balance of the final sentence after the phrase " not distorted by displaying only a part ) " .
+c . i revised section 3 ( e ) to clarify that netco is not required to send written confirmations of on - line transactions and to provide that electronic records are admissible as evidence of the transaction . the last sentence of the section is intended to make clear that to the extent the master agreement requires a written confirmation , such master agreement controls , provided that the failure to send a confirmation will not invalidate the transaction .
+d . i added a new section 4 to address transactions posted by unaffiliated third parties . ( this issue was already covered in the last paragraph of the original pa . )
+e . i revised section 5 ( a ) to clarify that netco is not liable for any direct damages and to expressly cap its damages to amounts paid by counterparty for accessing the website .
+f . i revised section 5 ( b ) and ( c ) in response to issues raised by many counterparties when i negotiated eol eta issues .
+g . section 6 ( a ) has been revised to expressly provide that confidential information excludes counterparty identifying information , as well as transactional or biographical information in statistical form . please let me know if you disagree with the scope of this exclusion . if you don ' t want to exclude counterpary identifying information , we can merely delete the phrase " the identification of counterpartt as a user of the website and shall also exclude " . i added a 1 - year term following expiration of the eta to the confidentiality obligation in section 6 ( d ) , reasoning that most of the confidential information protected by this section belongs to the counterparty , not netco , and thus desiring some cut off point for our obligation to maintain confidentiality .
+a number of our counterparties enter into transaction by and through service companies or agents . i have prepared a revised password application , side letter to the eta , and consent and acknowledgment form to be utilized by such counterparties and attach these documents below for your review and reference as well .
+please give me a call with any questions or comments .
+regards ,
+leslie
+( 713 ) 853 - 6121 ( o )
+( 713 ) 256 - 0572 ( cell )
+( 713 ) 528 - 5215 ( home )

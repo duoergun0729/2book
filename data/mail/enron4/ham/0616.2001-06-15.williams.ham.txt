@@ -1,0 +1,7 @@
+Subject: news you need ! please read
+fyi -
+we will not be confirming hourly trades for generators or any other counterparties until further notice . the logistics of the process are still being worked out . in the meantime , keep checking " no confirm " on all deals .
+bloomberg deals are another story . they do get confirmed everyday . however , the people in the confirms group know this inherently and do not need the added validation of a " yes confirm " checkmark . what they do need is a clue as to which deals have been done with bloomberg , and the best way to convey this is by typing " bloomberg " next to the word " broker " in your deal entry screen .
+if this is unclear , please let me know .
+thanks ,
+kate

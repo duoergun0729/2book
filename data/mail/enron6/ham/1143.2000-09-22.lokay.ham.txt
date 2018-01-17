@@ -1,0 +1,18 @@
+Subject: windows 2000 / outlook project - phase i - reminder
+except marketing :
+this is a reminder that we are going to begin phase i of the windows
+2000 / outlook project . in this phase , we will be gathering information about
+the hardware and software that you are using within your group .
+the process will begin with an email inventory . you will receive an email on
+monday , september 25 , with the subject of w 2 k inventory - please open . all you
+need to do is open the email message . because the marketing group ' s
+inventory was performed by omaha , they should not open the message . this
+email will do a quick inventory of applications you have installed on your pc
+or that you may access from the network , as well as your desktop hardware
+specifications . the information gathered from this email will be stored in a
+notes database for reporting . it is very important that you open this email
+from your primary workstation . please do not open it remotely , or if you ' re
+checking someone else ' s mail .
+if you have any questions , comments , or concerns , please feel free to contact
+the :
+ets solution center at x 54745

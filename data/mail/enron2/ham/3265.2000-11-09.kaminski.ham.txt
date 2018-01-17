@@ -1,0 +1,21 @@
+Subject: precious metals var
+jason ,
+after our brief discussion last night i think i should discuss a few of the
+issues i have with respect to calculating a var on the deal that you are
+proposing . the var model , as i illustrated , is set up to accept a term
+structure of delta positions , prices and vols and it may be difficult to
+translate the ' silver mine ' position into these inputs .
+i do not think that we can simply take the net silver content of the mine and
+then make some assumptions about vol and price . the var model
+also assumes a certain amount of liquidity in the market and a 1 day holding
+period .
+to do this properly i would need to understand fully how the deal is priced
+as these sensitivities are ultimately what will effect the change in mtm
+in the future and that is essentially what var is supposed to predict .
+if you need me to work on this then you need to contact steve who will help
+to prioritise my time . i will also need to consult with vince kaminski and
+tanya tamarachenko in houston for advice .
+rac will also assist in the process .
+please contact me if you have any further questions ,
+kirstee
+x 34529

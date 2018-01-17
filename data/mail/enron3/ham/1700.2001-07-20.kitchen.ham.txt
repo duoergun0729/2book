@@ -1,0 +1,276 @@
+Subject: fw : portland general electric : order rejecting tariff amendments
+ferc rejected the request by pge to modify the code of conduct so that they could buy on enrononline . basically , ferc did not believe that buying thru enrononline was a guarantee that consumers in oregon would not be harmed .
+ferc found that there is , for
+example , no assurance that the posted prices on enrononline
+represent prevailing market prices .
+applicants contend that , since pge can transact with epmi
+via enrononline only at the posted price , there can be no
+affiliate abuse . we are not certain , however , that the posted
+price necessarily represents the market price . while , on the
+surface , enron online may bear some resemblance to an index or an
+auction , the posted prices for any product may not be the result
+of a competitive market of multiple buyers and sellers ; in fact ,
+for sales the posted prices represent what epmi is willing to
+sell at , and for purchases the posted prices represent what epmi
+is willing to buy at .
+ferc left open the idea that pge could re - file to fix the affiliate abuse .
+as soon as we hear anything else , i ' ll let you know .
+jim
+- - - - - original message - - - - -
+from : shapiro , richard
+sent : friday , july 20 , 2001 4 : 14 pm
+to : steffes , james d .
+subject : fw : portland general electric : order rejecting tariff amendments
+- - - - - original message - - - - -
+from : novosel , sarah
+sent : friday , july 20 , 2001 10 : 42 am
+to : robertson , linda ; shapiro , richard ; steffes , james d .
+subject : portland general electric : order rejecting tariff amendments
+- - - - - forwarded by sarah novosel / corp / enron on 07 / 20 / 2001 11 : 39 am - - - - -
+" emily harris " 07 / 20 / 2001 11 : 14 am to : , , , , , , , cc : " andrea settanni " subject : portland general electric : order rejecting tariff amendments
+96 ferc 61 , 093
+united states of america
+federal energy regulatory commission
+before commissioners : curt h * bert , jr . , chairman ;
+william l . massey , linda breathitt ,
+pat wood , iii and nora mead brownell .
+portland general electric company docket no . erol - 2097 - 000
+enron power marketing , inc . docket no . erol - 2103 - 000
+order rejecting tariff amendments without prejudice
+( issued july 20 , 2001 )
+in this order we reject , without prejudice , proposed
+amendments of enron power marketing , inc . ( epmi ) and portland
+general electric ( pge ) to their respective market - based rate
+tariffs that would allow them to make inter - affiliate sales using
+the enrononline trading platform .
+i . background
+on may 22 , 2001 , in separate filings , affiliates pge in
+docket no . erol - 2097 - 000 and epmi in docket no . erol - 2103 - 000
+( collectively applicants ) filed to amend their respective market -
+based rate schedules to allow for inter - affiliate sales through
+the enrononline trading platform , and to prohibit communication
+among affiliates regarding the contents of prices posted on
+enrononline or the times that pge will be making trades on
+1
+enrononline . this amendment does not supplant the existing
+provisions of pge ' s and epmi ' s currently effective tariffs which
+allow for inter - affiliate sales subject to conditions that the
+commission generally imposes on inter - affiliate sales where there
+are captive customers , e . g . , allowing a public utility to sell to
+its affiliated power marketer only at a rate that is no lower
+than the rate it charges non - affiliates , requiring simultaneous
+offers to non - affiliates , or requiring use of a relevant ,
+established index . rather , pge and epmi propose to amend their
+respective tariffs to add a provision by which they will make
+1
+the enrononline system is administered by enron networks ,
+an enron corp . subsidiary . enrononline is a free , internet -
+based , transaction system which allows epmi ' s customers to view
+real time prices from epmi ' s traders and transact instantly
+online . enrononline is not an epmi application , but rather
+enrononline is a trading platform used as a tool by epmi in
+buying from and selling power to third parties .
+docket nos . erol - 2097 - 000 - 2 -
+and erol - 2103 - 000
+inter - affiliate sales via enrononline , with restrictions
+different than those in place but that , they state , will still
+prevent affiliate abuse . applicants state that the commission ' s
+requirements have become outdated due to recent developments in
+electronic commerce and , in particular , the commission ' s
+requirement that " pge post on its website notice of a potential
+purchase or sale with epmi prior to pge entering into the
+transaction with epmi prohibits pge from using enrononline , since
+enrononline offers only instantaneous transactions that do not
+provide for a waiting period before consummating the
+2
+transaction . " according to applicants , this deprives pge of the
+ability to buy or sell power " from perhaps the largest marketer
+3
+in its region , to the detriment of pge and its ratepayers . "
+ii . notice of filing and interventions / protests
+notices of the filings were published in the federal
+register , 66 fed . reg . 29 , 939 ( 2001 ) ( docket no . erol - 2097 - 000 ) ,
+and 66 fed . reg . 30 , 180 ( 2001 ) ( docket no . erol - 2103 - 000 ) , with
+motions to intervene and protests for both due on or before
+june 12 , 2001 . none was filed .
+iii . discussion
+the commission allows power marketers and their public
+utility affiliates to sell to one another at market - based rates
+when it can be assured that there is no possibility of affiliate
+abuse . as the commission has explained , affiliate abuse can
+occur when a traditional public utility with captive customers
+sells power at below - market prices to , or purchases power at
+above - market prices from , an affiliate without captive customers
+( such as a power marketer affiliate ) . one way in which the
+commission has sought to prevent this type of cross - subsidization
+by captive customers is to require the pricing of inter - affiliate
+4
+sales at an established , relevant market price or index .
+another way , when there is no assurance that the affiliates are
+transacting at the prevailing market price , is to adopt various
+conditions previously established by the commission to prevent
+5
+affiliate abuse .
+2
+epmi application at 3 ; pge application at 4 .
+3
+epmi application at 3 ; pge application at 4 .
+4
+see , e . g . , dpl energy , inc . 90 ferc 61 , 200 ( 2000 ) ;
+accord , first energy trading services , inc . , 88 ferc 61 , 067 at
+61 , 156 ( 1999 ) .
+5
+e . g . , gpu advanced resources , inc . , 81 ferc 61 , 335 at
+( continued . . . )
+docket nos . erol - 2097 - 000 - 3 -
+and erol - 2103 - 000
+here , applicants request that the commission permit them to
+use enrononline to make inter - affiliate sales , subject to the
+following restrictions that they contend provide sufficient
+protection against affiliate abuse . pge , when buying from epmi
+using enrononline , will be required to " take the transaction
+price as posted that is generally applicable at a particular
+6
+location without attempting to negotiate any adjustment . " in
+7
+addition , pge will be prohibited from submitting limit orders or
+engaging in any other type of transaction in which the identity
+of the counter - party is revealed to epmi prior to the transaction
+being finalized . applicants also propose to amend their
+respective codes of conduct to preclude any communication
+regarding prices posted on enrononline .
+applicants contend such restrictions ensure no affiliate
+abuse occurs since pge will only be able to transact with epmi at
+5
+( . . . continued )
+62 , 539 ( 1997 ) ( gpu ) ; detroit edison company , 80 ferc 61 , 348 at
+62 , 197 - 98 ( 1997 ) ( detroit edison ) . in gpu , the commission
+allowed sales from a power marketer to its affiliated traditional
+public utility at a rate that was no higher than the lowest rate
+the public utility paid non - affiliates under certain standard
+supplier agreements . accord , first energy trading that the utility simultaneously offer through its
+electronic bulletin board to sell to non - affiliates at the same
+rate offered to its affiliate ; and that all prices charged to the
+affiliate be simultaneously posted on its electronic bulletin
+board . accord , jersey central power commonwealth edison co . , 85 ferc
+61 , 288 at 62 , 176 - 77 ( 1998 ) .
+6
+epmi application at 4 ; pge application at 5 .
+7
+in the case of a limit order on enrononline , epmi would
+know the identity of the customer requesting a price higher or
+lower than that currently available . applications at 3 . while
+applicants do not define " limit order , " the common understanding
+is that , unlike a market order , which instructs a broker to
+transact immediately at whatever price is currently available in
+the marketplace , a limit order instructs a broker to fill the
+order only if certain conditions are met . generally , a limit
+order may be either a day order , in which case it expires when
+the market closes if unfilled , or good - until - canceled , in which
+case the limit order lasts until executed or canceled .
+docket nos . erol - 2097 - 000 - 4 -
+and erol - 2103 - 000
+the posted price ( a price that is offered to all market
+participants ) and there will be no transactions in which epmi
+knows that pge is the counter - party before the transaction is
+finalized . thus , applicants contend that not only will pge be
+unable to negotiate special terms with epmi through enrononline ,
+but epmi will have no discretion to take actions which favor pge .
+applicants further offer that procedures are performed by
+computer and are not left to the discretion of any affiliate of
+pge . in addition , because the enrononline price is posted
+electronically and is available to all market participants ,
+applicants state that pge ' s customers have the opportunity to
+transact with epmi on enrononline on the same terms and
+conditions that are available to pge .
+applicants have failed to demonstrate that their proposed
+restrictions provide the same protections afforded under the
+commission ' s affiliate abuse requirements and conditions ( e . g . ,
+protection against pge buying too high or selling too low in its
+8
+transactions with its affiliate epmi ) . the thrust of
+applicants ' argument is that the commission ' s affiliate abuse
+concerns are satisfied by using enrononline , a public medium , for
+selling power between affiliates . we disagree . while perhaps
+faster and easier to use than phone calls , faxes , or letters , an
+internet - based platform is just another medium for trade , and
+speed and ease of use do not dictate that the commission ' s
+affiliate abuse concerns have been satisfied . there is , for
+example , no assurance that the posted prices on enrononline
+9
+represent prevailing market prices .
+applicants contend that , since pge can transact with epmi
+via enrononline only at the posted price , there can be no
+affiliate abuse . we are not certain , however , that the posted
+price necessarily represents the market price . while , on the
+surface , enron online may bear some resemblance to an index or an
+auction , the posted prices for any product may not be the result
+of a competitive market of multiple buyers and sellers ; in fact ,
+for sales the posted prices represent what epmi is willing to
+sell at , and for purchases the posted prices represent what epmi
+10
+is willing to buy at . for other transactions through media
+other than enrononline , including other exchanges , epmi might be
+8
+see supra notes 4 - 5 and accompanying text ( citing cases
+that discuss commission ' s underlying concerns with affiliate
+power sales ) .
+9
+see supra note 4 and accompanying text .
+10
+all transaction on enrononline involve epmi as a
+participant . for sales , epmi is the seller . for purchases , epmi
+is the buyer .
+docket nos . erol - 2097 - 000 - 5 -
+and erol - 2103 - 000
+11
+willing to sell at lower prices and buy at higher prices .
+moreover , applicants provide no information about how product
+prices posted by epmi are determined , or whether there would be
+any restrictions on what products pge could trade via
+enrononline , or even whether there are other similar , but non -
+affiliated , internet - based venues where pge can electronically
+trade those products to attain similar benefits .
+having failed to convince us that these affiliates will be
+transacting at a prevailing market price via enrononline , we now
+turn to whether the applicants have met other conditions
+established by the commission to prevent affiliate abuse .
+regarding transactions in which epmi may be purchasing from pge
+through enrononline , there is nothing in the applicants ' proposed
+restrictions that would require pge to
+simultaneously offer to sell to non - affiliates at the same rate
+offered to the affiliate . the commission requires that , with
+respect to any power offered to its affiliate , pge make the same
+offer to unaffiliated entities at the same time through its
+electronic bulletin board . but it is unclear whether pge can or
+will make the same offer to non - affiliates .
+applicants also offer as a protection that pge is prohibited
+from submitting limit orders , which would prevent epmi from
+knowing that pge is the counter - party to a transaction . again ,
+this would not prevent epmi from selling power to pge at above -
+market prices .
+the commission is not assured by the applicants ' proposal
+that transactions between pge and epmi conducted via enrononline
+will occur in a manner that is consistent with the commission ' s
+expectations regarding transparent and reasonable prices for
+inter - affiliate power sales transactions . there is , for example ,
+no provision in the proposed amendments regarding how
+unaffiliated customers , or other interested parties , would
+monitor inter - affiliate transactions .
+for the above reasons , we will reject the proposed
+amendments , without prejudice to applicants revising their
+proposal to address the commission ' s concerns and incorporating
+appropriate restrictions to protect against affiliate abuse .
+11
+likewise , pge might be willing to buy at lower prices and
+sell at higher prices .
+docket nos . erol - 2097 - 000 - 6 -
+and erol - 2103 - 000
+the commission orders :
+applicants ' proposed tariff amendments are hereby rejected ,
+without prejudice , as discussed in the body of this order .
+by the commission .
+( s e a l )
+david p . boergers ,
+secretary .
+- 2097 _ txt . txt

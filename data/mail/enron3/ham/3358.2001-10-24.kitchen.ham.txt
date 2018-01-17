@@ -1,0 +1,26 @@
+Subject: enron plans to oppose dynegy in ferc power issue
+a heads up for you gas folks that enron will be on comed ' s side against dynegy on this power issue at
+ferc , since ees designates firm ld contracts as sources on comed ' s network transmission system ( dynegy wants comed to only allow " capacity " contracts to be used ) . we plan to file the enron response on friday .
+- - - - - original message - - - - -
+from : nicolay , christi l .
+sent : wednesday , october 24 , 2001 8 : 58 am
+to : lindberg , susan ; herndon , rogers ; misra , narsimha ; sharfman , guy ; sager , elizabeth ; murphy , harlan ; steffes , james d . ; migden , janine ; forster , david ; baughman jr . , don ; stroup , kerry ; roan , michael ; kingerski , harry ; shapiro , richard ; novosel , sarah ; fulton , donna ; presto , kevin m . ; sturm , fletcher j .
+subject : dynegy v . comed update
+susan and i will circulate a draft response against dynegy ' s position later today . comed plans to file a lengthy answer disputing dynegy stating that there are no transmission problems due to the use of the firm ld resources and that ferc precedent does not support a capacity payment requirement .
+enron will respond similarly and include an argument that dynegy is actually trying to create an " icap / capacity " requirement where there is none ( dynegy ' s pleading states " comed ' s failure to enforce the network designation provisions of its oatt also deprives dynegy of capacity payments to which it is entitled . ) we will also include statements that the continuation of the network v . ptp transmission tariffs perpetuates these types of issues and the market / tariff design that we advocate should be approved to stop these problems .
+- - - - - original message - - - - -
+from : lindberg , susan
+sent : saturday , october 20 , 2001 5 : 20 pm
+to : nicolay , christi l . ; herndon , rogers ; misra , narsimha ; sharfman , guy ; sager , elizabeth ; murphy , harlan ; steffes , james d . ; migden , janine ; forster , david ; baughman jr . , don ; stroup , kerry ; roan , michael ; kingerski , harry
+subject : dynegy vs . comed ( elo 2 - 6 ) - - further info
+as i mentioned in my previous e - mail , on october 17 dynegy filed a complaint against comed . this proceeding may be of particular interest to enron given ees ' s plans to offer physical delivery in illinois in early 2002 . i ' ve outlined dynegy ' s principal arguments below . dynegy requested fast - track processing , so any intervention and comments we file are due friday , oct . 26 . in order to file a timely intervention ( and meaningful comments , if we decide to comment ) , i need to know your thoughts on this as soon as possible . elizabeth and harlan , i ' m copying you because i would especially like to know what you think of dynegy ' s characterization of the firm ld product .
+main argument :
+dynegy challenges comed ' s published business practice that allows " marketer firm " ( firm ld ) contracts to be designated as network resources . dynegy argues that this practice conflicts with the oatt provisions that 1 ) network resources are generation " owned , purchased or leased by the network customer designated to serve network load , " and 2 ) a network customer " must demonstrate that it owns or has committed to purchase generation pursuant to an executed contract " in order to designate a network resource .
+dynegy ' s theory on why firm ld should not be a network resource :
+- permits designation of network resources that are committed for sale to others , creating reliability problems
+- firm ld under the eei contract is not capacity - backed , nor is it a commitment to purchase generation
+- allows transmission customers to get the advantage of generation capacity without actually paying the cost of that capacity
+- since retail providers are allowed to rely on " over - the - counter " firm instead of securing long - term contracts , adequate reserves are not being carried to serve retail load
+dynegy claims that comed ' s practice has deprived dmg of payments for capacity and the ability to earn revenues for capacity properly designated as network resources . it cites specific instances in which comed has accepted transmission reservation requests from new energy and cilco in which these parties designated illinois power as a network resource , when only a firm ld contracts were in place with ip .
+susan lindberg
+713 . 853 . 0596

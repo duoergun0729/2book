@@ -1,0 +1,191 @@
+Subject: gt symposium on qcf , april 7
+please share the following announcement with your associates .
+georgia institute of technology symposium on
+quantitative and computational finance
+friday , april 7 th , 2000
+auditorium of marc bldg . on the georgia tech campus
+sponsored by
+the dupree college of management ,
+the college of engineering school of industrial and systems engineering ,
+and the college of sciences school of mathematics .
+program :
+12 : 30 - 12 : 40 welcome
+michael thomas , provost of georgia tech
+12 : 40 - 12 : 45 introduction of the first speaker
+12 : 45 - 1 : 30 walter j . muller iii , bank of america
+" interest rate models for pricing fixed income
+securities "
+1 : 30 - 1 : 40 q & a and introduction of the second speaker
+1 : 40 - 2 : 25 steven l . allen , chase manhattan bank
+" management of market risk - - what can we learn
+from the experiences of 1997 and 1998 ? "
+2 : 25 - 2 : 45 break
+2 : 45 - 2 : 50 introduction of the third speaker
+2 : 50 - 3 : 35 billy thornton , invesco capital management
+" optimal portfolio construction and risk control "
+3 : 35 - 3 : 45 q & a and introduction of the fourth speaker
+3 : 45 - 4 : 30 ron dembo , algorithmics , inc .
+" measuring the risk of a large financial institution "
+4 : 30 - 4 : 40 q & a and introduction of the fifth speaker
+4 : 40 - 5 : 25 alexander eydeland , southern company energy marketing l . p .
+" energy derivatives "
+5 : 25 - 5 : 40 closing / extra time
+5 : 45 - 6 : 30 reception
+short biographies of the speakers are given below .
+registration :
+there is no charge for attendance at the symposium .
+however , space is limited , so we do encourage you to
+let us know that you will be attending . please send the
+following information before wednesday , april 5 , 2000 .
+conference : " qcf "
+first name :
+last name :
+company / institution :
+department :
+address :
+city :
+state / province :
+zip / postal code :
+phone :
+fax :
+email :
+to
+robert kertz
+e - mail : kertz @ math . gatech . edu
+fax : 404 - 894 - 4409
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+lodging :
+you can make your own hotel arrangements with one of the many hotels in
+town . some hotels close by tech ' s campus are :
+holiday inn express ( 404 - 881 - 0881 ) ,
+days inn , 683 peachtree street ( 404 - 874 - 9200 ) ,
+renaissance hotel , w . peachtree street ( 404 - 881 - 6000 ) ,
+marriott courtyard , 1132 techwood drive ( 404 - 607 - 1112 ) , and
+regency suites , 975 west peachtree street ( 404 - 876 - 5003 ) .
+in all cases , ask about the georgia tech rate .
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+location :
+the conference will be held in the first floor auditorium of the
+manufacturing research center ( marc bldg . ) , 813 ferst drive ,
+on the georgia tech campus in atlanta , georgia .
+map :
+a map of campus can be found on the web at http : / / gtalumni . org . the
+conference is in the manufacturing research center ( # 126 on the map ) ,
+which is the rectangular building directly north of the groseclose
+building ( # 56 on the map ) and the instructional center ( # 55 on the map ) .
+directions :
+( additonal directions can be found at the website
+associated with the marc building )
+by marta : take the north - south marta train ( $ 1 . 50 ) to the north avenue
+exit . the station is on the northeast corner of west peachtree and north
+avenue . walk west along north avenue past the varsity and over the
+expressway . after the football stadium , take the steps up and enter the
+campus . walk diagonally across the campus and ask some students where to
+find the manufacturing research center .
+by car , if you are entering atlanta from i - 20 or while traveling north on
+i - 75 or i - 85 :
+i - 75 and i - 85 merge in atlanta to form i - 75 / 85 . ( if you are on i - 20 , go
+north on i - 75 / 85 in the center of atlanta . ) exit the expressway at exit
+100 which is the spring street and west peachtree street exit . turn left
+at the second light onto west peachtree street . turn left at the first
+light onto north avenue . travel west on north avenue and follow the signs
+to the " center for the arts " . these signs will ask you to turn right onto
+tech parkway which is the second traffic light along the gt campus , then
+turn right at the first light , and then you are forced to turn either
+right or left onto ferst drive . now go to the parking directions section
+below .
+by car , if you are entering atlanta while traveling south on i - 75 or
+i - 85 :
+i - 75 and i - 85 merge in atlanta to form i - 75 / 85 . exit the expressway at
+exit 100 which is the north avenue exit . turn right at the top of the
+ramp onto north avenue . travel west on north avenue and follow the signs to
+the " center for the arts . " these signs will ask you to turn right onto tech
+parkway which is the second traffic light along the gt campus , then turn
+right at the first light , and then you are forced to turn either right or
+left onto ferst drive . now go to the parking directions section below .
+parking directions :
+turn right onto ferst street , then turn left into the student center
+driveway which is the second driveway on your left . there is a fee of $ 4 .
+walk north past the instructional center to the manufacturing research
+center .
+for further information , please contact
+professor robert kertz
+by email at kertz @ math . gatech , edu ,
+by fax at 404 - 894 - 4409 ,
+by phone at 404 - 894 - 4311 or
+by regular mail at
+professor robert kertz
+school of mathematics
+georgia institute of technology
+atlanta , ga 30332 - 0160 .
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+biographies of speakers
+steven l . allen
+managing director , market risk management for derivatives
+chase manhattan bank , new york
+steve allen is a managing director in the market risk management group of
+the chase manhattan bank , heading the derivatives product team . he began
+his career in 1967 with chase , where his assignments included deputy director
+of management science and manager of modeling and systems for the asset -
+liability committee . from 1981 through 1991 , he was director of research for
+chase ' s trading activities , in charge of the development of models and
+analytics . his risk management career began in 1991 with the north american
+division of union bank of switzerland , where he was market risk manager for
+fixed income products . he took his current position in 1995 with chemical
+bank , rejoining chase by benefit of merger .
+steve studied mathematics as an undergraduate at columbia college and as a
+graduate student at new york university ' s courant institute . he currently
+teaches risk management in the masters program in mathematics in finance at
+courant . he is co - author of " valuing fixed income investments and derivative
+securities " .
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ron s . dembo
+president and chief executive officer
+algorithmics , inc .
+toronto
+ron dembo is president and chief executive officer of algorithmics , inc . ,
+a leading provider of innovative enterprise - wide financial risk management
+software , which he founded in 1989 . before founding algorithmics ,
+he created and managed a group at goldman sachs responsible for
+fixed income optimization modeling . prior to that , he held several
+positions in academia . from 1976 to 1986 , he served as an assistant and
+associate professor of operations research in computer science at
+yale university , and as a visiting professor for operations research at
+the massachusetts institute of technology .
+dr . dembo obtained a ph . d . in operations research from the university of
+waterloo , ontario ( 1975 ) . he has written and published over 50 technical
+papers on finance and mathematical optimization and holds two patents
+for portfolio replication . his latest book on risk , " seeing tomorrow :
+weighing financial risk in everyday life , which he co - authored with
+andrew freeman , was published in may 1998 by wiley in the u . s . in october
+of 1998 , dr . dembo was honored with ernst model review ; and
+price verification .
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+billy thornton
+director of quantitative research
+invesco capital management
+1360 peachtree street
+atlanta , ga 30309
+billy thornton is a partner at invesco and director in the
+quantitative research group .
+billy began his career in 1979 as a management consultant at
+andersen consulting , before joining bellsouth as a regulatory
+economic analyst in 1981 . billy next moved into academia as a
+finance professor teaching corporate finance for the undergraduate ,
+graduate and executive programs at goizueta school of business ,
+emory university . while a professor at emory , he spent a year as
+a visiting scholar at the federal reserve bank of atlanta researching
+special projects . continuing to teach corporate finance , billy joined
+clark atlanta university in 1995 . during this time , he also worked as
+a consultant with watson wyatt worldwide performing asset allocation
+consulting , and executive education and training .
+billy joined invesco in 1998 to head invesco ' s department of quantitative
+research . his team of analysts performs statistical modeling , researches
+investment strategies , and sets risk management controls .
+billy earned a b . s . in mathematics from clark atlanta university in 1977
+and an m . s . in statistics from carnegie - mellon university in 1979 . he
+graduated from harvard university , earning a ph . d in financial economics
+in 1989 jointly from the harvard business school and harvard department
+of economics , and also receiving his m . s . in business economics in 1987 .
+billy was a member of both leadership atlanta , class of 1994 , and
+leadership georgia , class of 1996 .

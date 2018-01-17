@@ -1,0 +1,45 @@
+Subject: hedge effectiveness test for fair value hedges
+gentlemen :
+we have had favorable responses regarding the use of our volatility
+reduction method ( roger , i ' ve attached a copy of our article in case you
+hadn ' t seen it ) . however , there continued to be a quibble about how to
+create the set of data points that would be inputs into the testing process .
+last week the consulting arm of a " big five " accounting firm indicated that
+the following method proposed by us would be acceptable . we believe this
+method overcomes the statistical problems that arise from using interest
+rate differences from overlapping ( " rolling " ) quarters .
+method :
+1 ) calculate daily yield curve changes expressed as ratios , using historical
+rates from the most recent , say , two years . ( note : no overlap ) . this
+results in a set of around 494 vectors of ratios ( approximately 247 trading
+days per
+year ) .
+example :
+if the first three yield curves in the historical set look like this :
+19980801 6 . 5 6 . 6 6 . 7 . . . . . . . . . 7 . 2
+19980802 6 . 3 6 . 3 6 . 6 . . . . . . . . . 6 . 9
+19980803 6 . 6 6 . 8 6 . 9 . . . . . . . . . 7 . 1
+then the change from 8 / 1 / 98 to 8 / 2 / 98 is :
+6 . 3 / 6 . 5 6 . 3 / 6 . 6 6 . 6 / 6 . 7 . . . . . . . . . . 6 . 9 / 7 . 1
+and the change from 8 / 2 / 98 to 8 / 3 / 98 is :
+6 . 6 / 6 . 3 6 . 8 / 6 . 3 6 . 9 / 6 . 6 . . . . . . . . . 7 . 1 / 6 . 9
+2 ) randomly select 62 of these " ratio " vectors ( approx . 62 trading days in a
+quarter ) .
+3 ) multiply these ratio vectors together to get a single vector ( ie , the 62
+6 mo ratios are multiplied together , the 62 lyr ratios are multiplied
+togeter , etc . ) . the result represents a single quarterly yield curve
+transformation . apply it to " today ' s " yield curve . the resulting yield
+curve represents one simulated quarterly change in interest rates
+4 ) repeat steps 2 and 3 until an adequate number of yield curves are
+generated , say 100 .
+5 ) proceed with testing process .
+i would be interested in your comments .
+leslie abreo
+andrew kalotay associates , inc .
+61 broadway , ste 3025
+new york ny 10006
+phone : ( 212 ) 482 0900
+fax : ( 212 ) 482 0529
+email : leslie . abreo @ kalotay . com
+visit aka ' s website at http : / / www . kalotay . com
+- fasl 33 article . pdf

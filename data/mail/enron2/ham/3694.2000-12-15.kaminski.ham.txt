@@ -1,0 +1,17 @@
+Subject: wti trading simulation presentation
+john ,
+i prepared the presentation in the way we discussed on wednesday .
+in summary i have included the following scenarios :
+tenor : 1 , 3 , 5 years back from nov , 2000
+1 , 3 , 5 years back from nov , 1998
+1 , 3 , 5 years back from nov . 1995
+number of trade per day : 200 , 600 , 1000
+bid - offer spread : $ 0 . 04 and $ 0 . 06
+net open position allowed : 1 , 000 , 000 and 5 , 000 , 000
+volume per trade is fixed at 1 , 000 bbl .
+all together , there are 9 * 12 = 108 scenarios included in the presentation .
+i will be on vocation starting next week . but i will check my e - mail and
+phone
+messages to make modifications you need .
+happy holidays ,
+zimin

@@ -1,0 +1,39 @@
+Subject: re : perry gas - sap override issue
+sally ,
+are you aware of the problems with sap ? this error caused an incremental
+$ 600 , 000 credit loss to perry gas companies that could have been prevented .
+let me know if you have any questions .
+bill
+- - - - - - - - - - - - - - - - - - - - - - forwarded by william s bradford / hou / ect on 09 / 22 / 2000
+04 : 02 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : russell diamond
+09 / 22 / 2000 03 : 01 pm
+to : william s bradford / hou / ect @ ect , debbie r brackett / hou / ect @ ect
+cc :
+subject : re : perry gas - sap override issue
+fyi -
+- - - - - - - - - - - - - - - - - - - - - - forwarded by russell diamond / hou / ect on 09 / 22 / 2000
+03 : 01 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : bryce baxter 09 / 22 / 2000 02 : 47 pm
+to : russell diamond / hou / ect @ ect
+cc :
+subject : re : perry gas - sap override issue
+russell - as i remember , willie finaled the supply verification and it was
+interfaced to sap . this is fine , and then willie was going to net the a / p
+and a / r . sap went down after the statement was interfaced , but before willie
+was able to block or net the payment . when sap came back up the next day ,
+the payment had already gone out and we were unable to recall the wire . if
+you have any further questions about this , call me . thanks .
+from : russell diamond
+09 / 22 / 2000 01 : 46 pm
+to : willie stewart / hou / ect @ ect
+cc : audrey cook / hou / ect @ ect , bryce baxter / hou / ect @ ect
+subject : perry gas - sap override issue
+willie ,
+per our earlier conversation , can you or audrey or bryce , please give further
+explain to me as to why the funds were wired to perry gas for purchases from
+the counterparty instead on netting the amounts between purchases and sales .
+you mentioned to me the process of overriding the counterparty ' s that net on
+sap , although because of timing , the override did not take place .
+thank you ,
+russell

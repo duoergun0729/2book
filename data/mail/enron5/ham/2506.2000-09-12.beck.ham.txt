@@ -1,0 +1,39 @@
+Subject: trade warehouse mtg - purpose
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary solmonson / hou / ect on 09 / 12 / 2000
+08 : 47 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vanessa schulte @ enron
+09 / 11 / 2000 02 : 52 pm
+to : nicki daw / na / enron @ enron
+cc : joel henenberg / na / enron @ enron , mary solmonson / hou / ect @ ect , scott
+williamson / hou / ect @ ect , cindy wisemiller / hou / ect @ ect
+subject : trade warehouse mtg - purpose
+hi nicki ,
+thanks for setting up the meeting next wednesday ( 9 / 20 ) at 2 : 30 with m .
+frevert , d . delainey , j . shankman , and j . lavorato . here is a brief overview
+of the meeting objective :
+purpose
+to gain support and approval for a data warehouse vision containing
+consolidated trade information with centralized access .
+background
+the definition of a data warehouse is a place to consolidate information
+originating from multiple transaction processing systems and platforms into a
+common database repository . the idea of an enron  & trade warehouse  8
+originated from members of the london office and has been expanded to include
+the houston systems . the need for a trade warehouse stems from the
+requirement of multiple departments needing to access consolidated deal
+information for analytical reporting and down - stream processing . currently ,
+deal information is held in separate trading systems both within product
+process flows from mid to back office , and across product lines . the
+information is also stored across multiple system platforms and is not easily
+accessible or consistently presented across the various trading products
+within enron . given this current architecture , it is very difficult and
+costly to access timely , quality - assured , and consolidated cross - product deal
+information for analytical reporting and down - stream processing .
+proposal
+houston will use the warehouse as the data source for entelligence and
+numerous analytical reporting application systems . these analytical
+reporting application systems can include , but are not limited to ,
+operational pricing module ( opm ) , enrononline , and daily position report
+( dpr ) . once the warehouse is in place , it may be used as the source for
+additional downstream systems as well as investor relations reporting .

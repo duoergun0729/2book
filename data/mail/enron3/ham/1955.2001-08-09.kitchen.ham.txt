@@ -1,0 +1,8 @@
+Subject: enrononline outage , august 9 , 2001
+enrononline started to see message delivery slow down drastically at 8 : 40 am . at 8 : 50 updates were so slow that all products were suspended from trading . at 8 : 56 we brought the site offline to insure that trading would not continue , as our traders could not manage their products .
+at 9 : 10 we were able to isolate the issue to a single disk , in a brick of storage , that was responding extremely slowly , but not failing over like it should . we removed the storage from the configuration and brought the database back online . once we verified the database was healthy we brought eol back online at approximately 9 : 28 am . at this point all our users , both internal and external , started logging back in .
+the issue was caused by a bug in the firmware on the disk . the vendor of the disk has already provided us with a patch for this bug . we will be applying this patch to all of our storage , one brick at a time starting this evening .
+we had to take eol offline for a second time at 11 : 17 am due to a failure on another brick of storage . this failure was caused while we were verifying the root cause of the issue we experienced earlier . we brought the site back online at 11 : 56 . during this outage we verified that there was no corruption or loss of data , due to either of the outages .
+regards ,
+bob hillier
+e - commerce operations

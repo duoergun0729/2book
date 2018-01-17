@@ -1,0 +1,32 @@
+Subject: mg metals var preliminary modella - subject to minor
+updating / correcting
+dear all ,
+i am leaving the office now , and sending you the preliminary model la for mg
+metals var that tanya , cantekin , kirstee have put together . we are now in a
+position to look at the var by metal for positions as of 19 th july 2000 ,
+subject to some data that needs updating / correcting ; we still need to update
+some information / data flow processes as follows : -
+i ) factor loadings for silver , gold , cocoa beans and tc ( treatment charge for
+copper concentrate )
+ii ) check correlations between nickel and alu and nickel and copper ( i got
+different answers to houston )
+iii ) ensure latest forward price curves are included ( perhaps through live
+link to telerate / reuters )
+iiia ) price for silver is wrong ( units should be $ per troy ounce ) , and
+similarly for gold ( price should be $ per troy ounce ) , also we need cocoa
+bean forward curve
+iv ) find a better way to extract positional information from mg metals / link
+to the spreadsheet in an automated fashion
+v ) add " minor " metals like cobalt , palladium , platinum , cadmium etc . ( n . b . we
+have 1 , 093 troy ounces of palladium short posn and 3 , 472 troy ounces platinum
+long as of 19 th july )
+please feel free to add to this list if i have missed anything ; i believe
+that we have most of the bases covered in respect of issues to resolve ahead
+of the deadline of 7 th august and fully expect that we will deliver .
+regards ,
+anjam ahmad
+x 35383
+spreadsheet :
+p . s . the dll the spreadsheet requires is in
+o : \ research \ common \ from _ vsh \ value @ risk \ ccode \ debug \ varcsnl . dll - > most of you
+have access to this .

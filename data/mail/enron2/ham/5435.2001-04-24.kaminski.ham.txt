@@ -1,0 +1,70 @@
+Subject: re : fw : enron credit model docs for the comparative model study -
+to be sent to professor duffie @ stanford
+iris ,
+we can mention to ben that the papers will be edited and
+combined into a coherent review .
+vince
+from : iris mack / enron @ enronxgate on 04 / 23 / 2001 01 : 49 pm
+to : vasant shanbhogue / enron @ enronxgate , vince j kaminski / hou / ect @ ect , amitava dhar / corp / enron @ enron
+cc :
+subject : fw : enron credit model docs for the comparative model study - to be sent to professor duffie @ stanford
+hi ,
+attached is a bit of feedback from ben regarding the papers listed below .
+can you help me out here ?
+thanks ,
+iris
+- - - - - original message - - - - -
+from : parsons , ben
+sent : monday , april 23 , 2001 3 : 05 am
+to : mack , iris
+subject : re : enron credit model docs for the comparative model study - to be sent to professor duffie @ stanford
+hi iris
+i would not include paper 8 , as paper 7 supersedes it . also how much rewriting of these papers do you envisage ? some of them are not up - to - date , or were written poorly and under time - pressure , so what do you envisage eventually sending to duffie ?
+thanks
+ben
+from : iris mack / enron @ enronxgate on 21 / 04 / 2001 22 : 30 cdt
+to : ben parsons / lon / ect @ ect
+cc : vasant shanbhogue @ / o = enron / ou = na / cn = recipients / cn = notesaddr / cn = e 6795104 - 40 ff 9820 - 86256525 - 68 daao @ ex @ enronxgate , vince j kaminski / hou / ect @ ect , scott salmon / eu / enron @ enron , bryan seyfried / lon / ect @ ect , nigel price / lon / ect @ ect , tomas valnek / lon / ect @ ect , george albanis / lon / ect @ ect , markus fiala / lon / ect @ ect , craig chaney / enron @ enronxgate , kim detiveaux / enron @ enronxgate , amitava dhar / corp / enron @ enron , tanya tamarchenko / hou / ect @ ect , mike mumford / lon / ect @ ect
+subject : re : enron credit model docs for the comparative model study - to be sent to professor duffie @ stanford
+hi ben ,
+i think i have read all the papers that are to be used in the comparative model study to be sent to professor duffie at stanford .
+these documents are all listed below . please let me know if i have omitted any ( however , don ' t get the impression that i am begging for more papers to read ) .
+now i will try to transform my notes into a draft for professor duffie .
+thanks ,
+iris
+list of papers for comparative model study
+1 . actively managing corporate credit risk : new methodologies and instruments for non - financial firms
+by r . buy , v . kaminski , k . pinnamaneni & v . shanbhogue
+chapter in a risk book entitled credit derivatives : application for risk management , investment and portfolio optimisation
+2 . neural network placement model
+by george albanis , enroncredit ( 12 / 22 / 00 )
+3 . pricing parent companies and their subsidiaries : model description and data requirements
+by ben parsons and tomas valnek , research group
+4 . a survey of contingent - claims approaches to risky debt valuation
+by j . bohn
+www . kmv . com / products / privatefirm . html
+5 . the kmv edf credit measure and probabilities of default
+by m . sellers , o . vasicek & a . levinson
+www . kmv . com / products / privatefirm . html
+6 . riskcalc for private companies : moody ' s default model
+moody ' s investor service : global credit research
+7 . discussion document : asset swap model
+by ben parsons , research group ( 4 / 20 / 01 )
+8 . asset swap calculator : detailed functional implementation specification ( version 1 . 0 )
+by ben parsons , research group
+9 . discussion document : live libor bootstrapping model
+by ben parsons , research group ( 4 / 20 / 01 )
+10 . the modelling behind the fair market curves : including country and industry offsets
+by nigel m . price , enron credit trading group
+11 . pricing portfolios of default swaps : synthetic cbos - moody ' s versus the full monte ( carlo )
+by nigel m . price , enron credit trading group
+12 . placement model vl . 0 : discussion document
+by ben parsons , research group , 2000
+13 . credit pricing methodology - enroncredit . com
+by ben parsons , research group
+14 . correlation : critical measure for calculating profit and loss on synthetic credit portfolios
+by katherine siig , enron credit group
+15 . discussion document : var model for enron credit
+by ben parsons , research group , ( 1 / 3 / 01 )
+16 . methodology to implement approximate var model for the credit trading portfolio
+by kirstee hewitt , research group

@@ -1,0 +1,13 @@
+Subject: re : logon
+louise -
+what i ' m proposing is that when someone visiting the enrononline site clicks on a link to a market page ( i . e . , us natural gas ) , a new browser window will open taking them to www . enron . com / wholesale / ( whatevercommodity ) . the enrononline page from which they came will also remain open .
+the markets pages migrated to enron . com will include a prominent link back to the enrononline homepage ( we ' ll work with b . rigney here ) , but jay feels we should not allow a login to enrononline from the enron . com pages as that may send users ' scary ' security alerts , depending on the security settings of their browsers .
+regards ,
+erica
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : tuesday , october 16 , 2001 3 : 12 pm
+to : bess , erica
+cc : webb , jay
+subject : logon
+i don ' t just mean the logon i mean the domaine name too , once you are in enrononline you need to stay on www . enrononline . com / xxxxxxxxxxxx .

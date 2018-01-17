@@ -1,0 +1,19 @@
+Subject: enrononline documents
+this email contains the old pa and eta versions . new versions are being drafted .
+louise ,
+as discussed , there are a few items for which we will need the approval of the new buyer as soon as possible , in order to ensure we are able to proceed with a relaunch of enrononline ( netcoonline ) without delay .
+two of the items for which we need approval as soon as possible are the password application ( pa ) and electronic trading agreement ( eta ) , which work together to provide electronic trading access to the products available on netcoonline .
+following is a brief description of the enrononline contractual framework and copies of the proposed eta and pa , which have been revised from the initial enrononline versions to reflect experience of the last two years .
+contracts structure
+there are three key documents that create the contractual environment for netcoonline : the ' password application ' ( pa ) , the ' electronic trading agreement ' ( eta ) and the commodity contracts in the form of ' general terms and conditions ' ( gtcs ) ( or , alternatively , a master agreement ) . the pa is the only document which needs a written signature from the customer . the other documents are accepted online .
+password application ( pa )
+the pa is a one - page document and is the only document that has to be physically signed by the counterparty ( as opposed to any of the other documents , which are accepted online by clicking acceptance ) . the pa is the document by which the customer agrees to be bound by the terms of the eta and the gtcs .
+the pa , signed by an authorized person in the counterparty company , and approved by netco , allows the customer to obtain a master user id . the master user will be able to set up all traders and administrative users within his / her company and administer their access to various products in netcoonline .
+we will send copies of the pa to likely customers of netcoonline before we launch the site . the document will also be available to be printed from the website after we launch . customers will specify their initial password in the pa and must change it in the first log - in session . upon receipt of signed pa , netco will under normal circumstances enable the master user passwords within 24 hours for pre - approved customers . for counterparties with whom we are not familiar , more time is needed to run credit , legal , contracts , regulatory and tax check .
+electronic trading agreement ( eta )
+the eta binds counterparties to completed transactions through netcoonline . when the counterparty accesses netcoonline for the first time , he / she will be prompted to read and accept the eta in order to proceed . the eta states that all trades done via netcoonline will be governed by the general terms and conditions ( gtcs ) posted online for a particular product , unless there is a master or any other agreement between netco and the counterparty in place .
+general terms and conditions ( gtc )
+when a customer offers to transact in a product type for the first time , he / she will be presented with the relevant gtc . the gtc ' s are similar to a streamlined master agreement , in that they provide the general contractual framework for multiple transactions in a given commodity . gtc ' s identify termination rights , provisions for security ( as appropriate ) , operational conventions ( nominations , etc . ) , payment periods , tax treatments , force majeure , penalties for non - performance , etc .
+customers must accept the terms of the relevant gtc online in order to proceed with a transaction , unless the company has a master agreement in place with netco . only one acceptance of gtc per product type per company is required . if there is a valid master agreement , then the system will not display the gtc , and the master agreement will apply .
+password application :
+electronic trading agreement :

@@ -1,0 +1,10 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 15 feb 2005 10 : 26 : 26 + 0100 ( met )
+from [ 127 . 0 . 0 . 1 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 550 5 . 0 . 0 . . . bestemmeling onbekend )
+- - - - - transcript of session follows - - - - -
+. . . while talking to mailhost 4 . vlaanderen . be . :
+> > > rcpt to :
+. . . bestemmeling onbekend
+550 5 . 1 . 1 . . . user unknown

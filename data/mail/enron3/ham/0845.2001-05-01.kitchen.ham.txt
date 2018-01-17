@@ -1,0 +1,14 @@
+Subject: gtv weekly status update
+please find below the gtv project status update for this week . please see the attached file for the project timeline update in microsoft project .
+gtv status meeting attendees : dave nommensen , karima husain , francis lim , jeremy wong , bill fortney , nayan dattani , russ severson , narasim kasaru , mike swaim , chuck ames , jay krish .
+accomplishments :
+? incorporating physcial deal positions in tds :
+o changes to cpr reader process waiting for user acceptance testing .
+plans for the week ending 5 / 4 / 01 :
+? continue it development of phase i items .
+? continue it development of phase 2 issues .
+issues / open items :
+? to be determined : whether " group of groups " on cash positions must be included in the rollout .
+? to be determined : whether cash total needs to be included in position manager rollout ( and how ) .
+? excluding the above 2 items , rollout to production is planned for mid - may .
+thanks , dave n .

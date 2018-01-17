@@ -1,0 +1,9 @@
+Subject: request submitted : access request for diana . andel @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000009797
+request create date : 12 / 11 / 00 9 : 39 : 04 am
+requested for : diana . andel @ enron . com
+resource name : eol canada backoffice bridge monitor
+resource type : applications

@@ -1,0 +1,58 @@
+Subject: thanks / mtg to discuss unify issues / plans moving forward
+sally ,
+thanks again for the positive feedback . members of your team were
+instrumental to the success - - specifically jeff sorensen , bob klein , becky
+ford and melissa white . i ' m talking with beth about the possibility that we
+might recognize key people on the team with some sort of ' project success '
+bonus .
+below , i ' ve attached an invitation to a meeting that we ' ve scheduled for
+wednesday . we will present plans for 5 immediate projects that we ' re
+proposing to address unify issues . let us know if you ' d like to attend . also ,
+please forward names of anyone that should attend that we ' ve missed .
+thanks .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jeff johnson / corp / enron on 06 / 15 / 2000
+05 : 16 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+alarm enabled : an alarm will occur on 06 / 21 / 2000 01 : 55 pm
+calendar entry
+brief description :
+date :
+time :
+unify system - - problems and proposed immediate projects
+06 / 21 / 2000
+02 : 00 pm - 04 : 00 pm
+detailed description :
+we would like to invite you to a facilitated meeting to discuss the unify
+system - - key issues as well as proposed solutions .
+we believe that we have an approach to immediately begin to address key
+performance issues in the unify system .
+to be successful with the proposed projects , we need your input , sponsorship
+and participation . angie lorio will find a location and will publish as soon
+as possible .
+the proposed agenda is as follows :
+i . unify - - current state , strengths , issues
+ii . conceptual overview of proposed solutions
+organization building
+performance monitoring team
+sybase 12 upgrade
+sql server testing
+middle tier rearchitecture project
+scoping for a re - write effort
+iii . solutions proposals / plans for immediate review / kickoff
+proposed scope
+assumptions
+high timelines / cost estimates
+staffing
+iv . facilitated discussion on unify
+future growth / changes required for unify
+new project prioritization
+invitations have been sent to : beth perlman / hou / ect @ ect , bryce
+baxter / hou / ect @ ect , brent a price / hou / ect @ ect , leslie reeves / hou / ect @ ect ,
+laura e scott / cal / ect @ ect , sheila glover / hou / ect @ ect , jefferson d
+sorenson / hou / ect @ ect , robert superty / hou / ect @ ect , brenda f herod / hou / ect @ ect ,
+kenneth m harmon / hou / ect @ ect , dave nommensen / hou / ect @ ect , regan m
+smith / hou / ect @ ect , laray . odum @ luminant . com , nadeem . abbasi @ luminant . com , scott
+williamson / hou / ect @ ect , paul f poellinger / hou / ect @ ect
+optional invitees : chris hanz / corp / enron @ enron , john simmons / na / enron @ enron ,
+angie lorio
+this meeting repeats starting on ( if the date occurs on a weekend the
+meeting ) .

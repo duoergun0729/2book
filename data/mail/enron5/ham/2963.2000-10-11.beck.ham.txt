@@ -1,0 +1,153 @@
+Subject: re : transparently controlling the wholesale trading businesses - an
+internal approach to internal audit
+dear mike ,
+thanks for your insight . in the past few months we have established a
+detailed approach to doorstep which includes interfacing with brm . through
+my calls the past week , i ' ve been trying to update you so we can determine
+how best to coordinate the enron europe work , as well as get an understanding
+of what resources you can supply for this global initiative .
+my next step is to contact some of the people on the list you gave me to
+determine their skill set and what locations / commodities they ' d be best to
+work on .
+i ' ll send you an updated schedule once i ' ve finalized this .
+thanks
+shona
+mike jordan @ ect
+10 / 11 / 2000 09 : 37 am
+to : shawn kilchrist / na / enron @ enron , shona wilson / na / enron @ enron
+cc : fernley dyson / lon / ect @ ect , sally beck / hou / ect @ ect
+subject : transparently controlling the wholesale trading businesses - an
+internal approach to internal audit
+shawn / shona
+we have talked round this issue for some time so i thought i would try to
+take a brief stab at documenting what my preferred approach is ( we will need
+to do a great deal of talking before we would circulate widely ) : -
+aims
+accountability for internal controls must rest with the commercial support
+teams and absolutely with the leaders of those teams .
+a culture of control and operational risk assessment requires extensive
+on - going communication and a structure of measurement and tracking .
+any independent process of review such as doorstep and brm should fully
+leverage the work engaged by staff in the line and indeed should be focused
+by it
+all elements of implementing , completing and reviewing internal control
+should generate defined output
+we focus independently the review efforts for trading controls and
+origination controls ( we have defined the control structure for trading
+offices , agency offices and origination offices and we must police our
+labelling for each office )
+the output from enron ' s perspective is appropriate risk issue lists to be
+discussed at control / governance meetings ( eg at sally / ted / fernley ' s level and
+at the audit committee level ) - the important issue here is that every list
+must be extracted from an agreed database of issues - different lists have
+different amounts of filtering applied - judgementally by senior / experienced
+staff
+the output from aa ' s perspective is their internal controls audit opinion
+based upon our database and our review and management process of it
+trading process - monthly
+routine judgemental self assessment on areas within the trading transaction
+cycle - rating made by business controller is red , amber , green - with trend
+indicator of static , improving or declining - see attachment 2 for full
+listing
+monthly metrics collected for key standards set for risk management - see
+attachment 1 ( you will notice that this is a summarised version of attachment
+2 - and as a senior controller i would expect the metrics to underpin but not
+solely drive the judgement within the self assessment ) - shona , this is the
+work that mike moscoso is leading
+periodic review meeting between controller and commercial lead to discuss
+operational risk and areas of concern ( red and amber ) with agreement of
+action plans for such areas
+monthly review by controller / senior controller of database where all high
+( red ) and medium ( amber ) risk issues are recorded . milestones for action
+plans revisited , reconfirmed or amended
+monthly meeting between remote office staff and controllers to identify if
+the risk rating for any remote offices has changed
+all new information on issues raised by self assessment , doorstep review or
+brm completion populated into database
+database utilised globally to report to various levels of governance and
+decision on whether original brm and doorstep plans require amendment
+process - yearly planning
+checkpoint taken of
+current operational environment ( say end oct )
+proposed new offices for coming year or proposed changes to activity in
+office , and
+it development plans for next year
+prioritisation made for doorstep - which offices require a visit and what
+depth does report need to go to . note the doorstep review would be an end to
+end review for entire business unit and therefore is the independent review
+of the existing self assessment and would leverage the work by focusing the
+review effort on areas of concern , the actions plans in place and concluding
+on the ' mitigation of operational risk to an acceptable level '
+prioritisation made for brm - which functions , not business units , require
+external independent review - highly leveraging the above self assessment and
+doorstep processes ( could aa signoff simply by auditing our own internal
+governance process ? ) - most likely reviews completed on functions that
+assessed as concerns across multiple business - such as fx exposure
+management , cash management , credit exposure management , it change management
+controls / process
+where are we now - if we all thought to do this immediately
+we do not have bottom up operational risk assessment for all businesses - i
+am suggesting that we demand that all business controllers at the houston
+offsite do this ? 23 rd oct
+the above would validate a high level operational risk summary that we as
+senior controllers could put together for the audit committee - last week oct
+we agree on a robust tracking process - throw out one of the brm and doorstep
+databases - november
+given aa have never historically risk rated their issues we should repopulate
+the database from scratch - november
+review doorstep plan to check that our risk rating for business units and
+remote offices means that we have resource focused correctly - do we need to
+visit all ? - november
+review all of the above and blend into risk based approach for brm planning -
+end november to end december ! !
+wow - lets chat about this
+mike
+attachment 1
+attachment 2 - the areas where a judgement should be proactively made by each
+business unit controller -
+business oversight
+system development project and change management
+people management - coaching and skills / headcount gaps
+model review
+stress testing and business risk identification
+operational capacity assessment signoff
+error management
+control cycle
+risk management control
+recognition of risk origination
+monitoring of trading activities - limit checking , trader mandates
+specific transaction analysis - dash , cacs etc
+transaction capture - deal form analysis and risk management system input
+logistics support - delivery position analysis , incoming and outgoing invoice
+maintenance , post deal execution contract management
+portfolio edits - required amendments to previously transacted risk / contracts
+market risk / position signoff - both transaction specific and portfolio
+management
+dpr production and signoff
+limit excession reporting
+market risk feeds to grms - review var applicability ( backtesting ? )
+credit risk review - liaison with rac over provisioning for credit charges
+price input checking and verification
+reserving and income recognition issues
+weekly executive summary
+monthly revenue summary
+documentation
+documentation generation
+re - review of contract loading in risk management system
+affirmation chasing
+broker information reconciliation
+trade accounting
+general ledger account ownership
+balance sheet to cpr reconciliation
+accounts receivable maintenance / monitoring
+accounts payable maintenance / monitoring
+monthly management accounts by profit centre / business segment
+inter company / inter entity reconciliation differences
+legal entity balance sheet analysis for fin ops
+settlements
+outgoing invoice generation
+incoming invoice reconciliation
+exchange statements reconciliation
+otc brokerage charges reconciliation and processing
+nostro reconciliations
+cash management liaison

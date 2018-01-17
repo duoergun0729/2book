@@ -1,0 +1,69 @@
+Subject: " henwood ' s rationalizing midwest power markets for the future "
+workshops
+henwood announces a major new release and functional realignment of its
+trading solutions software
+henwood energy services , inc . ( henwood ) recently announced a major new
+release of its trading and
+scheduling software , and the overall realignment of its energy trading and
+risk management functions into a
+new , strategic lineup of products . henwood  , s established etrm and
+webscheduler enerprise software
+products have been re - launched into physical trading ( webscheduler ) , trade
+capture and settlements
+( trademanager ) , and risk management functions ( riskreporter ) , with greatly
+expanded capabilities to
+more strategically meet the needs of the rapidly changing energy markets
+throughout north america . the
+release of the new webscheduler ( version 5 . 0 ) , combines a new henwood
+scheduling version with
+henwood  , s nerc tagging and iso communication functions to create a
+comprehensive physical
+management system .
+" the release of the version 5 webscheduler marks an exciting day , both for
+henwood and for energy
+companies responsible for managing financial and physical energy transactions
+across north america , "
+explained derek porter , vice president - software products . " our new product
+version release and overall
+product realignment clearly shows henwood  , s dedication to meet the trading
+needs of today and anticipate
+the challenges of tomorrow . "
+the new webscheduler is a comprehensive physical management product that
+allows energy organizations
+to manage physical trading issues from creation through delivery . the
+software enables traders , schedulers
+and other energy professionals to conduct their business of physical
+scheduling , iso coordination , and
+settlement in one seamless operation . some of the new features include :
+- real - time price and volume change log
+- standard ramp assignments
+- dynamic view and form configuration for commodity volume management
+- enhancements to scheduling view management
+- new commodity volume management system
+- show prices
+- on - peak / off - peak definition
+- running totals
+- enhanced back - to - back / bookout function
+- enhanced sub - hour function
+- schedule summary page with copy function
+- quicktrade capability
+- grid copy / paste and export functions
+henwood is offering training courses for the rollout of the physical trading
+application , scheduled
+throughout may in both sacramento and atlanta . dates are currently scheduled
+for may 2 - 3 , 2001 in
+atlanta , and may 23 - 24 , 2001 in sacramento . space is limited , so please sign
+up early .
+henwood offers integrated business solutions , strategic consulting , and
+innovative
+ebusiness applications to meet the challenges of the restructured energy
+markets throughout north
+america , australasia , and europe , serving clients that include eight of the
+ten top utilities in north
+america , in addition to energy services providers and power marketers . for
+more information about
+henwood  , s trading and risk management applications , please contact derek
+porter at 916 - 569 - 0985
+( email : dporter @ hesinet . com ) . additional information about henwood can be
+obtained by visiting
+www . hesinet . com .

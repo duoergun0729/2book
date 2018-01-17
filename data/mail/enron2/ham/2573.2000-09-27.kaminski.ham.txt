@@ -1,0 +1,28 @@
+Subject: update : ffvols
+ted ,
+an update on the implementation for ffvols :
+( 1 ) in comparing 6 days of historical var calculations
+( with that of the implied ) for agg - gas , we have found that the historical var
+calculations are consistently lower over this period , by roughly 17 mm . the
+implied volatilities are much higher at this period , anticipating strong
+winter prices .
+( 2 ) at this time , the consensus is not to relase the
+historical implementation into production , and the official line to traders
+will be that the method is still in testing . the historical var is 19 . 2 mm
+and the implied is 37 mm for effective date of 09 / 25 .
+( 3 ) further testing is in progress on a hybrid methodology
+( which i mentioned last week , whereby historical vols are scaled by the ratio
+of prompt to historical - prompt volatilities ) , to atleast capture some
+implied / forward effects . tanya ' s analysis on a fictitious portfolio
+indicates higher var numbers , but poorer backtesting in comparison to the
+historical approach . this approach serves as an intermediate , and seems
+appropriate in periods such as the current one , wherein the historical
+numbers might be considerably lower than those of the implied .
+( 4 ) winston will start testing using these hybrid vols , and
+if the results are deemed satisfactory , that will be the production
+methodology .
+of course , we will obtain all var numbers concurrently to serve as different
+indicators and beacons of risk . the production number will hopefully be a
+sensible compromise of the different methods .
+regards
+naveen

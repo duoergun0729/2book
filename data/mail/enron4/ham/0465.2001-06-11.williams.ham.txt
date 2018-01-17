@@ -1,0 +1,80 @@
+Subject: fw : possible new e - tag time table
+jerry dempsey has sent the attached regarding the preschedule flag in e - tag .
+what he is proposing is :
+* a revision to the timeline tables in a 3 a to enable software to make
+the determination of whether or not a tag is for preschedule or real - time
+( currently it is a flag set by the pse creating the tag ) .
+* referencing time in terms of the load control area ' s prevailing time
+( this fits the authority service is associated with the load control area
+and it ' s the authority service that keeps the time ) .
+it may be possible to get this revision worked in to the 1 . 7 release .
+process
+please review his proposal and comment .
+specifically , do you support the concept of removing the flag and using the
+timing table logic ?
+do you support adjusting times to reference the load control area prevailing
+time ?
+if we reach a consensus on this issue by the end of the week , we can forward
+on a recommendation to mark for distribution to the whole isas . if there is
+support from all of isas , then it can be taken to nerc is / tiswg for
+approval .
+please let me know by the end of business june 15 , 2001 .
+bob harshbarger
+425 . 882 . 4643
+> - - - - - - - - - -
+> from : jerry dempsey [ smtp : dempsey @ wapa . gov ]
+> sent : sunday , june 03 , 2001 10 : 42 am
+> to : bharsh @ puget . com
+> cc : mark . hackney @ aps . com
+> subject : possible new e - tag time table
+>
+> >
+> bob ,
+>
+> mark hackney suggested i start with you on this issue since you were
+> heading up the timing group for isas .
+>
+> here is the issue - under the current wscc timing table for tags in policy
+> 3 , it is impossible to program whether or not the tag is preschedule or
+> real - time . the nerc tagging group is the group that came up with manually
+> selecting the preschedule " flag " . i know that ppw , bpa and ourselves have
+> run into a couple of problems with this . it ' s been when the merchant has
+> selected that flag when it was actually a real - time transaction . ppw and
+> ourselves put it in our scheduling system , bpa ( and someone else ) did not .
+>
+>
+> at the nerc osc meeting last week , i asked the question again about how
+> can this be fixed in version 1 . 7 . i was hoping it was as easy as having
+> each authority register their timezone in the new master registry that ' s
+> being developed . well - it wasn ' t that easy . they explained the other
+> problems and i then developed the attached time table . the group reviewed
+> this time table and agreed that it could be automated to determine if a
+> tag was preschedule or realtime .
+>
+> in order to get this programmed into version 1 . 7 , we need to get policy 3
+> revised with the new time table . in order to get the new time table
+> approved , it probably starts with your subgroup , then probably goes to
+> hackney for an e - mail vote to isas , then probably on to wscc oc , then
+> finally to nerc . problem is we need to do this quickly , by the end of
+> june if possible , so that the new policy 3 will be out in time for 1 . 7
+> release in october .
+>
+> now - there ' s nothing that says this has to happen either . another option
+> is to just leave it as it is today . i ' d prefer to automate it , but that ' s
+> only my opinion .
+>
+> at any rate - the nerc osc has agreed to include timezone in the new nerc
+> master registry . they have also agreed to incorporate this change into
+> 1 . 7 if it ' s part of policy 3 . that ' s were we stand right now .
+>
+> as for your subgroup - i don ' t think i ' m on your list , but go ahead and
+> add me on if you don ' t mind .
+>
+> call or e - mail if you have any questions .
+>
+> thanks - jerry
+> dempsey @ wapa . gov
+> ( 970 ) 461 - 7299
+>
+>
+- tag time table draft june 01 . doc

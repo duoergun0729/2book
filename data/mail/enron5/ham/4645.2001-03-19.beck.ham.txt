@@ -1,0 +1,104 @@
+Subject: fw : cgi proposal update
+i have not spoken with steve abbnat as of yet - - i will wait to follow your
+lead on this one , unless he contacts me .
+greg is definitely sending out a clear message for us on this one ! !
+b
+- - - - - original message - - - - -
+from : piper , greg
+sent : monday , march 19 , 2001 8 : 35 am
+to : abbanat , stephen
+cc : shelby , rex ; jafry , rahil ; beck , sally ; apollo , beth
+subject : re : cgi proposal update
+you need to work for sally beck on this . she is responsible for this and is
+a managing director responsible for all mid and back office , outsourcing or
+otherwise . she must approve anything that goes out becuase it will effect
+her directly .
+phillipe is also very reluctant to " sell " any systems , especially if we have
+to support applications installed behind their firewall . we are probably
+fine with most asp models . you need to meet with sally as team on this asap .
+after meeting with sally , let me know what everyone agreed on . i am in all
+day .
+thanks .
+gp
+- - - - - original message - - - - -
+from : abbanat , stephen
+sent : friday , march 16 , 2001 4 : 35 pm
+to : shelby , rex ; piper , greg
+subject : re : cgi proposal update
+greg and rex ,
+thanks for the input . i will try to contact beth apollo .
+here are a few points i think will help .
+? i also read the partnering agreement carefully and sent the revised copy to
+travis mccullough this morning
+? at this time i believe our risk is quite low , as we are not officially part
+of the bid yet
+? i will work very hard to keep everyone informed
+the following points protect enron from significant risk :
+1 ) we were quite careful about what we sent to csg ( reviewed by beth ,
+david , rahul and myself )
+2 ) we did not quote any price for software or services
+3 ) the original rfp asked for a custom solution , which cgi is proposing . we
+do not participate in this work .
+4 ) the option to take a different approach ( e . g . leverage existing software
+from a partner ) is being proposed by csg as an alternative approach , but is
+not priced . the option would be explored during a " make versus buy " analysis
+within csg ' s methodology ( during the initial requirements and design phase ) .
+this gives us time to clarify our plans .
+i hope these points might mitigate any concerns over the rapid time frame of
+the proposal . as the proposal is due on monday , i am not sure if there is
+time to engage a large number of reviewers , but i will ask csg to copy rahul
+and hopefully he can get appropriate input .
+- steve
+- - - - - original message - - - - -
+from : shelby , rex
+sent : friday , march 16 , 2001 1 : 55 pm
+to : abbanat , stephen
+subject : fw : cgi proposal update
+- - - - - original message - - - - -
+from : piper , greg
+sent : friday , march 16 , 2001 1 : 54 pm
+to : shelby , rex
+subject : re : cgi proposal update
+who is the lawyer on this ?
+can i see a copy of our proposal ?
+sally beck will have to see this first thing monday morning and should be
+included on all e - mail traffic related to this .
+beth apollo should be in the middle of this as well beth perlman and rahil .
+gp
+- - - - - original message - - - - -
+from : shelby , rex
+sent : friday , march 16 , 2001 1 : 12 pm
+to : piper , greg
+cc : abbanat , stephen
+subject : fw : cgi proposal update
+greg - -
+fyi . steve abbanat has been working with beth and rahil to drive our
+participation in the cgi proposal . here ' s steve ' s most recent update :
+- - - - - original message - - - - -
+from : abbanat , stephen
+sent : friday , march 16 , 2001 1 : 06 pm
+to : jafry , rahil ; berberian , david ; palmer , mark s . ; perlman , beth
+cc : shelby , rex
+subject : cgi proposal update
+a brief update :
+i spoke with the proposal leads at cgi ( greg felton and company ) this
+morning , and all appears to be on schedule .
+? greg communicated our joint approach to the client and they are very
+interested
+? greg received enron ' s materials and they are more than sufficient for our
+current proposal needs
+? i received a draft of cgi ' s proposed teaming agreement . i made made edits
+according to my knowledge of enron ' s legal policies . i will forward the
+document to legal if cgi accepts the changes
+? greg will complete cgi ' s initial proposal and forward the draft to enron ,
+for review , this weekend and on monday
+? the proposal is due monday pm to cms
+? presentations to cms by potential vendors will occur on march 26 th - 28 th .
+we should think about who attends and at what point we might want to use our
+internal contacts to approach the client . for now we are waiting , based on
+cgi ' s advice .
+? since the client is in the requirements phase , we should think about how we
+might want to support that process , given our approach to delivering systems
+solutions
+thanks for everyone ' s support .
+steve

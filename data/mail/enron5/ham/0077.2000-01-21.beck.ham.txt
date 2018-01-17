@@ -1,0 +1,13 @@
+Subject: unify use of tibco in production
+sally ,
+as you know , we have been working to find new ways to improve unify logistics
+functions . a major step has now been achieved by installing tibco and moving
+it into production today .
+utilizing tibco in conjunction with our other enhancements will enable
+logistics to obtain real time updates from both eol and sitara without having
+to re - retrieve them from the database . this will automatically update
+scheduler screens with new deals as it comes without action on their part and
+also reduce required database access . this has been achieved through great
+team work between many groups including logistics schedulers , unify it
+logistics & ade , unix and network people . please let me know if you want
+to know more details . thank you .

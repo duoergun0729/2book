@@ -1,0 +1,157 @@
+Subject: re : caida ' metrics ' wg meeting , 2 mar 00 ( fwd )
+hi amy , jim irvine ( ebs head of network planning ) and i ( team lead , ebs
+research ) will attend the meeting . we will have our assistances ( christine
+blair & kristy carnes , respectively ) arrange the trip . we will plan to come
+in the night before and return on march 2 , 00 .
+also , either vince kaminski ( md and head of enron research ) or stinson gibner
+( vp , enron research ) may also attend . they will let me know shortly if they
+plan to attend .
+regards ,
+ravi .
+p . s . our company name has been changed to enron broadband services
+kristy , christine please make the appropriate travel arrangements . the place ,
+time , etc . are listed .
+amy @ sdsc . edu
+02 / 24 / 00 07 : 07 pm
+to : ravi thuraisingham / enron communications @ enron communications
+cc :
+subject : caida ' metrics ' wg meeting , 2 mar 00 ( fwd )
+hi ravi ,
+i wanted to follow up directly with you and see if you or anyone at enron
+had any interest in participating in the proposed caida " metrics " working
+group meeting ?
+please let me know .
+amy e . blanchard
+caida
+% % % % % % % % % % % % %
+e - mail : amy @ caida . org
+phone : ( 858 ) 534 - 8338
+fax : ( 858 ) 534 - 5117
+b . wg charters , meeting on 2 mar 00
+i believe that we should instead run a single caida working group
+on ' network metrics , ' rather than the two proposed earlier . my draft
+of its charter is appended below . it focuses on producing educational
+material about network measurement , and on developing new metrics - these
+were the two areas of greatest interest amongst the caida members .
+the wg co - chairs are
+sue moon ( sprintlabs ) and brett watson ( mfn / abovenet )
+you are invited to attend the first wg meeting .
+the agenda is as follows . .
+agenda for caida wg meeting on : thursday 2 mar 00
+- - - - - - - - - - - - - - - - -
+10 am - 4 pm , abovenet , downtown sjc ( see below for details )
+- - - - - - - - - - - - - - - - - - - - - - - -
+1 . review wg charter
+- is it reasonable as set out in the draft ?
+- what should be removed or added ?
+2 . work through revised charter in detail
+- identify the work required for each part
+- determine who ' s willing to work on it
+- attempt to determine delivery times
+3 . discussion of new metrics
+- first attempt at making a list of metrics to be considered
+4 . anything else ?
+location : abovenet is located in the knight - ridder building ,
+attached to the fairmont hotel complex . the address is
+50 w . san fernando st .
+san jose , ca 95113
+rsvp : to help us with organising the meeting , please send email to
+nevil @ caida . org telling us how many will attend from
+your organisation .
+cheers , nevil
+nevil brownlee visiting researcher
+phone : ( 619 ) 822 0893 caida , san diego
+caida network metrics working group : draft charter , tue 23 feb 00
+goals :
+1 education
++ faq on what does ' measuring the internet actually mean ? '
+- why measure anyway ?
+- what can be measured ? how ? where ? by whom ?
+- active vs passive , end - to - end vs provider network only ,
+application vs transport layer
+- rating schemes : provider ' net performance ' pages , internet
+' weather map ' s , keynote , etc .
+publish as caida web pages , or maybe as an info rfc
++ survey paper on metrics and internet measurement
+- current measurement efforts ( surveyor , ripe test traffic ,
+amp , iperf , at & t , keynote , skitter , . . . )
+- current tools
+publish as caida web pages
+2 service metrics
++ define new metrics
+- taxonomy of current metrics ( ippm , rtfm , itu , . . )
+- summary of metrics used for current services
+- gather information / ideas about new / emerging services ,
+especially diffserv - based ones
+- make list of new metrics , either to improve measurement of
+existing services or to support new ones
+[ list of ' metrics ' questions ( appendix a ) goes here ]
++ organise experimental implementation / testing of tools
+for new metrics
++ make recommendations on implementation
+- define core set of ' really useful ' metrics
+- recommend that caida implement these as a
+' service measurement toolkit '
++ publish new metric definitions through ippm or rtfm
++ produce document " measurement requirements for hardware / software
+vendors . " publish on caida web pages
+appendix a : questions from the earlier draft caida wg charters
+a . what types of network - and transport - layer metrics are being
+used by isps in engineering and operating their networks ?
+by customers for verifying service guarantees ?
+b . what new services are being ( or are likely to be ) offered , e . g .
+diffserv ? is there a need for higher - layer metrics to better
+monitor and manage these services ?
+c . will these new differentiated transport - and
+application - layer services need new metrics ?
+d . how can the service metrics be measured in a multi - isp
+environment ?
+e . how can customers verify these measurements ?
+f . what requirements would service measurement introduce for
+equipment vendors ?
+g . how relevant are specific techniques ( e . g . which flow ) and
+points of measurement to specific users ( isp , customer , etc . )
+requirements ?
+h . how do these metrics relate to network behavior as perceived
+by users ? how do they correlate with performance ?
+appendix b : background on the ietf working groups
+* rtfm wg : realtime traffic flow measurement
+rtfm is concerned with passive measurements of two - way traffic flows ,
+specified in terms of their end - point attributes . its primary goal was
+to produce an improved traffic flow measurement model considering at least the
+following needs :
+a . wider range of measurable quantities , e . g . those
+relating to ipv 6 , and to class of service
+b . simpler ways to specify flows of interest
+c . better ways to control access to measured flow data
+d . strong focus on data reduction capabilities
+e . efficient hardware implementation
+* ippm wg : ip performance measurement
+the ippm wg charter is to develop a set of standard metrics that can
+be applied to the quality , performance , and reliability of internet
+data delivery services . these metrics will be designed such that they
+can be performed by network operators , end users , or independent
+testing groups . it is important that the metrics not represent a value
+judgement ( i . e . define " good " and " bad " ) , but rather provide unbiased
+quantitative measures of performance .
+rfcs
+framework for ip performance metrics ( rfc 2330 )
+metrics :
+connectivity ( rfc 2678 ) ,
+one - way delay ( rfc 2679 ) , one - way packet loss ( rfc 2680 )
+round - trip delay ( rfc 2681 )
+i - ds
+bulk transfer capacity ( 2 x )
+instantaneous packet delay variation
+one - way loss patterns
+* other wgs
+the rmonmib wg is thinking about ' application performance
+measurement . ' this is clearly a hard problem ( e . g . does this just
+mean response - time measurement , can it be done by passive means , how
+should the measurements be presented , etc . ) .
+in short
+- rtfm provides a good distributed measuring system for traffic
+volumes
+- ippm has concentrated on transport - layer behaviour of the
+current , best - effort internet .
+- rmonmib is beginning to consider application - layer measurement

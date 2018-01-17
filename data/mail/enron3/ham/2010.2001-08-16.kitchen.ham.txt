@@ -1,0 +1,169 @@
+Subject: fw : attorney client privledge - important ! needed comments and
+actions for response to aep
+louise
+brian redmond wanted my to copy you on this preliminary draft of a response to aep . as noted below i am coordinating updates to the response . i will also hand deliver to you a hard copy of the two faxed letters that we received from aep .
+jim coffey - x 35346
+- - - - - original message - - - - -
+from : coffey jr . , jim
+sent : thursday , august 16 , 2001 5 : 47 pm
+to : edison , andrew
+cc : lunz , lisa ; baumbach , david ; martin , thomas a . ; schwieger , jim ; gray , barbara n . ; koehler , anne c . ; denetsosie , troy ; yanowski , tommy j . ; redmond , brian
+subject : attorney client privledge - important ! needed comments and actions for response to aep
+please review the information below from brian redmond and respond with comments . i will be pulling a meeting together for early next week to discuss in order to have a revised draft with as many of your comments as possible ready for brian when he returns next wednesday . please also note the actions items on each bullet and respond accordingly if your name is noted . let me know immediately if you are not the correct person to address the action item and also please respond to any additonal action items that you can . for your assistance i have also attached below the same info in a word doc . thanks in advance for you help . please call me asap if you have any questions or concern at x 35346 .
+1 . texas general land office : contract # 96059967
+a . aep position :
+? an amount of gas valued at $ 0 . 409 mm ( the " land office payment " ) was received from the general land office in exchange for aep storing gas provided by the texas general land office ( the " land office gas " ) .
+? the value was based on a 15 % of the gas volumes received from the general land office [ during the periods beginning feb 1 , 01 and ending may 1 , 01 plus the beginning balance ] priced at a 1 june 01 if / hsc price of $ 3 . 78 .
+? aep should be paid for the full value for this gas , as aep is providing the storage services to the general land office .
+b . ene position :
+? ene has incurred costs and expenses in transporting and injecting the " land office gas " that should be recovered by ene .
+? ene should receive a pro rata share of the land office payment for the portion of time ( march through may ) that ene owned hpl and satisfied the storage obligations for the land office gas .
+? ene calculates the amounts owed to aep as follows :
+( i ) calculation of land office payment , less
+( ii ) cost to transport and inject land office gas , less
+( iii ) calculation of value of storage services provided by ene , equals
+( iv ) payment to aep
+? ene makes this offer in an attempt to settle this matter , if this is not acceptable , then aep should seek to claim such amounts should count against the [ basket of notional funds ] to cover such indemnities set forth in the p & sa
+c . action item :
+? find out how the contract works in terms of payment of the " gas fee " - david baumbach / jim schweiger
+? calculate the amounts due to ene and net these amounts out of the working gas true - up payment . - david baumbach
+2 . cannon interests houston : contract # 96059933
+a . aep position :
+? payments were received from cannon in the amounts of $ 400 k on march 1 , 2000 and $ 525 k on march 1 , 2001 for storage services to be rendered by hpl .
+? aep should receive a portion of this payment based on the period of time that aep and ene owned hpl calculated as follows :
+( i ) total payments received from cannon 925 k
+( ii ) portion of contract year that aep owned hpl = 9 / 12
+( iii ) amount due to aep = $ 693 k
+b . ene position :
+? payments received in 2000 were for services rendered in 2000 and should not be taken into consideration .
+? ene agrees that aep is due a portion of the 2001 payment from cannon based on the period of time that aep and ene owned hpl calculated as follows :
+( iv ) total 2001 payments received from cannon 525 k
+( v ) portion of contract year that aep owned hpl = 9 / 12
+( vi ) amount due to aep = $ [ ] - david baumbach
+c . action item :
+? verify payment amounts and start of contract year . - david baumbach
+3 . cannon storage : contract # 96059167
+a . hpl position :
+? this agreement should be treated as a fixed price agreement rather than an index based agreement
+? as a fixed price agreement , a fixed for index swap should have been put in place with respect to this agreement .
+b . ene position :
+? this is not a fixed price agreement as the contract pricing is already based on index .
+? no hedge will be transferred .
+c . action item : - tom martin / jim schweiger
+4 . centana storage :
+a . aep position :
+? the centana gas storage contract was assigned from ena to hpl .
+? the centana gas storage contract is necessary to conduct the business of hpl on an ongoing basis in the same manner that it was conducted prior to close .
+? aep is willing to purchase the gas currently in storage as of august 15 , 2001 at a price equal to 90 % of hsc / beaumont for large packages of gas for october .
+b . ene position :
+? contract is an ena contract and should not have been transferred to hpl
+o terms were restructured to not match with hpl
+o no provisions for the sale of gas in centana storage
+o representations made to ferc
+o never discussed / agreed commercially
+o not a scheduled material contract as it was an ena contract
+? the contract terminated on 1 july - no formal notice was given to centana to extend the contract .
+? as the centana storage contract was mistakenly assigned to aep , ene will agree to sell the gas stored under the contract to aep at the 1 june if / hsc price .
+? this amount will be netted out of the working gas true - up payment .
+c . action items :
+? provide duke with an indemnity and attempt to enter into a new contract with duke - send letter to this effect . - edison / koehler / gray
+? net amount due to enron out of working gas true up payment . - baumbach
+2 . lloyndell / citgo :
+a . aep position :
+? aep is currently unaware of this issue
+b . ene position :
+? ene discovered that a fixed to index hedge should have been transferred to aep with the assignment of this contract
+? ene calculates the value of this hedge to be $ [ ] as of 15 august .
+? this hedge should be assigned to aep and ene will net this amount out of any monies paid to aep for the working gas true up payment .
+c . action items :
+? prepare a confirm for the hedge - baumbach
+3 . gas lift deposits :
+a . aep position :
+? there are $ 50 , 450 in customer deposits relating to several gas lift sales which are not accurately accounted for at closing
+? aep will require full reimbursement for these amounts
+b . ene position :
+? ene is unaware of any inaccuracies and further discussion is needed before ene can respond .
+c . actions :
+? j . coffey to call aep accounting to try to understand what aep is referring to . - coffey
+4 . specialty sands payment :
+a . aep position :
+? the sum of $ 91 , 000 , 000 paid by specialty sand to ene pursuant to a settlement agreement to cover costs of repairs should be reimbursed to hpl since hpl is incurring the costs of such repairs
+b . ene position :
+? [ if this money was received from specialty sands , it should be paid to aep . or aep should count it against the " basket " of indemnities ]
+c . actions :
+? legal to make the call on whether we can ask aep to claim this against the indemnity basket - . edison / koehler / gray
+5 . isc / sap billing :
+a . aep position :
+? unclear
+b . ene position :
+? aep owes ene $ 86 k to compensate ene for work performed in formatting data to meet the requirements of peoplesoft .
+? such amount will be netted out of the inventory true up payment to be made to aep .
+c . action items :
+? confirm aep ' s position on this matter . - tommy yanowski
+? net it out of the inventory true up payment . - jim coffey
+6 . transport agreements
+a . aep position :
+? the following transportation contracts are not necessary to the conduct of hpl ' s business or , if they are , suitable alternatives exist . hpl is willing to assign these contracts back to ene :
+o epgt texas pipeline , l . p . 96006479
+o epgt texas pipeline , l . p . 96041930
+o gas transmission teco , inc . 96041723
+o gas transmission teco , inc . 96041724
+b . ene position :
+? agreed
+c . action item :
+? prepare documentation for the re - assignment of these transport contracts - barbara gray
+7 . it services :
+a . aep position :
+? in exchange for aep purchasing ene ' s gas in the centana storage field at 90 % of the hsc index for october , aep requests that ene :
+o reduce the fee payable by hpl to $ 100 , 000 during the second and third six month periods of the term of the it services agreement
+o provide for further fee reductions as applications and services are no longer required by aep
+b . ene position :
+? aep offer to purchase ene gas in centana is unacceptable and ene sees no benefit to ene for reducing the pricing provisions under the it service agreement .
+c . action items :
+? discuss with networks - coffey / yanowski
+? ensure we have internal agreement on pgas , row database , and gregg modeling . - yanowski
+8 . other payment amounts
+a . aep position :
+? unclear
+b . ene position :
+? aep owes ene $ 1 . 2 for overstated midtex cash payment
+? southern union promotional fund ?
+c . action items :
+? jim coffey to develop ene position on these matters - coffey
+12 . working gas inventory true up
+a . aep position :
+? aep has submitted an invoice to ene for payment
+b . ene position :
+? the amount due in the invoice submitted by aep must be adjusted for the following :
+o ene portion of texas land office fee
+o value of gas sold to aep in centana storage
+o value of hedge in llyondell citgo contract
+o value of sap / isc payment
+o value of other payment amounts due to ene : mid tex , southern union promo fund , etc .
+c . action items
+? jim coffey to coordinate preparation of response to aep invoice . - coffey
+9 . calpine guarantee :
+a . aep position :
+? unclear
+b . ene position :
+? aep needs to replace ene guarantee or aep should indemnify ene for any liabilities to calpine .
+c . action item :
+? confirm aep ' s position on this matter - gray / koehler / edison
+? prepare back to back guarantee to send to aep for calpine obligations . - gray / koehler / edison
+10 . guadalupe contract :
+a . aep position :
+? unclear
+b . ene position :
+? aep and ene need to execute a back to back agreement . enron submitted a form of agreement to aep , but has not received a response as of yet .
+c . action item :
+? request that aep send comments back on back to back contract - gray / koehler / edison
+? what is our plan if they won ' t comment or execute ? - gray / koehler / edison
+- - - - - original message - - - - -
+from : redmond , brian
+sent : thursday , august 16 , 2001 9 : 53 am
+to : coffey jr . , jim
+subject :
+jim ,
+please find my draft position paper as a basis to prepare a response to aep . please distribute to the team ( martin , schwieger , gray , koehler , edison , baumbach , troy ) for comment as well as to louise k . . can you also get louise a copy of the two letters from aep . send my a revised draft once you have everyone ' s comments .
+regards ,
+brian

@@ -1,0 +1,23 @@
+Subject: lng update
+we are continuing to work with the enron lng team to set up risk books and
+capture the trading postions and p / l of their business . at the present time
+we are focusing on the elba island transaction , however , the lng team has
+requested information concerning an accrual book to accurately capture the
+risks associated with their lng vessel " mystic lady " as well as an additional
+vessel they are looking to acquire .
+eric groves has built a curve generating model that will facilitate the risk
+books and / or any exotic option models that may be necessary . as of friday ,
+we have not received the information needed to capture all of the fob and
+delivered curves . we have been in contact with enron lng and they will be
+forwarding this information . we are expecting to sit down with the lng
+commercial team late next week to obtain assumptions such as product sourcing
+locations and the timing of anticipated spot cargoes for delivery to elba
+island .
+once we receive the additional information for the curves and the sourcing
+assumptions , we will be in a position to sit down with the research group and
+determine the most appropriate means of valuing these transactions . we are
+also working with the europe engineering group as a source of validating some
+of the information that we have received .
+please let me know if you have any questions or would like to discuss further .
+regards ,
+scott

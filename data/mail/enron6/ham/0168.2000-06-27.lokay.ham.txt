@@ -1,0 +1,45 @@
+Subject: sap coding quick reference for et & s home office
+per our discussions in staff meeting , please find attached below a " cheat
+sheet " for the new account codings . i suggest you save for future references .
+adr
+- - - - - - - - - - - - - - - - - - - - - - forwarded by audrey robertson / et & s / enron on 06 / 27 / 2000
+11 : 14 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+allison millan
+06 / 23 / 2000 02 : 45 pm
+to : virginia o ' neill / et & s / enron @ enron , audrey robertson / et & s / enron @ enron ,
+martha benner / et & s / enron @ enron , julie mccoy / et & s / enron @ enron , sharon
+solon / et & s / enron @ enron , judy kudym / et & s / enron @ enron , deb
+cappiello / et & s / enron @ enron , ricki winters / et & s / enron @ enron , rosemary
+gracey / et & s / enron @ enron , linda wehring / et & s / enron @ enron , lindy
+donoho / et & s / enron @ enron , dana jones / et & s / enron @ enron , tim
+kissner / et & s / enron @ enron , richard hanagriff / et & s / enron @ enron , bob
+chandler / et & s / enron @ enron , hoyt ivey / et & s / enron @ enron , allen
+joe / et & s / enron @ enron , harry walters / et & s / enron @ enron , dan
+fancler / et & s / enron @ enron , carolyn henry / et & s / enron @ enron , debbie
+moseley / et & s / enron @ enron , katherine gibson / et & s / enron @ enron , kasey
+davis / et & s / enron @ enron , dawn clennon / et & s / enron @ enron , robert
+miller / et & s / enron @ enron , dan santellan / et & s / enron @ enron , je
+chang / et & s / enron @ enron , aurora dimacali / et & s / enron @ enron , vera
+apodaca / et & s / enron @ enron , henry baker / et & s / enron @ enron , rene
+bickerstaff / et & s / enron @ enron , ann carethers / et & s / enron @ enron , james
+centilli / et & s / enron @ enron , elaine concklin / et & s / enron @ enron , maria
+perales / et & s / enron @ enron , maria y gonzalez / et & s / enron @ enron , steve
+kleb / et & s / enron @ enron , sophie patel / et & s / enron @ enron , vincent
+strohmeyer / et & s / enron @ enron , dave waymire / et & s / enron @ enron , gary
+zahn / et & s / enron @ enron , sharon brown / et & s / enron @ enron
+cc :
+subject : sap coding quick reference for et & s home office
+attached is a coding quick reference sheet ( coding . quickref . xls ) that i hope
+will be useful in the coding of expense reports and miscellaneous vendor
+invoices that may pass your desk . i have also attached a copy of the " gpg
+sap coding block " ( coding . doc ) which explains the different sap coding block
+requirements . sap coding must now be used in order to process expense
+reports and vendor invoices . if you need additional coding information ,
+please contact one of the following et & s general accountants in houston :
+if i have left anyone off of the distribution list that you think may benefit
+from these coding aids , please forward this note to them . also , if you have
+any suggestions or comments to add or subtract ( or correct ) information that
+may make the coding quick reference sheet easier to use , please let me know .
+thanks ,
+allison
+x - 35568

@@ -1,0 +1,96 @@
+Subject: re : enpower production - argentina power
+since this was a fix to a doorstep finding , how do we react ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by bjorn hagelmann / hou / ect on 16 / 11 / 2000
+17 : 25 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : scott mills 14 / 11 / 2000 13 : 46
+to : michael guerriero / sa / enron @ enron , julian poole / sa / enron @ enron , remi
+collonges / sa / enron @ enron , julie ramos / sa / enron @ enron
+cc : trang le / hou / ect @ ect , martha stevens / hou / ect @ ect , sarah
+smith / corp / enron @ enron , laura feldman / sa / enron @ enron , xochitl
+figueroa / na / enron @ enron , bjorn hagelmann / hou / ect @ ect
+subject : re : enpower production - argentina power
+lavarato has stopped efforts for implementing enpower in south america until
+business activity increases enough to support it .
+based on below , we will start looking for someone with strong access / excel
+knowledge to come up with a different solution . everyone will have to
+regroup and determine next steps and look at revised timelines .
+srm ( x 33548 )
+- - - - - - - - - - - - - - - - - - - - - - forwarded by scott mills / hou / ect on 11 / 14 / 2000 01 : 36
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron technology
+from : steve nat @ enron 11 / 14 / 2000 01 : 31 pm
+to : duong luu / hou / ect @ ect , trang le / hou / ect @ ect , scott mills / hou / ect @ ect
+cc :
+subject : re : enpower production - argentina power
+fyi . . .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by steve nat / corp / enron on 11 / 14 / 2000 01 : 12
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+beth perlman @ ect 11 / 14 / 2000 11 : 53 am
+to : richard burchfield / hou / ect @ ect , steve nat / corp / enron @ enron
+cc : john j lavorato / corp / enron @ enron
+subject : re : enpower production - argentina power
+i discussed this with john lavorato who is now responsible for this . he said
+don ' t do anything ! when their volumes increase we can address the enpower
+implementation again .
+beth
+richard burchfield
+11 / 08 / 2000 08 : 17 am
+to : steve nat / corp / enron @ enron
+cc : beth perlman / hou / ect @ ect
+subject : re : enpower production - argentina power
+steve ,
+come by my office to discuss .
+richard
+enron technology
+from : steve nat @ enron 11 / 08 / 2000 08 : 07 am
+to : richard burchfield / hou / ect @ ect , beth perlman / hou / ect @ ect
+cc : trang le / hou / ect @ ect , duong luu / hou / ect @ ect
+subject : enpower production - argentina power
+richard / beth , we have been asked by risk to get argentina started on
+enpower . are you ok with us moving on this ? a couple things to consider . . .
+our instance strategy for enpower is determined by geographic location
+( bandwidth ) , volumes , and market similarity ( functionality ) . based on this ,
+i want to set south america up on their own instance . enpower will have the
+following instances long term : eur , us , cnd , sa , aus , jpn , ind . we will
+continue to pursue a common code base and logical data model .
+there is additional time and cost associated with setting up a new instance ,
+however , i am concerned about continuing to pile new business units into a
+production environment that will eventually need to be split .
+glad to discuss . . . please respond quickly , as we are waiting to pull the
+trigger on this . . .
+steve
+- - - - - - - - - - - - - - - - - - - - - - forwarded by steve nat / corp / enron on 11 / 08 / 2000 07 : 32
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : duong luu @ ect on 11 / 07 / 2000 01 : 06 pm
+to : steve nat / corp / enron @ enron , richard burchfield / hou / ect @ ect , beth
+perlman / hou / ect @ ect
+cc :
+subject : enpower production - argentina power
+fyi
+- - - - - forwarded by duong luu / hou / ect on 11 / 07 / 2000 01 : 05 pm - - - - -
+trang le
+11 / 07 / 2000 12 : 53 pm
+to : duong luu / hou / ect @ ect
+cc : martha stevens / hou / ect @ ect , sarah smith / corp / enron @ enron , juana
+fayett / corp / enron @ enron , jana morse / corp / enron @ enron , scott
+mills / hou / ect @ ect , richard elwood / hou / ect @ ect , samuel schott / hou / ect @ ect
+subject : enpower production - argentina power
+duong ,
+per our phone conversation , below is the list of people that would need
+access to enpower production .
+user names : nt id : extension :
+scott mills smills x 3 - 3548
+martha stevens msteven x 3 - 4742
+sarah smith ssmith x 3 - 0997
+juana fayette jfayett x 3 - 0992
+jana morse jmorse x 6 - 8265
+trang le tlel x 3 - 6996
+currently , the argentine power group has in total about 20 physical forward
+deals which will be done under enron comercializadora de energia argentina
+s . a . ( co . 027 w ) and one financial deal which will be done under enron north
+america ( co . 0364 ) . given the fact that we ' ll also have deals on ena , i would
+think that we could be on the houston server . just let us know .
+in the mean time , we ' ll be working with the various global groups to have the
+proper desk , portfolio , facilities etc . . . . set up .
+thanks for your help ,
+trang x 3 - 6996

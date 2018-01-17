@@ -1,0 +1,71 @@
+Subject: pricing credit on thousands of names
+all -
+our challenge for the next few months is to build an automated system to
+provide differential pricing on thousands of credits [ 5 , 000 by year - end ] .
+most of these credits will be illiquid in terms of market price information ,
+making the challenge harder , and the end result more important in terms of
+competitive pricing advantage . what we need is an overall strategy for how we
+plan to achieve this from the quantitative perspective .
+currently we have several models for credit pricing either in use or under
+development :
+fmc model ( default probability approach ) . using bloomberg ' s fair market ( par
+yield ) curves , probabilities are generated from the risky - libor , then
+default / bankruptcy swap prices computed using expectation methodology .
+fmc model ( credit spread approach ) . using the fmcs , then directly taking the
+libor credit spread at each tenor , adjusting for basis and compounding
+differences .
+bond model ( fmc approach ) . taking the fmcs as benchmark curves , the model
+regresses the input bonds ( specific to a name ) on the two best fitting
+benchmarks . the result is a zero yield curve with the same shape as the fmcs ,
+but with the level tweaked for the specific issuer . prices are then generated
+using both spread and probability approaches . under testing .
+bond model ( spline approach ) . taking only the bonds specific to an issuer ,
+the model fits an exponential cubic spline to the zero - coupon price curve ,
+then builds a zero yield curve from this . under testing .
+market prices . for certain liquid names , or sectors / ratings , cds market
+prices are used , then recovery and event discount used to get bankruptcy swap
+prices .
+kmv . using expected default frequencies ( edfs ) from the kmv model and
+database , we will build a model to price default swaps , making appropriate
+risk adjustments . kmv is being installed now , so model will be worked on next .
+each of these models returns a price ( credit default and bankruptcy ) , and the
+accuracy of the price depends on many factors - liquidity and regulatory
+differences between bond and cds markets , recovery assumptions , risk premia ,
+capital charges , etc . the aim will be to accurately price as many liquid
+names as possible , based upon these models , then use these prices , alongside
+other financial information , as the backbone to a full automated pricing
+system .
+our inputs to the proposed pricing system for a specific name are model and
+market prices for all issuers , alongside name - specific ' soft ' data from
+credit reports and financial statements . if the credit is liquid enough , a
+price will be generated from their own information only . otherwise , the
+credit will be mapped onto a subset of liquid credits , with financial
+information and historical price movements providing the mapping and weights .
+the model price will then be periodically adjusted to align itself with
+market ( or trader ) prices , and this adjustment will feed back into the
+weighting and mapping composition . in loose terms , we could think of the
+system price for an illiquid credit as being a weighted average of liquid
+market prices ( bonds , equities , default swaps ) , where the weightings are
+calibrated using credit analysis , financial ratios , etc .
+the key steps to implementing such a system will be :
+establishing what exactly we want to ' predict ' - is it a price , a rating , a
+probability , or a score ? we will need a clean market history to calibrate to ,
+which we only really have for ratings . we will then need to develop a mapping
+from rating / score to price .
+getting and cleaning the historical financial and credit data required to
+calibrate the model .
+building the mechanics of the model , ie , the calibration methodology . neural
+nets / fuzzy logic seem the obvious candidates , but which exact methods and
+software packages to use ?
+determining an automated methodology for mapping names with limited
+information into the model .
+getting the " true " market price , in order to feed back an error . at present
+such a price exists for very few credits .
+allocating resources to the development . mckinsey claimed such a system would
+take 6 - 10 man - months to develop .
+further ideas or comments are requested , as we need to develop our strategy
+asap . the model description above is fairly vague , as we don ' t yet have the
+knowledge needed to fill in the specific details . further help will be
+especially required on this if we are to continue to move at ' internet speed ' .
+regards
+ben

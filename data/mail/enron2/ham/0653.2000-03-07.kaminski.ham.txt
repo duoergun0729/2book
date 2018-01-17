@@ -1,0 +1,107 @@
+Subject: the storage revolution has begun
+network world fusion focus : amy larsen decarlo
+on storage in the enterprise
+today ' s focus : the storage revolution has begun
+03 / 07 / 00
+dear wincenty kaminski ,
+today ' s focus : the storage revolution has
+begun
+by amy larsen decarlo
+believe the hype . we are in the middle of a storage revolution .
+virtually overnight , businesses have gone from storing gigabytes to
+terabytes of data , and the number of users accessing that information is
+skyrocketing . the subsequent requirements are forcing companies to
+rethink their storage strategies and to recognize the importance of
+storage management in the equation of efficient information delivery .
+it isn  , t just the volume of data or the higher scalability demands that
+are changing how businesses handle storage . the premium that companies
+place on much of their enterprise information is having a profound
+effect on their storage requirements . businesses demand fault - tolerant
+storage systems that deliver swift and reliable data access to their
+employees , suppliers and customers .
+but given the fact that hard disk capacity requirements , on average ,
+double every 12 months , while processor speeds double every 18 months ,
+companies are left with a quandary : how can they manage the
+proliferation of stored information efficiently enough to compensate for
+the differential between capacity requirements and processor speeds ?
+the simple answer to this question is to institute a well - executed
+storage management plan that anticipates capacity requirements in
+advance and leverages the best technologies and techniques to support
+those needs . bear in mind that the majority of storage costs come not
+from the equipment but from the implementation and support of those
+systems .
+there are several ways to efficiently manage storage . one of the best
+routes is consolidation that is , pooling resources and managing
+storage as a system , as opposed to a decentralized collection of file
+servers . this may sound like a throwback to an earlier era , when
+enterprise storage resided on mainframes . but it  , s actually a
+progressive step , as the consolidation has more to do with centralizing
+the planning , management , and ongoing support of storage systems than it
+does with the physical location of the files .
+next , it is important to recognize that not all information is equally
+important to the organization . consequently , storage requirements vary
+by business application . as in all areas of it , it is important to make
+storage implementation decisions based on business needs .
+businesses trying to more efficiently manage storage are looking for
+alternatives to the distributed file server storage model . they want to
+speed access to stored files and remove bandwidth - intensive backup and
+recovery operations from the lan .
+network - attached storage ( nas ) supplies it professionals with one
+answer , giving workstations and servers a way to gain direct access to
+stored data . nas devices , which have been widely available for years ,
+are optimized to process i / o transactions . though they promise better
+performance , they don  , t remove backups from the transport network .
+instead , they supply a relatively easy - to - deploy solution to cross -
+platform storage problems for most heterogeneous environments .
+many consider storage - area networks ( san ) to be the best long - term
+answer to current and future storage challenges . because sans are
+designed with a topology separate from the corporate data network , they
+alleviate many of the availability and performance issues associated
+with more traditional storage models . yet , given the early deployment
+stage most companies are still in , many of those capabilities are still
+largely untested in a production environment .
+this newsletter will examine how , through effective storage management ,
+it professionals can reduce support costs and improve service delivery
+to their customers . this newsletter will not focus on items like the
+least expensive tape drive or the fast tape library . instead , it will
+look at how businesses can reduce inefficiencies and leverage emerging
+technologies to resolve their particular storage application issues .
+ultimately , the goal is to identify storage technology options and
+practices that work in real - world environments .
+to contact amy larsen decarlo :
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+amy larsen decarlo is an analyst with enterprise management associates
+in boulder , colo . , ( http : / / www . . com ) , a leading
+analyst and market research firm focusing exclusively on all aspects of
+enterprise management . she focuses on storage management , application
+management , and security . in her position , she oversees market research
+and contributes to custom project work in her focal coverage areas .
+prior to joining ema , amy spent five years covering enterprise
+management for industry trade magazines , including informationweek and
+data communications . she can be reached at
+mailto : decarlo @ . com
+for related links - - click here for network world ' s home page :
+http : / / www . nwfusion . com
+the national storage industry consortium ( nsic )
+http : / / www . nsic . org
+the distributed management task force ( dmtf )
+http : / / www . dmtf . org
+storage systems standards working group of the ieee
+http : / / www . ssswg . org
+the ietf
+http : / / www . ietf . org
+subscription services
+to subscribe or unsubscribe to any network world e - mail newsletters ,
+go to :
+to change your email address , go to :
+subscription questions ? contact customer service by replying to this
+message .
+other questions / comments
+have editorial comments ? write jeff caruso , newsletter editor , at :
+mailto : jcaruso @ nww . com
+for advertising information , write jamie kalbach , account executive ,
+at : mailto : jkalbach @ nww . com
+network world fusion is part of idg . net , the idg online network .
+it all starts here :
+http : / / www . idg . com
+copyright network world , inc . , 2000

@@ -1,0 +1,9 @@
+Subject: termination of coordinated operation of controllable devices
+system notification : at 1632 pdt pac sent the following wsccnet message : in
+accordance with wscc unscheduled flow reduction procedure , this message is
+to advise you that the request for coordinated operation of controllable
+devices for path 20 mitigation is hereby terminated .
+the system conditions described in this communication are dynamic and
+subject to change . while the iso has attempted to reflect the most current ,
+accurate information available in preparing this notice , system conditions
+may change suddenly with little or no notice .

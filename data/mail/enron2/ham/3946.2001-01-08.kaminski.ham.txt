@@ -1,0 +1,12 @@
+Subject: power spread option - curve access request
+kevin ,
+i am helping doug for building a model to price power spread options he saw
+in the market . this includes power capacity , transmission , heating rate
+options , etc .
+i do not have the access to the power curves in m : \ power 2 \ region as i used
+to .
+i need your permission to regain the read - only access to the curves .
+thanks in advance .
+zimin lu
+research
+x 36388

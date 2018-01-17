@@ -1,0 +1,28 @@
+Subject: new graph
+as you know , now that we are nearly done in capturing the dpr numbers in the
+database , we have been working to present the data in compelling ways . we
+have started to do this by creating the var limit usage graphs and the
+sharpe , rovar , and risk - return graphs .
+i am sorry for the misunderstanding with ted concerning the latter . i had
+explained what i wanted to produce in an e - mail and during a risk forum
+luncheon . therefore , shona and i did not expect the reaction we got . i have
+talked to naveen and rudi since then , and we have changed the graphs to be
+agreeable to rac .
+today i worked on the graphs below . they show the p & l decomposition for the
+month ( rolling 20 business days ) up to 9 / 20 ( one in dollar terms and the
+other as a percentage of p & l ) . i showed them to shona , and she thought you
+should see them before naveen , rudi , and ted , because these graphs are very
+powerful and are likely to be controversial . the graphs show that european
+gas and uk power released a lot of prudency . half of total p & l for european
+gas is prudency , and uk power would have had a loss of about $ 20 million
+( instead of a gain of $ 27 million ) were it not for prudency . in the case of
+north american gas , $ 46 million gain in new deals partly offset about $ 106
+million in trading losses .
+please note that these are rough drafts intended to show what we can do . i
+do not think that there are problems with the data , but i threw these
+together today , and i have not yet double - checked the accuracy of my
+aggregating calculations .
+please launch the attached spreadsheet , and feel free to call or page me with
+questions or concerns .
+thank you ,
+eugenio

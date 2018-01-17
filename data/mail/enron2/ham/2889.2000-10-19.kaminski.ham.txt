@@ -1,0 +1,16 @@
+Subject: credit model
+paulo ,
+i have talked to vince and stinson about the credit model enhancement and
+extension .
+we will pull other reseource for the potential exposure model , so you will be
+relieved from this more
+challenging part of the project .
+due to our limited manpower , everyone is overloaded with multiple tasks . so
+we still think you
+are the best person for the short term project which is adding the asian
+option to the existing model ( ask
+amitava for help if needed ) .
+i do not mind if you want to re - negotiate with the customer about the
+delivery date , but keep in mind that ees
+has done deals requiring the asian option valuation in the credit model .
+zimin

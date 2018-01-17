@@ -1,0 +1,35 @@
+Subject: killed trades
+just so you are in the loop on this correspondence . . .
+sheri
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheri thomas / hou / ect on 03 / 14 / 2000 05 : 28
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+david forster
+03 / 14 / 2000 05 : 16 pm
+to : geoff storey / hou / ect @ ect , keith holst / hou / ect @ ect , kyle
+schultz / hou / ect @ ect , susan w pereira / hou / ect @ ect , tom donohoe / hou / ect @ ect ,
+hunter s shively / hou / ect @ ect , sarah mulholland / hou / ect @ ect , jared
+kaiser / hou / ect @ ect , martin cuilla / hou / ect @ ect , john berger / hou / ect @ ect , greg
+mcclendon / hou / ect @ ect , carey m metz / hou / ect @ ect
+cc : louise kitchen / hou / ect @ ect , product control - london , product control -
+houston , daniel diamond / hou / ect @ ect , kenneth shulklapper / hou / ect @ ect , mark
+taylor / hou / ect @ ect , carol st clair / hou / ect @ ect , greg whalley / hou / ect @ ect , jay
+webb / hou / ect @ ect
+subject : killed trades
+it has come to light that there have been a number of enrononline
+transactions which have been " undone " after the fact .
+these are situations in which an enrononline trade has been completed , but we
+have agreed verbally with the other party that the trade will be deemed not
+have happened and we may have suppressed generation of a faxed confirmation .
+it is of great importance that we do not do anything which makes an
+enrononline trade appear as though it is not firm , or not reliable , or which
+affects the audit process .
+therefore , enrononline transactions must not be killed .
+individual traders might elect to conduct an otc transaction which has the
+effect of reversing the impact of an enrononline transaction - this activity
+is outside the scope of enrononline .
+please note that there has never been an instance in which there has been a
+system error on enrononline which caused a trade to take place which was not
+initiated by the customer . all instances to date have involved some kind of
+operator error , or failure to use the results of a transaction search to
+verify completed deals .
+dave

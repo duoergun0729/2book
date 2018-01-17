@@ -1,0 +1,52 @@
+Subject: still working on it but here ' s where we are
+louise , i would like you to re - consider our original proposal for a few reasons . i have a lot of history on this one given i ' ve been on both sides of the fence and was the original creator of what ultimately became the eim group . as a result , i have been in many discussions with lou and jeff on these issues .
+in the original agreement between ees and ena the following sic codes were excluded from ees as part of the minority shareholder agreement in 1996 / 1997 :
+mining ( except oil and gas ) ;
+oil and gas extraction
+textile manufacturing
+paper manufacturing
+chemical manufacturing
+petroleum and coal products manufacturing
+plastics and rubber products manufacturing
+glass manufacturing
+primary metal manufacturing
+fabricated and metals products manufacturing
+machinery manufacturing
+rail transportation .
+all other sic codes fell within ees . in 2000 , with the buy - back of the minority shareholders , lou , jeff and i agreed to move several of the lower process load sic codes into ees including textile manufacturing ( like springs industries ) , glass manufacturing ( like owens corning ) , fabricated and metals product manufacturing ( like general cable and american national can ) and machinery manufacturing ( like lockheed martin ) . this was primarily because these customers tend to be of lower energy sophistication and consumption , numerous sites ( in deregulated and regulated environments ) and of small size . the ees value proposition fit these customers much better than wholesale . we have completed numerous significant term transactions and outsources in these industries ( see parenthesis for several ) .
+for the other sic codes , these remained in ena and eim . ees has no interest in paper mills , smelters , fertilizer manufacturers , refiners , etc . we neither have the products or pricing capability to manage or close very large process oriented consumers . however , there are divisions inside these companies that we have been able to have some success . for example , the speciality chemicals divisions of the large chemical companies tend to be significantly smaller loads and ignored from a capital , dsm and commodity point of view by the large purchasing agents . another example , is the gasoline retailing networks for the large oil and gas / refining companies which can be very small loads spread over thousands of sites . another example , is the specialty paper / container board divisions of the paper companies . in several of the large oil and gas and petrochemical companies we have found fertile ground in their office buildings and research centers . our proposal to limit ees ' s activities in the ena sic codes by consumption size was to give us some freedom to target these divisions inside these companies which ena would normally ignore . if there is a better way to split this out than by a size definition lets discuss . finally , given the more targeted and sophisticated sales process utilized in ees ( by necessity ) , it would be easier to coordinate between the companies based on a size sort where ees had limited access to ena ' s sic codes versus the opposite .
+on the surface your proposal looks reasonable ; however , it fails to sufficiently manage the issues . for example :
+- how would you manage a customer like wal - mart which may use more than 10 mw at a site but requires a national or regional solution for all 10 , 000 sites in both deregulated and regulated jurisdictions ;
+- how will we sufficiently manage the ena sales force which tends to over - cover and " under - product " for the vast majority of these industries and customers ie ) i think it would be a disaster for ees and ena ;
+- and ees has the relationship based selling capability and basic products to successfully manage these customers ( you could argue right now that is all we have ! ) .
+on a final note , i believe strongly that john and i should send out a note to both organizations clarifying these issues because :
+a ) it is way overdue - years in fact - it was always difficult when i was upstairs to get lou to cooperate ;
+b ) it is extremely destructive and un - productive for multiple enron groups to communicate and target the same customer ;
+c ) i don ' t believe that the employees ( on both side of the fence ) will honor the obligation unless it is expressly stated , openly communicated and enforced by the two management teams ;
+and d ) we need to be proactive , because " cleaning " it up after the dual call , etc significantly damages our credibility as enron with a number of these customers .
+it may be worthwhile in the same exercise to let you know what we may be doing in the the utility and generator markets in the interest of open communication and ensure your buy - in .
+i look forward to futher discussing this with you . our motivations are not to try and enter ena markets but to split the industrial and commercial segments between the two companies clearly which increases productivity and shareholder value .
+regards
+delainey
+- - - - - - - - - - - - - - - - - - - - - - forwarded by david w delainey / hou / ees on 03 / 24 / 2001 01 : 51 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+janet r dietrich
+03 / 23 / 2001 05 : 28 pm
+to : david w delainey / hou / ees @ ees
+cc :
+subject : still working on it but here ' s where we are
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by janet r dietrich / hou / ees on 03 / 23 / 2001 05 : 28 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+louise kitchen @ ect
+03 / 23 / 2001 05 : 27 pm
+to : janet r dietrich / hou / ees @ ees
+cc :
+subject : still working on it but here ' s where we are
+janet ,
+tried to get through to you but no success so far this afternoon . i have removed the split from east to west .
+load
+power
+ena > 10 mw hourly peak demand
+ees 1 , 000 mmbtus / day
+ees < 1 , 000 mmbtus / day
+i am still working on the codes but the issue is that things like fertilizer companies are not included in the lists so they may cause more confusion tha add value .
+louise

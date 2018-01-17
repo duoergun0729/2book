@@ -1,0 +1,36 @@
+Subject: mail delivery failed : returning message to sender
+this message was created automatically by mail delivery software .
+a message that you sent could not be delivered to one or more of its
+recipients . this is a permanent error . the following address ( es ) failed :
+paul . slater @ rmdkwikform . com
+smtp error from remote mailer after end of data :
+host relay . star . co . uk [ 62 . 231 . 131 . 67 ] : 553 - message filtered . please see the faqs section on spam
+553 - at http : / / www . messagelabs . com / support / for more
+553 information .
+- - - - - - this is a copy of the message , including all the headers . - - - - - -
+return - path :
+received : from [ 59 . 92 . 35 . 61 ] ( helo = mailwisconsin . com )
+by mxl . mail . uk . psi . net with smtp ( exim 4 . 30 )
+id lduppp - 0003 ib - 3 s
+for paul . slater @ rmdkwikform . com ; tue , 19 jul 2005 11 : 59 : 59 + 0100
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 09360374 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : paul . slater @ rmdkwikform . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbelivabie !

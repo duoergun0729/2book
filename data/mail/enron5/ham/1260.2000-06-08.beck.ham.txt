@@ -1,0 +1,121 @@
+Subject: re : tds project
+you might hear of this , so i thought i better forward to you .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary solmonson / hou / ect on 06 / 08 / 2000
+08 : 53 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mary solmonson
+06 / 08 / 2000 08 : 57 pm
+to : scott mills / hou / ect @ ect
+cc : joel henenberg / na / enron @ enron , stephen stock / hou / ect @ ect
+subject : re : tds project
+i guess i have several comments to make to this string of mails . . . . so why not
+add one more mail . . .
+first off , thomas is following up on my suggestion to check into tds as when
+we met a few weeks ago ( on other issues ) i heard about tds by name for the
+first time - although i admit i was aware of work being done to replace the
+applix functionality . you had remarked that you liked the tds functionality
+and wondered whether that was the way to go rather than continue to evolve
+enron grid . it is unfortunate that bill is not more cooperative with thomas '
+request - more in the continuing saga of poor communication and information
+sharing between our two teams .
+clearly there needs to be much more communication and sharing of information
+as global rate services for many months ' bowed ' to the sitara team ' s
+priorities for enron grid - which you now say probably won ' t be used . there
+are many priorities in the wings to benefit the processes of global rate
+services that without has caused us to continue to experience a high rate of
+errors - causing large impact to the p however enrongrid is the responsibility of a
+different group
+( logically , this needs to come together under the same group ) .
+does the tds / tibco infrastructure make sense ( current enrongrid / rate server
+design assumes the curves are always updated to the rate sever database and
+then messaged from the database ( potential performance impact ) ; whereas
+tibco infrastructure does not require a database update first )
+does the mkm curve publish / subscribe supersede everything and provide a
+" better " global technical solution ( part of the london curve manager
+development team will be in
+houston next week ; therefore a briefing of the mkm curve manager is
+something that we are trying to get done ) . functionally , this will require a
+more vigorous gap
+analysis review before a decision can be made .
+i am open to additional discussions on the technical direction , but i do not
+think that alot of additional functional documentation needs to be done and
+timelines are not changing .
+srm ( x 33548 )
+thomas araujo @ enron
+06 / 08 / 2000 10 : 13 am
+to : yannis tzamouranis / hou / ect @ ect , william e kasemervisz / hou / ect @ ect
+cc : judy barnes / hou / ect @ ect , scott mills / hou / ect @ ect , vanessa
+schulte / corp / enron @ enron , joel henenberg / na / enron @ enron
+subject : re : tds project
+bill ,
+i don ' t think anyone outside of sitara knows of tds . if you could give
+myself and other interested parties a demo of tds ; i don ' t have a good
+understanding of the tds project . if the project is similar to the enron
+grid as it is indicated in yannis ' s response , the business users need to come
+together and decide the system of choice . yannis makes good points of how to
+come to a decision . i would change that the users provide the important
+features , advantages , and shortcomings of each product as they see it . i
+would gather the users ' needs and timeline . after deciding , i would then
+like to get it involved to finalize a decision . i would like to get the
+discussion started fairly soon due to the impeding business needs .
+the first thing i would suggest is have a demo of both products to inform all
+impacted business users . bill , can we setup a demo for tomorrow or early
+next week .
+thomas
+yannis tzamouranis @ ect
+06 / 08 / 2000 08 : 24 am
+to : william e kasemervisz / hou / ect @ ect
+cc : thomas araujo / corp / enron @ enron , scott mills / hou / ect @ ect
+subject : re : tds project
+bill ,
+i have had presentations of both of these projects ( that is not to say that i
+know them well ) .
+since , according to scott the choice is still open , we have to make a
+concious decision as to which way we go . in my mind , this is a decision that
+has to be made by the user with my team ' s support . i do not want and should
+not drive this decision . the decision should be driven by the user , based on
+usage ( business ) requirements . what the phoenix group will provide is a
+server that does ( or soon will ) satisfy your business requirements . the
+front end plug in is , i think , a decoupled issue in a server - client
+environment .
+on the other hand , i think we should help you with the choice ( if you so want
+us ) . i would actively consult with you to set up the choosing process , which
+i imagine would go somewhat like this :
+i would suggest that we do , again and all deciding parties together , get
+demos of each of these products .
+business should put together a bullet point list of the functionality needed
+( even a timeline ) and how the tool will be used so both allan and mike
+understand your needs clearly .
+i also suggest that we ask tds and enron grid to provide us with a short
+document outlining the important features , advantages and shortcomings of
+each product as they see it . released features should be separated from
+future improvements ; the latter should be be accompanied by a time line .
+limitations should be listed explicitly .
+we take our impressions from the demos along with the writeups in a room and
+make the decision .
+if needed , business might have to spend the time to play with each of these
+products for a short period of time .
+in my mind it is important to make choices like this one that will affect
+business for a long time based on enumerated and well understood facts ( such
+that usually get lost from a short demo ) .
+please let me know what you think ,
+yannis
+william e kasemervisz
+06 / 07 / 2000 08 : 37 pm
+to : thomas araujo / corp / enron @ enron , yannis tzamouranis / hou / ect @ ect
+cc :
+subject : re : tds project
+i ' m not sure what you want to go over . if you and yannis would like to have
+a demo of the tds & grid applications let me know & i ' ll try to set something
+up with scott also , so we can discuss grid / tds curve manager / mkm .
+thomas araujo @ enron
+06 / 07 / 2000 10 : 13 am
+to : william e kasemervisz / hou / ect @ ect
+cc :
+subject : tds project
+bill ,
+can you give me more information to the tds you are working on like the due
+dates , the scope , etc . if you got some requirements documents or the
+business plan on the project , it would be better . i just want to get a
+better picture of how enron grid fits in the big picture .
+thanks ,
+thomas

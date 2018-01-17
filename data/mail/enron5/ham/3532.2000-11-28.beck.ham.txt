@@ -1,0 +1,9 @@
+Subject: your approval is overdue : access request for
+avril . forster @ enron . com
+this request has been pending your approval for 2 days . please click
+approval to review and act upon this request .
+request id : 000000000008254
+request create date : 11 / 27 / 00 10 : 45 : 13 am
+requested for : avril . forster @ enron . com
+resource name : vpn
+resource type : applications

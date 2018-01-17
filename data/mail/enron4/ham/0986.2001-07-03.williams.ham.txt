@@ -1,0 +1,11 @@
+Subject: new prototype sheet for epe and epmi communication
+good afternoon fred ,
+after our call , a better solution presented itself to me . the best quality of information regarding prescheduled deals done by epe would come from epe directly to enron ' s real time group .
+please see the following prototype sheet that i have made , i have checked with bill and greg , and they both agree that this format will give real time the hourly shapes that they need , with tag numbers referenced for use only if problems occurr . this sheet could be created and sent after the e - tag deadline has passed , giving epe ' s group ample time to get all the information that they need before real time would ever need it .
+since e - tag is a fact of life for all of us now , we would benefit the most by building e - tag into our solution . by comparing the e - tags that epe recieves to the volumes they have with other counterparties , epe has the benefit of a cross check without adding a layer of work to themselves . enron would benefit by still understanding the quantity of generation and load that the real time desk needs to see , without adding a burden of repetitive work to our already overloaded preschedulers .
+having epe generate this abbreviated sheet for epmi real time would still give excellent quality of information without many of the logistics hurdles that we currently have .
+please take a look at this sheet , and see how you like it . real time would also gain benefit by having the name and phone number of the person designated to be " on call " for that day .
+i welcome any questions or comments :
+cara semperger
+west power scheduling supervisor
+503 / 464 - 3814

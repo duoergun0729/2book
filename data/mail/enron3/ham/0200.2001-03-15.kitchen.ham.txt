@@ -1,0 +1,5 @@
+Subject: hanover
+hanover ' s stock price closed at $ 35 . 26 today . as recently as march 5 it was at $ 40 . 50 . pricing for the secondary offering this afternoon was set at $ 35 . 15 . net of the 4 % spread , sellers receive $ 33 . 74 per share . jedi ' s net proceeds on 1 , 173 , 344 shares sold is $ 41 . 2 million ( ena 60 % share is $ 24 . 7 million ) .
+although ena ' s hanover position is hedged in raptor , the put price of the costless collar is $ 34 . 875 . the unhedged loss is $ 800 thousand .
+jedi ' s share of the overallotment is 289 , 500 . the full overallotment was allocated . whether the underwriters ' exercise their option is dependent on stock performance for the 30 - day option period .
+jedi ' s remaining 4 . 3 million hanover shares are subject to a 120 - day lockup .

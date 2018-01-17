@@ -1,0 +1,14 @@
+Subject: accrual book procedures
+the procedures for ensuring that all accrual books are known and captured by the appropriate parties is as follows :
+current inventory of accrual books and their contents will be provided to financial operations and risk controls by risk management
+risk management will cc : accrual book requests to financial operations to ensure that they are aware when new books are created
+risk controls will maintain a library of accrual books in risktrac
+financial operations will communicate with risk management whenever disclosures are being made related to accrual positions to ensure that all books are included
+- - - - - original message - - - - -
+from : colwell , wes
+sent : wednesday , september 05 , 2001 8 : 37 am
+to : white , stacey w . ; gossett , jeffrey c .
+cc : lavorato , john ; kitchen , louise ; presto , kevin m . ; belden , tim ; beck , sally ; hodges , georganne
+subject :
+hey guys , i would like to get with you to discuss our hedge policies . i am concerned about the recent accounting around the wind hedge ( and not necessarlily the outcome in this particular case ! ) . if the outcome had been reversed ( ie . a loss on the hedges existed ) we would have had no choice but to book it . the issue is that nobody commmunicated or documented the designation of these positions as hedges of the " wind " ppa . it occurs to me that we do not have any process that requires coodination when you set up an accrual book . as you know the designation criteria are rigid for acctg purposes . if we miss it , we can ' t cure it and the acctg would be mtm for the life of the contracts . i will set a metting to discuss .
+wes

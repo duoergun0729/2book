@@ -1,0 +1,22 @@
+Subject: re : ecp / linden swaps
+yes , joe said he would make the call .
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : friday , october 12 , 2001 10 : 38 am
+to : deffner , joseph ; duran , w . david ; colwell , wes
+subject : re : ecp / linden swaps
+dave
+are you unwinding it ?
+- - - - - original message - - - - -
+from : deffner , joseph
+sent : thursday , october 11 , 2001 4 : 08 pm
+to : kitchen , louise ; duran , w . david ; colwell , wes
+subject : ecp / linden swaps
+here ' s my understanding of what has happened with the interest rate swaps :
+as i indicated earlier , the original $ 32 mm was put on for the linden 6 expansion which never occurred .
+the second swap of $ 350 mm was put on to protect the value of the cash flow from el paso assuming we would monetize the asset shortly . this hedge does appear to have been set with the el paso payment stream in mind .
+the original $ 32 mm of swaps did not provide a clean hedge to the remaining el paso cash flows as they were 10 year bullets while the el paso payment stream is a 7 year monthly amortizer .
+however , the $ 382 mm of hedges did approximate notionally the asset to be hedged .
+it appears that given the assumption the swaps were to have been monetized in a short period of time , a decision may have been made that unwinding and rewinding the " dirty " interest rate hedge was more expensive than wearing the basis risk for a brief time .
+given that the monetization never occurred , it does appear to me that the $ 32 mm hedge is ineffective and should be removed or replaced if we determine that we should hedge the rate risk associated with the note .
+anyone have anything additional to add ? that ' s the best i could turn up looking back after the fact given the many personnel departures .

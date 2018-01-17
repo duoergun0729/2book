@@ -1,0 +1,38 @@
+Subject: eog pronghorn location
+michelle , i thought i would pass this along to make you aware that now eog
+isn ' t going to supply the efm at their new location . given that they have
+yet to contribute the funds requested for our efforts , i don ' t think we
+should spend the money to put measurement out there until they send us the
+$ 10 , 000 . maybe we should ammend the interconnect agreement to change the
+estimate back to the $ 30 , 000 we originally requested .
+thanks , bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by bob burleson / et & s / enron on 11 / 08 / 2000
+07 : 05 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mike mccracken 11 / 07 / 2000 05 : 17 pm
+to : darrell schoolcraft / et & s / enron @ enron
+cc : bob burleson / et & s / enron @ enron , laura kunkel , earl
+chanley / et & s / enron @ enron
+subject : eog pronghorn location
+darrell
+here is some info on the mileposts on the connects to the west texas lateral
+and loop
+wt survey wt milepost wt loop surv . wt loop milepost
+wt - 1 0 + 00 0
+10 " monument & start of 30 " 554 + 14 10 . 5 0 + 00 0
+4 " getty " 24 " ( highlands ) 612 + 14 11 . 6
+disconnected
+8 " santa fe p . g . ( highlands ) 694 + 09 13 . 1 139 + 43 2 . 6
+6 " yates pronghorn ( highlands ) 929 + 97 17 . 6
+disconnected , point that eog pronghorn is connecting to
+valve 211 1019 + 54 19 . 3 463 + 96 8 . 8
+10 " bell lake ( highlands ) 1346 + 17 25 . 5
+eog triste draw 1544 + 77 29 . 3
+4 " hng bell lake 2 ( eog ) 1623 + 93 30 . 8
+8 " bell lake loop ( eog ) 1624 + 24 30 . 8
+on the efm / scada , i talked to dirk ellison with eog . he contacted jerry
+ball and their reply was for us to go ahead and get our own equipment .
+laura ' s work order doesn ' t have anything about efm , only the costs to inspect
+the construction and their connection to our tap valve . laura will check on
+the responsibility of the efm equipment tomorrow .
+thanks
+mike

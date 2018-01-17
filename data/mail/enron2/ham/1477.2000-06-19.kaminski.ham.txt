@@ -1,0 +1,126 @@
+Subject: re : pricing credit on thousands of names
+we can continue the discussion in tuesday ' s conference call , but i discussed
+with ben about the issues below , and here are some thoughts . this is not a
+complete approach , but only a starting point for discussion .
+the main task is to build a pricing system for many names .
+this has two components - - -
+1 ) how to price a single name ?
+1 . 1 ) how to price a liquid single name ?
+1 . 2 ) how to price an illiquid single name ?
+2 ) how to efficiently apply the methodology to multiple names ?
+the approach i would take for 1 . 1 is
+a ) define a small set of liquid names
+b ) apply each of the different models we have , say , the six models ben has
+mentioned below , to these names
+c ) include market prices , if any , for these names
+d ) sit with traders , get trader ' s intuition on where each liquid name should
+price and note this on the spectrum of prices obtained in ( b ) and ( c )
+e ) try to determine attributes of the names that may explain the dispersion
+of the trader prices across the models
+f ) quantify these attributes , if possible
+g ) try a different set of liquid names and repeat the process , and see if the
+decisions in the last round still make sense
+the approach for 1 . 2 may be
+a ) define a small set of illiquid names
+b ) apply each of the different models we have to these names
+c ) sit with traders , get trader ' s intuition on where each illiquid name
+should price and note this on the spectrum of prices obtained in ( b )
+d ) try to determine attributes of the names that may explain the dispersion
+of the trader prices across the models
+e ) check if these are similar to the attributes identified for liquid names
+f ) define a master set of liquid names
+g ) look for relationships ( by analyzing cross - section of data ) between
+attributes or prices of illiquid names to those of liquid names
+once a mapping has been defined for an illiquid name to a set of liquid names
+and their attributes , then this mapping can be entered into a table , and the
+pricing can be automated for all names ( in theory ) ! the success will depend
+on the success of the round - table sessions for the approaches for 1 . 1 and
+1 . 2 .
+building a new fundamental model is always a worthwhile task , but we can get
+going with the above approaches immediately in parallel with developing any
+new models that we may build . new models can be added to the suite of
+existing models . i do not believe there will ever be a single model that will
+answer all questions for all names , but rather we can refine the mappings and
+relative choices among models over time , which would mean continuing
+round - table sessions with traders . limited data makes calibration very hard ,
+so i would continually ask the question " what do we calibrate ? " throughout
+the discussions for 1 . 1 and 1 . 2 , and this may help guide us to new models .
+vasant
+benjamin parsons
+06 / 19 / 2000 04 : 11 am
+to : ect london credit trading
+cc : vince j kaminski / hou / ect @ ect , vasant shanbhogue / hou / ect @ ect , amitava
+dhar / corp / enron @ enron , steven leppard / lon / ect @ ect , grant masson / hou / ect @ ect ,
+dale surbey / lon / ect @ ect , david a wall / risk mgmt / lon / ect @ ect , jitendra j
+patel / lon / ect @ ect , oliver gaylard / lon / ect @ ect
+subject : pricing credit on thousands of names
+all -
+our challenge for the next few months is to build an automated system to
+provide differential pricing on thousands of credits [ 5 , 000 by year - end ] .
+most of these credits will be illiquid in terms of market price information ,
+making the challenge harder , and the end result more important in terms of
+competitive pricing advantage . what we need is an overall strategy for how we
+plan to achieve this from the quantitative perspective .
+currently we have several models for credit pricing either in use or under
+development :
+fmc model ( default probability approach ) . using bloomberg ' s fair market ( par
+yield ) curves , probabilities are generated from the risky - libor , then
+default / bankruptcy swap prices computed using expectation methodology .
+fmc model ( credit spread approach ) . using the fmcs , then directly taking the
+libor credit spread at each tenor , adjusting for basis and compounding
+differences .
+bond model ( fmc approach ) . taking the fmcs as benchmark curves , the model
+regresses the input bonds ( specific to a name ) on the two best fitting
+benchmarks . the result is a zero yield curve with the same shape as the fmcs ,
+but with the level tweaked for the specific issuer . prices are then generated
+using both spread and probability approaches . under testing .
+bond model ( spline approach ) . taking only the bonds specific to an issuer ,
+the model fits an exponential cubic spline to the zero - coupon price curve ,
+then builds a zero yield curve from this . under testing .
+market prices . for certain liquid names , or sectors / ratings , cds market
+prices are used , then recovery and event discount used to get bankruptcy swap
+prices .
+kmv . using expected default frequencies ( edfs ) from the kmv model and
+database , we will build a model to price default swaps , making appropriate
+risk adjustments . kmv is being installed now , so model will be worked on next .
+each of these models returns a price ( credit default and bankruptcy ) , and the
+accuracy of the price depends on many factors - liquidity and regulatory
+differences between bond and cds markets , recovery assumptions , risk premia ,
+capital charges , etc . the aim will be to accurately price as many liquid
+names as possible , based upon these models , then use these prices , alongside
+other financial information , as the backbone to a full automated pricing
+system .
+our inputs to the proposed pricing system for a specific name are model and
+market prices for all issuers , alongside name - specific ' soft ' data from
+credit reports and financial statements . if the credit is liquid enough , a
+price will be generated from their own information only . otherwise , the
+credit will be mapped onto a subset of liquid credits , with financial
+information and historical price movements providing the mapping and weights .
+the model price will then be periodically adjusted to align itself with
+market ( or trader ) prices , and this adjustment will feed back into the
+weighting and mapping composition . in loose terms , we could think of the
+system price for an illiquid credit as being a weighted average of liquid
+market prices ( bonds , equities , default swaps ) , where the weightings are
+calibrated using credit analysis , financial ratios , etc .
+the key steps to implementing such a system will be :
+establishing what exactly we want to ' predict ' - is it a price , a rating , a
+probability , or a score ? we will need a clean market history to calibrate to ,
+which we only really have for ratings . we will then need to develop a mapping
+from rating / score to price .
+getting and cleaning the historical financial and credit data required to
+calibrate the model .
+building the mechanics of the model , ie , the calibration methodology . neural
+nets / fuzzy logic seem the obvious candidates , but which exact methods and
+software packages to use ?
+determining an automated methodology for mapping names with limited
+information into the model .
+getting the " true " market price , in order to feed back an error . at present
+such a price exists for very few credits .
+allocating resources to the development . mckinsey claimed such a system would
+take 6 - 10 man - months to develop .
+further ideas or comments are requested , as we need to develop our strategy
+asap . the model description above is fairly vague , as we don ' t yet have the
+knowledge needed to fill in the specific details . further help will be
+especially required on this if we are to continue to move at ' internet speed ' .
+regards
+ben

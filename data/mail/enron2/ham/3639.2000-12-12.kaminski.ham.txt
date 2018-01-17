@@ -1,0 +1,95 @@
+Subject: re : default rates
+mark , this is a good point . in moody ' s june 1999 study , debt recoveries for
+corporate bankruptcies , there is a graph of firm - level recovery rates by year
+of bankruptcy resolution ( as opposed to default year ) . reading from the
+graph finds :
+as the data above is based on resolution year , the same study finds the
+average length of time spent in bankruptcy is 1 . 30 years ( median 1 . 15 years
+and standard deviation of 1 . 20 years ) . the interesting point is the slide in
+recovery value 1996 to 1998 . one would wonder if the mix of high - yield
+issuance slanted towards the tech companies would yield lower recoveries
+( quick technological obsolescence - - little tangible recovery value ) .
+interesting to note is the december 1999 to december 2000 change in spreads .
+the table below divides the december 2000 spreads by the december 1999
+spreads . one would have expected a pronounced flight to safety over this
+time - frame , but the figures are more mixed :
+to : michael tribolet / corp / enron @ enron , william s bradford / hou / ect @ ect , david
+gorte / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+cc :
+subject : re : default rates
+per our discussion , see attached for impact of assumed recovery rates :
+michael tribolet @ enron
+12 / 11 / 2000 08 : 09 am
+to : william s bradford / hou / ect @ ect , david gorte / hou / ect @ ect , vince j
+kaminski / hou / ect @ ect , mark ruane / hou / ect @ ect
+cc :
+subject : default rates
+please see below for my note to jeremy at the bottom and his reponse . i
+have placed mark ruane ' s yields against a mid november default frequency
+table . note there may be a slight shearing in dates , but the concept is
+more important :
+market implied cumulative default rates ( % ) :
+1 year 5 year 10 year
+aaa 0 . 51 5 . 74 14 . 54
+aa 0 . 67 6 . 39 16 . 61
+a 0 . 98 8 . 98 21 . 03
+bbb 1 . 17 9 . 88 22 . 39
+bb 3 . 27 18 . 62 37 . 51
+b 4 . 65 24 . 21 46 . 27
+s & p historical default rates ( % ) :
+1 year 5 year 10 year
+aaa 0 . 00 0 . 13 0 . 67
+aa 0 . 01 0 . 33 0 . 90
+a 0 . 04 0 . 47 1 . 48
+bbb 0 . 21 1 . 81 3 . 63
+bb 0 . 91 8 . 82 14 . 42
+b 5 . 16 20 . 95 27 . 13
+in looking at the one - year transition rates as a very rough proxy for how
+many more defaults occur in a recession ( 1991 ) versus average ( 1981 - 1999 )
+historical default rates ( % ) :
+investment grade non - investment
+grade
+avg . 1981 - 99 0 . 07 4 . 21
+1991
+0 . 12 10 . 40
+multiple 1 . 7 x
+2 . 5 x
+looking at where the market implied default rates divided by the historicals
+default rates to obtain a " multiple " ( how much more severe than historical ) :
+1 year 5 year 10 year
+aaa infinite 44 . 2 x 21 . 7 x
+aa 67 . 0 x 19 . 4 x 18 . 5 x
+a 24 . 5 x 19 . 1 x 14 . 2 x
+bbb 5 . 6 x 5 . 5 x 6 . 2 x
+bb 3 . 6 x 2 . 1 x 2 . 6 x
+b 1 . 1 x 1 . 2 x 1 . 7 x
+on the 10 year historical figures , we need to be careful as the s & p static
+pool figures show a definite seasoning ( lower defaults in late years probably
+due to prepayment ) versus our contracts . secondly , the s & p figures have
+withdrawn ratings , which usually mean they are stale , but loosing some
+information content .
+i will ask emy to set up a meeting to discuss further .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by michael tribolet / corp / enron on 12 / 11 / 2000
+07 : 06 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : jeremy blachman @ ees on 12 / 10 / 2000 07 : 21 am
+to : michael tribolet / corp / enron @ enron
+cc :
+subject : default rates
+thanks . i would strongly suggest an offsite sooner than later with a handful
+of the right people so that we can step back and design the right
+architecture for looking at credit in our deals . it is broken , not clear ,
+killing our velocity and true capabilities . we also need to look at staffing ,
+skills sets , the credit reserve model etc . perhaps you should take a crack at
+an agenda .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jeremy blachman / hou / ees on 12 / 10 / 2000
+07 : 08 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+michael tribolet @ enron
+12 / 09 / 2000 03 : 51 pm
+to : jeremy blachman / hou / ees @ ees
+cc :
+subject : default rates
+i visited with vince kaminski for about 20 minutes today regarding the market
+implied defaults rates and the disconnect in investment grade land . he is
+seeing the same anomaly and agreed that we as a company need to revisit the
+methodology employed in calculating the implied figures . i will follow
+through and report back .

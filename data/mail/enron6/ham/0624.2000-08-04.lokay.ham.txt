@@ -1,0 +1,17 @@
+Subject: netscape instructions - please read
+here are the instructions to load netscape on your desktop to run the deal
+analysis program .
+click - > start
+select - > programs
+select - > standard applications
+select - > winstall for other apps
+winstall screen with load . . . . . . . . . it may take a few minutes to load
+scroll down to - > netscape 4 . 08 , click once til it ' s highlighted
+select - > install button ( top )
+netscape loading should only take a few minutes . . . . . . . . no reboot will be
+required .
+when completed , you ' ll find netscape under start , programs
+if you have any questions , please give me a call .
+thanks
+diane
+87 , 7454

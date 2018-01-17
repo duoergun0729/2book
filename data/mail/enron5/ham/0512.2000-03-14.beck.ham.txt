@@ -1,0 +1,18 @@
+Subject: enron japan trading
+hi , how is everyone doing ? busy , busy , busy i know .
+i am currently in the middle of selecting our japan banking relationship and
+several questions have come up .
+it is important that i understand how your trading settlements will work .
+i have spoken to louise kitchen about enron online and where it fits in with
+our banking . enron online does not interface with the banking . it
+interfaces with a trading system / accounting system ? what i need to know is
+what system is planned for enron japan ' s accounting for the trading . the
+accounting system you use will interface with our treasury system .
+what it boils down to , is the payment format that we will use to make local
+japanese payments may need special programming to meet the needs of the
+japanese - english translation . the accounting system used will need to
+interface with our treasury software to process the settlements , we will need
+to interface with the bank .
+please advise .
+thank you ,
+pam perry

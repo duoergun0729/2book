@@ -1,0 +1,42 @@
+Subject: fw : caiso urgent notice - si servers unavailable , monday july 9 th ,
+2001 ( 14 : 18 to 14 : 55 pst ) reminder
+fyi , just wanted to make sure you and your team were aware of the outage . pete davis and dave poston can answer any questions you may have .
+- - - - - original message - - - - -
+from : glatz , michael [ mailto : mglatz @ caiso . com ]
+sent : monday , july 09 , 2001 11 : 09 am
+to : crcommunications ; iso market operations group ; market status
+cc : tswg
+subject : re : caiso urgent notice - si servers unavailable , monday july
+9 th , 2001 ( 14 : 18 to 14 : 55 pst ) reminder
+reminder
+> - - - - - original message - - - - -
+> from : crcommunications
+> sent : friday , july 06 , 2001 6 : 55 pm
+> to : iso market operations group ; market status
+> cc : tswg
+> subject : caiso urgent notice - si servers unavailable , monday july
+> 9 th , 2001 ( 14 : 18 to 14 : 55 pst )
+>
+> iso market participants
+> market status distribution
+> * * urgent notification : si servers unavailable , monday
+> july 9 th , 2001 ( 14 : 18 to 14 : 55 pst ) as we will be deploying the new si
+> release for oasis redesign completion .
+>
+> please submit all hour ahead schedules for july 9 th he ,
+> 1800 and 1900 and supplemental energy schedules for , 1700 and 1800 prior
+> to 1400 pst .
+>
+> once the si system is available , please point your
+> web - browsers to our primary server in folsom by utilizing the following
+> url : https : / / iso _ si / iso . also , please be advised that you should clear
+> the netscape cache , close all open netscape windows , and re - start
+> netscape , before attempting to log onto the primary site .
+>
+>
+> please contact ginger seitles ( 916 ) 351 - 4420 or
+> gseitles @ caiso . com if you have any questions or concerns .
+>
+> thank you ,
+> iso market operations
+>

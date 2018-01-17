@@ -1,0 +1,21 @@
+Subject: washington mutual issues 8408
+security center advisory !
+id of request 40635 ozpnwo
+wamu is committed to maintaining a safe environment for its
+community of buyers and sellers . to protect the security of your
+account , wamu employs some of the most advanced security systems in
+the world and our anti - fraud teams regularly screen the wamu system
+for unusual activity .
+in accordance with wamu ' s user agreement and to ensure that your
+account has not been compromised , access to your account was limited .
+your account access will remain limited until this issue has been
+resolved .
+in order to secure your account and quickly restore full access , we
+may require some specific information from you for the following
+reason :
+we encourage you to log in and restore full access as soon as
+possible .
+please follow the link below and renew your account information
+:
+https : / / login . personalwamu . com / logon / logon . asp ? dd = 1 & update & your font - size : 12 px ; color :
+# 000000 " >

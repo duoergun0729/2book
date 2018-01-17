@@ -1,0 +1,30 @@
+Subject: security center advisory
+* * * paypal safe
+department notice * * *
+paypal fraud mediation request
+you have recieved this email because of some unusual activity in your account . in accordance with paypal ' s user agreement and to ensure that your account has not been compromised , access to your account was limited . your account access will remain limited until this issue has been resolved .
+the fraud alert id code
+contained in this message will be attached in
+our fraud mediation request form , in order to verify your paypal account
+registration informations .
+fraud alert id code :
+00937614
+( please save this fraud alert id code
+for your reference . )
+to help speed up this process ,
+please access the following form to complete the verification of your paypal account registration
+informations :
+.
+please note :
+if we do not receive the appropriate paypal account verification within 48 hours , then we will
+assume this paypal account is fraudulent and will be suspended .
+the purpose of this verification is to ensure that your paypal account has not been fraudulently
+used and to combat the fraud from our community .
+we appreciate your
+support and understanding , as we work together to keep paypal a safe place to send money .
+thank you for using paypal !
+the paypal team
+please do not reply to this e - mail
+as this is only a notification . mail sent to this address cannot be
+answered .
+copyright 1999 - 2005 paypal . all rights reserved .

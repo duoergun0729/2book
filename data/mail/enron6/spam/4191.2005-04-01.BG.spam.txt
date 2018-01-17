@@ -1,0 +1,180 @@
+Subject: curso conceitos & aplicações da certificação digital
+conceitos
+e aplicaes da certificao digital : mais
+segurana com eficcia probatria de contedos
+e processos eletrnicos
+19
+de abril - brasília - df
+inscreva - se aqui
+: : objetivo
+carga
+horria : 8 horas - 1 dia
+horrio :
+8 : 30 s 18 : 00 horas 8 : 30 s 9 : 00 reservado
+para retirada do material e crach de identificao .
+valor :
+curso realizado em brasília - df
+r $ 650 , 00
+desconto
+de 5 % para a segunda ou mais pessoas da mesma empresa caso efetue o pagamento
+at 10 dias antes da realizao do curso .
+obs :
+dever
+ser realizado o pagamento at 5 dias teis antes da data
+do curso
+o
+candidato dever enviar a ficha de inscrio a cone .
+clique
+aqui
+informaes
+complementares 21 - 2285 - 6437 ou 2285 - 6562 eventos @ iconenet . com . br
+www . iconenet . com . br
+inscreva
+- se aqui
+o objetivo
+principal deste curso apresentar as caractersticas , conceitos ,
+potencialidades e aplicaes da certificao
+digital , com detalhes suficientes para que o participante tenha condies
+de visualizar seu potencial de uso em qualquer ambiente organizacional .
+para alcanar este objetivo global , o curso prev atingir os
+seguintes objetivos especficos :
+situar a certificao digital no contexto das tecnologias
+da informao e apresentar os conceitos dos principais componentes
+da certificao digital ;
+detalhar cada um dos componentes de uma infra - estrutura de chaves
+pblicas icp mostrado como possvel garantir
+sigilo , autenticidade e integridade de contedos e processos eletrnicos
+e apresentar os procedimentos necessrios para adquirir e fazer uso
+de certificados digitais ;
+apresentar os principais conceitos e aplicaes da
+tempestividade digital , destacando a importncia da sua integrao
+com a certificao digital ;
+mostrar o potencial de aplicao da assinatura , certificao
+e tempestividade digital , apresentando as diversas possibilidades de uso ,
+tais como : trmite e armazenamento de documentos , autenticao
+de processos , autenticao de cpias eletrnicas ,
+etc . e apresentar os principais casos de sucesso no brasil que j
+utilizam a assinatura e certificao digital ;
+detalhar a infra - estrutura de chaves pblicas brasileira
+icp - brasil , mostrando sua concepo organizacional ,
+poltica de segurana , tipos de certificados , entidades credenciadas ,
+etc . e evidenciar a sua importncia para a certificao
+digital no brasil ;
+apresentar o arcabouo legal no brasil para certificao
+digital e suas principais implicaes , discorrendo sobre os
+mais importantes aspectos jurdicos como : legislao ,
+leis modelo , projetos de lei , eficcia probatria e recomendaes
+da doutrina jurdica ;
+orientar sobre as principais abordagens para viabilizao
+da certificao digital em uma organizao ,
+evidenciando as vantagens e desvantagens de cada uma ;
+relatar os principais mitos e barreiras que dificultam a viabilizao
+da certificao digital , mostrando como possvel
+super - las e assim garantir maior eficcia na implantao ;
+situar sobre importantes desafios com questes ainda em aberto ,
+conscientizando os participantes dos riscos que isso pode acarretar e discutir
+as perspectivas para o futuro quanto a evoluo e uso da certificao
+digital .
+: : pblico - alvo
+executivos ,
+profissionais e usurios das reas de tic ;
+fornecedores de solues de tic e integradores de
+sistemas ;
+consultores e especialistas em segurana da informao ;
+usurios de solues para gerenciamento eletrnico
+de documentos ged ;
+analistas de om envolvidos com projetos de informtica ;
+advogados envolvidos com o direito digital ;
+demais interessados sobre assinatura e certificao
+digital .
+: : contextualizao
+a certificao
+digital um conjunto de tcnicas e processos que propiciam
+mais segurana s comunicaes e transaes
+eletrnicas , permitindo tambm a guarda segura de documentos .
+baseia - se na existncia de certificados digitais , que podem ser
+entendidos como documentos de identificao eletrnicos .
+os certificados digitais so emitidos por autoridades certificadoras ,
+que so entidades consideradas confiveis pelas partes envolvidas
+em uma comunicao ou negociao no ambiente
+eletrnico . esses certificados podem ser emitidos para pessoas fsicas
+ou jurdicas , equipamentos ou aplicaes . um dos
+mais importantes propsitos da certificao digital
+prover a assinatura digital . a assinatura digital uma
+modalidade de assinatura eletrnica que utiliza algoritmos de criptografia
+assimtrica e permite aferir com segurana a origem e a
+integridade de um documento . a assinatura digital fica de tal forma vinculada
+a um documento eletrnico subscrito que , ante a menor
+alterao deste , a assinatura se torna invlida .
+a tcnica permite no s verificar a autoria do documento ,
+como estabelece tambm uma imutabilidade lgica
+de seu contedo , pois qualquer alterao no documento ,
+como por exemplo , a insero de mais um espao entre
+duas palavras , torna a assinatura invlida .
+a certificao
+digital tm as seguintes principais aplicabilidades :
+assinatura de contedos , mensagens e documentos eletrnicos
+com garantia de sigilo , integridade , autenticidade , no repdio
+e eficcia probatria ;
+autenticao de cpias eletrnicas
+( imagens ) de documentos ;
+oferece condies que podem garantir equivalncia
+legal entre documentos em papel e documentos eletrnicos ;
+certificao com eficcia probatria
+de quaisquer agentes atuantes no meio eletrnico tais como : stios
+internet , usurios , remetentes , destinatrios , bancos de
+dados , sistemas , aplicativos , processos , etc ;
+migrao com segurana e legalidade de documentos
+e processos do meio analgico para o meio digital .
+: : programa
+contextualizando
+a certificao digital na rea das tecnologias de informao ;
+vulnerabilidades e necessidades de segurana no ambiente
+eletrnico ;
+conceitos fundamentais sobre certificao digital ;
+infra - estrutura de chaves pblicas icp ( pki ) ;
+exerccio 1 : a importncia do no compartilhamento
+de segredo na criptografia ;
+icp - brasil : concepo organizacional , polticas
+e prticas de segurana ;
+principais aplicaes para assinatura , certificao
+e tempestividade digital ;
+importantes cases de sucesso no brasil utilizando certificao
+digital ;
+exerccio 2 : sigilo , integridade e autenticidade com certificao
+digital ;
+validade jurdica e eficcia probatria com
+certificao digital ;
+abordagens para viabilizar a certificao digital
+na organizao ;
+exerccio 3 : fraudes , f pblica e cuidados
+necessrios ;
+mitos e importantes desafios da certificao digital ;
+consideraes finais , referncias para estudo
+e tempo para perguntas .
+: : material
+didtico e metodologia
+apostila com
+os slides apresentados ;
+listagem dos exerccios a serem aplicados em sala de aula ;
+principais referncias , onde o participante poder
+aprofundar seus conhecimentos sobre assinatura e certificao
+digital ( em formato eletrnico pdf ) ;
+cpia dos slides apresentados ( em formato eletrnico
+pdf ) ;
+cpia dos exerccios com as respectivas resolues
+( em formato eletrnico pdf ) ;
+material de apoio , coffe - break e certificado de concluso .
+: : metodologia
+aula expositiva com apresentao do contedo utilizando
+recurso multimdia ;
+esclarecimento de dvidas e exemplos com acesso
+internet se necessrio ;
+exerccios em sala de aula com aplicao , resoluo
+e comentrios ;
+estmulo reflexo sobre itens que abordam
+desafios ou polmicos .
+se
+desejar retirar seu email de nosso cadastro de mala direta por favor clique
+aqui ou responda para eventos @ iconenet . com . br com o seguinte
+assunto : remove .

@@ -1,0 +1,55 @@
+Subject: re : eprm article
+chris ,
+this is very well written and will serve the reader well . a few comments .
+1 . when i think about the taxonomy of the var models , i typically use the
+classification based on 3 categories :
+a . variance / covariance method
+b . historical simulation
+c . monte carlo simulation .
+delta approach is the way of representing a position in a nonlinear
+instrument .
+2 . i would define monte carlo as an approach based on statistical simulation
+of behavior of
+all the market prices / rates , etc . , and revaluation of the entire portfolio .
+the revaluation may be based on an approximation ( using taylor ' s expansion )
+that may
+involve delta , delta / gamma , delta / gamma / omega or may be exact ( based on the
+same
+model that produces the mark - to - market portfolio valuations ) .
+the main benefit of using the mc simulation in the energy markets is the
+ability to capture
+the gapping behavior of the energy markets in a straightforward way . i would
+emphasize that
+there are attempts to incorporate jumps in the v / c model ( i shall send you
+the references
+from home ) .
+3 . i would mention that historical simulation may break down in the markets
+that are evolving
+quickly ( new instruments for which we have no comparable prices ,
+behavior of prices may change as markets mature or de - mature ) .
+4 . for bigger portfolios , virtually all methods require some level of
+aggregation into
+atomic , elemental instruments to reduce the dimensionality of the problem .
+this process may be a source of a big error .
+5 . the computational burden of mc can be reduced through clever preprocessing
+of a portfolio that introduces no error . many swaps with the same underlying
+can be aggregated into one positions ( they are portfolios of forwards and
+they are linear
+instruments ) .
+please , feel free to use any comment ( or none ) .
+vince
+" chris strickland " on 08 / 28 / 2000 02 : 58 : 56 pm
+please respond to " chris strickland "
+to :
+cc :
+subject : eprm article
+dear vince ,
+?
+d you think you might be able to look at this in the next day or so ? robin
+is after something by the end of this week .
+?
+best regards .
+?
+chris .
+?
+- eprm _ 01 _ var . doc

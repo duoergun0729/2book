@@ -1,0 +1,25 @@
+Subject: i finally was able to implement the new factors for power , now know as project x . if you have time , i would like to give you a down load on the work involved the last few months cleaning things up . overall var is reduced . i ' ve included some highlights below .
+? changed correlation measure to fixed contract instead of using prompt price history
+? extended factors out past prompt month to 24 months ( power only ) , ( previously was for prompt month only )
+o repeating last 12 months ( seasonality ) for 120 months , and scaled by ff vol
+? updated jumps from 1998 ( impacts intra month books )
+o introduced regionally correlated jumps
+? mapped f curves to appropriate r and b curves
+? captured gas leg in spread option
+? captured gas leg in heat rate swaps
+? corrected incorrect curve codes and data input relating to risk type
+( as of sept 24 )
+trader old var new var
+dana davis 2 . 9 1 . 8
+east var 15 . 3 13 . 2
+west var 14 10 . 4
+canada 14 . 3 11 . 4
+power total 35 30 . 8
+additionally , items on our to do list for the future include :
+1 . smoothing of ffvol curve
+2 . introducing more factors to model ( 40 ) . ( improving correlations and decreasing var instability )
+as an aside , we are looking at trying to introduce a fast fourier transformation to improve var modeling , allowing us to increase number and accuracy of simulations .
+in closing , this project could not have been completed without the help of the stephen stock ' s it team , the power traders , tanya tamarchenko , jaesoo lew , stacey white , casey evans , naveen andrews , michael presley and donnie vinson .
+i appreciate your patience , i realize it has been a long haul .
+thanks ,
+frank

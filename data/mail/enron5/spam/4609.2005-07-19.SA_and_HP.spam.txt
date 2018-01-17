@@ -1,0 +1,9 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 06 : 59 : 51 - 0400 ( edt )
+from p 62 fl 74 . ibrkntol . ap . so - net . ne . jp [ 219 . 98 . 241 . 116 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 550 requested action not taken : mailbox unavailable )
+- - - - - transcript of session follows - - - - -
+. . . while talking to mail . brooksdisanto . com . :
+> > > rcpt to :
+. . . user unknown

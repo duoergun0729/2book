@@ -1,0 +1,102 @@
+Subject: london status report - research weather effort
+vince ,
+fyi to give you background for tomorrow ' s telephone conference
+steve is really a home - run hitter
+mike
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike a roberts / hou / ect on 04 / 12 / 2001
+09 : 26 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : stephen bennett @ enron 04 / 12 / 2001 09 : 02 am
+to : mike a roberts / hou / ect @ ect
+cc :
+subject : london status report
+hi mike ,
+before we meet with vince tomorrow - i thought we should drop you a line and
+give you an idea as to what ' s been accomplished in the first week as well as
+some of the challenges and problems we ' ve run into . this way we can make the
+most effective use of vince ' s time .
+1 ) current products and customers
+in our first 3 days - we established 6 different customer groups -
+representing approximately 40 traders plus additional fundamentals and
+analytics folks . the groups are : uk trading , gas fundamentals , crude
+trading , weather derivatives , continental power , and an internal trader
+newsletter .
+we ' ve built the following framework to address these customers - the key
+deadlines are noted :
+0800 : uk trading / weather derivatives / fundamentals : prepare a 1 to 5 day uk
+specific forecast and assess the 12 z runs of the ecmwf ( and ensembles ) , the
+avn as well as earthsat ' s 1 - 5 day outlook . the traders are particularly
+interested in the performance of the ecmwf as it feeds all of their demand
+models . we prepare a 1 page summary and give an idea as to any particular
+forecast biases - whether we feel things may come in warmer or colder than
+the model . we brief the traders and field questions then provide our report
+to the fundamentals group .
+* * in the future we would like to be able to gather raw data from the avn and
+mrf to provide a series of choices which could be input into their demand
+models or at least be able to give them our " best pick " of guidance and how
+we feel things may deviate from that pick .
+1030 am : obtain the uk met 6 - 10 and 1 - 5 day forecasts . provide comment for
+uk trading .
+1200 : uk trading / crude and products / weather derivatives : prepare a full
+qualitative analysis of oz models ( mrf / nogaps / canadian / ensembles ) . produce a
+6 to 10 day europe forecast and make any needed adjustments to the 1 to 5 day
+forecast . produce the global weather report including a global executive
+summary ; analysis of teleconnections and their expected impact ; 1 to 5 and 6
+to 10 day forecasts compared to earthsat ; a 10 day city forecast table for
+european cities along with the expected effect on heating demand and finally
+a " port status report " describing weather and port conditions in 11 worldwide
+ports . update traders ( uk and wx deriv ) on changes or new trends in the oz
+models . provide a quality assessment of the uk met 6 to 10 and 1 to 5 day
+forecast for uk trading .
+1330 ( mon - wed ) : brief the crude and products groups in london and houston .
+1600 : review 12 z avn for any major forecast changes and communicate changes
+to traders .
+weekly : produce a weather article for " critical mass " - internal trading
+newsletter .
+of course between 1000 and 1330 we are looking closely at the us weather for
+support to you guys in houston . i ' m still writing the daily us executive
+summary as well as producing a 6 to 10 day us forecast .
+2 ) requested projects :
+* gas fundamentals has asked us to provide weather information for their
+morning report and website . they would like to be able to gather objective
+output from as many forecast models as we can get .
+* weather derivatives has asked for week ahead , month ahead , and seasonal
+outlooks for temperature and precipitation . they have also asked about
+creating a tradeable " nao index " and developing an in - house model for
+forecasting nao .
+* continental power has asked for temperature and precipitation outlooks for
+power generation and hydro .
+* gas fundamentals , uk trading , continental power , weather derivatives and
+crude and products have all asked for a european summer outlook for
+temperature and precipitation . we expect to have this completed tomorrow .
+* the research group has asked for assistance in gathering climate data
+across spain for temperature and precipitation .
+3 ) leads to follow up on :
+* elsa in houston asked us to contact some of the softs traders here and let
+them know once we were up and running .
+* contact chris mahoney to determine if we can provide and additional support
+for crude and products .
+* follow up on a potential morning breifing for continental power
+4 ) challenges :
+* we ' ve been told that we will be moving locations next week - which might
+entail corrupting or loosing the software and hardware configurations that
+have taken almost a week to get fully established . it seems that this office
+functions on a " hot desk " system where people are constantly moving around .
+this will make it very difficult to stay connected - as well as very
+difficult for our customers to identify us .
+* administrative detail take an inordinate amount of time . assembling
+reports both physical and electronic can take nearly as long as actually
+preparing the reports !
+- - -
+mike ,
+ok - i think that brings you up to speed . i ' ve been amazed at the amount of
+feedback we ' ve already gotten and we ' ve only been here 3 days ! on that note
+i wanted to let you know that i am fully committed to this project . it seems
+that we will not have a second meteorologist to assist tony by my planned
+departure date on the 20 th . as such - i can continue in my current role
+through my planned vacation - keeping me in london until the 27 th - which is
+my current reservation back to houston . i am also open to remaining in
+london beyond the 27 th to ensure the success of this project .
+hopefully this gives you a good idea as to what ' s gone on in the first few
+days here . we look forward to talking to you later today and with you and
+vince tomorrow .

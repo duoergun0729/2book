@@ -1,0 +1,22 @@
+Subject: fw : annuities for desk analysis in st - wserv book
+dear all ,
+regarding the email i sent below , for deal # 442038 and # 442872 , they were originally entered in oct , 2000 for st - whourly book to receive annuity amount of $ 53 , 518 . 94 from saguaro and $ 172 , 518 . 16 from las vegas cogen respectively . however , they were supposed to be for st - wserv to receive those money because at that time , st - wserv book was not set up yet . these amounts had already gone through to st - whouly book in 11 / 30 / 00 p & l as pma . in jun 2001 , the deals were changed to st - wserv book but they were not actually picked up by settlement and risk ( as the deals have already liquidated , i . e . , strip dates are passed ) . in order to reflect the change in desk , we need to put in two annuities today :
+# 683673 - st - wserv sell to st - whourly for $ 53 , 518 . 94
+# 683684 - st - wserv sell to st - whourly for $ 172 , 518 . 16
+these amounts will be showing up in 7 / 12 p chang , fran ; rawson , lester ; foster , chris h . ; clemons , amy ; confer , mark
+subject : re : annuities for desk analysis in st - wserv book
+[ i have sent out this email earlier but i needed to revise it so i recalled it . for those of you who received the earlier version , please just discard it . ]
+hi godfrey ,
+i would like to summarize our discussion on those deals we have had questions about ( as described in the previous emails ) , in terms of when and how they will be come through or corrected in the coming future . please review and let me know if they are not correct :
+1 . # 442038 - the change in the annuity amount of $ 4 , 706 . 28 ( from $ 53 , 518 . 94 to $ 48 , 812 . 66 ) will be coming through in june desk analysis ( = pma at the end of july ) as an outflow to st - wserv book .
+chris and les - i will put in a new annuity deal for the amount of $ 53 , 518 . 94 for st - wserv book sell to st - whourly to reflect the change in desk ( from st - whourly to st - wserv ) of the deal ; the desk change made on 4 / 17 was not picked up by settlement as they were not informed . with the adjustment , the net effect of $ 48 , 812 . 66 will be given back to wserv .
+2 . # 584331 - it will come through in june desk analysis
+3 . # 600480 & # 595779 - since these are interdesk deals , we will take care of it by entering two new annuity deals today ( # 680210 & # 680220 ) . they were not picked up by settlement as pma when they were entered on 5 / 2 & 4 / 29 because they were interdesk deals .
+4 . # 598971 ( leg 1 - 5 ) - they will show up in july desk analysis ( = pma at the end of august )
+5 . # 442872 - the change in the annuity amount of $ 126 , 542 . 87 ( from $ 172 , 518 . 16 to $ 45 , 975 . 29 ) will be coming through in jun desk analysis as an outflow to st - wserv book .
+again , the change in desk ( from st - whouly to st - wserv ) will then be reflected by a new annutiy deal for $ 172 , 518 . 16 with st - wserv sell to st - whouly .
+6 . # 666350 & # 666351 - they will show up in june desk analysis ( = pma at the end of july )
+please feel free to correct or add anything to the above information .
+thanks ,
+samantha
+503 . 464 . 7248

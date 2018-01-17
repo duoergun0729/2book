@@ -1,0 +1,13 @@
+Subject: merit increases
+norma ,
+it seems that there is a bug in the system . i made an error mixing equity and
+merit raises in one column . the system does not allow me to correct the
+mistake by
+moving the entries from one column to another . i can enter the changes , but
+after i save them the system reverts to original designations .
+as a result , the columns contain mixed entries related to merit and equity
+raises .
+the column totals are misleading .
+i am taking a csv version home to continue making adjustments .
+i shall work at home monday ( 281 367 5377 ) .
+vince

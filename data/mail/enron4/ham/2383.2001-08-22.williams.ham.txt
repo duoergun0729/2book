@@ -1,0 +1,8 @@
+Subject: west hourly eol trades - no confirm
+to all -
+as you may already know , the short term west hourly desk began trading the enron online hourly market on monday . these deals should be treated just like all short term west hourly deals - they do not need to be confirmed . unfortunately , it seems the eol application created for us is defaulting to " yes - confirm , " and west hourly deals are being pulled into your batches of confirmation letters .
+i ' ve spoken with the eol help desk about changing this default setting , and they ' ve informed me that it may take a day or two to make that change . in the meantime , i wanted to make you aware of these deals ' existence . you will be seeing larger numbers of trades from the short term west hourly desk in the future , and many of these will be made on eol . again , these should be treated as with any other west hourly deal and do not need to be confirmed .
+please let me know if you have any questions about this . i ' ll let you know as soon as i ' ve heard more conclusive information from eol . and thanks for your help .
+kate symes
+real time trading support
+503 - 464 - 3939

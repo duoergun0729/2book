@@ -1,0 +1,114 @@
+Subject: re : invitation for review a paper for the ieee trans . neural networks
+giorgo
+efxaristo pou apodektikes .
+an thes , kane to review mazi me to dr perantoni kai dose ta
+stoixoia tou sto review form - i an protimas mporo na ton
+kaleso xehorista .
+to review tha prepei na epistrafei konta mou mexri tis 17 martiou .
+xeretismous
+costas
+- - - - - original message - - - - -
+from : george paliouras [ mailto : paliourg @ iit . demokritos . gr ]
+sent : thursday , january 27 , 2005 11 : 45 am
+to : costas pattichis
+cc : me
+subject : re : invitation for review a paper for the ieee trans . neural
+networks
+dear prof . pattichis ,
+thank you for your kind invitation to review this paper .
+could you please inform me about the time available for the review .
+i should also clarify that my knowledge on dynamic programming is limited
+and
+may not be able to comment on the soundness of the method .
+another colleague of mine who may be more appropriate is dr . perantonis
+( sper @ iit . demokritos . gr )
+best regards ,
+giorgos paliouras
+costas pattichis wrote :
+dear giorgo :
+i have received the following manuscript : reference
+tnno 5 - p 406 , one - class - at - a - time removal sequence
+planning method for multiclass classification problems ,
+for possible publication in the ieee transactions on neural networks .
+because of your expertise in this area , you have been invited to
+be part of a peer review committee for this manuscript . please
+reply to this email to let me know whether or not you are
+available to review this paper . your help would be greatly
+appreciated .
+also , if you could identify and forward to me the names and
+addresses of other individuals who are respected in their field
+that may be able to serve as future reviewers , i would greatly
+appreciate the reference .
+thanks in advance for your assistance .
+best regards ,
+prof . constantinos pattichis
+department of computer science
+university of cyprus
+ieee transactions on neural networks part 1 of 2
+official technical paper review form for regular papers
+( privileged information )
+paper code : tnno 5 - p 406
+paper title : one - class - at - a - time removal sequence planning
+method for multiclass classification problems
+author ( s ) : chieh - neng young , chen - wen yen , yi - hua bau , and mark l .
+nagurka
+return completed form by email to the ae ( manuscript if annotated )
+please return before : march 17 , 2005 - - - - - - - - - - - - - - - - - - - - - - -
+associate editor : dr . constantinos s . pattichis e - mail :
+pattichi @ cs . ucy . ac . cy
+address : department of computer science phone : + 357 22 - 892697
+university of cyprus fax : + 357 22 - 892701
+75 kallipoleos str .
+p . o . box 537
+cy - 1678 nicosia
+cyprus
+reviewer ' s name : reviewer no . :
+e - mail : tel :
+address : fax :
+date :
+1 . content : ( please detail your responses , as required , in part 2 )
+a . what is the level of technical quality ?
+poor average good excellent
+b . what level of reader interest do you anticipate ?
+low average high
+c . are the disclosed results accurate ? no not clear yes
+d . are the disclosed results significant ? no not clear yes
+e . does the manuscript describe original work ?
+no not clear yes
+f . does the paper have a significant tutorial / survey value ?
+no not clear yes
+g . should technical material be deleted or added ?
+mo not clear yes
+h . are the references adequate ? no not clear yes
+2 . presentation : ( please detail your responses in part 2 )
+a . is the abstract adequate ? no somewhat yes
+b . does the introduction clarify the background and motivation ?
+no somewhat yes
+c . does the manuscript clarify what has been done and why ?
+no somewhat yes
+d . is the order of presentation satisfactory ?
+no somewhat yes
+e . is the english satisfactory ? no somewhat yes
+3 . recommendation :
+_ _ _ accept in its present form
+_ _ _ revise and accept ( changes may require re - examination by
+the associate editor and perhaps by one or more reviewers )
+please check _ _ _ if you wish to see the revision .
+_ _ _ revise and resubmit ( the manuscript may contain publishable
+results . requires major revision , resubmission and
+re - review of revised manuscript )
+_ _ _ reject and do not encourage re - submission
+4 . confidential comments for associate editor and the editor
+ieee transactions on neural networks part 2 of 2
+official technical paper review form for regular papers
+( privileged information )
+( only this part below will be returned to author )
+manuscript no . tnno 5 - p 406 reviewer no . :
+title : one - class - at - a - time removal sequence planning
+method for multiclass classification problems
+5 . comments and suggestions for author ( s ) :
+please provide deatiled comments and suggestions for the author ( s ) .
+the objective is to guide possible revisions to improve the quality
+of the manuscript or to explain reasons for rejection . please do not
+identify yourself or your organization ; a copy of this page will be
+sent to the author ( s ) .

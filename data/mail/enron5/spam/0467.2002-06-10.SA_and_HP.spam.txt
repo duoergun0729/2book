@@ -1,0 +1,43 @@
+Subject: "
+content - type : text / plain ; charset = " us - ascii " ; format = flowed
+content - transfer - encoding : 7 bit
+subject : [ sa ] drive everywhere
+sender : spamassassin - sightings - admin @ example . sourceforge . net
+errors - to : spamassassin - sightings - admin @ example . sourceforge . net
+x - beenthere : spamassassin - sightings @ example . sourceforge . net
+x - mailman - version : 2 . 0 . 9 - sf . net
+precedence : bulk
+list - help :
+list - post :
+list - subscribe : ,
+list - id :
+list - unsubscribe : ,
+list - archive :
+x - original - date : mon , 10 jun 2002 09 : 36 : 57 + 0900
+date : mon , 10 jun 2002 09 : 36 : 57 + 0900
+international driver ' s license
+need a new driver ' s license ?
+too many points or other trouble ?
+want a license that can never be suspended
+or revoked ?
+want an id for nightclubs or hotel check - in ?
+avoid tickets , fines , and mandatory driver ' s
+education .
+protect your privacy , and hide your identity .
+the united nations gave you the privilege to
+drive freely throughout the world ! ( convention
+on international road traffic of september 19 ,
+1949 & world court decision , the hague ,
+netherlands , january 21 , 1958 )
+take advantage of your rights . order a valid
+international driver ' s license that can never
+be suspended or revoked .
+confidentiality assured .
+call now ! ! !
+1 - 770 - 908 - 3949
+we await your call seven days a week , 24 hours a day ,
+including sundays and holidays .
+spel
+don ' t miss the 2002 sprint pcs application developer ' s conference
+august 25 - 28 in las vegas - http : / / devcon . sprintpcs . com / adp / index . cfm ? source = osdntextlink
+spamassassin - sightings mailing list

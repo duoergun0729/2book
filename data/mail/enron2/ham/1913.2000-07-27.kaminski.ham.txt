@@ -1,0 +1,36 @@
+Subject: re : aluminium asian digital options
+anjam ,
+we can use moment matching to find the " effective " volatility and dividend
+yield for the average .
+then we can apply the european digital option formula . attached please find
+the c - code i did
+for asian spread option , when i find the effective vol and drift for both
+averages then find the option
+value by calling the european spread option . you can do just the same for
+the asian digital option .
+it would be nice to do a monte - carlo , just checking the accuracy of the
+approximation .
+it was nice to have you here , we are impressed by the work you have done .
+keep up the good work .
+zimin
+enron capital & trade resources corp . - europe
+from : anjam ahmad 07 / 27 / 2000 10 : 14 am
+to : zimin lu / hou / ect @ ect
+cc :
+subject : aluminium asian digital options
+hi zimin ,
+russell placket of mg metals just talked to me about the issue of pricing a
+strip of twelve monthly asian digital options on lme aluminium . as i
+understand , the payoff to the customer is a fixed cash amount that wil be
+paid if the average of the closing prices of aluminium for a month are
+greater than the strike agreed in advance , where holiday days do not
+contribute to the average .
+russell mentioned that this would be a set of 12 monthly options starting in
+jan - 01 , and that the lme price for jan - 01 of $ 1572 . 5 ( which is the future
+converging to the spot price on the 3 rd wednesday in jan 01 ) can be used as a
+proxy / estimate for the average for the month .
+do you have a model for asian digitals or should i proceed with monte carlo
+to price this , maybe using european digital option model as control variate ?
+thanks ,
+anjam
+x 35383

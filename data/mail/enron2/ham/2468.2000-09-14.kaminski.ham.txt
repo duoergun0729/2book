@@ -1,0 +1,107 @@
+Subject: update on ut - enron activities : my conversation with rick causey
+vince ,
+good morning .
+as you may know , last thur . enron honored this year ' s recipients of the
+enron mba excellence fund scholars at a dinner in austin . in addition to
+the three recipients , business school dean may and several of my
+colleagues , enron attendees included sally beck , cindy justice , karen
+marshall ( newly - appointed coordinator of higher education initiatives for
+enron community relations dept . ) and rick causey .
+i write you at this time to advise you i had occasion to discuss two
+current enron / ut issues with rick :
+i . spring 2001 conference participation by jeffrey k . skilling
+ii . ut participation in enrontraining activities
+per my conversation with rick last thur . , i followed up on that discussion
+with an e - mail this morn that touched on those two topics .
+i . with respect to the first , i wrote rick this morning that :
+1 . we at the ut center for energy finance education and research ( cefer )
+are planning a practitioner - industry conference in spring 2001 ( late feb .
+or early march ) to discuss four topics : risk management , deregulation ,
+real options , and international / globalization .
+2 . the conference will kick off with a dinner / keynote address thur .
+evening , then continue all day fri .
+3 . i have had several discussions with you regarding conference timing ,
+structure , participation and content .
+4 . further to rick ' s agreement to do so during our discussion last thur . ,
+in today ' s e - mail i asked rick to extend an invitation to jeff skilling to
+be the keynote speaker at the thur . evening dinner .
+ii . with respect to the second topic , rick and i also discussed ut
+partcipation in enron corp . internal training for incoming enron corp .
+analysts and associates . consequently , i e - mailed rick this morning a
+specific set of issues - - " valuation and risk management in energy markets "
+- - which my ut colleagues and i have covered in public as well as
+customized exec ed settings , and which we would be pleased to customize for
+presentation at enron . fyi , i am enclosing a copy of said topics at the
+end of this e - mail .
+i look forward to seeing you again soon , and to your ut visit on 10 / 11 . best ,
+ehud
+training program : " valuation and risk management in energy markets "
+target audience : associates , analysts , traders , marketing / sales , risk
+managers , financial analysts
+program objectives :
+1 . understanding the physical and financial u . s . markets for electricity
+and natural gas
+2 . understanding the structuring , reverse engineering and valuation of
+exchange - traded and otc energy derivatives , including " exotic " options ,
+structured products , and spread and basis products
+3 . promoting a common language between trading and marketing personnel
+regarding valuation and hedging of structured products
+4 . risk - management
+program contents :
+i . " electricity 101 "
+- - problems in pricing
+- - spot markets
+- - forward markets
+- - trading : basis , fixed - price , volatility
+- - markets : characteristics and participants
+ii . valuation / structuring / hedging
+1 . fundamentals of forwards and futures contracts :
+- - forward contracts : definition , payoff diagram , pricing by arbitrage
+- - futures vs . forwards
+- - commodity futures
+- - swaps
+- - constructing forward curves : contrast with price forecast ; using the
+spark spread ; incorporating regional bases
+2 . introduction to option pricing :
+- - payoffs
+- - put - call parity
+- - binomial model
+- - black - scholes formula
+- - option " sensitivities " ( the " greeks " ) ; delta and gamma
+3 . uniqueness of energy derivatives :
+- - " term structure " of volatility
+- - convenience yield / seasonality
+- - basis
+4 . estimating volatility in energy markets :
+- - estimating volatility in financial markets
+- - hourly vs . daily vols
+- - historical or implied vols ?
+- - characterizing the volatility " surface " across time and strike
+5 . design and valuation of structured products in commodity markets :
+- - valuation of european call options in energy markets
+- - average options on oil futures contracts
+- - spread and basis products
+- - " swing " options in power markets
+- - weather derivatives
+6 . risk - management
+- - motivation for structured trades
+- - valuation of real options ( e . g . , valuation of power plant or gas field )
+- - value - at - risk ( one - and multi - factor models )
+- - repowering option
+7 . advanced topics ( for qualified audiences )
+- - relationship between forward prices and expected spot prices
+- - the importance of hedging volatility changes
+- - consistent method for estimating hourly , daily and monthly term
+structures of volatility
+- - practical alternatives to vega - hedging
+- - applying options theory to the valuation of power plants
+- - valuation of " swing " options under ruthless and non - ruthless exercise
+ehud i . ronn
+professor of finance and jack s . josey professor in energy studies
+director , center for energy finance education and research
+mccombs school of business
+university of texas at austin
+austin , tx . 78712 - 1179
+voice : ( 512 ) 471 - 5853
+fax : ( 512 ) 471 - 5073
+internet : eronn @ mail . utexas . edu

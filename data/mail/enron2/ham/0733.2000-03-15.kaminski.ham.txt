@@ -1,0 +1,75 @@
+Subject: btrieve free ride ends
+network world fusion focus : dave kearns on novell netware
+today ' s focus : btrieve free ride ends
+03 / 14 / 00
+dear wincenty kaminski ,
+today ' s focus : btrieve free ride ends
+by dave kearns
+netware has shipped with btrieve ( originally a flat - file database
+system , now grown into a full - fledged relational database system ) since
+the days of netware 2 some 12 years ago . many independent software
+vendors have relied on this and constructed their netware applications
+to use the built - in facilities btrieve afforded .
+originally licensed from its creator , softcraft , novell bought btrieve
+outright in the late  + 80 s , then sold it off 10 years later to some of
+the original developers , now incorporated as pervasive software .
+pervasive has , essentially , retired the btrieve name in favor of
+" pervasive sql 2000 , " a true relational database system which
+nevertheless still purports to support applications written to the
+btrieve 6 . x specification .
+a major change has been introduced in netware 5 . 1 , however . there is no
+longer an unlimited - use version of the database included . novell still
+uses btrieve technology for ( among other things ) its installed products
+database ( sys : system \ products . dat is the file ) , but netware 5 . 1
+includes only a two - user license for sql 2000 enough for the
+administrator to add new products and services , but not enough for any
+btrieve - based applications the network might be running .
+there is an unlimited - use version of sql 2000 included , but it  , s an
+evaluation version only . it will time out after 90 days . full - use
+licenses may be purchased from pervasive software ( or your software
+vendors may provide them ) , but unsuspecting network administrators
+could be caught off - guard when applications stop working .
+for the adventurous , there is an unlimited - use version of btrieve 6 . 10
+included with the netware 5 . 1 distribution . but novell admits it hasn ' t
+tested the software with netware 5 . 1 , it may not work , and the real
+killer most current applications ( such as computer associates
+arcserve ) require btrieve 6 . 15 .
+check the applications you ' re using before doing that upgrade to
+netware 5 . 1 , and calculate the additional costs of obtaining the
+requisite number of sql 2000 licenses . then , decide if that ' s what you
+want to do , or if switching to a different application is the better
+choice .
+to contact dave kearns :
+- - - - - - - - - - - - - - - - - - - - - - -
+dave kearns is the word wrangler for virtual quill , a writing agency
+serving the computer and networking industries . if your target
+customer doesn ' t know your product , doesn ' t know its uses and doesn ' t
+know he needs it , he ' s not going to buy it . from books to reviews ,
+marketing to manuals , vq can help you and your business . virtual quill
+- " words to sell by . . . " find out more at : http : / / www . vquill . com / , or
+by e - mail at mailto : info @ vquill . com .
+for related links - - click here for network world ' s home page :
+http : / / www . nwfusion . com
+pervasive . sql  v 2000 product family sdk
+understanding pervasive . sql 2000 , a white paper ( pdf )
+migration guide 6 to pervasive . sql . doc
+% 20 to % 20 pervasive . sql . pdf
+other netware - related articles from network world :
+active directory upgrade requires strong game plan , network world ,
+03 / 13 / 00
+microsoft exec sketches future for win 2000 , network world , 03 / 13 / 00
+subscription services
+to subscribe or unsubscribe to any network world e - mail newsletters ,
+go to :
+to change your email address , go to :
+subscription questions ? contact customer service by replying to this
+message .
+other questions / comments
+have editorial comments ? write jeff caruso , newsletter editor , at :
+mailto : jcaruso @ nww . com
+for advertising information , write jamie kalbach , account executive ,
+at : mailto : jkalbach @ nww . com
+network world fusion is part of idg . net , the idg online network .
+it all starts here :
+http : / / www . idg . com
+copyright network world , inc . , 2000

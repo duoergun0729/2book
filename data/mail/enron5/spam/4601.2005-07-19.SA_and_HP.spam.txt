@@ -1,0 +1,11 @@
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 05 : 58 : 42 - 0500
+from [ 210 . 207 . 1 . 119 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+( reason : 553 5 . 3 . 0 . . . relay validation failed - user not found )
+- - - - - transcript of session follows - - - - -
+. . . while talking to localhost :
+> > > data
+. . . relay validation failed - user not found
+550 5 . 1 . 1 . . . user unknown
+< < < 503 5 . 0 . 0 need rcpt ( recipient )

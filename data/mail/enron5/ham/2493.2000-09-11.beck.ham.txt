@@ -1,0 +1,44 @@
+Subject: re : manual wires - sign off
+sheila
+changes to the manual list for north america need to be authorized by wes and
+sally . we are specifically limiting the number of signers .
+i think that what we need to do is immediately address the issues that are
+causing your wires to miss the standard process . we did not have the issue
+prior to sap .
+please outline your processing requirements and we can work together with ap
+and sap to fix the underlying issue .
+thanks for the help .
+mary
+from : sheila glover 09 / 11 / 2000 10 : 54 am
+to : mary perkins / hou / ect @ ect
+cc : brent a price / hou / ect @ ect , sally beck / hou / ect @ ect , laurel
+adams / hou / ect @ ect , theresa t brogan / hou / ect @ ect
+subject : manual wires - sign off
+mary ,
+i want my name and theresa brogan ' s added to the authorized approvers on
+manual wires .
+thanks , sheila
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheila glover / hou / ect on 09 / 11 / 2000 10 : 52
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : sheila glover 09 / 08 / 2000 10 : 09 am
+to : mary perkins / hou / ect @ ect , larry dallman / gpgfin / enron @ enron , wes
+colwell / hou / ect @ ect
+cc : frieda schutza / gpgfin / enron @ enron , carolyn centilli / corp / enron @ enron ,
+laurel adams / hou / ect @ ect , brent a price / hou / ect @ ect , sally beck / hou / ect @ ect
+subject : manual wires
+mary , larry and wes ,
+we just received a faxed copy of the manual wire and same day payment memo
+which was sent by betty tauzier on 8 / 28 / 00 .
+rate & currency trades fx which is settled the following day and requires
+next day payments for fx . currently we are severely hampered because our
+infomation is required into unify by 2 : 30 for an accounts payable run at 4 : 00
+for next day payments . we are still trading after these cut - offs and tying
+out the day ' s activity with trading . therefore , we currently have to rely on
+manual wires to make payments to our counterparties on the value date .
+we need to get timeframes which mirror our business requirements . i would
+like to get the accounts payable run for our companies , 842 and 967 , moved to
+after 5 : 00 pm . information is not due to the bank until next day . 8 : 00 am
+london time .
+please let laurel and me know what changes can be done to our processing
+flows .
+thanks . sheila

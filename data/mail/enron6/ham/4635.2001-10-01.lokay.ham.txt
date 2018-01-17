@@ -1,0 +1,7 @@
+Subject: pnr billing detail - september 2001
+attached is an excel workbook that contains the details of the september pnr billing . if you have any questions , please call me .
+below is a summary of the pnr charges :
+buyer p . o . # poi bom bal dekatherm rate / dth invoice amount
+usgt 27268 500622 ( 722 ) 722 $ 0 . 0400 $ 1 , 264 . 69
+calpine 27507 78151 0 39 , 000 $ 0 . 3883 $ 15 , 526 . 95
+totals 39 , 722 $ 16 , 791 . 64

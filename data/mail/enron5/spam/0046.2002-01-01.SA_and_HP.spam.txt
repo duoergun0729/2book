@@ -1,0 +1,146 @@
+Subject: robhatah istore - humanoids , bipeds , dsps , sensors and oscilloscopes
+dear researcher ,
+robhatah is delighted to announce , for the first time , our great line up
+of robotic research platforms , dsps , sensors , digital oscilloscopes and
+other robotic / electronic products .
+do visit
+www . robhatah . com to visit our
+website and
+http : / / robhatah . com / cubecart / index . php to go directly to our online
+shopping cart .
+visit our
+online shop now to
+receive superb prices on your early purchases .
+we wish you luck in your robotics
+endeavors and hope to be your biggest supporters in your research
+achievements .
+sincerely ,
+bob virtual
+sales department
+robhatah robotic solutions
+www . robhatah . com
+ps : we encourage constant
+feedback / suggestions to better our services . send us your comments by writing into
+sales @ robhatah . com .
+multiple award winning
+humanoid research robot - manus i
+robust aluminium alloy body and off the shelf components
+enable maximum flexibility to the researcher
+-
+manus - i tops again ! - fira ' 04 ( hit , china )
+-
+winner , fira 2003
+( hurosot ) ( nus ,
+singapore )
+-
+winner , singapore robotic games 2004 ( nus , singapore )
+height : 50
+cm
+weight
+: 2 . 5 kg dof : 17 processors : 2
+motorola 16 bit dsps
+sensors : cmos camera ( pan tilt ) , electronic compass , ir sensor ,
+force sensor , optional tilt sensor
+manus - i is
+capable of visually tracking and walking towards colored targets . it has
+dynamic walking and obstacle avoidance capabilities . the dimensions and
+specifications are designed to meet the fira - humanoid competition rules .
+manus - i can even kick a ball into a goal . other capabilities include
+getting up from a seated position and climbing stairs .
+write into
+support @ robhatah . com to see some
+of our customer testimonials and to communicate directly to an expert .
+biped research robot -
+manus tlr
+height : 35
+cm weight
+: 1 . 75 kg dof : 12 processors :
+2 motorola 16 bit dsps
+sensors : electronic compass , ir sensor , force sensor , optional tilt
+sensor
+manus - tlr is an ideal platform for
+educators and researchers to jump - start their own biped or humanoid
+projects . the system is fully modularized and allows researchers to modify
+or add new features . rbhatah team provides comprehensive technical
+support to help students and researchers .
+click on image for more details on manus - tlr . alternatively , view our
+biped page by clicking
+here .
+portable oscilloscope :
+stingray
+portable and stylish , stingray combines the functions of oscilloscope ,
+data logger , spectrum analyser , volt meter , frequency meter and signal
+generator in a single instrument . powered from usb , stingray needs no
+external power supply .
+stingray features simultaneous 12 - bit sampling on both channels , a native
+sampling rate of lms / s ( 20 ms / s for repetitive signals ) , sophisticated
+hardware triggering including delayed time base and pulse width . it also
+has a 3 rd channel which can be a waveform generator output or an external
+trigger input .
+click on image for more details about the stingray .
+stereo vision enabled
+research robot - bebop
+bebop was
+designed to be an affordable solution for researchers and hobbyists in
+mobile robotics .
+features :
+- mobile chassis with 12 v battery and charger
+- embedded x 86 processing system
+- stereo - vision sensor system
+- real - time linux - based operating system
+click on image for more details on the bebop . alternatively , visit our
+bebop page by clicking
+here .
+heavy duty dsp -
+isopod
+isopod ? _ v 2 is
+suitable for dedicated control of rc servo motors , dc motors , bdcm ,
+stepper motors , solenoids , and other bipolar power outputs , such as
+general converter / inverter applications , data collection and many
+networked control applications .
+click on image for more details about the dsp . extensive information can
+be found by clicking
+here .
+unmatched servo
+control dsp - servopod
+a 16 - bit dsp
+microcontroller , based on motorola dsp 56 f 807 mpu embedded with a virtually
+paralell machine language , isomax ? on a small , user - accessible board .
+features include : connections for 26 rc - servo motors , two serial rs - 232
+channels , can bus driver , jtag interface , 16 - channel 12 - bit a / d , 60 kxl 6
+program flash eeprom , serial cable transformer included . it is a perfect
+board for robotic , motion control , automotive applications .
+to go to our online shopping system , click on the image . for more
+information on the dsp , click
+here .
+robot soccer system
+- perfect all - round wheeled robot research system
+the full system comprises of 6 wheeled robots , overhead cameras , software
+the robosoccer field .
+the robot soccer system offers a challenging arena to students and
+researchers to demonstrate their advanced autonomous mobile robotic
+technology . the multi - disciplinary robotic soccer platform is an ideal
+jump start for education and research in robotics , machine vision ,
+controls , ai and wireless communications .
+click
+here for more
+details .
+flexible reliable force
+sensors - flexiforce .
+the flexiforce
+a 201 force sensor is an ultra - thin , flexible printed circuit . the force
+sensors are constructed of two layers of substrate ( polyester / polyimide )
+film . on each layer , a conductive material ( silver ) is applied , followed
+by a layer of pressure - sensitive ink . adhesive is then used to laminate
+the two layers of substrate together to form the force sensor . the active
+sensing area is defined by the silver circle on top of the
+pressure - sensitive ink . silver extends from the sensing area to the
+connectors at the other end of the sensor , forming the conductive leads .
+a 201 sensors are terminated with male square pins , allowing them to be
+easily incorporated into a circuit . the two outer pins of the connector
+are active and the center pin is inactive .
+click on image to buy flexiforce now .
+© robhatah private limited ,
+# 02 - 12 b , 4 engineering drive 3 , singapore 117583 . tel : ( 65 ) 6872 5092
+fax : ( 65 ) 6874 4089 .
+all rights reserved .

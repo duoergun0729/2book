@@ -1,0 +1,173 @@
+Subject: material for thu 2 mar wg meeting
+fyi .
+- - - - - forwarded by ravi thuraisingham / enron communications on 02 / 29 / 00 01 : 15
+pm - - - - -
+nevil @ ipn . caida . org
+02 / 28 / 00 10 : 35 pm
+to : metrics @ caida . org
+cc : ( bcc : ravi thuraisingham / enron communications )
+subject : material for thu 2 mar wg meeting
+hello all :
+appended below you ' ll find a summary of ideas that people have contributed
+since we at caida began to get the metrics wg started . some of this
+material has already appeared on the metrics mailing list , the older
+material comes from personal emails . i ' m posting it again to give us all
+some more ideas to think about .
+for those who are able to attend the wg meeting in san jose this thursday
+( 2 mar ) , i ' d like to spend time in the morning getting to know about
+attendees interests and experience in making internet measurements .
+i suggest that a good way to do this would be to have each group give a
+short ( 10 minutes , response times , and this gets even more interesting . . . you only need
+> to be able to see traffic in one direction ( from client to server ) to
+> get a fairly accurate round - trip time from the client to the server
+> ( irrespective of how far away the client is from your measurement
+> host ) , because of tcps three - way handshake for connection
+> establishment ; when you see the opening syn , you wait for the client
+> to ack the server ' s syn ack and you have the client - > server round - trip
+> time . i think you ' ve actually already done some of this ? we could
+> also potentially try to correlate dns queries and tcp connections ,
+> perhaps determining some probabilities in a given environment of a
+> host initiating a tcp connection to a host for which it just received
+> an a record , and track various application - level response times ( i ' d
+> personally love to have a lot of data on the ratio of dns response
+> time to tcp transfer time for http connections ) . even if the
+> measurement makes no attempt to discern what constitutes a web
+> transaction to the user ( a full page , usually many tcp connections ) .
+>
+> anyway , i think there are some fairly interesting things we can
+> measure with simple techniques , these are just some simple ones .
+> there may be some interesting things we could do by digging into
+> payloads of a few of the other highly - utilized applications , but doing
+> it for tcp is a nightmare perfomance - wise . but we now have the basic
+> infrastructure to do things with dns over udp . we can probably cover
+> any open udp protocol without incurring performance penalties that
+> would make it completely unusable . snmp , for example . . . while its
+> application is limited , network service providers would find
+> round - trip time information for snmp packets from their network
+> management stations to agents very useful . i think there are some
+> rudimentary things we can do with tcp as well , and i also think some
+> sites would be interested in having some rudimentary information . for
+> example , a weighted ( by traffic ) round - trip time distribution for tcp
+> traffic to / from all networks with which you communicated ( say at / 24
+> granularity ) . this gives sites a notion of how close they are to
+> those they talk to most frequently . with a little more work , we could
+> probably make reasonable bandwidth estimates for every end network for
+> which we see tcp data ( we could certainly get a reasonable number for
+> the maximum observed bandwidth ) .
+>
+> these methods also decouple the measurement from the traffic . while we
+> all know the value of that , i think it ' s significant in that active
+> probers can be run on the same host , decoupled from the actual
+> measurement , and with timestamps coming from kernel space ( bpf ) . i ' ve
+> been thinking about this for a long time , because eventually i ' d like
+> skitter ( and other tools ) to be able to do use tcp packets for probing ,
+> with no need for things like ip firewall code ; if i can just properly
+> time non - blocking connects , and count on the passive tool to see the syn
+> and syn ack , i can use any tcp port for round - trip time measurements and
+> not trick my kernel by sending tcp packets on a raw socket . i need
+> feedback from the passive tool for tracing like skitter ( it needs to
+> know when a reply has been seen from a hop and when the destination has
+> been reached ) , but it ' s not difficult ( simple bytestream - oriented ipc is
+> sufficient ) .
+>
+> going further , i like the idea proposed by some others ( maybe funded at
+> this point , i ' m not tracking it ) of instrumenting the freenix tcp / ip
+> stacks . a lot of useful information could be pulled from the stack .
+> but eventually someone ' s going to have to come up with what pieces of
+> information are desirable enough for someone to want their stack
+> instrumented ( and it ' ll have to be somewhere between what ' s currently
+>
+> implemented and a full - blown metering system like rtfm ) . and i think in
+> the interim , there are a lot of things we could do using libpcap on our
+> local machines , non - promiscuous and in user space ( safe , easy to
+> implement and test ) . to me the benefits here are :
+>
+> - a user is likely to have a tangible , well - understood relationship
+> with their workstation ( understood by them ) . this is particularly
+> true for those of us with network expertise . so it ' s at least
+> plausible that we can find correlations of measurements with
+> user experience in a fairly short period of time , helping us hone in
+> on what ' s useful . even if we only find weak correlations ( for
+> whatever reason ) , once a correlation exists , more people will be
+> interested in helping with development because it ' ll be something
+> they ' ll use personally .
+> - we ' re essentially guaranteed to see traffic in both directions .
+>
+> i ' d personally be interested in trying to find some small sets of
+> information that correlate to user experiences , so that it doesn ' t
+> take a terabyte of disk and 64 processors to deal with data from say
+> 10 , 000 desktops . : - )
+>
+> anyway , just some random thoughts . the hard part for me at the moment
+> is thinking about useful generalizations and infrastructure to support
+> them . . .
+cindy bickerstaff responded . .
+> we ' re just starting to capture the mss and window size negotiations between
+> timeit and servers to get an idea of what is typical or usual . wonder if
+> daniel ' s code could do that too from the various traffic monitoring points
+> caida has out there ? the data could be used to fill in some parameters for
+> trying to model some of the passive data collected . since a typical web page
+> has many elements between a single client and server the first or base page
+> gives you a starting idea of what to expect and the subsequent elements are
+> like repeat measurements of the same path over a very short time interval .
+> since there is a strong time of day / week effect ( volumes and perf ) , the
+> short duration of the data collection from a single web page ( incl .
+> elements ) might give some options for modeling ( and maybe getting a better
+> estimate of packet loss ) . i ' ve really enjoyed joining the e 2 e - interest group
+> for the ideas on factors and the references to past modeling attempts ( e . g .
+> mathis , et . al . paper . . . ack its bulk transfer focus ) .
+paul krumviede highlighted the difficulty of agreeing on details
+of how to measure common metrics like availability , reliability ,
+throughput and latency .
+> an example was throughput . since it was proposed
+> that this be measured using a tcp file transfer of
+> random data , one concern was what does this do
+> to latency ? and where does this get measured ? as
+> many customers of this service would not be large
+> businesses , measuring this from the customer end
+> of a 56 - or 64 - kbps circuit was almost certain to
+> drive end - to - end latency measurements beyond
+> defined bounds . measuring it from within points in
+> the provider ' s network ( s ) might show figures that the
+> customers could never see themselves .
+>
+> the compromise was to define the throughput metric
+> as ocurring at access link loads of no more than 50 %
+> of the bit rate . but how does one measure that ? and
+> so on . . .
+>
+> given that this discussion was recognized as being the
+> prelude to the imposition of minimal slas , as part of the
+> " certification " process for service providers , this may be
+> an illustration of the perils of discussing slas and metrics
+> in some interchangable form . but they may not be easy
+> to separate in the minds of some .
+carter bullard said
+> i ' m specifically interested in bridging
+> rtfm and ippm work , particularly to describe how an
+> rtfm can be a generic connectivity monitor . ippm
+> describes type - p - unidirection and bidirectional
+> connectivity , and a single point rtfm can detect
+> these conditions , but standard descriptions for how
+> this can be done would be very useful .
+>
+> personally , one of the things that i ' m interested
+> in is tcp based streaming services performance , such
+> as that seen in internet radio distribution , and of
+> course ip telephony wireline performance metrics would
+> be very good to describe .
+nevil brownlee comments that he ' s also very interested in
+developing the rtfm meter as a platform for more general measurements .
+two areas seem interesting ( apart from getting more information
+from tcp streams ) : ~
++ qos / difserv performance
+( what metrics do we need to characterise this ? )
++ ipsec ( what metrics will still be useful when we can ' t
+look at port numbers ? what kinds of traffic can still be
+identified ? )
+curtis villamizar said
+> i ' m particularly interested in the work on dos at
+> http : / / www . cs . washington . edu / homes / savage / traceback . html and would
+> like to see that on the agenda .
+this would provide a general way of determining where packets came from ,
+not just a tool for tracing dos attacks .

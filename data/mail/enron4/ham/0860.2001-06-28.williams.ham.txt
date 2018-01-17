@@ -1,0 +1,12 @@
+Subject: montana volumes - ' 00 - ' 01
+real time volumes traded with mpc for 2000 - 01 :
+2000 ( complete year )
+purchases - 170 , 198 mwh
+sales - 6 , 739
+transmission - 2 , 725
+total - 179 , 662 mwh
+2001 ( year - to - date )
+purchases - 127 , 112 mwh
+sales - 856
+transmission - 1 , 741
+total - 129 , 709

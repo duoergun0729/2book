@@ -1,0 +1,14 @@
+Subject: bny project review
+please find the following action items for the tech services team stemming from today ' s dash review meeting with l . kitchen . bob v . can you take point on this with d . williams . mike coleman attended the meeting in dan ' s absence and can provide feedback on some of the technical discussion .
+1 . please develop a project schedule showing the inter - relationship between permitting , engineering , procurement , fabrication , construction and start - up activities . key issues include :
+a ) ability to get equipment ordered and delivered given vendor availability
+b ) inter - play between equipment purchasing and off balance sheet financing requirements .
+c ) delay in construction caused by a delay in the air permit
+d ) securing a construction permit - given that site remediation has not been signed off on by the state / city
+e ) construction activities in the winter
+f ) other permits required
+2 . provide a review of the o & m budget and long term performance factors to ensure we are comfortable with cost and plant performance used in the pro forma .
+3 . provide an assessment of the cost / ability to put in place an epc contract to meet the pro forma assumptions ( labor rates in nyc , unions , rac requirements , etc ) .
+as we have discussed , we need to be proactive in the dash process and conduct a technical review meeting before the dash is written and circulated . this will ensure that we have identified and have addressed / modeled / mitigated / reserved for technical issues before the dash is submitted to ews management for signature . our thursday meetings are a perfect platform for getting these issues out on the table . this did not occur in the case of brooklyn navy yard , and we were left scrambling trying to answer technical questions in respect of the dash . much of the analysis was done , however , we need to present a clear review of technical risks and mitigation impacts of the project . failing to do so puts the project at risk and creates doubt that tech services has a firm grasp of the technical risk in ena . if there are issues getting access to information or you are being left out of the technical analysis in compiling the dash please let me help .
+regards ,
+brian

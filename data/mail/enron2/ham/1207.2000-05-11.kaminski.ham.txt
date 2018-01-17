@@ -1,0 +1,50 @@
+Subject: re : bandwidth + +
+stinson ,
+let ' s bring up these two ideas at the meeting with john bloomer
+( to discuss the other product ideas ) .
+vince
+steven leppard
+05 / 11 / 2000 08 : 38 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : re : bandwidth + +
+vince
+if it ' s new ebs products you ' re after , how about a real - time bandwidth swing
+contract with automatic exercise ? the customer pays for the minimum
+( baseload ) bandwidth they need for their ( say ) videoconference , with a
+premium on top that automatically buys them extra bandwidth as it becomes
+available from the system . they are guaranteed a minimum quality they can
+live with , and ( more than likely ) they get improved quality much of the time
+for a bargain price .
+we get to charge for the use of bandwidth that would otherwise be idle .
+steve
+vince j kaminski
+05 / 11 / 2000 02 : 09 pm
+to : steven leppard / lon / ect @ ect
+cc : stinson gibner / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : re : bandwidth + +
+steve ,
+i think personally it ' s a great idea , though my son , who studies
+computer science , poured a bucket of icy water on me . computers
+are becoming very cheap and most companies have already a lot of
+spare capacity on their systems .
+but we can always try . we shall take this idea , to the person in ebs
+responsible for the
+new products and ask him to talk directly to you to discuss the details .
+ebs is dying to come up with some new products .
+vince
+steven leppard
+05 / 11 / 2000 03 : 56 am
+to : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect
+cc :
+subject : bandwidth + +
+vince , stinson
+have any investigations been made of the issue of trading ( spare ) processing
+power ? such a proposal would have natural synergies with the bandwidth
+business , since the jobs to be processed would need to be piped around , as
+would their results .
+obvious technical and legal problems are :
+1 . standardisation . ( java ? )
+2 . security and confidentiality .
+just a thought that ' s been buzzing around my head for a while .
+steve

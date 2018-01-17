@@ -1,0 +1,36 @@
+Subject: the light at the end of tunnel !
+hi all ,
+after all the hard work , we are at time of harvesting ! but as we all know
+that there still a few more hurdles ahead of us in order to release credit
+reserve model at end of march , but on the bright side , vince kaminski has
+promised us a big feast after we push the product out of door . so let commit
+our self to do one last dash to the finish line !
+here i composed a list of task that we need to accomplish for the release ,
+let hit the items on the list and get it over with
+continue the comparison test between old and new model winston
+testing of theoretical deals ! finish the comparison between the theoretical
+value and model valuation ! tanya t . winston j .
+making the default probability table a configurable component and runtime
+parameter . winston j . , ramesh g .
+simulation dimension change for different analysis requirement , default path
+5000 max and price path 1000 max . winston
+interface to run the credit reserve in grms system ( for now ) ramesh
+run time option , applying stress scenario on input curves for any or all
+curves ( sensitivity analysis ) winston
+runtime option , curve replacement for any or all curves ( attribution
+analysis ) winston
+validation of different insurance plan tanya , winston
+intra - month position validation to see the impact of excluding of
+intra - manoth position on credit reserve vicent tang , ramesh
+exchange deals handling ( are they using the highest e - rating ? ) ramesh
+saving credit reserve result , please grant winston and xiaojun the privilege
+to save the result into production database , ramesh , winston , xiaojun
+credit reserve on legal id , based on the data clean up of all spreadsheets (
+not scheduled ) !
+deployment plan . one credit instance at any time until we get out new
+computing server ( probably in april time frame )
+this list may be an ever changing list and may also incomplete , please let me
+know if i missed anything or any deletions and additions ! please let me know
+if anything i can clarify .
+thanks !
+jonathan

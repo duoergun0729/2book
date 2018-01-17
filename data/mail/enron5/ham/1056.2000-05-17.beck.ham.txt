@@ -1,0 +1,94 @@
+Subject: doorpost - post doorstep
+in my response to brent price on the london doorstep review i alluded to the
+incompleteness of the list of issues . as i outlined , the key point has been
+identified , but its knock - on effects are widespread and worrying ,
+especially as they concern the continental power operation :
+as of today the most recent finalised dpr for this business was for 11 th may ,
+and during the period between then and now we have seen ( although in milder
+form ) a repeat of the turmoil on the amsterdam power exchange ( apx ) that we
+witnessed in january this year . this is not the time or the market to not
+know our position .
+the business is soon to apply for higher limits to accommodate a new
+transaction on the polish border . i am bound to comment that based on the
+state it appears to be in , i would not recommend higher limits .
+to add insult to injury , as a result of the way this area has been allowed to
+develop , much of the know - how is in the heads ( and spreadsheets ) of certain
+key individuals who it seems are now bound rapidly for ebs .
+uk gas seems to have slipped too . yesterday they reported a $ 7 m loss due to
+the value of a set of options which were part of a structured deal , booked
+" off - system " and not revalued for over a month . worryingly , there seemed to
+be more time spent arguing over the nuances of a loss notification memo , than
+answering some fundamental questions about why it happened .
+as a corollary , our process of performing " risk reviews " has become all the
+more important in identifying holes in our capture and treatment of market
+risk in the firm . i expect these to play a big part in our effort to
+stabilise these areas .
+dp
+- - - - - - - - - - - - - - - - - - - - - - forwarded by david port / market risk / corp / enron on
+05 / 17 / 2000 10 : 31 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : david port
+05 / 17 / 2000 09 : 30 am
+to : brent a price / hou / ect @ ect
+cc : mike jordan / lon / ect @ ect , steve w young / lon / ect @ ect , tani
+nath / lon / ect @ ect , mark pickering / lon / ect @ ect , joe gold / lon / ect @ ect , james
+new / lon / ect @ ect , richard lewis / lon / ect @ ect , michael r brown / lon / ect @ ect ,
+fernley dyson / lon / ect @ ect , sally beck / hou / ect @ ect , ted murphy / hou / ect @ ect ,
+john sherriff / lon / ect @ ect
+subject : re : project doorstep responsibility matrix
+thanks for the summary . i was out last week so apologies if my comments
+arrive too late . here they are anyway :
+1 socrates
+i think it inappropriate for me , or anyone in rac for that matter , to have
+primary responsibility for this system / project .
+but if i were responsible the first thing i would want to know is why this
+project , which commenced in may 1998 , as i recall , is still incomplete , given
+that it now contains possibly the largest energy derivative position in
+history , concentrated in a single commodity with a single counterpart .
+2 exhaustive ?
+it doesn ' t look like an exhaustive list and i suspect it was not intended to
+be so - nevertheless we should ensure it is not viewed as such .
+3 symptoms or causes ?
+many of the points look like the former , and addressed as they stand will
+likely leave us with a band - aid solution which will drop off when pressure is
+applied .
+in fact many of them look like they are a result of point 5 :
+" prioritisation of system projects has resulted in a lack of certain control
+functionality . . . "
+because that explains partly why models get built and forgotten , confirmation
+errors get made , deliveries go astray and trades get missed - usually bright
+people are simply too immersed in manual processes to have time to think
+about changing the way they work . and , for example , when those people move
+on , as they surely will , the institution has no memory of how to do what they
+did .
+i am still amazed at how much we pay relatively senior people to work on
+microsoft excel all day , everyday .
+4 overall
+i think this is a good exercise if we react to it in the right way . rather
+than a list of irritating issues we have to do just enough to justify ticking
+off , we should use it as a tool to analyse the way we operate .
+as a hypothesis , if most issues stem from point 5 , then i would ask why has
+prioritisation of system projects resulted in a lack of certain control
+functionality ?
+dp
+brent a price @ ect
+05 / 08 / 2000 11 : 08 am
+to : mike jordan / lon / ect @ ect , steve w young / lon / ect @ ect , tani
+nath / lon / ect @ ect , mark pickering / lon / ect @ ect , joe gold / lon / ect @ ect , james
+new / lon / ect @ ect , richard lewis / lon / ect @ ect , michael r brown / lon / ect @ ect ,
+andrew cornfield / lon / ect @ ect , tim davies / lon / ect @ ect , rebecca
+millerchip / lon / ect @ ect , kevin sweeney / hou / ect @ ect , pablo
+pissanetzky / lon / ect @ ect , gail hill / lon / ect @ ect , eric virro / lon / ect @ ect ,
+richard sage / lon / ect @ ect , tim poullain - patterson / lon / ect @ ect , ian
+sloman / lon / ect @ ect , david port / market risk / corp / enron @ enron
+cc : fernley dyson / lon / ect @ ect , sally beck / hou / ect @ ect , ted
+murphy / hou / ect @ ect , john sherriff / lon / ect @ ect
+subject : project doorstep responsibility matrix
+attached is a responsibility matrix for london - project doorstep action
+steps . the listing consists of controls findings , action steps , proposed
+timelines , and proposed sponsors and responsibility assignments for the
+completion of the action steps . the purpose of this matrix will be to review
+and monitor it on an ongoing basis to ensure that items are being
+appropriately addressed and completed . please take a moment to review all
+sections of the listing and communicate any comments or revisions you may
+have to me as soon as possible . we would like to have a final version of
+this document in place by may 12 .

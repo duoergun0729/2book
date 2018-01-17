@@ -1,0 +1,16 @@
+Subject: wharton collaborative research
+here is a short note on potential research with wharton . please review and
+edit and then we can send some indication to the wharton guys . - - - - - - - - - -
+the objective would be to define the amount of risk an enterprise can take ,
+and the difference between this and the actual amount of risk the enterprise
+chooses to take based on the capital structure and reporting structure . in
+particular , one can view enron as a hierarchy of companies , and assuming we
+can separately quantify the risks of each unit , what framework would one use
+to analyze risk at enron ?
+a related question is how one should represent risks in the different
+units ? risks may be of different types - - - short - term volatility risk ,
+catastrophic risk , liquidity risk , etc - - - what should one focus on for a
+first cut ?
+another related question is to decide on the optimal amount of insurance
+both at the unit level and the enterprise level , and relate the decision to
+get insurance to the cost / benefit of insurance .

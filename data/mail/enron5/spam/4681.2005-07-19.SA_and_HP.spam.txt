@@ -1,0 +1,13 @@
+Subject: notice : mail delivery status .
+this is a delivery status notification from a . mx . sylon . net ,
+running the courier mail server , version 0 . 45 . 2 .
+the original message was received on tue , 19 jul 2005 13 : 00 : 08 + 0200
+from mailwisconsin . com ( [ 220 . 195 . 168 . 184 ] )
+undeliverable mail
+your message to the following recipients cannot be delivered :
+:
+< < < configuration error : mail loops back to myself ( mx problem ) .
+if your message was also sent to additional recipients , their delivery
+status is not included in this report . you may or may not receive
+other delivery status notifications for additional recipients .
+the original message follows as a separate attachment .

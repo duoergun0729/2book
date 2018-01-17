@@ -1,0 +1,26 @@
+Subject: fw : a change control project has been created with emergency status
+for mn 232 .
+i just received this emergency change impacting eol . please insure all
+processing is done by 5 : 00 pm today . the building facilities group is adding
+additional power sources to the eol equipment racks . the eol team plans to
+bring down the eol production data bases during this time period .
+bob martinez
+- - - - - original message - - - - -
+from : nguyen , mai
+sent : friday , february 02 , 2001 11 : 22 am
+to : enron change management
+subject : a change control project has been created with emergency status for
+mn 232 .
+importance : high
+emergency update
+it was created by mai nguyen . the title of the project is eol power issue .
+the change number for the project is mn 232 .
+impact : eol
+time : fri 2 / 2 / 2001 at 5 : 15 : 00 pm thru fri 2 / 2 / 2001 at 8 : 00 : 00 pm
+outage : eol power issue
+disruption : total disruption of service
+environments impacted : eol
+purpose : power redundancy for eol
+backout :
+contact ( s ) : mai nguyen
+document link - >

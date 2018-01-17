@@ -1,0 +1,61 @@
+Subject: yesterday ' s profile up 56 % ( otcbb : isyn ) urgent news alert !
+news alert
+stock profile
+press release
+asp industry
+what is an application service provider ( asp )
+an application service provider ( asp ) is a company that offers individuals or groups access over the internet to software applications and related services that would otherwise have to be located in their own personal or enterprise computers . asp services are expected to become an important alternative , not only for smaller companies with low budgets for information technology , but also for larger companies as a form of outsourcing and for many services for individuals as well .
+early applications include :
+remote access serving for the users of an enterprise
+an off - premises local area network to which mobile users can be connected , with a common file server
+specialized applications that would be expensive to install and maintain within your own company or on your own computer
+while asps are forecast to provide applications and services to small enterprises and individuals on a pay - per - use or yearly license basis , larger corporations are essentially providing their own asp service in - house , moving applications off personal computers and putting them on a special kind of application server that is designed to handle the stripped - down kind of thin client workstation . this allows an enterprise to reassert the central control over application cost and usage that corporations formerly had in the period prior to the advent of the pc . microsoft ' s terminal server product and citrix ' s winframe products are leading thin - client application server products .
+msp industry
+what is an msp ?
+the managed service provider ( msp ) phenomenon is between 18 and 24 months old and is attracting a lot of attention from potential users and service providers wanting to add value . but different providers define it different ways , and service offerings range from the very limited to the very broad .
+a managed service provider delivers aspects of outsourced it operations , usually via an ip network . all msps remotely manage network infrastructure on an ongoing basis , while some extend their offerings to provide and manage application infrastructure . note : some msps refer to themselves as ' management service providers .
+three main types of msp
+in today ' s market , three main types of msp can be distinguished . they differ in terms of :
+the range of services offered
+the amount of responsibility they take for a client ' s business
+scope - that is , the size of the msp and the size of their target customer
+the low level - pure - play msps
+this group of msps describe themselves as ' management service providers ' , not ' managed service providers ' . many of the members of the year - old msp association fall into this category . the defining principle here is that these msps assist client companies in managing network infrastructure and limit themselves primarily to monitoring the performance of the network and of applications running over the network . they deliver services remotely via an ip network , sometimes by gathering data from a client ' s site via a networked server placed on site .
+range of services
+watching uptime , performance and availability are the central value propositions of this type of msp , although many in this category are expanding into extended infrastructure services , such as security , storage and testing .
+level of responsibility
+this type of msp takes little , if any , responsibility for a client ' s business . if it offers a service - level agreement , it is likely to be for the uptime of its own monitoring process , not for the client ' s website . its activities might be limited to reporting and alerts if a website experiences problems , or might extend to generating and tracking problem reports . if it extends its offerings to include security and storage , its responsibility level may increase accordingly .
+scope
+msps at this level tend to be small ( 50 - 300 employees ) . their clients will be smes with it departments that are either understaffed , taken up with major projects , or focused on non - infrastructure core competencies . clients tend to engage a low - level msp for one aspect of infrastructure monitoring ; if the relationship develops satisfactorily , they will then add additional services over time .
+this level of msp is attempting to make msp work as a business model , which will have short - term success at best .
+the mid - level - msp as a value - added service
+mid - level msps tend to describe themselves as ' managed service providers ' and to offer a broader range of services that take greater responsibility for a client ' s business .
+range of services
+these msps may move beyond performance monitoring and reporting to software patches , installation and upgrades , and application infrastructure provision , which require them to be proficient in web application servers . an msp at this level will take pride in offering as wide a range of services as possible , seeing this as a differentiator .
+level of responsibility
+mid - level msps also differentiate themselves by assuming greater responsibility for the functioning of a client ' s business . if a site goes down , they will do more than notification - they will work with the client to restore function . service - level agreements reflect this level of responsibility .
+scope
+msps at this level can be large , as managed service will be folded in to other service offerings , such as web hosting or network provision . they target the fortune 500 or 1 , 000 enterprise as a customer , although many also serve medium - sized clicks - and - mortar companies .
+web - hosting providers such as digex offer msp at this level as a value - added service to their core service provision , which is hosting websites . major telcos such as cable wireless and france telecom ( via equant and global one ) offer msp as well . loudcloud is probably the best - known example of a pure - play msp that has grown its business successfully in past years , although it is currently struggling to make the concept work in an inhospitable economy .
+the high level - outsourcing it operations
+these msps undertake to allow clients to outsource their entire it operation , if desired - truly one - stop shopping . they can also provide lower levels of service , like a mid - level msp .
+range of services
+msps at this level offer a full range of traditional managed service and add aspects of application handling , such as integration and even application hosting , which can be defined as ' one - to - one remote custom outsourcing of applications .
+level of responsibility
+service - level agreements in this segment will be customized to reflect differing levels of responsibility available to clients , depending on how much they want and are willing to pay . this type of msp can be the mythical xsp that shapes the technological identity of the client , choosing its hardware , storage , level of security and packaged application suites .
+scope
+small and large providers co - exist in this space , serving different constituencies . systems integrators and consultancies play here . boutique shops serve smes , and large providers such as eds , ibm global services and pricewaterhouse coopers serve large multinational corporations and , increasingly , medium - sized enterprises - competing with smaller shops in these cases .
+management team :
+insynq ' s executive management team is responsible for forming strategy and direction for the company , as well as meeting revenue and profitability goals .
+john p . gorst - chairman , president and chief executive officer
+john p . gorst is a co - founder of insynq , inc . , and has driven all development , corporate restructuring , corporate investment and business development efforts for the last 5 years . mr . gorst has over 15 years experience in founding entrepreneurial technology ventures , specifically in the software and data services fields . mr . gorst was a co - founder of micro computer professionals , which was a strategic partner of nynex business centers of new york in 1988 - 91 . more recently mr . gorst has served as vice president gm of interactive information systems corporation . mr . gorst has earned a diploma in electronic computer design and more recently a certificate of achievement in project management from villanova university . mr . gorst ' s primary responsibility is overseeing the execution of the business plan and the delivery of maximum shareholder value .
+carroll benton - chief administrative officer
+carroll benton is a co - founder having been with the company since its inception , and brings over 25 years financial expertise stemming from her experience at a local cpa firm . ms . benton ' s career has spanned both the public and private sectors working largely with the banking systems and higher education institutions where she assisted in the development and deployment of computerization strategies . ms . benton has over 20 years experience as a consultant to the small and medium sized enterprise business markets in the areas of accounting system design , field support and business practice analysis . ms . benton has also taught undergraduate accounting courses at several puget sound colleges and universities .
+joanie mann - vice president , strategic alliances
+joanie mann has over 18 years of experience in multi - user system design and implementations , voice and data networking , and advanced network integration . she also has extensive experience in business process automation and a strong background in business accounting principles . previous positions held include founder of com - pacific resources , incorporated , manager of the seattle - based computer telephony and data integration division of commworld , and information systems management consultant for interactive information systems corporation .
+previous press releases
+* * * * * * * important notice and disclaimer : please
+read * * * * * * *
+magical stock , and affiliates ( ms ) , publishes reports providing information on selected companies that ms believes has investment potential . ms is not a registered investment advisor or broker - dealer . this report is provided as an information service only , and the statements and opinions in this report should not be construed as an offer or solicitation to buy or sell any security . ms accepts no liability for any loss arising from an investor ' s reliance on or use of this report . an investment in isyn is considered to be highly speculative and should not be considered unless a person can afford a complete loss of investment . ms has agreed to profile isyn and was paid fifteen million free trading shares of common stock of isyn for the publication and circulation of this report . ms owns no shares in isyn stock at or about the time of publication of this report . subsequently ms may buy or sell shares of isyn stock in the open market . this report contains forward - looking statements , which involve risks , and uncertainties that may cause actual results to differ materially from those set forth in the forward - looking statements . for further details concerning these risks and uncertainties , see the sec filings of isyn including the company ' s most recent annual and quarterly reports .
+this message was sent to address paliourg @ iit . demokritos . gr to stop receiving emails from this recurring list , send a blank email to unsub - ppkkqpkgimigi @ stocksnut . comorsend a mail with your email address to
+now technologies , 2234 north federal highway suite 481 , boca raton , florida 33431

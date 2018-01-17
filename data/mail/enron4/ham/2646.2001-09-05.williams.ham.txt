@@ -1,0 +1,10 @@
+Subject: fw : request submitted : access request bill . williams . iii @ enron . com
+bill -
+you should have a public folder set up in outlook by tomorrow . you can figure out how to get to the folder by reading the path i named in the following it request . let me know how this goes for you .
+kate
+- - - - - original message - - - - -
+from : arsystem [ mailto : arsystem @ mailman . enron . com ]
+sent : wednesday , september 05 , 2001 3 : 38 pm
+to : symes , kate
+subject : request submitted : access request bill . williams . iii @ enron . com
+thank you for your request . you will be notified by email when your request has been processed . you can check the progress of your request by clicking http : / / itcapps . corp . enron . com / srrs / auth / emaillink . asp ? id = 000000000058321 & page = myreq .

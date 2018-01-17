@@ -1,0 +1,20 @@
+Subject: sap expense reports - save this note
+please remember , all expense reports should be prepared using the new sap
+reporting form only . all codings , be it expense reports , invoicing , etc . ,
+will have to be submitted with our new company number ( 0060 ) and our new cost
+center coding ( formerly rc ) , which is 111089 . you may want to keep these
+numbers handy .
+in order to retrieve your new expense report forms , please follow the
+following instructions :
+go to our home page on the intranet
+select sap
+select " quick reference tools " located on the left side of page
+scroll down to " account payable forms "
+select " sap expense report form "
+save to your drive
+all reports must be completed by access through the intranet . please do not
+copy your forms for each report has it ' s own report number , i . e . 061600 ,
+062200 , etc .
+if you should need assistance , please do not hesitate to call , i will gladly
+stop by and assist you .
+adr

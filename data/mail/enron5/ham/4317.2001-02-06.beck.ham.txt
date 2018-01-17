@@ -1,0 +1,32 @@
+Subject: re : path names , file extentions
+everything sounds good , but can we use . html instead ? . htm doesn ' t work on
+linux web servers , and it ' s best to be universal , in case they want to
+deploy in diff . contexts .
+- daniel
+- - - - - original message - - - - -
+from : cindy white [ mailto : cwhite @ viviance . com ]
+sent : tuesday , february 06 , 2001 2 : 52 pm
+to : sally ; sonia ; sonia ; emrul ; mike ; darcilla @ viviance . com ; mollie ;
+jhokkanen @ viviance . com
+subject : path names , file extentions
+so that we can avoid last minute " oh my gosh we ' ve used different file
+structures / naming convention - - quick we need to change all of these paths in
+the next ten minutes " , can we do the following ?
+all html files will be considered as in the root directory and will use the
+extension of " . htm "
+subdirectories / folders :
+images - - images for sales guide and intro and any image that is used
+throughout the deliverable , such as logos , navigation buttons , etc . so an
+example would be : images / dell _ logo . gif
+scripts - - one script folder for all of the coursebuilder scripts used in the
+deliverable
+timer - - for the timer interaction that daniel is building
+images / mollie - - for images specific to mollie pages ( this way if we have more
+than one drag / drop we won ' t have to rename any coursebuilder created
+images / targets , etc .
+images / warren
+images / sally
+images / david
+will this work for everyone ? if not , please let me know and i will send out
+modifications .
+cindy

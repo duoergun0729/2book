@@ -1,0 +1,22 @@
+Subject: ppi index short - term models
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 03 / 31 / 2000 01 : 43 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+anjam ahmad
+03 / 21 / 2000 04 : 10 pm
+to : martina angelova / lon / ect @ ect , trena mcfarland / lon / ect @ ect
+cc : dale surbey / lon / ect @ ect , stinson gibner / hou / ect @ ect , zimin
+lu / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : ppi index short - term models
+hi martina i believe that the
+forecasts are accurately reflecting this . please see graphs below :
+both models really need our rpi curve to be linked ( at the moment i have just
+copied the 2 . 3 % number forward ) . because the auto - regressive error term is
+not very important , we can run the models forward with reasonable
+confidence . as i mentioned , i don ' t think we can really run this model more
+than 12 months , in fact , i think we should run for 9 - 12 months and blend the
+next 3 - 4 months out with the long - term model .
+hope i can fix the long - term ones now with some new insight !
+regards ,
+anjam
+x 35383
+pllu : dzcv :

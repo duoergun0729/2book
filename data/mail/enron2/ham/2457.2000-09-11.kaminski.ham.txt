@@ -1,0 +1,38 @@
+Subject: the garp 2001 convention
+dear mr kaminski
+thank you very much for your prompt reply and for the information you sent
+me . i have incorporated this information in the program and am sending you
+it again for one last confirmation . ( in particular , i hope that i have your
+job title and organization name correct ? ) .
+measuring energy risk  ) tackling price volatility , adapting var , scenario
+modelling and regulatory requirements
+the challenge of modeling price dynamics in the energy markets .
+- seasonality
+- fat tails
+- jumps
+- mean ( or floor ) reversion
+price volatility in the energy markets : definition and estimation
+adapting value - at - risk for the energy markets :
+- combination of physical and financial contracts
+- correct representation of price dynamics and inter - market price
+relationships
+- capturing complexity of energy contracts
+historical vs . monte carlo simulation vs . scenario analysis . pros and cons
+of different approaches
+regulatory uncertainty and value - at - risk
+vince kaminski , managing director , research , enron corp .
+if there are no alterations required i will assume that everything is fine
+as it is and will proceed to the printers in due course . i also look forward
+to receiving a short biography of about fifty words in due course .
+?
+if you have any queries please do not hesitate to contact me , otherwise i
+look forward to seeing you in new york in february .
+?
+kind regards
+?
+andreas
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+andreas simou
+garp 2001 - conference producer
+tel ? + 44 ( 0 ) 20 7626 9301
+fax + 44 ( 0 ) 20 7626 9900

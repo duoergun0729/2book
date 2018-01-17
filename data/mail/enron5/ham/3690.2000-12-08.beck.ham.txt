@@ -1,0 +1,34 @@
+Subject: re : london spreadsheet feeds .
+fyi on spread sheet feeds .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by james new / lon / ect on 08 / 12 / 2000 09 : 36
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron europe
+from : hugo moreira 07 / 12 / 2000 17 : 17
+to : david hardy / lon / ect @ ect
+cc : jubril oguja / lon / ect @ ect , james new / lon / ect @ ect , debbie r
+brackett / hou / ect @ ect , phil yoxall / lon / ect @ ect , john paskin / lon / ect @ ect ,
+ganapathy ramesh / hou / ect @ ect , john d powell / hou / ect @ ect , david a wall / risk
+mgmt / lon / ect @ ect
+subject : re : london spreadsheet feeds .
+david ,
+i confirm that all spreadsheets but spreadid 2 , 8 and 9 will be sent to
+risktrac test and cas test .
+spreadid no . 2 will be sent to risktrac & cas production .
+per rac , spreadid no . 8 and 9 will be roll - out later .
+hugo
+david hardy
+07 / 12 / 2000 15 : 45
+to : jubril oguja / lon / ect @ ect , hugo moreira / lon / ect @ ect , james
+new / lon / ect @ ect , debbie r brackett / hou / ect @ ect , phil yoxall / lon / ect @ ect , john
+paskin / lon / ect @ ect , ganapathy ramesh / hou / ect @ ect , john d powell / hou / ect @ ect
+cc :
+subject : london spreadsheet feeds .
+all ,
+my understanding is that all the spreadsheets listed on the attachments will
+be sent to houston tomorrow .
+all except spreadid no . 2 will be sent to risktrac test and cas test .
+spreadid no . 2 will be sent to risktrac & cas production .
+please advise ( all the above addressees ) if this is not the case / going to
+happen .
+regards
+david

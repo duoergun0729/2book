@@ -1,0 +1,7 @@
+Subject: possible spreadsheet
+i ' m not sure if this spreadsheet will work for you . i don ' t remember the exact data you wanted , so i did things from memory . the dates may not be correct , because i ( multiplied the number of months * 30 days ) then added this number to the start date to project the ending period . you know our our sap software automatically does things like this : )
+daniel yee
+sap americas i . t . development
+tel : 251 - 5275
+skytel 2 - way pager : ( 800 ) 718 - 1679
+- michelle . xls

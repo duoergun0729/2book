@@ -1,0 +1,64 @@
+Subject: fw : commercialization of back office competitor - aquilla
+fyi . aquilla ' s plan is described below .
+i talked with martin chavez at kiodex and he confirmed as well .
+i think the bigger issue is that other enterprises are starting to try to build businesses around their systems and operations . i think we have a good head start with commoditylogic and kiodex but we have to run even faster now .
+gp
+- - - - - original message - - - - -
+from : richter , brad
+sent : wednesday , august 29 , 2001 10 : 25 am
+to : piper , greg
+subject : fw : commercialization of back office competitor
+fyi
+- - - - - original message - - - - -
+from : pacheco , leonardo
+sent : wednesday , august 29 , 2001 9 : 21 am
+to : richter , brad
+subject : re : commercialization of back office competitor
+brad ,
+you are right , aquila ' s riskl 80 is similar to kiodex ' s offering . it is a web - based reporting and valuation tool ( no software downloads are needed ) . the difference is that riskl 80 focuses on reporting and valuation . in other words , riskl 80 does not offer pricing calculators as does kiodex ' s . it seems to me that kiodex ' s risk workbench is a more robust solution because it provides decision tools to price opportunities before transacting while riskl 80 is " after the fact " reporting and transacting . it looks to me that when commodity logic launches its risk valuation modules it will become more of a direct competitor to riskl 80 .
+in its initial phase , riskl 80 is offering services to the gas market only . soon , they will offer the tools for the power markets .
+riskl 80 ' s products :
+otc trade preview - details of transactions as entered into system
+daily / monthly futures and forwards reports - position exposures and daily pal ' s based on mark - to - market accounting
+options valuation report - measures exposures due to options plus volatility calculations ( i . e . greeks )
+daily / monthly total position summary - total picture of risk exposure in the portfolio
+riskl 80 ' s target market :
+similar to commodity logic ' s market . they will target medium to small shops that do not have the technology , staff , or resources to run sophisticated reporting and valuation in - house .
+let me know if you have any questions .
+leonardo
+- - - - - original message - - - - -
+from : richter , brad
+sent : tuesday , august 28 , 2001 3 : 45 pm
+to : pacheco , leonardo
+subject : fw : commercialization of back office competitor
+see below . could you take 10 minutes and go to the riskl 80 site and give me a brief download on what they ' re offering ? it seems like a " kiodex - lite " product ( talk to brandon is you don ' t know kiodex ) but i want to make sure we ' re not in the same space .
+thanks ,
+brad
+- - - - - original message - - - - -
+from : piper , greg
+sent : tuesday , august 28 , 2001 3 : 10 pm
+to : richter , brad ; webb , jay ; gros , thomas d . ; beck , sally ; pickering , mark
+subject : fw : commercialization of back office competitor
+your opinions on this ?
+gp
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : tuesday , august 28 , 2001 3 : 09 pm
+to : piper , greg ; whalley , greg ; beck , sally
+subject : commercialization of back office competitor
+monday august 27 , 10 : 58 am eastern time
+press release
+source : aquila , inc .
+aquila launches cost - effective energy risk management service
+kansas city , mo . - - ( business wire ) - - aug . 27 , 2001 - - aquila , inc . ( nyse : ila - news ) , one of the largest north american wholesalers of natural gas and electricity and risk management organizations , today launched riskl 80 ( sm ) , a product that provides clients with full - service management of their commodity transactions , delivered to them daily , weekly or monthly via the web .
+riskl 80 will be marketed to utilities , municipalities , energy aggregators and small energy marketers , as well as large industrial firms . these clients typically are low - volume traders that use spreadsheets to manage their energy transactions . the product was designed to meet the deal capture and portfolio valuation needs of clients who do not wish to purchase or build an expensive , enterprise - wide risk management software system .
+using a password - protected web - interface , clients send aquila their transactions or trades , which are then processed through the company ' s proprietary system . the client then receives daily , weekly or monthly risk analysis and deal pricing reports .
+` ` what we are doing is making it possible for these clients to have access to a highly sophisticated trading organization , its skills and most important , its collective knowledge , ' ' said jennifer fisher , aquila vice president and head of the radius group .
+aquila ' s radius group jointly developed riskl 80 with sungard trading and risk systems , a leading energy risk management software firm . a key component of the riskl 80 package is its use of sungard ' s epsilon software for risk analysis and client reporting .
+riskl 80 will initially handle only natural gas transactions . power transaction capabilities will be added in the near future . data available to clients includes detailed portfolio valuation , evening over - the - counter trade previews , mark - to - market income reports , total position reports as well as forward curves , deal capture and value - at - risk calculations . additional information is available at www . aquila . com , or www . riskl 80 . com
+based in kansas city , aquila is one of the top wholesalers of electricity and natural gas in north america and is an innovative provider of risk management products and services . the company also owns and controls a diverse portfolio of merchant assets , including power plants , gas storage , pipeline , and processing facilities , and other complementary merchant infrastructure facilities . outside north america , aquila provides wholesale energy services in the united kingdom , scandinavia and germany . aquila is 80 percent owned by utilicorp united ( nyse : ucu - news ) , a multinational energy company based in kansas city with more than 4 million customers . it operates in the united states , canada , new zealand and australia .
+louise kitchen
+chief operating officer
+enron americas
+tel : 713 853 3488
+fax : 713 646 2308

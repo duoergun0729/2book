@@ -1,0 +1,72 @@
+Subject: re : enron direct canada corp . lcs expiring 12 / 31 / 2001
+derek - can you answer bill ' s question ? teresa
+- - - - - original message - - - - -
+from : bradford , william s .
+sent : monday , november 19 , 2001 8 : 26 am
+to : mihalik , teresa ; brackett , debbie r .
+cc : harris , molly ; cross , darren ; perkins , mary ; kitchen , louise
+subject : re : enron direct canada corp . lcs expiring 12 / 31 / 2001
+when does the tariff require the l / c to be renewed ? do we have some time to wait until mid - december ?
+bill
+- - - - - original message - - - - -
+from : mihalik , teresa
+sent : friday , november 16 , 2001 5 : 35 pm
+to : brackett , debbie r . ; bradford , william s .
+cc : harris , molly ; cross , darren
+subject : fw : enron direct canada corp . lcs expiring 12 / 31 / 2001
+debbie / bill - enron direct canada corp . ( ees canada ) has 7 lcs expiring 12 / 31 / 01 . in order to continue serving current retail customers under existing contracts and adding new retail customers in alberta , the security requirements will need to be met . enron direct canada corp . has estimated what their requirements will be as of the time the lcs expire , and is outlined in the email below . the total security requirement comes to approximately $ 6 million usd .
+the bank we now have the lcs with , the toronto - dominion bank , has notified enron corp . treasury that they will not renew the lcs . enron corp . does not meet the credit requirements to provide a guaranty . in order to continue to operate under these contracts in alberta , it looks like our only alternatives at this point are to either provide new lcs or post cash .
+at the end of november , we expect we will be requested to provide this security . please let us know what additional information you will need to consider this request for security .
+teresa
+- - - - - original message - - - - -
+from : joslyn , kate
+sent : friday , november 16 , 2001 8 : 41 am
+to : flaman , derek ; mihalik , teresa
+cc : poffenroth , lori ; domingo , leela ; cross , darren ; slaughter , christopher ; hedstrom , peggy ; powley , barry
+subject : re : enron direct canada corp . lcs expiring 12 / 31 / 2001
+theresa
+at the time that the enmax lc was put in place , enmax would only accept parental guarantees from companies with an " a " rating . to my knowledge they have not lowered the threshold .
+kate
+- - - - - original message - - - - -
+from : flaman , derek
+sent : thursday , november 15 , 2001 5 : 41 pm
+to : mihalik , teresa
+cc : poffenroth , lori ; domingo , leela ; cross , darren ; joslyn , kate ; slaughter , christopher ; hedstrom , peggy ; powley , barry
+subject : re : enron direct canada corp . lcs expiring 12 / 31 / 2001
+theresa ,
+with respect to enmax and credit requirements for a guarantor , there are no specific ratings thresholds in the legal documentation ( enmax ' terms and conditions ) . i will work with kate to ascertain who in enmax ' credit department knows what these specific ratings thresholds are ( if any ) . once done , either kate or i will advise .
+with respect to general processes surrounding holding cash at a canadian bank , i know that enron canada ' s policy is to not take cash collateral by wire transfer into a bank account . the primary reason for this policy involves risks associated with our personal property registration system : to perfect a security interest in a wire transfer requires the registration of a financing statement ( multi - jurisdictional , cumbersome ) ; even with such registration one is not guaranteed priority . again , this is enron canada ' s position with respect to cash collateral ; i do not know why enmax would not accept the c $ 600 , but suspect that their reasons may be the same . as far as the " process " of holding cash at a canadian bank , i will speak with the relevant operations / credit person ( perhaps lori and / or cheryl dawes ) and have them contact you .
+please let me know if you need further assistance with respect to this matter .
+derek
+- - - - - original message - - - - -
+from : mihalik , teresa
+sent : thursday , november 15 , 2001 4 : 25 pm
+to : cross , darren ; joslyn , kate ; poffenroth , lori ; domingo , leela ; flaman , derek ; powley , barry
+cc : hedstrom , peggy ; harris , molly ; slaughter , christopher ; brackett , debbie r .
+subject : enron direct canada corp . lcs expiring 12 / 31 / 2001
+darren et al - i have received and reviewed the info on each company ' s security requirements faxed to me from leela and derek . what derek had sent me is the same info that mark powell had sent me . based on what i have reviewed , the security amount required ( approx total us $ 6 , 000 , 000 ) and acceptable forms of security are outlined below :
+atco - estimated security requirement at 12 / 31 / 01 is c $ 450 , 000
+guaranty from a rated company
+lc
+cash
+enmax ( calgary , red deer , lethbridge ) - estimated security requirement at 12 / 31 / 01 is c $ 1 , 850 , 000 , c $ 75 , 000 , c $ 65 , 000
+guaranty from guarantor that meets enmax ' s credit requirements ( it does not state what their credit requirements are )
+lc
+cash
+epcor - estimated security requirement at 12 / 31 / 01 is c $ 1 , 000 , 000
+guaranty from bbb + rated company
+bank guaranty
+lc
+cash held at canadian bank
+town of ponoka - estimated security requirement at 12 / 31 / 01 is c $ 12 , 000
+guaranty from bbb + rated company
+bank guaranty
+lc
+cash held at canadian bank
+power pool of alberta - estimated security requirement at 12 / 31 / 01 is c $ 6 , 000 , 000
+bank guaranty
+letter of guaranty
+lc
+cash deposit drawn on canadian bank , trust company , credit union or other lending institution acceptable to council
+derek - please find out what enmax ' s credit requirements are for a guarantor , as well as explain the process of holding cash at a canadian bank . previously , when we tried to post cash for a c $ 600 security requirement at enmax ( calgary ) , they wouldn ' t accept it and required a letter of credit . we need verification that posting cash is not a problem and we need to understand the process . once we have answers to these questions , we can determine how to proceed .
+thanks , teresa

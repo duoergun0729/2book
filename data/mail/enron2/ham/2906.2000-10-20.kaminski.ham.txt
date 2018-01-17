@@ -1,0 +1,18 @@
+Subject: enron ' s new weather system , courtesy the research dept .
+v
+last night , i tested our new system for real - time surveillance and messaging
+of the weather , and it delivers the data to desktops throughout the building
+more than 6 1 / 2 minutes before the national weather service updates their
+webpages . our current technology was web - scraping these pages via ftp , then
+parsing into a database . the impact of these 6 1 / 2 minutes for the hourly
+power traders is enormous - the weather stations upload their data around 53
+minutes after the hour , and we can now receive them within 2 minutes later .
+we can now re - estimate our nonlinear stack model before the top of the hour ,
+when hourly power trading begins . otherwise , we would not have model results
+until around 15 minutes after the hour . notably , hourly power trading is , for
+all intents and purposes , concluded by then ( they trade for 10 - 15 minutes and
+manage the scheduling for the next 30 or so miutes ) . so , effectively , we may
+now be one * hour * ahead of where we were just a few days ago , in terms of
+information . people are very excited up here , from the cto on down - thanks
+for letting it happen .
+c

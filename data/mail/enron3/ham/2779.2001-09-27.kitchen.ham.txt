@@ -1,0 +1,30 @@
+Subject: re : conn . coal plants
+i have already spoken with the guy at wisvest charged with re - marketing the assets . i expressed to him our desire to discuss acquisition of the plants and that we are prepared to move quickly . he indicated that they are going to take the next couple of weeks to assess how best to re - market these facilities , and that they were leaning towards an " open rfp " type process , perhaps with the help of an i - bank advisor .
+my objective is to steer them away from this path , and in that regard , i gave him a run - down of a number of reasons why they would do well to enter discussions with us asap ( e . g . , unique situation in that we serve load in ui ' s area , good relationship with the ct regulators , no market power concerns that killed the nrg deal , ability to affect improvements / clean - up at the sites , etc . ) . he asked me to send him a letter outlining these qualifiers , and was recptive to a meeting in the near future ( i am going to try and hook up with him in ct as he is on business there this week ) .
+as for location , these plants definitely are in a good spot given that southern ct is quite constrained . however , the really binding constraint is in the norwalk - stamford area - - these plants are located outside of this area . i am trying to get some more granular information on the locations / severity of constraints in southern ct to help assess constraints in the bridgeport - new haven area where the plants are .
+one other point is that the one of the units at the bridgeport station is in deactived reserve ( an 80 mw oil plant ) , so there may be some relatively cheap expansion / repowering plays .
+i did learn that they have an asset management deal with a 3 rd - party through mid next year , unless they sell off the plants before then .
+i will update with status as we move along
+john
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : wed 9 / 26 / 2001 10 : 09 pm
+to : presto , kevin m . ; miller , don ( asset mktg ) ; robinson , mitch ; davis , mark dana ; llodra , john ; broderick , paul j .
+cc : lavorato , john ; duran , w . david
+subject : re : conn . coal plants
+both john llodra and don miller have had discussions with regard to pursuing these assets over the last week . essentially , these plants may be the first distress sales we see in the market place .
+john / don - can you let everyone know how you plan to move forward .
+- - - - - original message - - - - -
+from : presto , kevin m .
+sent : wednesday , september 26 , 2001 9 : 38 pm
+to : miller , don ( asset mktg ) ; robinson , mitch ; davis , mark dana ; llodra , john ; broderick , paul j .
+cc : lavorato , john ; kitchen , louise ; duran , w . david
+subject : conn . coal plants
+as most of you know , nrg ' s proposed purchase of two coal plants in conneticut ( ui ' s territory ) was recently cancelled due to regulatory issues at ferc . the purchase and sale transaction between wisvest and nrg was originally entered into almost two years ago . the proposed purchase price of $ 350 million for 1000 mw of coal was a " bargain price " at the time due to environmental risks that are specific to the state of ct .
+over the past 2 - 3 years , the state of conneticut has threatened to have these coal plants shut down due to pollution issues and wisvest was concerned enough about this risk that they " puked " the plants to nrg for $ 350 / kw in early 2000 . at a minimum , it is expected that $ 100 - 150 / kw of scr and / or scrubbers will be required at these facilities to appease the ct regulatory bodies .
+my strong view is that , as a practical matter , the plants cannot be shut down or the lights would go out in ct . the area where the plants are located is quite possibly the most congested area in the entire eastern interconnect . the load pocket is significantly short mw and transmission import capability is inadequate to serve the load in this area . in a true " locational marginal price " environment , the prices would likely be similar to zone j in new york currently , pricing in nepool is generally socialized with congestion costs spread equally to all loads , regardless of who causes the congestion .
+in the recently proposed " single ne rto " model , it is about 80 % certain that the pjm " locational marginal price " market model will be implemented sometime between mid - 2003 and mid - 2004 . at that point in time , consumers in the congested areas of nepool ( in - city boston and ct ) will be exposed to higher energy prices , while consumers in maine , new hampshire , and rhode island should see lower prices .
+given the facts above , coupled with traditional asset companies too long to show good bids for incremental assets , i think ews should pursue discussions with wisvest immediately and attempt to buy these coal plants at what could be extremely favorable economics relative to our forward curve in nepool and our bullish view for relative pricing at the asset " node " .
+if we could buy these plants for approx $ 250 / kw with $ 150 / kw of environmental upgrades , the resulting " all - in " ( depr , fixed & variable o & m , fuel costs , nox , so 2 , capital reserve , interest ) 7 x 24 plant cost would be approx . $ 34 - 36 / mwh . this is lower than our energy only socialized nepool curve . additional upside is derived from positive basis , icap , ancillary services , emissions allowances , and long term requirements sales to lse ' s .
+lavo and louise - this could be the " alberta ppa " for 2002 . lots of " hair " but lots of upside .
+any thoughts ?

@@ -1,0 +1,10 @@
+Subject: new birthday calendar
+hi
+i ' m setting up a birthday calendar and need your help . just click the link below and enter your birthday details . ( it ' s quick , easy and you can keep your age secret ! )
+thanks
+gaurav
+-
+to unsubscribe from this list : send the line " unsubscribe linux - kernel " in
+the body of a message to majordomo @ vger . kernel . org
+more majordomo info at http : / / vger . kernel . org / majordomo - info . html
+please read the faq at http : / / www . tux . org / lkml /

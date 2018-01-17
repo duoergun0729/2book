@@ -1,0 +1,149 @@
+Subject: bad proposed decision
+attached below is the cpuc ' s proposed decision in the gas industry
+restructuring proceeding . essentially , it adopts the interim proposal with a
+few modifications . the cpuc states that they are taking a " cautious "
+approach to deregulation in light of recent market events in both electricity
+and gas , and therefore , rejected the more robust reforms outlined in the
+comprehensive settlement . the cs was offered by socal gas and supported by
+many of the settlement parties , including enron and transwestern .
+the good news is that , with respect to hector road , the maximum volume at
+hector is limited to 50 mmcf / d , similar to the proposal made by the
+comprehensive settlement . i ' ve included the section from the pd that deals
+with this issue for your convenience . the full document is also attached .
+excerpt at at page 50 regarding hector road :
+( 1 ) receipt points / intrastate transmission
+as we have already discussed above , we now judge that intrastate transmission
+unbundling is not wise at this time for the socalgas system . however ,
+socalgas  , intrastate transmission system can still be made more accessible
+and understandable to its users .
+in r . 98 - 01 - 011 , the record reflects dissatisfaction among customers and
+shippers with the lack of clarity on how socalgas schedules gas shipments
+through its windowing system , and socalgas  , sole use of the hector road
+interconnection as a receipt point . ( exh . 8 in r . 98 - 01 - 011 , pp . 29 - 31
+( southern california edison company market conditions report ) , ( panel hearing
+testimony of mr . paul carpenter , southern california edison , tr . pp .
+931 - 932 , jan 25 , 1999 ) . ) our decision in d . 99 - 07 - 015 directed investigation
+into using the hector road interconnection , even on an interim basis , and the
+publication of socalgas  , windowing criteria in tariffs . socalgas filed
+advice letter 2837 , which detailed its process of basing a maximum amount of
+gas scheduled for shipment through a receipt point on the prior day  , s
+nominations , except at the first of the month . early in the instant
+proceeding , the alj held in abeyance active consideration of the windowing
+procedure tariff socalgas filed , pending the resolution we reach today .
+( prehearing conference of september 1 , 1999 , p . 34 . )
+we are approving on an interim basis the replacement of the current windowing
+process with a system under which socalgas will establish receipt point
+capacities , subject to daily revision , on the basis of the physical maximums
+for each receipt point under the operating conditions expected for that day .
+customers and shippers will know the daily maximums because they will be
+posted on socalgas  , gasselect system daily prior to the nomination
+deadlines . if , in the aggregate , customers nominate more than the physical
+capacity at any receipt point , gas will be scheduled based on the upstream
+pipeline  , s capacity rights system . for wheeler ridge , at which more than one
+upstream pipeline delivers gas , the maximum daily physical capacity would be
+allocated between upstream sources pro rata on the basis of the prior day  , s
+scheduled deliveries from each source .
+this system eliminates the mystery in how pro - rations are made , provides
+continuity in capacity rights between the interstate and intrastate systems
+and provides flexibility for customers in nominating at the most
+cost - effective receipt point on any given day . we recognize that it does not
+provide for long - term planning , but the alternative under the cs of paid - for
+firm receipt point rights for the term of the settlement has the disadvantage
+of locking customers into a receipt point that may lose value over the term .
+in this period of gas price volatility , we believe that the more flexible
+plan is the right one .
+thus , we direct socalgas to withdraw advice letter 2837 and file a new advice
+letter within 10 business days implementing the proposed receipt point
+physical capacity system . this may be the same as the exemplary tariff filed
+with the is or updated as necessary pursuant to subsequent proceedings . this
+tariff revision will be effective within 30 days after the filing unless
+rejected by the energy division .
+in r . 98 - 01 - 011 , pg & e and edison particularly complained about the
+restrictions at wheeler ridge . ( exh . 15 in r . 98 - 01 - 11 , pp . 7 - 9 ( pg & e
+rebuttal to market conditions report ) , and exh . 8 in r . 98 - 01 - 011 , pp . 29 - 31 ,
+( southern california edison , market conditions report ) . ) one response in the
+is to these complaints is the establishment of a formal receipt point at
+hector road for all customers , subject to wheeler ridge access fees and
+surcharges . its capacity will be 50 mmcfd or greater as long as there are
+nominations of that volume and mojave pipeline company delivers that much in
+response to those nominations . this provision should allow greater
+flexibility for shippers and customers as well as leveling the playing field
+between socalgas and others at this interconnection . we will support
+socalgas  , application to the federal energy regulatory commission for
+approval of hector road as a formal delivery point by mojave .
+el paso natural gas company objected strongly to the provision in the is for
+automatically expanding of wheeler ridge capacity while this was not an
+option specifically mentioned in d . 99 - 07 - 015 , we do not choose to stand on
+that technicality to exclude it from consideration here . once a proceeding
+is open to settlement , the dynamics of settlement talks may bring in matters
+outside the delineated scope , as they have done here with regard to wheeler
+ridge expansion and , for instance , pooling . both proposals respond to
+concerns raised in r . 98 - 01 - 011 , ( see citations in text above as well as panel
+hearing testimony of mr . benjamin c . campbell , pg & e , tr . pp . 267 - 268 , jan 19 ,
+1999 ) ) and neither was specifically excluded from further consideration in
+d . 99 - 07 - 015 . we therefore view them as within the scope of this proceeding .
+to the extent that other receipt points are also viewed as constrained , we
+welcome evidence to that effect in a future proceeding , as well as proposals
+for criteria to determine when expansion should be applied for . by 100 mmcfd
+if a certain number of curtailments occurred , and for automatically allowing
+the expenses of that expansion to be rolled into rates . we do not wish to
+approve automatic rate increases for all ratepayers for a facility for which
+only some may have use , but we believe that developing criteria for expansion
+of receipt points is useful . hector road may not entirely alleviate the
+problem of constraints on northern gas flowing to the south .
+therefore , we approve that portion of section iii of the is that sets forth
+criteria for expansion , but provide that upon the meeting of that criteria ,
+socalgas shall submit an application for an expansion of the receipt point
+capacity . that application shall be processed in the regular way , with the
+issues of need in the context of the entire system and foreseeable market
+conditions considered . moreover , rolled - in or incremental rates , allocation
+of cost among classes and consequent rate design will remain open for
+decision in that proceeding .
+thus , the modification to the is that we make is in the first sentence of the
+first full paragraph on page 8 . the words  & apply to  8 should be inserted
+after  & socalgas will  8 . we specifically disapprove the is language in the
+middle on page 8 beginning with the words  & this settlement  8 through the end
+of the paragraph , and the concomitant language in appendix a setting the cost
+at $ 12 million in 1999 dollars .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jeffery fawcett / et & s / enron on 11 / 27 / 2000
+08 : 45 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : jeff dasovich on 11 / 22 / 2000 06 : 28 pm
+sent by : jeff dasovich
+to : jeffery fawcett / et & s / enron @ enron , susan scott / et & s / enron @ enron
+cc :
+subject : bad proposed decision
+well , this shows the direction in which the " new " commission is heading . the
+very good news , though , is that tw ' s proposal was included in both
+settlements ( now that ' s hedging ! ) . thus , the benefits to tw were preserved
+under both proposals . congratulations . that ' s fantastic - - hard work that
+paid off .
+we will of course express out extreme dissappointment with the pd , and point
+out that this decision condemns california to a 20 th century infrastructure ,
+when the state ' s 21 st century economy demands much , much better .
+we should discuss . since the pd empowers the likes of norm and florio , it
+will be important to play very close attention to implementation of hector .
+sorry to have to be the one to deliver the news . but we have a knack of
+making lemonade out of lemons and we ' ll do out best to do the same here ,
+whatever turns up at the end .
+best ,
+jeff
+- - - - - forwarded by jeff dasovich / na / enron on 11 / 22 / 2000 05 : 53 pm - - - - -
+michael . alexander @ sce . com
+11 / 22 / 2000 05 : 27 pm
+to : paul _ amirault % sce @ sce . com , tomb @ crossborderenergy . com , burkee @ cts . com ,
+craigc @ calpine . com , rick . counihan @ greenmountain . com , jdasovic @ enron . com ,
+mday @ gmssr . com , douglas . porter @ sce . com
+cc : colin . cushnie @ sce . com , inggm @ sce . com
+subject :
+the pd in the gas restructuring is out . i have yet to read the whole
+thing , but the title " approval with modifications of the interim
+settlement . . . " does not bode well . according to steve watson ( and i only
+have steve ' s statement second hand ) , the decision reflects a fear that the
+timing is wrong in light of the current volatile gas price market .
+( see attached file : proposed . doc )
+- -
+michael s . alexander
+southern california edison
+626 - 302 - 2029
+626 - 302 - 3254 ( fax )
+- proposed . doc

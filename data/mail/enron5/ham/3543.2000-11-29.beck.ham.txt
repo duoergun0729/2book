@@ -1,0 +1,9 @@
+Subject: request submitted : access request for kara . l . boudreau @ enron . com
+you have received this email because you are listed as a security approver .
+please click
+approval to review and act upon this request .
+request id : 000000000008593
+request create date : 11 / 29 / 00 1 : 57 : 52 pm
+requested for : kara . l . boudreau @ enron . com
+resource name : eol us backoffice bridge monitor
+resource type : applications

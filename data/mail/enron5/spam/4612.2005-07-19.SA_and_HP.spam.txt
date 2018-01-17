@@ -1,0 +1,34 @@
+Subject: failure notice
+hi . this is the qmail - send program at harrisburg . villagetech . com .
+i ' m afraid i wasn ' t able to deliver your message to the following addresses .
+this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
+:
+sorry , no mailbox here by that name . vpopmail ( # 5 . 1 . 1 )
+- - - below this line is a copy of the message .
+return - path :
+received : ( qmail 3456 invoked by uid 510 ) ; 19 jul 2005 06 : 59 : 10 - 0400
+received : from exprod 6 mxl 25 . postini . com ( helo psmtp . com ) ( 64 . 18 . 1 . 32 )
+by harrisburg . villagetech . com with smtp ; 19 jul 2005 06 : 59 : 10 - 0400
+received : from source ( [ 61 . 77 . 34 . 140 ] ) by exprod 6 mxl 25 . postini . com ( [ 64 . 18 . 5 . 10 ] ) with smtp ;
+tue , 19 jul 2005 06 : 59 : 08 edt
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 38190278 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : distinguishes @ bayviewcinema . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+startinq at $ 1 . 99 per dose ! unbelivable !

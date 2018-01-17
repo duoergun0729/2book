@@ -1,0 +1,32 @@
+Subject: whs / retail systems integration analysis - would like to discuss
+with you
+louise ,
+lloyd and i believe there are significant cost savings and efficiencies to be gained in the following recommendations . we would like to present our final results monday and would like to talk with you if possible prior to the meeting .
+with project spark gap , we have identified and are managing our top systems gaps and priorities for the next year . we are setting up sap codes for these efforts in order to more closely monitor it progress and spending . we have coordinated and are combining our systems requirements with the west and canada desks in order to present a global power strategic systems vision .
+the following whs / retail systems analysis effort has made it clear that we should integrate our wholesale and retail trading systems , however , we believe organizational changes will be required in it and trading support to achieve the benefits and savings .
+please let us know if we can spend a few minutes with you prior to monday ' s meeting .
+debra
+debra bailey
+east power desk
+wk : 713 - 853 - 1657
+cell : 713 - 569 - 4650
+- - - - - original message - - - - -
+from : bailey , debra
+sent : friday , november 09 , 2001 6 : 04 pm
+to : fink , mike ; rao , ramesh ; frazier , michael ; gorny , vladimir ; misra , narsimha ; jenkins , beth ; kumar , madhup ; avs , mallik ; day , smith l . ; albrecht , kristin ; woulfe , greg ; richter , jeff ; allen , thresa a . ; o ' neil , murray p . ; nat , steve ; herndon , rogers ; rodriquez , andy ; bentley , corry ; white , stacey w . ; allen , thresa a . ; simpson , stephen
+cc : hall , bob m ; kelly , fred ; presto , kevin m . ; busby , todd ; will , lloyd ; belden , tim ; dayao , anthony ; perlman , beth ; pickering , mark ; stock , stephen ; apollo , beth ; reeves , leslie ; pagan , ozzie ; hotte , steve
+subject : whs / retail systems integration analysis - results / recommendations
+under the direction of tim belden , kevin presto , lloyd will , anthony dayao and beth perlman , todd busby and i have completed the 3 week analysis of wholesale and retail power systems integration . enclosed are the preliminary executive summary presentation and the detailed information / process flow diagrams .
+in summary , we identified at a high level commonality and critical dependencies across all main trading functions within retail and wholesale . in order to ensure successful integration of systems and processes , the team has identified the following recommendations :
+1 . consider aligning the wholesale and retail support organizations with the gas and power trading .
+2 . manage business systems requirements for power globally with a program management team sponsored by the business owners . consider program managers responsible for the following three areas :
+trading - top priority to provide wholesale and retail positions and booking of shaped deals
+billing / settlements & volume management - top priority to provide retail solutions and develop global strategic systems ( gas & power )
+risk - top priority to provide retail valuation and liquidation
+we will schedule a meeting next week to review the results of our analysis . i look forward to receiving your inputs .
+thank you for your support on this effort .
+debra
+debra bailey
+east power desk
+wk : 713 - 853 - 1657
+cell : 713 - 569 - 4650

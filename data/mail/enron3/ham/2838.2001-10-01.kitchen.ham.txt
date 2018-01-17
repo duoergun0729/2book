@@ -1,0 +1,30 @@
+Subject: re : ibuyit weekly activity report
+louise ,
+sorry for the confusion . attached is revised look at this report . you can now see the approver for each shopping basket created ( note : if approver is blank , the requistioner had authority to approve themselves ) . i have also opened the columns which show the shopping cart line item descriptions and amount . the shopping cart column was showing you the total of the shopping cart with each item in the basket which really is not very helpful . ( i . e . , 3 items ordered for $ 100 , $ 200 and $ 300 respectively all in one shopping basket with the report showing that the shopping basket was $ 600 ) .
+thanks
+john
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : monday , october 01 , 2001 1 : 11 pm
+to : gillespie , john
+cc : rippentrop , randy ; davila , raul ; wasaff , george
+subject : re : ibuyit weekly activity report
+i am a bit confused i thought we had agreed to the following last week .
+expand to show approver and only include those things which have been approved .
+issues :
+why are there so many repeat lines , each request is issuing 3 times in some cases . will this mean we order three by accident ?
+i have no idea what has been ordered - last week i could see this time its all in code . please resend with descriptors .
+thanks
+louise
+- - - - - original message - - - - -
+from : gillespie , john
+sent : monday , october 01 , 2001 12 : 43 pm
+to : kitchen , louise
+cc : rippentrop , randy ; davila , raul ; wasaff , george
+subject : ibuyit weekly activity report
+louise ,
+attached is the ibuyit weekly activity report for company code 413 .
+please advise if you have any questions .
+thanks
+john
+>

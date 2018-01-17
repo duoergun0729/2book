@@ -1,0 +1,42 @@
+Subject: re : response from lenos
+steve ,
+i shall e - mail you my standard real option spin presentation + plus a
+presentation on enron
+( for analysts ) . you can use a few slides to introduce the company .
+i would prefer not to disseminate the information about the use of amc . the
+industry
+does not know about it yet and i consider it a very powerful tool ( given its
+flexibility ) .
+i have the files on my laptop . i shall bring it to work to morrow
+and send it to you .
+please , remind me about it on thursday ( old age and the hectic pace here start
+showing up ) .
+vince
+steven leppard
+04 / 26 / 2000 05 : 09 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : response from lenos
+vince
+lenos got back to me , and said he ' d prefer a high - level overview of real
+options in enron , perhaps using my notation to express the ideas . he wants
+me to keep away from the technicalities of my work .
+would you send me your ( usual ) powerpoint presentation on real options , and
+i ' ll look at manipulating it to include my diagrams . my own efforts to date
+have been on fairly limited power plant modelling / asset development , and i
+obviously don ' t have the high - level view you have . this will ensure i get
+the full range of real option type deals in my presentation .
+if required i could present the real option problems i have analysed , namely :
+1 . maintenance scheduling in power plant operation ;
+2 . gas storage ;
+3 . power plant asset development , which would include ( 1 ) as a sub - tree .
+i will also need your advice on whether i can talk about the fact that we
+prefer american monte carlo to build our trees . i haven ' t used amc myself up
+till now , i ' ve been carrying out static optimizations , with different price
+curve scenarios being run through .
+i ' m still working on selling the full stochastic dynamic programming approach
+- people are just getting to the stage of accepting my deterministic dp , and
+they ' re still being supplied with useful products , as per my " real options
+strategy " document .
+cheers ,
+steve

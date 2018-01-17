@@ -1,0 +1,20 @@
+Subject: fw : conversation with edison re : getting negative ctc paid
+chris calger
+503 - 464 - 3735
+- - - - - original message - - - - -
+from : dasovich , jeff
+sent : tuesday , october 23 , 2001 3 : 02 pm
+to : shapiro , richard ; steffes , james d . ; mellencamp , lisa ; tribolet , michael ; sanders , richard b . ; kean , steven j . ; sharp , vicki ; smith , mike ; williams , robert c . ; curry , wanda ; swain , steve ; huddleson , diann ; calger , christopher f . ; belden , tim ; dietrich , janet
+subject : conversation with edison re : getting negative ctc paid
+i talked to john fielder ( svp edison ) about setting up a meeting for barry tycholiz with edison ' s cfo about hedging edison ' s qf price risk . fielder wanted to talk about the negative ctc issue . here ' s what he said :
+they plan to " settle " with the esps and pay them when they pay everyone else , which he re - iterated would be sometime in ql ' 02 .
+edison is holding firm to the notion that the negative ctc contributed to the utility ' s undercollection and that the esp ' s share of the undercollection has to be netted against the payables attributable to the negative ctc and owed the esp .
+he said that they will propose to net it out in one of two ways : 1 ) lump sum netting ( i . e . , if they owe $ 50 mm and the share of the undercollection is $ 30 mm , then they pay the esp $ 20 mm ; or 2 ) future reductions in px credit ( i . e . , they pay the esp $ 50 mm , and then reduce the px going forward until the $ 30 mm is paid down ) . the numbers are illustrative only .
+in addition , he said that they have the view that a decision is going to have to be made about 1 ) whether da customers pay for stranded costs tied to the dwr l - t contracts , and 2 ) whether da customers pay going forward for stranded costs tied to the qf contracts . ( edison is clearly lobbying the puc to get da customers to pay for these costs . )
+i recommended strongly that he de - link issues 1 and 2 above from the issue of paying us asap what they owe us for negative ctc . he agreed .
+he said that the puc judge ' s recently issued pre - hearing conference order requires that edison " meet and confer " with esps prior to the nov . 7 th hearing , and that edison intends to set something up with esps prior to that hearing .
+fielder is also the point person on " getting esps paid " and intends to initiate settlement discussions with esps week after next .
+it was very clear from the conversation that edison is going to do everything possible ( at the expense of creditors ) to maximize headroom under the settlement it struck with the puc a few weeks ago . edison ' s stalemate with the qfs is evidence of it . we shouldn ' t assume anything different with the negative ctc issue .
+if you have any questions , let us know .
+best ,
+jeff

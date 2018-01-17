@@ -1,0 +1,108 @@
+Subject: call for papers : the international joint conferences on computer ,
+information and systems sciences and engineering cisse 05
+if you received this email in error , please forward it to the appropriate department at your institution
+please do not reply to this message , your reply will not be received . if you need to contact us , please email us at info @ cisse 2005 . org
+* international joint conferences on computer , information , *
+* and systems sciences , and engineering ( cisse 05 ) *
+* *
+* *
+* http : / / www . cisse 2005 . org *
+* *
+* *
+* *
+december 10 - 20 , 2005
+sponsored by :
+institute of electrical & electronics engineers ( ieee )
+university of bridgeport
+conference overview
+cisse 05 provides a virtual forum for presentation and discussion of the
+state - of the - art research on computers , information and systems sciences and
+engineering . the virtual conference will be conducted through the internet
+using web - conferencing tools , made available by the conference .
+authors will be presenting their powerpoint , audio or video presentations
+using web - conferencing tools without the need for travel . conference
+sessions will be broadcast to all the conference participants , where session
+participants can interact with the presenter during the presentation and
+( or ) during the q & a slot that follows the presentation .
+this international conference will be held entirely on - line . the accepted and
+presented papers will be made available after the conference both on a cd and
+as a book publication .
+conference participants - authors , presenters and attendees - only need an
+internet connection and sound available on their computers in order to be
+able to contribute and participate in this international ground - breaking
+conference .
+the on - line structure of this high - quality event will allow academic
+professionals and industry participants to contribute work and attend
+world - class technical presentations based on rigorously refereed
+submissions , live , without the need for investing significant travel funds
+or time out of the office .
+potential non - author conference attendees who cannot make the on - line
+conference dates are encouraged to register , as the entire joint conferences
+will be archived for future viewing .
+please feel free to download the call for papers at :
+http : / / www . cisse 2005 . org / cfpcisseo 5 . doc ( microsoft word format ) or
+http : / / www . cisse 2005 . org / cfpcisseo 5 . pdf ( adobe pdf format )
+cisse 05 is composed of the following four conferences :
+* international conference on industrial electronics , technology
+& automation ( ieta 05 )
+topics : advanced and distributed control systems , intelligent control
+systems ( nn , fl , ga , . etc ) , expert systems , man machine interaction , data
+fusion , factory automation , robotics , motion control , machine vision , mems
+sensors and actuators , sensors fusion , power electronics , high frequency
+converters , motors and drives , power converters , power devices and
+components , electric vehicles and intelligent transportation , process
+automation , factory communication , manufacturing information system advances
+in manufacturing systems , industrial applications of multi media ,
+intelligent systems instrumentation , industrial instrumentation , modeling
+and simulation , signal processing , image and data processing , vr and
+parallel systems .
+conference page : http : / / www . cisse 2005 . org / ieta . aspx
+* international conference on telecommunications and networking ( teneo 5 )
+topics : optical networks and switching , computer networks , network
+architectures and equipment , access technologies , telecommunication
+technology , coding and modulation technique , modeling and simulation , spread
+spectrum and cdma systems , ofdm technology , space - time coding , ultra
+wideband communications , medium access control , spread spectrum , wireless
+lan : ieee 802 . 11 , hiperlan , bluetooth , cellular wireless networks , cordless
+systems and wireless local loop , mobile network layer , mobile transport
+layer , support for mobility , conventional encryption and message
+confidentiality , block ciphers design principles , block ciphers modes of
+operation , public - key cryptography and message authentication ,
+authentication application , stenography , electronic mail security , web
+security , ip security , firewalls , computer forensics .
+conference page : http : / / www . cisse 2005 . org / tene . aspx
+* international conference on systems , computing sciences and software
+engineering ( scss 05 )
+topics : grid computing , internet - based computing models , resource discovery ,
+programming models and tools , e - science and virtual instrumentation ,
+biometric authentication , computers for people of special needs , human
+computer interaction , information and knowledge engineering , algorithms ,
+parallel and distributed processing , modeling and simulation , services and
+applications , embedded systems and applications , databases , programming
+languages , signal processing theory and methods , signal processing for
+communication , signal processing architectures and implementation ,
+information processing , geographical information systems ,
+object based software engineering , parallel and distributed computing , real
+time systems multiprocessing , file systems and i / o , kernel and os structures .
+conference page : http : / / www . cisse 2005 . org / scss . aspx
+* international conference on engineering education , instructional
+technology , assessment , and e - learning ( eiae 05 )
+topics : instructional design , accreditation , curriculum design , educational
+tools , 2 - 2 - 2 platforms , teaching capstone design , teaching design at the
+lower levels , design and development of e - learning tools , assessment methods
+in engineering , development and implementation of e - learning tools ,
+economical and social impacts of e - learning , platforms and systems for
+k - 12 / industry and higher education cooperation .
+conference page : http : / / www . cisse 2005 . org / eiae . aspx
+paper submission
+prospective authors are invited to submit full papers electronically in
+microsoft word or pdf format through the website of each conference at
+http : / / www . cisse 2005 . org . accepted papers must be presented in the virtual
+conference by one of the authors .
+to submit your paper , visit http : / / www . cisse 2005 . org / author / submit . aspx or
+visit the individual conference pages .
+important dates
+paper submission : september 30 , 2005
+notification of acceptance : october 28 , 2005
+final manuscript and registration : november 18 , 2005
+cisse 2005 66 glenbrook rd stamford , ct 06902 this e - mail message is an advertisement and / or solicitation .

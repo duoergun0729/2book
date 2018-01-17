@@ -1,0 +1,40 @@
+Subject: fw : two major inconsistencies in ferc ' s most recent refund order
+and the nov 1 and dec 15 orders
+you might be interested in this discussion .
+- - - - - original message - - - - -
+from : hall , steve c .
+sent : friday , july 27 , 2001 9 : 16 am
+to : perrino , dave
+cc : comnes , alan
+subject : re : two major inconsistencies in ferc ' s most recent refund order and the nov 1 and dec 15 orders
+hi dave ,
+of course the decision is politically motivated . but aren ' t they all ? it ' s just that now it ' s our ox being gored .
+in general , review of agency decisions by courts is very deferential , i . e . , court ' s give agencies a lot of discretion - - - which is why it is often difficult to overturn an agency decision . but if a court concludes that the agency ' s action was " arbitrary and capricious " it may overturn the decision . our argument would be that ferc is acting arbitrarily in its most recent order because it has disregarded - - - without explanation - - - its earlier rulings in this case . it ' s no slam dunk , but it ' s the best argument we have . we will never win an argument in any court that ferc " could have " or " should have " crafted its order a certain way ; a court will almost always say , " the agency can fix the energy crisis in any way it deems fit . " however , courts take a dim view of inconsistent agency decisions because it demonstrates a lack of constitutional due process .
+as for the public ' s opinion of enron as a profiteer - - - for better or worse it ' s already established . and no matter what action we take , davis will cast a negative spin on it . so why not fight for our interests ? the stakes in this order are worth it . this recent order sets a bad precedent for the future viability of our business model ( power marketing ) ; it ' s hard to run a business when the government can reach back in time and recalculate your selling price with complete disregard of your costs . the generators get to offset refunds with input costs , we should be able to use our purchased power costs . i don ' t see much downside for us to argue that ferc should keep its word that ( 1 ) refunds can only be ordered within 60 days , and ( 2 ) all sellers are entitled to marginal costs . we are just holding the commission to its promise . at a minimum , the commission needs to explain why it ignored and reversed itself on its earlier holdings .
+these are good questions . have a good weekend .
+( i copied alan on this because i thought he might be interested in our colloquoy . )
+steve
+- - - - - original message - - - - -
+from : perrino , dave
+sent : thursday , july 26 , 2001 9 : 18 pm
+to : hall , steve c .
+subject : re : two major inconsistencies in ferc ' s most recent refund order and the nov 1 and dec 15 orders
+steve ,
+aside from the fact that the entire play by the ferc in the last 3 months has been purely politically motivated , are we going to challenge the latest rulings in court ? can we challenge this apparent lack of consistency ( memory loss ) ?
+if we were to challenge do you think the general " public " opinion and impression of enron as a henious profiteer from houston would negate any potential gains made from making such a challenge ?
+just curious about what your thoughts / planned recommendation are .
+thanks for the information ,
+dave
+from : steve c hall / enron @ enronxgate on 07 / 26 / 2001 07 : 32 pm cdt
+to : ray alvarez / na / enron @ enron , alan comnes / enron @ enronxgate , susan j mara / na / enron @ enron , james d steffes / enron @ enronxgate , richard b sanders / enron @ enronxgate , gfergus @ brobeck . com @ smtp @ enronxgate , christian yoder / enron @ enronxgate , dave perrino / sf / ect @ ect , steve walton / enron @ enronxgate , paul kaufman / enron @ enronxgate , tim belden / enron @ enronxgate , jeff richter / enron @ enronxgate , bill williams iii / enron @ enronxgate
+cc :
+subject : two major inconsistencies in ferc ' s most recent refund order and the nov 1 and dec 15 orders
+the ferc apparently has a very short memory :
+1 . in its dec . 15 , 2000 order , ferc clarified that liability for refunds would only last for 60 days after the transaction was filed with ferc . how can ferc now say that transactions from nov . 1 through april 26 are subject to refund ? the dec . 15 order said that only transactions that were identified by commission staff for further review would be subject to continued refund liability . otherwise , refund potential for transactions over $ 150 / mwh would close after 60 days . presumably , liability for transactions under $ 150 / mwh would close after 60 days , too .
+here is the excerpt from the dec . 15 order :
+" we clarify that , unless the commission issues some form of notification to a seller that its transaction is still under review , refund potential on a particular transaction will close 60 days after the initial report is filed with the commission . the institution of a 60 - day period for the review of the transactions will provide sellers with the certainty they request and allows a reasonable period for analysis by staff . " dec . 15 order at 58 .
+2 . in its nov . 1 order , ferc said that it would limit refund liability to seller ' s marginal costs or legitimate and verifiable opportunity costs . ferc now says that marketers cannot use their purchased power costs - - - much less opportunity costs - - - to offset potential refunds .
+from the nov . 1 order : " however , should we find it necessary to order refunds , we will limit refund liability to no lower than the seller ' s marginal costs or legitimate and verifiable opportunity costs . " nov . 1 order at 39 .
+ferc ' s july 25 order makes no attempt to explain its departure from its earlier holdings on refunds in this same proceeding . arbitrary and capricious , anyone ?
+steve
+alan : please forward to dan watkiss and ron carroll .

@@ -1,0 +1,33 @@
+Subject: failure notice
+hi . this is the qmail - send program at mailhub . ihlas . net . tr .
+i ' m afraid i wasn ' t able to deliver your message to the following addresses .
+this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
+:
+213 . 238 . 131 . 164 failed after i sent the message .
+remote host said : 554 mail server permanently rejected message ( # 5 . 3 . 0 )
+- - - below this line is a copy of the message .
+return - path :
+received : ( qmail 16688 invoked from network ) ; 19 jul 2005 11 : 00 : 19 - 0000
+received : from unknown ( helo mailwisconsin . com ) ( 218 . 73 . 17 . 237 )
+by 0 with smtp ; 19 jul 2005 11 : 00 : 19 - 0000
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 30524165 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : anufoza @ turkiyehastanesi . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbeiivabie !

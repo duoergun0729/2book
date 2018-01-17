@@ -1,0 +1,45 @@
+Subject: mit student ' s thesis writeups
+hi vince , krishna & i talked to this student while were at sycamore
+networks . he appears to be very qualified for our ebs analytics group .
+sycamore has a professional services team that provides consulting on network
+optimization modeling , etc . they do this to push their products , etc . . . . one
+of the professional in that group highly recommended this student . we are
+currently working with the same professional at sycamore to perform our
+intial network design analysis ( since the deadline was today ! ) . i have
+arranged for the mit student ' s visit to houston along with the two standford
+students this month . i have handed over the task of arranging such visits to
+elisabeth grant . she will arrange everything and charge our rc so that we can
+allocate to john griebling later . stinson and i think that is the most
+effective way of doing this .
+regards ,
+ravi .
+- - - - - forwarded by ravi thuraisingham / enron communications on 02 / 07 / 00 01 : 16
+pm - - - - -
+salal @ mit . edu
+02 / 04 / 00 08 : 33 am
+to : pkrishan @ enron . com
+cc : ravi thuraisingham / enron communications @ enron communications ,
+brett . leida @ sycamore . net
+subject : writeups
+hi krishan , ravi ,
+i apologize for the delay in mailing the writeups - - some unforeseen
+complications completely shot the last 1 - 1 / 2 day . i am attaching pdf
+versions of :
+1 . the first two chapters of my thesis , which should help
+get a sense of what we are trying to do .
+2 . two more technical modeling writeups for services i am
+attempting to model .
+the writeups are , as i mentioned before , works in progress , and
+incomplete , and therefore i apologize in advance for confusions
+that might arise . i also request that you not circulate these widely
+for obvious reasons .
+thanks very much ,
+salal
+salal humair
+massachvsetts institvte of technology
+operations research center
+rooms e 40 - 130 , 5 - 332 a
+x 3 - 3014 , x 5 - 9727
+- expexp . pdf
+- fedex . pdf
+- thesis . pdf

@@ -1,0 +1,14 @@
+Subject: re : trying to find fat tails
+naveen ,
+i was trying to find " fat tails " . i looked at ng prompt month prices '
+log - returns for 5 years 9 months .
+on the figure below you can see the comparison of empirical cumulative
+probability function with normal
+cumulative for this time series ( standardized : mean subtracted , divided by
+stdev ) . the effect of fat tails
+is not pronounced so much . the " fat tails " effect was much more visible on
+your plot when you looked at the
+oct - 00 prices log - returns versus my time series of prompt month ' s prices .
+the shape of the distribution is different from normal , though , and fits well
+with the volatility switching model .
+tanya .

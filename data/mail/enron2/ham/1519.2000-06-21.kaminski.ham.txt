@@ -1,0 +1,79 @@
+Subject: re : equity investment fair value in turkey
+john ,
+please , give me another day to elaborate . it ' s quite hectic here .
+vince
+enron capital & trade resources corp . - europe
+from : john bottomley 06 / 21 / 2000 03 : 41 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : re : equity investment fair value in turkey
+vince ,
+any further thoughts on your end ?
+john
+vince j kaminski
+19 / 06 / 2000 15 : 45
+to : john bottomley / lon / ect @ ect
+cc : dale surbey / lon / ect @ ect , vince j kaminski / hou / ect @ ect , stinson
+gibner / hou / ect @ ect
+subject : re : equity investment fair value in turkey
+john ,
+it seems to me that using a risk - free rate is not appropriate . i shall
+elaborate on my
+position and send you a longer message this afternoon ( my time ) .
+vince
+enron capital & trade resources corp . - europe
+from : john bottomley 06 / 19 / 2000 05 : 55 am
+to : vince j kaminski / hou / ect @ ect
+cc : john sherriff / lon / ect @ ect , dale surbey / lon / ect @ ect
+subject : equity investment fair value in turkey
+vince ,
+john sherriff recommended that i contact you regarding an interesting ( and
+potentially contentious ) option valuation issue we are currently dealing with
+in london . we hold longish term options in a private company in turkey which
+is currently seeking to ipo . the issue we are discussing with rac is which
+discount rate ( i . e . , risk - free ? and if so turkish or us ? ) should we use to
+value these options
+first , some additional information .
+option characteristics :
+- - 116 , 000 options ( representing 9 % of the company )
+- - term : minimum of 3 years but possibly longer - - still being renegotiated
+- - strike price : 20 % below the upcoming ipo price ( either priced in us $ or
+turkish lire )
+we currently hold the above number of options with a fixed price of $ 118 . 75
+per option but 34 , 800 expire on july 15 , 2000 with the remainder expiring on
+december 15 , 2000 . the company ' s investment bankers ( abn / amro rothchilds )
+are concerned regarding the strike price because it values the company at
+$ 118 million and they believe the company is worth approx $ 300 million . due
+to such a large " valuation gap " , they originally encouraged us to exercise
+all of the options by the end of june ( ipo target date in late sept / early
+oct ) . our counter - proposal is to " swap " instrinsic value for time value by
+repricing the options strike higher while extending their term .
+we are currently negotiating with rac the most appropriate discount rate to
+use to value the options . we are arguing that the us risk free is the most
+appropriate discount rate and their current position is that the company ' s
+historical senior debt cost ( 18 % ) is the more appropriate number to use
+( although admit that this is not justifiable - - only a proxy )
+a few key points :
+- - rac is valuing the options via crystal ball simulations such that this " to
+be negotiated " discount rate is used to calculate the pv of the future
+options intrinsic value in 3 years
+( i . e . , for black - scholes , a higher discount rate yields a higher value but
+the opposite is true using crystal ball simulation )
+- - the model simulates both an ipo / no ipo case and in the case of no ipo we
+have put options for our equity priced at a fixed 17 % return
+- - the model assigns a 30 % illiquidity discount
+- - in the simulated cases where the options are out - of - the - money , we
+obviously do not exercise .
+we understand that for black - scholes option valuation , one needs to be able
+to construct a comparable portfolio of cash flows using equity futures and
+the risk free in order for the valuation to hold . and here is where we reach
+our difficulty : since the company doesn ' t currently trade on a public market
+and since equity futures do not exist for turkish equities , rac is arguing
+that a us risk free is not appropriate to use . our argument is that the
+non - ipo scenario , a 30 % illiquidity discount and a us $ based option
+volatility are already in the factored into the simulation . as such , we feel
+rac ' s approach is double counting .
+if you managed to get through the above , your a patient man ! i ' ll give you a
+call today or tomorrow after you ' ve had a chance to digest the information .
+regards ,
+john bottomley

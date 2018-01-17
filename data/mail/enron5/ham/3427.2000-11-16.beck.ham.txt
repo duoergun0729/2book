@@ -1,0 +1,4 @@
+Subject: request closed : access request for sally . beck @ enron . com
+the request has been completed with all resources requested either completed
+or rejected . you can view the details of the request by clicking
+myreq .

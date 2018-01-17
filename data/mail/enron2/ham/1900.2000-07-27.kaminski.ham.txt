@@ -1,0 +1,38 @@
+Subject: sas
+to the group :
+if you wish to use sas , there are a few simple things you need to do :
+1 ) you need to get a unix password if you don ' t already have one ( your user
+id will be the same as on the nt network , but a different password is issued )
+2 ) you need a program called " exceed " on your pc . request it from it ( you
+already have this if you are already a user of lim on the unix platform )
+3 ) you need an " ftp " program on your pc . you can go to www . download . com and
+download one ( i like wsftp )
+4 ) exceed is funny in the way it runs . when you invoke exceed ( or lim
+advanced user ( under infobases ) if you already have this ) it will install
+itself the first time , and will then " disappear " to the taskbar . you need to
+* right * click on the taskbar on exceed , and then choose " tools " and " client
+startup " and then " new . "
+you will enter a box which should already be set for rexec and an xwindow
+emulation . you need to specify the host type as sun , enter your user name and
+password , set the host name to :
+capers . ect . enron . com
+and then , on the command line , type the following ( carefully ) :
+/ usr / openwin / bin / xterm - display @ d
+then , use the file menu to save this as capers . xs and then click on the run !
+menu . within a second or two , a window will open up with you logged into the
+serve capers . you are now on a unix server , and the directory is your home
+directory . from here , if you simply type " sas " the 3 windows for an
+interactive session with sas should open on your desktop . you are in business .
+5 ) you also need to install your ftp . follow the procedures with the
+software , and then create a new session called " enron " where you choose as
+the server simply " earth " ( do not add any further descriptors such as
+. enron . com ) . supply your user name and * unix * password , check the " remember
+password " box , and the default communication setups should be correct ( eg ,
+host type as " automatic detect " ) .
+when you invoke ftp and connect to enron , it will put you in your home
+directory on the unix system , the same directory your xwindow comes up in
+under exceed .
+if you have any problems , i ' ll be happy to help
+clayton
+ps i have a complete set of new sas manuals i am happy to loan out if you ' ll
+just write your name down when you take them .

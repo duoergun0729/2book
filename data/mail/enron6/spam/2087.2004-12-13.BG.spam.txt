@@ -1,0 +1,87 @@
+Subject: todo sobre wirelees telefonía ip y mucho más
+copyright
+grupo del centro 2004
+creá tu propia red
+wirelless - telefonía ip - vigilancia ip - administracin remota
+accede
+con este cd a toda la informacion para que puedas manejarte con el conocimiento
+necesario en lo que respecta a la implementacion , administracion , montaje ,
+instalacion , etc . . de redes wirelles y todos sus accesorios . . .
+calculos
+formulas y paginas para realizar todos los clculos , para saber
+correctamente que antena adquirir , que cable comprar , cual es la cobertura ,
+etc . adems , podrs calcular que distancias cubrirs
+con el equipo que tenes pensado comprar . decidir el tipo de cable y
+a la velocidad con la que vas a transmitir , altura que deberan
+tener tus antenas , etc
+antenas
+extensa documentacin de como construir tu propia antena , a partir
+de una parablica primestar , direct tv , sky , etc . detalles de
+materiales , especificaciones tcnicas , todo paso a paso . desde
+una antena casera a partir de una lata de tomate hasta una parablica
+capaz de alcanzar una distancia de 35 km y ms . . . antenas direccionales
+caseras de 5 db a 27 db y antenas omnidireccionales caseras de 5 db a 17 db
+placas access
+3 com , conceptronic , d - link , linksys , micronet , senao , siemens , teletronics ,
+etc . . .
+datos tcnicos de todos los modelos del mercado actual , preguntas
+y respuestas frecuentes , para saber que equipo comprar acorde a la necesidad
+que tengas
+cnc
+para que tengas todo en regla . la comisin nacional de comunicaciones
+tiene autoridad para regular el uso del espectro radioelctrico ,
+y por lo tanto , tu wlan o red inalmbrica debe estar sujeta a
+las resoluciones que la cnc dicta . resoluciones tecnicas , equipos homologados ,
+etc .
+fallas comunes
+vulnerabilidad wireless fallas descubiertas recientemente . informacin
+sobre la falla dos ( ataques de denegacion de servicios ) sobre wireless .
+detalles claros y precisos del bug . tambin he incluido un apartado
+denominado seguridad , que de seguro te ahorrara grandes dolores de cabeza .
+tutoriales
+como montar una wireless consideraciones generales , todo lo que necesitas
+saber para sumergirte en esta tecnologa . detalle de como configurar
+las placas y / o los access point . que son las ip publicas y cuales son
+las privadas . como definirlas .
+polticas de seguridad compartir recursos denegar acceso encriptar
+los datos
+tecnologa routing y switching
+crea tu propio servidor
+montar servidor . ( windows ) diferentes formas de montar un servidor wireless .
+( con o sin ip fija ) ejemplos de como hacerlo con xp , compartir internet .
+crear servidor ftp , cuentas pop gratuitas , etc . montando un servidor
+irc . servidor dns . velocidad internet . mas informacin en valor
+agregado y linux .
+software
+software de libre distribucin . antivirus wireless . servidor
+ftp y dns . herramientas para control y verificacin de trafico
+linux : aqu encontraras una extensa documentacin
+para trabajar con linux .
+guas para montar un servidor desde cero ( sin saber nada ) realizar
+backup de la configuracin del servidor , config . red , como hacerlo
+con debian , mail server , routing , seguridad , apache y mysql , webcluster ,
+servidor dns , accesos a usuarios , control de ancho de banda . etc .
+si despus de haber logrado tu propia red inalmbrica
+aun quieres mas . . .
+tambien encontraras informacin relacionada de como obtener
+valor agregado a tu wlan ( red wireless ) .
+todo lo que necesitas saber sobre telefonia ip .
+administracin remota , vigilancia ip , telefona ip , wireless
+isp .
+y mucho ms ! !
+toda
+la informacion contenida es totalmente en castellano
+el costo del producto con envo includo es de
+$ 40
+solicita
+el pack wirelless aqu
+-
+el envo se realiza sin cargo en todo el territorio de la repblica
+argentina . -
+bajo el
+decreto s . 1618 titulo 3 ro . aprobado por el 105 congreso base de las normativas
+internacionales sobre spam ,
+un e - mail no podrá ser considerado spam mientras incluya una forma de ser
+removido . para hacerlo cliquee
+aquí .
+gracias .

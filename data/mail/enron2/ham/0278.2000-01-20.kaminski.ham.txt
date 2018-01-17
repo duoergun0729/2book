@@ -1,0 +1,36 @@
+Subject: re : spreadsheet for george posey
+george ,
+this is the first cut at the problem you gave us , done by my associate
+clayton vernon .
+please , feel free to call him with any question . your friend should check
+what were the sermons
+he gave on april 19 and april 25 , in 1998 and 1999 , respectively .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 01 / 20 / 2000
+02 : 49 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+clayton vernon @ enron
+01 / 20 / 2000 10 : 56 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : re : spreadsheet for george posey
+vince -
+here is an analysis of the fund giving at the church .
+first off , it appears from the data that a special " appeal " for fund giving
+was made ( from the pulpit ? ) on april 19 , 1998 and april 25 , 1999 , ( perhaps
+tied rhetorically into income taxes ? ) . then , by going back and incorporating
+obvious dates from the calendars for 1997 - 1999 , the following regression
+analysis is made , where each effect is added independently :
+giving this sunday = $ 4403
++ a minor $ 3 weekly time trend ( i . e . , multiply by the number of weeks since
+jan . 5 , 1997 )
++ no pure effect from last week ' s contributions ( i . e . , denies first - order
+autoregressive effects )
++ $ 2426 if easter sunday or the sunday nearest christmas
++ $ 9695 if ( pastoral appeal ) april 19 , 1998 or april 25 , 1999
+- $ 340 if the sunday falls on the weekend of a monday federal holiday
+- $ 50 if the sunday following thanksgiving
+- $ 73 if a summer weekend ( june 1 thru august 31 )
+the pure time trend is very small , so an annual projection based on all 3
+years data would be for giving to increase only a minor amount ( $ 150 ) for
+2000 assuming a similar appeal for giving is made this april .
+clayton

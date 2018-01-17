@@ -1,0 +1,11 @@
+Subject: correction : sap system outage notifications
+the following servers will be coming down , please click on the icon for more
+details and scheduled times :
+system outage notification
+for : prl - apollo production ( sprldbo 1 )
+outage start : ( cst ) 10 / 22 / 2000 at 08 : 00 : 00 am
+outage end : ( cst ) 10 / 22 / 2000 at 12 : 00 : 00 pm
+outage abstract : install sap gateway on sprldbo 0
+outage description : please see corrected time ! ! ! !
+outage implication : prl will be unavailable for duration of outage .
+contact name : larry harbuck # : 888 - 676 - 8719 713 - 853 - 1844

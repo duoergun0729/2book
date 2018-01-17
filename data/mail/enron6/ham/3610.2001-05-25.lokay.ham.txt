@@ -1,0 +1,31 @@
+Subject: re : new points
+riopuerco - val pecos
+firm
+this transaction provides firm pipeline transportation capacity from the primary receipt point of pnm rio puerco [ 9240 ] to the primary delivery point of valero pecos [ 500515 ] . the posted rate , stated in usd / mmbtu on the website , is a daily one - part rate , inclusive of all applicable reservation , commodity and surcharge rates . the total charge for the month will equal the posted rate multiplied by the maximum daily volume times the number of days in the term of the transaction . the daily rate does not include fuel , which will apply and be billed separately .
+riopuerco - val pecos
+int
+this transaction provides interruptible pipeline transportation capacity from the primary receipt point of pnm rio puerco [ 9240 ] to the primary delivery point of valero pecos [ 500515 ] . the posted rate , stated in usd / mmbtu on the website , is a daily one - part rate , inclusive of all commodity rates and surcharges . the total charge for the month will equal the posted rate multiplied by the quantity of gas scheduled during the month . the daily rate does not include fuel , which will apply and be billed separately .
+- - - - - original message - - - - -
+from : lokay , michelle
+sent : friday , may 25 , 2001 9 : 44 am
+to : lozano , melba
+subject : re : new points
+please build a new point as both a receipt and a delivery on transwestern . the point name is " pnm rio puerco " and the receipt number is 9240 and the delivery number is 60921 .
+another point that need to be built is " valero pecos " and the receipt number is 12283 and the delivery number is 500515 .
+for the point - to - point combination , please build rio puerco as a receipt and valero pecos ( # 500515 ) and west texas pool ( # 58646 ) as the delivery for it and frm transport .
+thanks .
+- - - - - original message - - - - -
+from : lozano , melba
+sent : friday , may 25 , 2001 8 : 54 am
+to : lokay , michelle
+subject : new points
+importance : high
+i will be able to build it at 11 : 00 - it will take at most - 15 minutes .
+please fill in the following portion in red and send it back to me .
+us plcaptw frm [ [ mark hall ] riopuerco - val pecos ] riopuerco - val pecos
+this transaction provides firm pipeline transportation capacity from the primary receipt point of west texas pool [ 58646 ] to the primary delivery point of oasis block 16 [ 8516 ] . the posted rate , stated in usd / mmbtu on the website , is a daily one - part rate , inclusive of all applicable reservation , commodity and surcharge rates . the total charge for the month will equal the posted rate multiplied by the maximum daily volume times the number of days in the term of the transaction . the daily rate does not include fuel , which will apply and be billed separately .
+thanks ,
+melba lozano
+713 - 345 - 8986
+713 - 646 - 8511 fax
+713 - 698 - 4847 pager

@@ -1,0 +1,17 @@
+Subject: real - time generation for 6 / 19
+group ,
+here ' s what ' s available to sell real - time for tuesday , 6 / 19 .
+sierra forest products : vestal _ 6 _ wdfire
+2 mw available during off - peak hours , 5 mw prescheduled , total output equals 7 mw , spl 5 . please try to sell their extra 2 mw , off - peak , if prices are greater than $ 35 . if prices are not $ 35 , then tell them to decrease their generation to equal their preschedued 5 mw .
+delano : pandol _ 6 _ units
+15 mw available during off - peak hours , 30 mw prescheduled , total output equals 45 , if prices are above $ 50 .
+harbor : harbgn _ 7 _ units and harbgn _ 7 _ pl 2 x 3
+80 mw available from the steam turbine ( harbgn _ 7 _ units ) , hel - 24 , spl 5 , if prices are above $ 125 .
+10 mw available from the gas turbine ( harbgn _ 7 _ pl 2 x 3
+) , hel - 24 , spl 5 .
+sierra pacific holding : we don ' t know their unit id because we ' re not their sc
+22 mw available during off - peak hours , 25 mw prescheduled ( balance - of - the - month deal ) , total output equals 47 mw , for $ 55 or greater .
+must confirm the trade of the apx trade application , and the apx is their sc .
+if you have any questions don ' t hesitate to contact either chris foster or myself .
+thanks ,
+stan

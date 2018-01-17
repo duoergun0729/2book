@@ -1,0 +1,4 @@
+Subject: delivery status notification ( failure ) + afs - scanned + afo -
+this is an automatically generated delivery status notification .
+delivery to the following recipients failed .
+lnoble @ johnnicholls . co . uk

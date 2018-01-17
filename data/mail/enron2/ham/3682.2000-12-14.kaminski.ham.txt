@@ -1,0 +1,68 @@
+Subject: re : hdaf seminar topics
+folks :
+i have tentatively set the date for our first round - table discussion for
+wednesday ,
+december 20 th at 3 : 00 pm - 4 : 30 pm . the room , eb 3268 , will be available from
+3 : 00 to 5 : 00 pm . if any of you have an issue with the date , please let me
+know by
+day ' s end .
+professor don kouri of the physics department of the university of houston
+will start
+with an informal 30 - 45 minute presentation ( see appended abstract below ) of
+his work
+and will then lead a discussion as well answer questions that we may have .
+professor kouri , please let me know if you have any requirements for
+audiovisual
+or other equipment .
+this excerpt from a previous correspondence provides an insight to the
+subject of our meeting :
+[ . . . ] topics to
+be discussed at a small ` ` roundtable ' ' format meeting , are :
+1 . hdafs for data analysis , including ` ` gap - filling ' ' , data
+extrapolation , denoising , mathematical manipulations of digital
+data ( e . g . , taking derivatives , applying functions of differential
+operators to digital data , etc . )
+2 . hdafs as the basis of numerical algorithms for solving nonlinear
+partial differential equations , particularly for equations for which
+existing methods encounter stability problems .
+there are certainly other areas of interest and applications of the
+hdafs but i think that even trying to do both of the above in a
+single meeting would be difficult . of course , in this first meeting
+we would focus on general aspects of the hdafs that make them robust
+for such applications . if , however , you have other topics in which
+you are interested , i am willing to focus on them .
+[ . . . ] "
+yannis tzamouranis
+yannis tzamouranis on 12 / 11 / 2000 03 : 56 : 49 pm
+to : mark tawney / hou / ect @ ect , claudio ribeiro / corp / enron @ enron , joseph
+hrgovcic / hou / ect @ ect , vince j kaminski / hou / ect @ ect , todd
+kimberlain / na / enron @ enron , vasant shanbhogue / hou / ect @ ect
+cc :
+subject : hdaf seminar topics
+folks :
+i am trying to set up a meeting with professor don kouri of the university of
+houston and i believe you may have an interest in the topic of discussion .
+if you know of other interested parties , or want to substitute a proxy for
+yourselves , please let me know .
+this first meeting with dr . kouri will introduce the participants to his area
+of research ( hdafs for data analysis ) and allow us to define the contents and
+attendants of a seminar ( to come up soon ) .
+we are looking to hold this discussion this week ( hopefully ) and to have the
+seminar happen before christmas ( given that this is the in - between semester
+season for schools ) .
+a couple of other similar meetings will follow up : dr kevin bassler will be
+talking about microscopic simulation of economic markets and dr . pinsky about
+the effect of solar phenomena on the earth ' s atmosphere .
+yannis
+- - - - - forwarded by yannis tzamouranis / hou / ect on 12 / 11 / 2000 03 : 36 pm - - - - -
+kouri @ kitten . chem . uh . edu
+12 / 11 / 2000 02 : 32 pm
+to : yannis . tzamouranis @ enron . com
+cc :
+subject : hdaf seminar topics
+hi yannis ,
+i got your email without any problem .
+regarding timing of a meeting , i am free from teaching duties now
+so i am flexible . i will be in houston all of december . i look
+forward to hearing more from you . with best wishes ,
+don kouri

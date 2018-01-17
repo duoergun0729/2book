@@ -1,0 +1,67 @@
+Subject: you are now subscribed to the frbnyrmagl list
+mon , 18 sep 2000 18 : 42 : 47
+your subscription to the frbnyrmagl list ( federal reserve bank of ny
+research publications ) has been accepted .
+please save this message for future reference , especially if this is the
+first time you are subscribing to an electronic mailing list . if you ever
+need to leave the list , you will find the necessary instructions below .
+perhaps more importantly , saving a copy of this message ( and of all
+future subscription notices from other mailing lists ) in a special mail
+folder will give you instant access to the list of mailing lists that you
+are subscribed to . this may prove very useful the next time you go on
+vacation and need to leave the lists temporarily so as not to fill up
+your mailbox while you are away ! you should also save the " welcome
+messages " from the list owners that you will occasionally receive after
+subscribing to a new list .
+to send a message to all the people currently subscribed to the list ,
+just send mail to frbnyrmagl @ peach . ease . lsoft . com . this is called
+" sending mail to the list , " because you send mail to a single address and
+listserv makes copies for all the people who have subscribed . this
+address ( frbnyrmagl @ peach . ease . lsoft . com ) is also called the " list
+address . " you must never try to send any command to that address , as it
+would be distributed to all the people who have subscribed . all commands
+must be sent to the " listserv address , " listserv @ peach . ease . lsoft . com . it
+is very important to understand the difference between the two , but
+fortunately it is not complicated . the listserv address is like a fax
+number that connects you to a machine , whereas the list address is like a
+normal voice line connecting you to a person . if you make a mistake and
+dial the fax number when you wanted to talk to someone on the phone , you
+will quickly realize that you used the wrong number and call again . no
+harm will have been done . if on the other hand you accidentally make your
+fax call someone ' s voice line , the person receiving the call will be
+inconvenienced , especially if your fax then re - dials every 5 minutes . the
+fact that most people will eventually connect the fax machine to the
+voice line to allow the fax to go through and make the calls stop does
+not mean that you should continue to send faxes to the voice number .
+people would just get mad at you . it works pretty much the same way with
+mailing lists , with the difference that you are calling hundreds or
+thousands of people at the same time , and consequently you can expect a
+lot of people to get upset if you consistently send commands to the list
+address .
+you may leave the list at any time by sending a " signoff frbnyrmagl "
+command to listserv @ peach . ease . lsoft . com . you can also tell listserv how
+you want it to confirm the receipt of messages you send to the list . if
+you do not trust the system , send a " set frbnyrmagl repro " command and
+listserv will send you a copy of your own messages , so that you can see
+that the message was distributed and did not get damaged on the way .
+after a while you may find that this is getting annoying , especially if
+your mail program does not tell you that the message is from you when it
+informs you that new mail has arrived from frbnyrmagl . if you send a " set
+frbnyrmagl ack norepro " command , listserv will mail you a short
+acknowledgement instead , which will look different in your mailbox
+directory . with most mail programs you will know immediately that this is
+an acknowledgement you can read later . finally , you can turn off
+acknowledgements completely with " set frbnyrmagl noack norepro " .
+contributions sent to this list are automatically archived . you can get a
+list of the available archive files by sending an " index frbnyrmagl "
+command to listserv @ peach . ease . lsoft . com . you can then order these files
+with a " get frbnyrmagl logxxxx " command , or using listserv ' s database
+search facilities . send an " info database " command for more information
+on the latter .
+important : this list is confidential . you should not publicly mention its
+existence , or forward copies of information you have obtained from it to
+third parties . please note that the " give " command is automatically
+disabled for all archive files .
+more information on listserv commands can be found in the listserv
+reference card , which you can retrieve by sending an " info refcard "
+command to listserv @ peach . ease . lsoft . com .

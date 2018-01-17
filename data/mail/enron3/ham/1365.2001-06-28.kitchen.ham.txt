@@ -1,0 +1,69 @@
+Subject: re : approval procedure for pending products
+your response sounds a little defensive . pretty slick logo :
+chris calger
+503 - 464 - 3735
+- - - - - original message - - - - -
+from : kitchen , louise
+sent : monday , june 25 , 2001 3 : 08 pm
+to : calger , christopher f .
+subject : re : approval procedure for pending products
+- - - - - - - - - - - - - - - - - - - - - - forwarded by louise kitchen / hou / ect on 06 / 25 / 2001 05 : 07 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+louise kitchen
+01 / 26 / 2000 05 : 33 pm
+to : michael etringer / hou / ect @ ect
+cc : tim belden / hou / ect @ ect , chris h foster / hou / ect @ ect , dale neuner / hou / ect @ ect , bob shults / hou / ect @ ect , david forster / lon / ect @ ect , marcello romano / lon / ect @ ect , amita gosalia / lon / ect @ ect , angela connelly / lon / ect @ ect , anna gardiner / lon / ect @ ect , arfan aziz / lon / ect @ ect , donna greif / hou / ect @ ect
+subject : re : approval procedure for pending products >
+we are introducing functionality which will allow token reference periods for balance of month products , the scheduled process will therefore re - create these products every day automatically ( essentially just a change to the description ) . therefore the product will already be there . in the mean time , all of the other desks have been creating their products ahead of time to deal with this issue - we currently have most desks creating products weeks / months in advance . this software change is scheduled for friday to prevent traders from going through this issue next month ( february ) .
+we have only 2 logged / taped phone calls to the helpdesk when portland office has called the helpdesk with regard to this issue . clearly in the second case we see a 9 minute gap , but this appears to be a single incident and not really something of the level of significance specified in your memo . dale does come in early specifically for any products portland did not create the day before but obviously there can be times ( bad traffic ) when he may be late .
+14 / 1 07 : 35 ( cst ) j richter called to approve products
+products activated products within 2 minutes .
+24 / 1 07 : 34 ( cst ) j richter called to approve products
+07 : 45 ( cst ) anna gardiner approved products
+07 : 46 ( cst ) j richter called to inquire on status
+07 : 48 ( cst ) helpdesk rang j richter back to check that he had seen approval and had no technical problems
+clearly we are not intentionally trying to create a problem but enrononline is a new product and everyone is putting an immense amount of effort into getting the product up and running and helping everyone . we only seem to have 2 times that the procedure has been used to the helpdesk extent and not failed dramatically .
+changing the procedure for two days ( assuming succesful implementation of the tokenized reference periods ) when we are all working to keep the system up and running and keep all customers informed of developments may create more problems . if we do not introduce this software change on friday we should review this policy - i obviously have no problem with tim approving such products as we will be moving to that level of authority shortly anyway .
+michael etringer
+`
+01 / 26 / 2000 04 : 47 pm
+to : louise kitchen / lon / ect @ ect
+cc : tim belden / hou / ect @ ect , chris h foster / hou / ect @ ect , dale neuner / hou / ect @ ect
+subject : approval procedure for pending products
+i would like to talk with you concerning our current procedure for daily approval of newly created products . it is not working ! the current procedure is for us to create the product and call dale neuner and let him know its out there . if dale is not in the office , or it is before or after normal work hours , the traders need to call the help desk , who in turn calls amita in the london office who then approves the product . the portland office starts trading at 5 : 00 am ppt . in the event a product is not created ahead of time they create the product in the morning . this morning the traders had several daily products pending approval . it took 45 minutes to get those products approved . on daily products the trading period may last only 1 hour . as a result , the trader missed most of the trading period . our customers are not happy and neither are the traders .
+a solution was proposed in december , which i have attached below , to address this issue . however , it only works in the ideal world . it would be overly optimistic to think that we are going to be able to always be able to create our products ahead of time . that is not the reality . by rolling out our products we have created an implicate contract with our customers that we will consistently make markets in the products we trade .
+i would like to propose an alternate solution . we need a direct method for tim belden to have approval rights to approve existing products . these are not new products , we trade them every day . there is no reason tim should not have a level of approval to , at the very least approve existing products . especially where the only change is the term .
+please call tim belden at 503 - 464 - 3820 or myself at 503 - 464 - 3836 . look forward to hearing from you .
+regards ,
+mike etringer
+503 - 464 - 3836
+- - - - - - - - - - - - - - - - - - - - - - forwarded by dale neuner / hou / ect on 01 / 26 / 2000 07 : 36 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : donna greif on 12 / 17 / 99 02 : 02 pm
+to : eol call center
+cc : product control - houston , enron london - eol product control group / lon / ect @ ect
+subject : call center - important - please read ! ! ! product activation for portland power
+enron ' s portland office is a few hours ahead of houston . there are times where portland needs products approved and the houston product control group is not available . as it is important that products get approved as soon as possible , a new process has been put in place .
+1 . portland trader calls for product approval .
+2 . advise dale neuner asap ( x 3 - 9746 ) .
+3 . if dale is not physically able to take call , please call amita gosalia ( x 830 - 3 - 6888 ) .
+4 . should amita not be available , please advise pcg member that portland
+need a product ( s ) approved .
+5 . pcg member will find amita , and get product approved asap .
+note : please be sure to assign the remedy ticket to the appropriate group .
+if you have any questions regarding this new procedure , please advise !
+thanks ,
+dg
+-
+- - - - - - - - - - - - - - - - - - - - - - forwarded by donna greif / hou / ect on 12 / 17 / 99 11 : 45 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+dale neuner on 12 / 17 / 99 11 : 31 : 25 am
+to : michael etringer / hou / ect @ ect
+cc : amita gosalia / lon / ect @ ect , bob shults / hou / ect , donna greif / hou / ect @ ect
+subject : product activation for portland power
+mike -
+regarding our conversation re : support of power trading , we propose the following :
+1 ) suggest to trading that they create all draft products that they will need for the next business day at the end of their day . i will always check for draft products at the end of my day and activate any that are in draft . just fyi , gas trading has adopted the practice of creating their products a couple of days ( or weeks ) in advance . i keep track of those and keep their products current in advance . it works very well .
+2 ) i am usually at my desk no later than 7 : 30 a . m . each day . if trading creates a draft product that they need activated prior to that time they should contact the call center at 3 - 4357 and state the following :
+this is portland power trading and i need a product activated asap . please contact amita gosalia in london .
+the call center will then contact amita , who has the authority and responsibility for activating products . amita has agreed to perform this function for portland power and will instruct her people at pcg - london to locate her immediately ( in the event that she is away from her desk ) when this message comes in from the call center .
+donna greif in the call center has been appraised of this procedure and will roll it out to the responsible call center personnel .
+i hope this solves the problem . please feel free to offer any comments or call if any part of this process is unclear .
+dale

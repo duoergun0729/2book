@@ -1,0 +1,11 @@
+Subject: forecasting project
+per our monday meeting , the time line for completion of the " phase i "
+forecasting project ( hourly system load & next day load ) is as follows :
+aug . 15 - sept . 15 ( data collection )
+sept . 15 - oct . 15 ( modeling )
+oct . 15 - nov . 15 ( system development and testing )
+if any questions arise between now and the end of august , contact barbara
+dillard , but as of sept . 1 , i will be the chicago lead for this and other
+forecasting projects and will be available to handle any questions or issues .
+best regards ,
+mark mixon

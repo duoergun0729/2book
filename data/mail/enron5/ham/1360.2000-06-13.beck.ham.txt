@@ -1,0 +1,17 @@
+Subject: view and print doorstep reports
+view reports
+several project reports or " views " are available to include all , complete ,
+and open . select the view of choice by clicking " view " and then
+" go to " .
+printing a single project view
+step 1 - expand the project you wish to print by clicking the " view expand
+( + ) " button . select the project name and the applicable observations by left
+clicking and placing a check by each .
+step 2 - left click on " file " then " print " . select " printer " then " setup "
+and change paper size to legal and orientation to landscape . left click
+" ok " , select view options : " print view " and left click " ok " . make certain
+to set printer default print options back to normal .
+printing all projects and their views
+step 1 - click the " view expand all ( + + ) " button . it is not necessary to
+select projects .
+step 2 - same as step 2 above .

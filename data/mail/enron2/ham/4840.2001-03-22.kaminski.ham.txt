@@ -1,0 +1,19 @@
+Subject: rice / enron finance seminar series
+a copy of paul schultz ' s paper , " who makes the market , " is now
+available . the paper to can be obtained ( by monday for sure ) from felicia
+jones ( economics ) , latha ramchand ( university of houston ) , and vince
+kaminski ( enron ) or barbara ostdiek ( everyone else ) .
+paul ' s seminar is friday , march 30 , at 3 : 30 in room 201 ( note the room
+change ) .
+the abstract of the paper is copied below :
+abstract
+" i provide evidence that nasdaq dealers make markets in the stocks in which
+they receive order flow . several variables used to proxy for the stocks
+that individual market maker ' s brokerage customers would trade , including
+trading volume , location , underwriting participation and analyst coverage ,
+are significant determinants of market marking activity . informational
+advantages may also be a factor in the market making decision as evidenced
+by dealers specializing in stocks in specific industries . some potential
+problems that arise when researchers ignore the integration of market
+making with brokerage , securities analysis and underwriting businesses are
+discussed . "

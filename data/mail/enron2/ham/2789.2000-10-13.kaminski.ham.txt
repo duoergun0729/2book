@@ -1,0 +1,91 @@
+Subject: re : japanese crude cocktail & prompt brent
+vince
+marc and i spoke about the jcc brent relationship . i don ' t know enough about
+jcc to have a view if putting jcc on eol is a good idea . would be interested
+to know the realtionship to brent and learn more about it . also spoke to john
+chismar about jcc . it sounds pretty non - liquid acc . to john .
+let me know if there is something we can do .
+regards
+chris glaas
+enron capital & trade resources corp .
+from : marc de la roche 13 / 10 / 2000 13 : 18
+to : chris glaas / lon / ect @ ect
+cc : doug leach / hou / ect @ ect , kevin kindall / corp / enron @ enron
+subject : re : japanese crude cocktail & prompt brent
+chris ,
+thanks for the response . the comment about hedgeing jcc with brent is right
+on if the exercise is to hedge our own lng positions that we have tieds to
+jcc . note that the high jcc correlation to prompt brent is not something that
+is obvious to non - enron lng - tied - to - jcc buyers . if you are an lng - tied - to - jcc
+buyer , and you wish to hedge your purchases , wouldn ' t you want to be able to
+transact ona a jcc contract ? my objective is to have a jcc contract on eol ,
+whereby we , enron , take the jcc / brent risk ( which is why we asked vince
+kaminski ' s group to study the relationship and give us a hedge ratio to use ) .
+i ' m attaching a model used to calculate jcc for dabhol power co . ' s adgas and
+oman lng contracts . basically what happens is that all the " raw oil " volumes
+imported into japan and added up and the total price is divide by the total
+volume , and there is a yen / us $ foreighn exchange component as well . that is
+jcc . it was designed by the japanese so that they could tie their lng imports
+to their average price of crude imports whereby the lng would be cheaper on
+an mmbtu basis .
+comments ?
+brgds ,
+marc
+chris glaas
+10 / 13 / 2000 03 : 11 am
+to : marc de la roche / hou / ect @ ect
+cc :
+subject : re : japanese crude cocktail & prompt brent
+marc
+regarding putting jcc on eol i get a negative respons from our sing office .
+it is not a very liquid market . everyone is going the same way .
+i understand there is good correlation between brent and jcc . i know little
+about jcc , but if there is good correlation u should be able to hedge
+yourself with brent . i need to know more about how jcc works in order to help
+u , if u require any help at all ?
+let me know
+chris glaas
+enron capital & trade resources corp .
+from : marc de la roche 10 / 11 / 2000 03 : 16 pm
+to : chris glaas / lon / ect @ ect
+cc : doug leach / hou / ect @ ect , larry gagliardi / corp / enron @ enron
+subject : japanese crude cocktail & prompt brent
+chris ,
+some of egm ' s lng group ' s lng is priced using a jcc - based formula . there ' s
+also a lot of other lng contracts that use jcc as the pricing basis . in june
+we obtained sign - off from vince kaminski ' s group to hedge jcc using prompt
+brent ( see the messages with the relevant hedge ratio below ) . can we set up a
+contract on eol , using the prompt brent - jcc hedge ratio , to hedge jcc ?
+fyi , on a btu conversion basis :
+therefore , to hedge 1000 mt of lng , a customer would need to transact on a
+hedge for 9000 bbl of jcc . can we list a jcc swap in 9000 bbl / month
+increments ?
+thanks in advance ,
+marc
+- - - - - - - - - - - - - - - - - - - - - - forwarded by marc de la roche / hou / ect on 10 / 11 / 2000
+08 : 32 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+kevin kindall @ enron
+06 / 06 / 2000 03 : 47 pm
+to : marc de la roche / hou / ect @ ect
+cc :
+subject : re : jcc & brent
+yes on both counts .
+- kevin k .
+from : marc de la roche @ ect 06 / 06 / 2000 02 : 50 pm
+to : kevin kindall / corp / enron @ enron
+cc : grant masson / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : re : jcc
+that this email constitutes your groups ( vince kaminski ' s ) sign - off on using
+this hedge ratio to hedge jcc and jcc - based products ?
+thanks in advance ,
+marc de la roche
+kevin kindall @ enron
+06 / 06 / 2000 02 : 18 pm
+to : marc de la roche / hou / ect @ ect
+cc : grant masson / hou / ect @ ect
+subject : re : jcc & brent
+good afternoon . i have performed a review of the jcc data that you sent
+some time ago . the study was done using several different excel workbooks ,
+and are available upon request . relevant charts are embedded in the
+powerpoint attachment . questions / comments welcome .
+- kevin kindall
