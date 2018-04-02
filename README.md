@@ -1,4 +1,5 @@
 # 《Web安全之深度学习实战》
+![logo](photo/WechatIMG254.jpeg)
 # 京东链接
 [https://item.jd.com/12277728.html](https://item.jd.com/12277728.html)
 # 主要内容
