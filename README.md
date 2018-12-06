@@ -16,6 +16,22 @@
 * 如何在MIST数据集上实现恶意程序分类识别。
 * 如何在Kaggle公开的数据集上实现信用卡欺诈检测。
 * 如何在GitHub公开的数据集上实现Webshell检测，智能扫描和DGA域名检测。
+# 环境安装
+
+强烈建议使用conda管理环境
+
+	conda create --name book2 python=2.7
+
+同步代码库
+
+	git clone https://github.com/duoergun0729/2book.git
+	
+初始化环境
+
+	pip install -r requirements.txt	
+
+
+
 # 目录
 * 对本书的赞誉
 * 序
