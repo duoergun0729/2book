@@ -18,6 +18,7 @@ gast==0.2.0
 gensim==3.6.0
 grpcio==1.16.1
 h5py==2.8.0
+hmmlearn==0.2.1
 html5lib==0.9999999
 idna==2.7
 jmespath==0.9.3
