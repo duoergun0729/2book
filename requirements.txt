@@ -10,7 +10,7 @@ certifi==2018.10.15
 chardet==3.0.4
 cloudpickle==0.6.1
 cycler==0.10.0
-dask==0.20.2
+dask==2021.10.0
 decorator==4.3.0
 docutils==0.14
 enum34==1.1.6
